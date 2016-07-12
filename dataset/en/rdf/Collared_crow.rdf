@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dbp="http://dbpedia.org/property/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Collared_crow">
+    <dbp:name xml:lang="en">Collared crow</dbp:name>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Crows"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/Corvidae"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.orientalbirdimages.org/images/data/collared_crow_copy_mh.jpg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+    <dbp:species xml:lang="en">C. torquatus</dbp:species>
+    <rdfs:label xml:lang="en">Collared crow</rdfs:label>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Corvus_torquatus"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01f_m5"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Collared_crow?oldid=634071047"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Corvus_(genus)"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2579959"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Halsbandkraai"/>
+    <foaf:name xml:lang="en">Collared crow</foaf:name>
+    <dbp:rangeMapCaption xml:lang="en">Global range</dbp:rangeMapCaption>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">218717</dbo:wikiPageID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.orientalbirdimages.org/images/data/collared_crow_4360_mk.jpg"/>
+    <dbp:statusSystem xml:lang="en">IUCN3.1</dbp:statusSystem>
+    <dbo:abstract xml:lang="en">The collared crow (Corvus torquatus), also known as the ring-necked crow or white-collared crow, is a member of the Corvidae family native to China.</dbo:abstract>
+    <dbo:conservationStatus>NT</dbo:conservationStatus>
+    <rdfs:label xml:lang="es">Corvus torquatus</rdfs:label>
+    <dbo:abstract xml:lang="es">El cuervo de collar (Corvus torquatus),es una especie de ave en la familia Corvidae, que es nativa de China.</dbo:abstract>
+    <rdfs:comment xml:lang="ru">Ошейниковый ворон (лат.  Corvus torquatus) — вид птиц из рода во́ронов.</rdfs:comment>
+    <dbp:rangeMapWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</dbp:rangeMapWidth>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q729"/>
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Corvus_(genus)"/>
+    <rdfs:comment xml:lang="en">The collared crow (Corvus torquatus), also known as the ring-necked crow or white-collared crow, is a member of the Corvidae family native to China.</rdfs:comment>
+    <dbp:genus xml:lang="en">Corvus</dbp:genus>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Bird"/>
+    <dbo:kingdom rdf:resource="http://dbpedia.org/resource/Animal"/>
+    <dbp:binomialAuthority xml:lang="en">Lesson, 1831</dbp:binomialAuthority>
+    <rdfs:label xml:lang="nl">Halsbandkraai</rdfs:label>
+    <rdfs:comment xml:lang="zh">白颈鸦（学名：Corvus torquatus）为鸦科鸦属的鸟类。分布于文莱、台湾岛以及中国大陆的东北、河北西达山西、陕西、甘肃、四川、云南、南抵福建、广东、海南等地，一般栖息于平原、丘陵或低山、也见于海拔2500m 左右的山地、多栖于开阔的农田、河滩和河湾等处以及筑巢于高大树上。该物种的模式产地在中国。</rdfs:comment>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">634071047</dbo:wikiPageRevisionID>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/20090908厦门-白颈鸦.jpg?width=300"/>
+    <dbp:binomial xml:lang="en">Corvus torquatus</dbp:binomial>
+    <dbp:status xml:lang="en">NT</dbp:status>
+    <dbo:binomialAuthority rdf:resource="http://dbpedia.org/resource/René_Lesson"/>
+    <rdfs:comment xml:lang="nl">De halsbandkraai (Corvus torquatus, synoniem: Corvus pectoralis) behoort tot de familie van de kraaiachtigen.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Corvus_torquatus"/>
+    <dbp:ordo rdf:resource="http://dbpedia.org/resource/Passerine"/>
+    <rdfs:label xml:lang="ru">Ошейниковый ворон</rdfs:label>
+    <dbp:regnum xml:lang="en">Animalia</dbp:regnum>
+    <rdfs:label xml:lang="zh">白颈鸦</rdfs:label>
+    <dbp:rangeMap xml:lang="en">Corvus_torquatus_map.jpg</dbp:rangeMap>
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <dbp:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Collared_crow"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animals_described_in_1836"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.birdlife.org/action/science/species/global_species_programme/whats_new.html"/>
+    <dbo:synonym>*Corvus pectoralis (Gould, 1836)</dbo:synonym>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Collared_crow"/>
+    <dbo:abstract xml:lang="zh">白颈鸦（学名：Corvus torquatus）为鸦科鸦属的鸟类。分布于文莱、台湾岛以及中国大陆的东北、河北西达山西、陕西、甘肃、四川、云南、南抵福建、广东、海南等地，一般栖息于平原、丘陵或低山、也见于海拔2500m 左右的山地、多栖于开阔的农田、河滩和河湾等处以及筑巢于高大树上。该物种的模式产地在中国。</dbo:abstract>
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <dbo:abstract xml:lang="nl">De halsbandkraai (Corvus torquatus, synoniem: Corvus pectoralis) behoort tot de familie van de kraaiachtigen.</dbo:abstract>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/Corvidae"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2579959"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.orientalbirdimages.org/images/data/collared_crow_4378a_mk.jpg"/>
+    <dbp:synonyms xml:lang="en">*Corvus pectoralis (Gould, 1836)</dbp:synonyms>
+    <dbo:order rdf:resource="http://dbpedia.org/resource/Passerine"/>
+    <dbo:abstract xml:lang="ru">Ошейниковый ворон (лат.  Corvus torquatus) — вид птиц из рода во́ронов.</dbo:abstract>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/20090908厦门-白颈鸦.jpg"/>
+    <dbo:conservationStatusSystem>IUCN3.1</dbo:conservationStatusSystem>
+    <rdfs:comment xml:lang="es">El cuervo de collar (Corvus torquatus),es una especie de ave en la familia Corvidae, que es nativa de China.</rdfs:comment>
+    <dbp:classis rdf:resource="http://dbpedia.org/resource/Bird"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corvus_pectoralis">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Collared_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corvus_torquatus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Collared_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Collared_crow">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Collared_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Collared_Crow">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Collared_crow"/>
+  </rdf:Description>
+</rdf:RDF>

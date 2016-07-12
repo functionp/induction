@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-ja="http://ja.dbpedia.org/property/"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/チシマウガラス">
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Beringinmerimetso"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:生物分類表"/>
+    <prop-ja:和名 xml:lang="ja">チシマウガラス</prop-ja:和名>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2216</dbpedia-owl:wikiPageLength>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Snamei"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/文一総合出版"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.biodic.go.jp/rdb_fts/2000/73-097.html"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/2000年"/>
+    <dbpedia-owl:abstract xml:lang="ja">チシマウガラス（千島鵜鴉、Phalacrocorax urile）は、動物界脊索動物門鳥綱ペリカン目ウ科ウ属に分類される鳥類。</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Краснолицый_баклан"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1980年代"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/W:Johann_Friedrich_Gmelin"/>
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/チシマウガラス?oldid=47347501"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.iucnredlist.org/details/144651"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:絶滅危惧IA類"/>
+    <owl:sameAs rdf:resource="http://br.dbpedia.org/resource/Morvran_dremm_ruz"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q926664"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/2008年"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/小学館"/>
+    <owl:sameAs rdf:resource="http://commons.dbpedia.org/resource/Phalacrocorax_urile"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Bird-stub"/>
+    <dbpedia-owl:binomial rdf:resource="http://ja.dbpedia.org/resource/1789年"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/アメリカ合衆国"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/山と渓谷社"/>
+    <prop-ja:学名 xml:lang="ja">Phalacrocorax urile　</prop-ja:学名>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Phalacrocorax_urile"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.iucnredlist.org/"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/アラスカ州"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/動物"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:ウ科"/>
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/Phalacrocorax_urile"/>
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Phalacrocorax_urile"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/2002年"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Phalacrocorax_urile"/>
+    <foaf:name xml:lang="ja">Red-faced cormorant</foaf:name>
+    <dbpedia-owl:family rdf:resource="http://ja.dbpedia.org/resource/ウ科"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ロシア"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/红脸鸬鹚"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Kormoran_czerwonoczelny"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Red-faced_cormorant"/>
+    <dbpedia-owl:order rdf:resource="http://ja.dbpedia.org/resource/ペリカン目"/>
+    <prop-ja:省略 xml:lang="ja">鳥綱</prop-ja:省略>
+    <prop-ja:名称 xml:lang="ja">チシマウガラス</prop-ja:名称>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47347501</dbpedia-owl:wikiPageRevisionID>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Sname"/>
+    <prop-ja:種 xml:lang="ja">チシマウガラス P. urile</prop-ja:種>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/W:Red-faced_Cormorant"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Ruĝvizaĝa_kormorano"/>
+    <foaf:name xml:lang="ja">鳥綱</foaf:name>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/平凡社"/>
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Phalacrocorax_urile"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/絶滅のおそれのある野生動植物の種の保存に関する法律"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/北海道"/>
+    <prop-ja:属 xml:lang="ja">ウ属</prop-ja:属>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1993年"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Phalacrocorax_urile1.jpg?width=300"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Wikispecies"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/落石岬"/>
+    <dbpedia-owl:genus rdf:resource="http://ja.dbpedia.org/resource/ウ科"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Roodmaskeraalscholver"/>
+    <dbpedia-owl:binomial rdf:resource="http://ja.dbpedia.org/resource/W:Johann_Friedrich_Gmelin"/>
+    <rdfs:comment xml:lang="ja">チシマウガラス（千島鵜鴉、Phalacrocorax urile）は、動物界脊索動物門鳥綱ペリカン目ウ科ウ属に分類される鳥類。</rdfs:comment>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">40</dbpedia-owl:wikiPageOutDegree>
+    <dc:description>チシマウガラス（夏羽） Phalacrocorax urile</dc:description>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/希少野生動植物種"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.env.go.jp/index.html"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/黒田長久"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/学研ホールディングス"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/岩礁海岸"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Phalacrocorax_urile1.jpg"/>
+    <prop-ja:英名 rdf:resource="http://ja.dbpedia.org/resource/W:Red-faced_Cormorant"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/太平洋"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/脊索動物"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.env.go.jp/nature/yasei/hozonho/list_domestic.pdf"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ペリカン目"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Phalacrocorax_urile"/>
+    <owl:sameAs rdf:resource="http://ceb.dbpedia.org/resource/Phalacrocorax_urile"/>
+    <foaf:name xml:lang="ja">チシマウガラス</foaf:name>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/オオセグロカモメ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1984年"/>
+    <prop-ja:status xml:lang="ja">LC</prop-ja:status>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Vörösarcú_kárókatona"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Cormoran_à_face_rouge"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/魚類"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ウ科"/>
+    <prop-ja:科 xml:lang="ja">ウ科</prop-ja:科>
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/チシマウガラス"/>
+    <rdfs:label xml:lang="ja">チシマウガラス</rdfs:label>
+    <prop-ja:目 xml:lang="ja">ペリカン目</prop-ja:目>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Rotgesichtscharbe"/>
+    <prop-ja:画像キャプション xml:lang="ja">チシマウガラス（夏羽） Phalacrocorax urile</prop-ja:画像キャプション>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Beringskarv"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Commons"/>
+    <prop-ja:画像 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</prop-ja:画像>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Phalacrocorax_urile1.jpg"/>
+    <dbpedia-owl:conservationStatus>LC</dbpedia-owl:conservationStatus>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1789年"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Phalacrocorax_urile"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/鳥類"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q926664"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1986年"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.biodic.go.jp/index.html"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/باکلان_صورت‌قرمز"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1324356</dbpedia-owl:wikiPageID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/モユルリ島">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カナダの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/鳥類レッドリスト_(環境省)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/アラスカの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/大黒島_(厚岸町)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カラス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/チシマウガラス">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/チシマウガラス.rdf">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/中国の野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ユルリ島">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/希少野生動植物種">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本の野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/台湾の野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/韓国の野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ウ科">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ロシアの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チシマウガラス"/>
+  </rdf:Description>
+</rdf:RDF>

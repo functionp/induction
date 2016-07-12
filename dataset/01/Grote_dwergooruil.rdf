@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-nl="http://nl.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Grote_dwergooruil">
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Grote_dwergooruil"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Taxobox_vogel"/>
+    <prop-nl:afbeelding rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PseudoptynxGurneyiSmit.jpg</prop-nl:afbeelding>
+    <prop-nl:datum rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1879</prop-nl:datum>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43018011</dbpedia-owl:wikiPageRevisionID>
+    <dcterms:subject rdf:resource="http://nl.dbpedia.org/resource/Categorie:Uil"/>
+    <dbpedia-owl:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema#string">De grote dwergooruil (Otus gurneyi) is een uil die alleen voorkomt in het zuiden van de Filipijnen.</dbpedia-owl:abstract>
+    <dbpedia-owl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VU</dbpedia-owl:status>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2355</dbpedia-owl:wikiPageLength>
+    <prop-nl:statusbron rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2013</prop-nl:statusbron>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1362041</dbpedia-owl:wikiPageID>
+    <dcterms:subject rdf:resource="http://nl.dbpedia.org/resource/Categorie:Endemisch_dier_uit_Groot-Mindanao"/>
+    <dbpedia-owl:scientificName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Otus gurneyi</dbpedia-owl:scientificName>
+    <dbpedia-owl:wikiPageHistoryLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Grote_dwergooruil&amp;action=history"/>
+    <prop-nl:familie rdf:resource="http://nl.dbpedia.org/resource/Uilen_(vogelfamilie)"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">De grote dwergooruil (Otus gurneyi) is een uil die alleen voorkomt in het zuiden van de Filipijnen.</rdfs:comment>
+    <prop-nl:rlId rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22688911</prop-nl:rlId>
+    <prop-nl:haakjes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ja</prop-nl:haakjes>
+    <rdf:type rdf:resource="http://wikidata.dbpedia.org/resource/Q19088"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://nl.wikipedia.org/wiki/Grote_dwergooruil"/>
+    <dbpedia-owl:wikiPageEditLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Grote_dwergooruil&amp;action=edit"/>
+    <prop-nl:orde rdf:resource="http://nl.dbpedia.org/resource/Uilen_(orde)"/>
+    <dbpedia-owl:wikiPageModified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-01-16T08:58:35+00:00</dbpedia-owl:wikiPageModified>
+    <dbpedia-owl:family rdf:resource="http://nl.dbpedia.org/resource/Uilen_(vogelfamilie)"/>
+    <dbpedia-owl:wikiPageRevisionLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Grote_dwergooruil&amp;oldid=43018011"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Bird"/>
+    <dbpedia-owl:order rdf:resource="http://nl.dbpedia.org/resource/Uilen_(orde)"/>
+    <dbpedia-owl:authority rdf:resource="http://nl.dbpedia.org/resource/Arthur_Hay"/>
+    <dbpedia-owl:genus rdf:resource="http://nl.dbpedia.org/resource/Otus_(geslacht)"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">13</dbpedia-owl:wikiPageOutDegree>
+    <prop-nl:geslacht rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Otus</prop-nl:geslacht>
+    <dcterms:subject rdf:resource="http://nl.dbpedia.org/resource/Categorie:IUCN-status_kwetsbaar"/>
+    <rdf:type rdf:resource="http://wikidata.dbpedia.org/resource/Q729"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grote dwergooruil</rdfs:label>
+    <prop-nl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VU</prop-nl:status>
+    <prop-nl:species rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Otus gurneyi</prop-nl:species>
+    <prop-nl:wNaam rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Otus gurneyi</prop-nl:wNaam>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+    <prop-nl:auteur rdf:resource="http://nl.dbpedia.org/resource/Arthur_Hay"/>
+    <dbpedia-owl:wikiPageExtracted rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-11-13T13:26:44+00:00</dbpedia-owl:wikiPageExtracted>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Appendix"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Mimizuku_gurneyi">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Grote_dwergooruil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Otus_gurneyi">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Grote_dwergooruil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.wikipedia.org/wiki/Grote_dwergooruil">
+    <foaf:primaryTopic rdf:resource="http://nl.dbpedia.org/resource/Grote_dwergooruil"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns3="http://eu.dbpedia.org/property/"
+   xmlns:ns5="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://eu.dbpedia.org:81/data/Ornodun.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Ornodun"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Ornodun">
+    <rdfs:label xml:lang="eu">Ornodun</rdfs:label>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Bluefin-big.jpg?width=300"/>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Description"/>
+    <dbpedia-owl:abstract xml:lang="eu">Ornodunak (Vertebrata) kordatuen barneko azpifilum bat da, euren berezitasuna ornoak izatea delarik, bizkarrezur bat osatuz. Ornodunen eboluzioa Kanbriarreko leherketan gertatu zen, Kanbriar garaian. Ezagutzen den lehenengo ornoduna Myllokunmingia da. Bizkarrezurreko hezurrek orno izena hartzen dute. Ornodunena kordatu filumeko azpifilumik handiena da eta intsektuak eta antzekoak kenduta familiarrak diren animalia gehienak talde honetakoak dira. Bere garaian klasifikazio linneanoan plantae eta vermes ez ziren izaki bizidun guztiak (anfibioak, narrastiak, hegaztiak, arrainak eta ugaztunak) gaur egun ornodunen barruan kokatzen ditugu. Gizakia ere (Homo sapiens) talde honen barnean sartzen da. Azpifilumaren ezaugarriak dira era berean gihar sistema bat edukitzea eta nerbio sistema zentral bat izatea, bere parte bat bizkarrezurraren barnean kokatzen delarik.</dbpedia-owl:abstract>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Taxotaula_automatikoa"/>
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://ml.dbpedia.org/resource/നട്ടെല്ലുള്ള_ജീവികള്‍"/>
+    <ns5:wasDerivedFrom rdf:resource="http://eu.wikipedia.org/wiki/Ornodun?oldid=3958501"/>
+    <dcterms:subject rdf:resource="http://eu.dbpedia.org/resource/Kategoria:Ornodunak"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Commonskat"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dbpedia-owl:name xml:lang="eu">Ornodunak</dbpedia-owl:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eu.wikipedia.org/wiki/Ornodun"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Tax"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8860</dbpedia-owl:wikiPageID>
+    <rdfs:comment xml:lang="eu">Ornodunak (Vertebrata) kordatuen barneko azpifilum bat da, euren berezitasuna ornoak izatea delarik, bizkarrezur bat osatuz. Ornodunen eboluzioa Kanbriarreko leherketan gertatu zen, Kanbriar garaian. Ezagutzen den lehenengo ornoduna Myllokunmingia da. Bizkarrezurreko hezurrek orno izena hartzen dute. Ornodunena kordatu filumeko azpifilumik handiena da eta intsektuak eta antzekoak kenduta familiarrak diren animalia gehienak talde honetakoak dira.</rdfs:comment>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3958501</dbpedia-owl:wikiPageRevisionID>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Bluefin-big.jpg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Kategoria:Ornodunak">
+    <skos:subject rdf:resource="http://eu.dbpedia.org/resource/Ornodun"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Vertebrata">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Ornodun"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.wikipedia.org/wiki/Ornodun">
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Ornodun"/>
+  </rdf:Description>
+</rdf:RDF>

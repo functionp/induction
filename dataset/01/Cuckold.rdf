@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop-it="http://it.dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:provenance="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Cuckold">
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Sesso"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://it.wikipedia.org/wiki/Cuckold"/>
+    <rdfs:comment xml:lang="it">Con il termine inglese cuckold (pronuncia: /ˈkʌkəʊld/) si usa indicare la persona che consapevolmente e volontariamente induce il proprio partner, chiamato talvolta sweet se di sesso femminile, a vivere esperienze sessuali con altre persone (che, se di sesso maschile, sono denominati solitamente bull, tori, con allusione alla funzione di monta di tali animali).Al contrario il termine cuckquean  (conosciuto anche come reverse cuckold) è utilizzato per indicare lo stesso tipo di pratica con sottomessa la donna e dominante il maschio (ovvero colui che commette il tradimento di fronte al partner femminile)</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Hahnrei"/>
+    <dbpedia-owl:abstract xml:lang="it">Con il termine inglese cuckold (pronuncia: /ˈkʌkəʊld/) si usa indicare la persona che consapevolmente e volontariamente induce il proprio partner, chiamato talvolta sweet se di sesso femminile, a vivere esperienze sessuali con altre persone (che, se di sesso maschile, sono denominati solitamente bull, tori, con allusione alla funzione di monta di tali animali).Al contrario il termine cuckquean  (conosciuto anche come reverse cuckold) è utilizzato per indicare lo stesso tipo di pratica con sottomessa la donna e dominante il maschio (ovvero colui che commette il tradimento di fronte al partner femminile)</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Hanrej"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Paroháč"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/寝取られ"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://noirpink.blogspot.com/2010/10/cuckolding-tradimento.html"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cuckold"/>
+    <dcterms:subject rdf:resource="http://it.dbpedia.org/resource/Categoria:Sessualità"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Order-cuckoldry-ca1815-French-satire.jpg?width=300"/>
+    <rdfs:label xml:lang="it">Cuckold</rdfs:label>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Portale"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1483612"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7164</dbpedia-owl:wikiPageLength>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Order-cuckoldry-ca1815-French-satire.jpg"/>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:F"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1626493</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Cuckolding"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Cuckolding"/>
+    <rdf:type rdf:resource="http://dbpedia.org/dbtax/Relationship"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Cuckold"/>
+    <provenance:wasDerivedFrom rdf:resource="http://it.wikipedia.org/wiki/Cuckold?oldid=69792897"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org:18080/data/Cuckold.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://it.dbpedia.org/resource/Cuckold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.wikipedia.org/wiki/Cuckold">
+    <foaf:primaryTopic rdf:resource="http://it.dbpedia.org/resource/Cuckold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Sweet_(sessualità)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Cuckold"/>
+  </rdf:Description>
+</rdf:RDF>

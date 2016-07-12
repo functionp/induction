@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns3="http://eu.dbpedia.org/property/"
+   xmlns:ns5="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Otus_gurneyi">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Tax"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Commonskat"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.worldbirdnames.org/"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4117135</dbpedia-owl:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eu.wikipedia.org/wiki/Otus_gurneyi"/>
+    <rdfs:comment xml:lang="eu">Otus gurneyi Otus generoko animalia da. Hegaztien barruko Strigidae familian sailkatua dago.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://eu.dbpedia.org/resource/Kategoria:Strigidae"/>
+    <rdfs:label xml:lang="eu">Otus gurneyi</rdfs:label>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Description"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313454</dbpedia-owl:wikiPageID>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Izenburu_etzana"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Erreferentzia_zerrenda"/>
+    <ns5:wasDerivedFrom rdf:resource="http://eu.wikipedia.org/wiki/Otus_gurneyi?oldid=4117135"/>
+    <dbpedia-owl:abstract xml:lang="eu">Otus gurneyi Otus generoko animalia da. Hegaztien barruko Strigidae familian sailkatua dago.</dbpedia-owl:abstract>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Taxotaula_automatikoa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org:81/data/Otus_gurneyi.rdf">
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Otus_gurneyi"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.wikipedia.org/wiki/Otus_gurneyi">
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Otus_gurneyi"/>
+  </rdf:Description>
+</rdf:RDF>

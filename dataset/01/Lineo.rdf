@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns3="http://eu.dbpedia.org/property/"
+   xmlns:ns5="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Carl_von_Linné">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Lineo">
+    <dcterms:subject rdf:resource="http://eu.dbpedia.org/resource/Kategoria:1778ko_heriotzak"/>
+    <ns5:wasDerivedFrom rdf:resource="http://eu.wikipedia.org/wiki/Lineo?oldid=4571185"/>
+    <dcterms:subject rdf:resource="http://eu.dbpedia.org/resource/Kategoria:1707ko_jaiotzak"/>
+    <dcterms:subject rdf:resource="http://eu.dbpedia.org/resource/Kategoria:Naturalistak"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Carl_von_Linné.jpg"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Erreferentzia_zerrenda"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36045</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:abstract xml:lang="eu">Lineo —jaiotza izena: Carl von Linné; latinezko izena: Carolus Linnaeus— (Södra, Suedia, 1707ko maiatzaren 23a - Uppsala, 1778ko urtarrilaren 10a) zientzialari eta naturalista suediar bat izan zen, gaur egungo taxonomiaren oinarriak jarri zituena. Ekologiaren aitzindaritzat hartzen da beste batzuen artean.Berak egindako klasifikazioaren funtsezko printzipioak taxonomia zientifikoaren oinarrian daude.Lineo kreazionista zen. Bere arabera, animaliak eta begetalak Jainkoak sortua izan ziren Genesisak kontatzen duenaren arabera eta ordutik ez dute aldaketarik izan.Bere lanik garrantzitsuena Systema Naturae da (1735), argitalpen asko izan zituena. Argitalpen bakoitzean, Lineo sistema hobetu eta osotzen du. Hamargarren ediziotik (1758) aurrera, bi izeneko nomenklatura (izen zientifikoa) sistema erabiltzen du erabat. Talde batzuk zehatz definitzen ditu, ugaztunen eta hegaztien klaseak bezala. Horretarako Albertus Seba, Ulisse Aldrovandi, Mark Catesby, John Jonston eta beste jakintsuek deskribatutako animaliez baliatzen da batzuetan, baina gehienbat berak aztertutako animaliak deskribatzen ditu.</dbpedia-owl:abstract>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Zientzialarien_biografia_infotaula"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Carl_von_Linné.jpg?width=300"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eu.wikipedia.org/wiki/Lineo"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:NA_lotura"/>
+    <dcterms:subject rdf:resource="http://eu.dbpedia.org/resource/Kategoria:Suediako_zientzialariak"/>
+    <rdfs:comment xml:lang="eu">Lineo —jaiotza izena: Carl von Linné; latinezko izena: Carolus Linnaeus— (Södra, Suedia, 1707ko maiatzaren 23a - Uppsala, 1778ko urtarrilaren 10a) zientzialari eta naturalista suediar bat izan zen, gaur egungo taxonomiaren oinarriak jarri zituena. Ekologiaren aitzindaritzat hartzen da beste batzuen artean.Berak egindako klasifikazioaren funtsezko printzipioak taxonomia zientifikoaren oinarrian daude.Lineo kreazionista zen.</rdfs:comment>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4571185</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="eu">Lineo</rdfs:label>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Commonskat"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Aipu"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Linne">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Linnaeus">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Carolus_Linnæus">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/L.">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org:81/data/Lineo.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Carolus_Linneaus">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Linneo">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Linneaus">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Carolus_Linnaeus">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.wikipedia.org/wiki/Lineo">
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Carlos_Linneo">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Carl_Linnaeus">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Carl_von_Linne">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Lineo"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-ja="http://ja.dbpedia.org/property/"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/キバシガラス">
+    <prop-ja:属 xml:lang="ja">Pyrrhocorax</prop-ja:属>
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Stăncuță_alpină"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/岩手県"/>
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/זג_צהוב-מקור"/>
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/Planinska_kavka"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q191386"/>
+    <prop-ja:画像 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</prop-ja:画像>
+    <dbpedia-owl:abstract xml:lang="ja">キバシガラス (黄嘴烏、Pyrrhocorax graculus)は、スズメ目カラス科の鳥類。</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Alpendohle.jpg"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Alpkaja"/>
+    <prop-ja:目 xml:lang="ja">スズメ目 Passeriformes</prop-ja:目>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Галка_альпійська"/>
+    <prop-ja:種 xml:lang="ja">キバシガラス P. graculus</prop-ja:種>
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/Alpekaie"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Kavče_žlutozobé"/>
+    <dbpedia-owl:family rdf:resource="http://ja.dbpedia.org/resource/カラス科"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スズメ目_(Sibley)"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Bird-stub"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53237238</dbpedia-owl:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/Pyrrhocorax_graculus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス科_(Sibley)"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:PAGENAME"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス上科_(Sibley)"/>
+    <prop-ja:科 xml:lang="ja">カラス科 Corvidae</prop-ja:科>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Κιτρινοκαλιακούδα"/>
+    <owl:sameAs rdf:resource="http://ceb.dbpedia.org/resource/Pyrrhocorax_graculus"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Pyrrhocorax_graculus"/>
+    <foaf:name xml:lang="ja">鳥綱</foaf:name>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Havasi_csóka"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/旧北区"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alpendohle.jpg"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alpine_chough"/>
+    <rdfs:comment xml:lang="ja">キバシガラス (黄嘴烏、Pyrrhocorax graculus)は、スズメ目カラス科の鳥類。</rdfs:comment>
+    <prop-ja:省略 xml:lang="ja">鳥綱</prop-ja:省略>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/W:Corvidae"/>
+    <owl:sameAs rdf:resource="http://hy.dbpedia.org/resource/Ալպիական_ճայ"/>
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Alpeallike"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/黄嘴山鸦"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Belatxinga_mokohori"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス族_(Sibley)"/>
+    <owl:sameAs rdf:resource="http://br.dbpedia.org/resource/Kavan_beg_melen"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/エベレスト"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スズメ亜目_(Sibley)"/>
+    <dbpedia-owl:binomial rdf:resource="http://ja.dbpedia.org/resource/カール・フォン・リンネ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スズメ目"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Альпийская_галка"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス科"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Alpendohle"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:カラス科"/>
+    <rdfs:label xml:lang="ja">キバシガラス</rdfs:label>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Commons"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Alppinaakka"/>
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Sarı_gagalı_dağ_kargası"/>
+    <owl:sameAs rdf:resource="http://commons.dbpedia.org/resource/Pyrrhocorax_graculus"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1980148</dbpedia-owl:wikiPageID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/キバシガラス"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Sibley"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス小目_(Sibley)"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:生物分類表"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Chocard_à_bec_jaune"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Alpenkauw"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Gralha-de-bico-amarelo"/>
+    <owl:sameAs rdf:resource="http://ku.dbpedia.org/resource/Qajû"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Жълтоклюна_гарга"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q191386"/>
+    <prop-ja:status xml:lang="ja">LC</prop-ja:status>
+    <dbpedia-owl:conservationStatus>LC</dbpedia-owl:conservationStatus>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本"/>
+    <prop-ja:英名 rdf:resource="http://ja.dbpedia.org/resource/W:Alpine_Chough"/>
+    <foaf:name xml:lang="ja">Yellow-billed Chough / Alpine Chough</foaf:name>
+    <owl:sameAs rdf:resource="http://pms.dbpedia.org/resource/Pyrrhocorax_graculus"/>
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/Choia_de_bico_amarelo"/>
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Pyrrhocorax_graculus"/>
+    <prop-ja:属 xml:lang="ja">ベニハシガラス属</prop-ja:属>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">21</dbpedia-owl:wikiPageOutDegree>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Pyrrhocorax_graculus"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Gralla_de_bec_groc"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/W:Alpine_Chough"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/زاغ_نوک‌زرد"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス亜科_(Sibley)"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Flavbeka_montokorvo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:キバシガラス、ベニバシガラス.jpg"/>
+    <owl:sameAs rdf:resource="http://lv.dbpedia.org/resource/Alpu_kovārnis"/>
+    <dbpedia-owl:order rdf:resource="http://ja.dbpedia.org/resource/スズメ目"/>
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/Жолтоклуна_галица"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カール・フォン・リンネ"/>
+    <owl:sameAs rdf:resource="http://kk.dbpedia.org/resource/Сарытұмсық_шауқарға"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Wieszczek"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1269</dbpedia-owl:wikiPageLength>
+    <prop-ja:学名 xml:lang="ja">Pyrrhocorax graculus</prop-ja:学名>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/زمت_ألبي"/>
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/キバシガラス?oldid=53237238"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alpendohle.jpg?width=300"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/中国の野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/キバシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/インド亜大陸の野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/キバシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/アララール山地">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/キバシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/キバシガラス.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/キバシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ベニハシガラス属">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/キバシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/キバシガラス">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/キバシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/チベットの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/キバシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カラス科">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/キバシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ロシアの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/キバシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カラス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/キバシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/栗城史多">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/キバシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/鳥のカタログ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/キバシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ベニハシガラス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/キバシガラス"/>
+  </rdf:Description>
+</rdf:RDF>

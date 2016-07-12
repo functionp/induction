@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Promiskueco">
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Promiskuiteetti"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Libera_amo"/>
+    <owl:sameAs rdf:resource="http://hy.dbpedia.org/resource/Խառնամուսնություն"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.it/books?id=Zc318kI-TPMC"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Promisqüitat"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Promiskuitate"/>
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Праміскуітэт"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Promiscuïteit"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Poligamio"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/二股"/>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q261290"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Promiscuidade"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wordtrade.com/history/womenshistoryR.htm"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.it/books?id=0Pq4JSC-JNMC"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3352</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://af.dbpedia.org/resource/Promiskuïteit"/>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Промискуитет"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Seksomanio"/>
+    <rdfs:label xml:lang="eo">Promiskueco</rdfs:label>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Promiskueco"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bradley.edu/academics/las/psy/facstaff/schmitt/documents/Schmitt-BBS-2005-Sociosexuality-ALL.pdf"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.as.ua.edu/ant/Faculty/murphy/evol.htm"/>
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/Promiskuitet"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.theeastcarolinian.com/2.5281/promiscous-women-should-be-praised-1.820649"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Poliginandrio"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Promiskuitet"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Libera_amo"/>
+    <owl:sameAs rdf:resource="http://arz.dbpedia.org/resource/اباحيه_جنسيه"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Literaturo"/>
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Mazdekçilik"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Promiscuité_sexuelle"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Vânător_de_fuste"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Antropologio"/>
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Promiskuitet"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Promiskuität"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/劈腿族"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Промискуитет"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://links.jstor.org/sici?sici=0097-9740(198624)11%3A2%3C236%3ATOOPIA%3E2.0.CO%3B2-L"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">375944</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Poliginio"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Проміскуїтет"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.it/books?id=u3rJpB4F2yMC"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Libido"/>
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Promiskuita"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Televido"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Промискуитет"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Poliandrio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kino"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Biologio"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=ShU3N7_GaMYC"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Parsistemo"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Homa_sekso"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Monogamio"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5293409</dbpedia-owl:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Promiskuiteet"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Promiscuidad"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eo.wikipedia.org/wiki/Promiskueco"/>
+    <owl:sameAs rdf:resource="http://tl.dbpedia.org/resource/Promiskuwidad"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Homa_sekso"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Antropologio"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://links.jstor.org/sici?sici=0033-5770(193112)6%3A4%3C379%3ATPBOHS%3E2.0.CO%3B2-Z"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Poliamorado"/>
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Promiskuitet"/>
+    <ns6:wasDerivedFrom rdf:resource="http://eo.wikipedia.org/wiki/Promiskueco?oldid=5293409"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Libera_seksumado"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Biologio"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q261290"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.alternet.org/story/13648/"/>
+    <owl:sameAs rdf:resource="http://bs.dbpedia.org/resource/Promiskuitet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Malĉasteco">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Promiskueco"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Promiskueco"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Amerika_blanka_ibiso">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Promiskueco"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Blanka_cikonio">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Promiskueco"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Birdoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Promiskueco"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Volupto">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Promiskueco"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Akvokanbirdo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Promiskueco"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.wikipedia.org/wiki/Promiskueco">
+    <foaf:primaryTopic rdf:resource="http://eo.dbpedia.org/resource/Promiskueco"/>
+  </rdf:Description>
+</rdf:RDF>

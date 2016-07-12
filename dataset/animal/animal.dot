@@ -1,0 +1,453 @@
+digraph { 
+ node [ fontname="DejaVu Sans" ] ; 
+	node0 -> node1 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node3 -> node4 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node8 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node11 -> node12 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node14 -> node4 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node16 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node18 -> node19 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node20 -> node21 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node22 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node19 -> node23 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node24 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node27 -> node4 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node11 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node19 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node0 -> node29 [ color=BLACK, label=< <font point-size='10' color='#336633'>owl:imports</font> > ] ;
+	node14 -> node30 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node32 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node14 -> node34 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node8 -> node38 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node39 -> node35 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subPropertyOf</font> > ] ;
+	node40 -> node19 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node41 -> node38 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node42 -> node35 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subPropertyOf</font> > ] ;
+	node43 -> node25 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node44 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node14 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node44 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node10 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node31 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node46 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node10 -> node47 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node52 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node26 -> node54 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node10 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node9 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node56 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node57 -> node58 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node16 -> node59 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node35 -> node30 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node42 -> node34 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node51 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node26 -> node4 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node5 -> node38 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node43 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node31 -> node19 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node54 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node11 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node40 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node61 -> node52 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node0 -> node64 [ color=BLACK, label=< <font point-size='10' color='#336633'>owl:imports</font> > ] ;
+	node65 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node6 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node66 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node51 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node19 -> node68 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node0 -> node69 [ color=BLACK, label=< <font point-size='10' color='#336633'>dc:creator</font> > ] ;
+	node0 -> node70 [ color=BLACK, label=< <font point-size='10' color='#336633'>owl:imports</font> > ] ;
+	node25 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node43 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node55 -> node66 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node32 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node2 -> node15 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node57 -> node71 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node63 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node25 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node72 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node65 -> node10 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node18 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node36 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node24 -> node30 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node73 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node67 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node57 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node38 -> node75 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node13 -> node38 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node31 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node13 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node62 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node69 -> node77 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node78 -> node35 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subPropertyOf</font> > ] ;
+	node3 -> node30 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node65 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node16 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node42 -> node25 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node0 -> node79 [ color=BLACK, label=< <font point-size='10' color='#336633'>foaf:maker</font> > ] ;
+	node67 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node37 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node0 -> node80 [ color=BLACK, label=< <font point-size='10' color='#336633'>owl:imports</font> > ] ;
+	node20 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node54 -> node81 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node63 -> node30 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node61 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node82 -> node19 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node78 -> node30 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node0 -> node83 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node53 -> node52 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node35 -> node25 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node52 -> node84 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node40 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node65 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node55 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node85 -> node77 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node10 -> node86 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node55 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node16 -> node87 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node42 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node67 -> node38 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node53 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node56 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node88 -> node38 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node66 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node50 -> node30 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node20 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node56 -> node38 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node45 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node36 -> node25 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node8 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node20 -> node89 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node48 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node53 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node4 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node76 -> node30 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node51 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node7 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node6 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node39 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node72 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node61 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node5 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node17 -> node90 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node82 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node39 -> node30 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node0 -> node91 [ color=BLACK, label=< <font point-size='10' color='#336633'>owl:imports</font> > ] ;
+	node36 -> node30 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node10 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node74 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node61 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node37 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node0 -> node92 [ color=BLACK, label=< <font point-size='10' color='#336633'>owl:priorVersion</font> > ] ;
+	node49 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node76 -> node34 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node38 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node37 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node0 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node32 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node38 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node42 -> node30 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node48 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node15 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node27 -> node34 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node26 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node66 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node0 -> node93 [ color=BLACK, label=< <font point-size='10' color='#336633'>owl:imports</font> > ] ;
+	node60 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node0 -> node79 [ color=BLACK, label=< <font point-size='10' color='#336633'>dc:creator</font> > ] ;
+	node57 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node57 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node72 -> node19 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node74 -> node62 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node66 -> node94 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node43 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node18 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node35 -> node34 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node36 -> node35 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subPropertyOf</font> > ] ;
+	node3 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node15 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node73 -> node35 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subPropertyOf</font> > ] ;
+	node0 -> node69 [ color=BLACK, label=< <font point-size='10' color='#336633'>foaf:maker</font> > ] ;
+	node45 -> node34 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node7 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node38 -> node95 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node22 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node9 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node11 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node16 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node0 -> node96 [ color=BLACK, label=< <font point-size='10' color='#336633'>dcterms:license</font> > ] ;
+	node78 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node46 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node46 -> node38 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node49 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node49 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node45 -> node30 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node76 -> node25 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node26 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node5 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node50 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node2 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node40 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node53 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node41 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node2 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node52 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node24 -> node34 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node52 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node55 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node12 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node4 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node74 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node15 -> node97 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node51 -> node57 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node3 -> node34 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node41 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node54 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node22 -> node38 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node17 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node24 -> node25 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node19 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node44 -> node38 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node48 -> node38 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node9 -> node38 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node0 -> node98 [ color=BLACK, label=< <font point-size='10' color='#336633'>owl:versionIRI</font> > ] ;
+	node66 -> node99 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node12 -> node100 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node76 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node12 -> node101 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node63 -> node35 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subPropertyOf</font> > ] ;
+	node49 -> node4 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node27 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node32 -> node19 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node35 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node37 -> node20 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node50 -> node35 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subPropertyOf</font> > ] ;
+	node18 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node82 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node13 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node48 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:domain</font> > ] ;
+	node60 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node73 -> node30 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node27 -> node30 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node60 -> node38 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node2 -> node102 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subPropertyOf</font> > ] ;
+	node12 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:subClassOf</font> > ] ;
+	node88 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node17 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node7 -> node103 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:range</font> > ] ;
+	node52 -> node104 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:seeAlso</font> > ] ;
+	node62 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdf:type</font> > ] ;
+	node20 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node88 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+	node12 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>rdfs:isDefinedBy</font> > ] ;
+# http://xmlns.com/foaf/0.1/Person node77
+node77 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Person</B></td></tr><tr><td href='http://xmlns.com/foaf/0.1/Person' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://xmlns.com/foaf/0.1/Person</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/habitat node32
+node32 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>habitat</B></td></tr><tr><td href='http://purl.org/ontology/wo/habitat' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/habitat</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a taxon rank with a habitat in which it may typically be found&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/kingdomName node78
+node78 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>kingdom name</B></td></tr><tr><td href='http://purl.org/ontology/wo/kingdomName' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/kingdomName</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Used to specify the name of a kingdom as part of a Taxon Name&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://www.bbc.co.uk/nature/genus node71
+node71 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>genus</B></td></tr><tr><td href='http://www.bbc.co.uk/nature/genus' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.bbc.co.uk/nature/genus</font></td></tr></table> > ] 
+# http://www.bbc.co.uk/nature/phylum node100
+node100 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>phylum</B></td></tr><tr><td href='http://www.bbc.co.uk/nature/phylum' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.bbc.co.uk/nature/phylum</font></td></tr></table> > ] 
+# http://en.wikipedia.org/wiki/Class_%28biology%29 node21
+node21 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>http://en.wikipedia.org/wiki/Class_%28biology%29</B></td></tr><tr><td href='http://en.wikipedia.org/wiki/Class_%28biology%29' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://en.wikipedia.org/wiki/Class_%28biology%29</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/adaptation node48
+node48 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>adaptation</B></td></tr><tr><td href='http://purl.org/ontology/wo/adaptation' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/adaptation</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a taxon rank with an adaptation which it displays&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://tomscott.name/ node79
+node79 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>http://tomscott.name/</B></td></tr><tr><td href='http://tomscott.name/' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://tomscott.name/</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/Family node66
+node66 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Family</B></td></tr><tr><td href='http://purl.org/ontology/wo/Family' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/Family</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;A family is a scientific grouping of closely related organisms. It has smaller groups, called genera and species, within it. A family can have a lot of members or only a few. Examples of families include the cats (Felidae), the gulls (Laridae) and the grasses (Poaceae).&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/orderName node50
+node50 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>order name</B></td></tr><tr><td href='http://purl.org/ontology/wo/orderName' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/orderName</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Used to specify the name of an order as part of a Taxon Name&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/ExtremesAdaptation node56
+node56 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Adapted to Extremes</B></td></tr><tr><td href='http://purl.org/ontology/wo/ExtremesAdaptation' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/ExtremesAdaptation</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Organisms that are adapted to extremes (known as Extremophiles) are organisms that thrives in and even may require physically or geochemically extreme conditions that are detrimental to the majority of life on Earth.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/Ecozone node62
+node62 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Ecozone</B></td></tr><tr><td href='http://purl.org/ontology/wo/Ecozone' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/Ecozone</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Ecozones are a method of dividing up the Earth's surface. Each ecozone is a large area that contains a number of habitats, which are linked by the evolutionary history of the animals and plants within them. For instance one ecozone is Australasia, because its marsupials evolved in isolation to mammals in the rest of the world.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/populationTrend node3
+node3 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>population trend</B></td></tr><tr><td href='http://purl.org/ontology/wo/populationTrend' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/populationTrend</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;provides some indication of the population trend associated with an assessment of a taxon's conversation status. The value of this property is a simple literal, and is recommended to be one of: Decreasing, Increasing, Stable, Unknown.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;unstable&quot;</td></tr></table> > ] 
+# http://en.wikipedia.org/wiki/Genus node58
+node58 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Genus</B></td></tr><tr><td href='http://en.wikipedia.org/wiki/Genus' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://en.wikipedia.org/wiki/Genus</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/ node0
+node0 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Wildlife Ontology</B></td></tr><tr><td href='http://purl.org/ontology/wo/' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/</font></td></tr><tr><td align='left'>dc:date</td><td align='left'>&quot;Date: 2013/12/18 11:33:00 &quot;</td></tr><tr><td align='left'>dcterms:created</td><td align='left'>&quot;2010-01-04&quot;^^xsd:date</td></tr><tr><td align='left'>dcterms:title</td><td align='left'>&quot;Wildlife Ontology&quot;@en-gb</td></tr><tr><td align='left'>owl:versionInfo</td><td align='left'>&quot;1.1&quot;^^xsd:string</td></tr><tr><td align='left'>provenance:canonicalLocation</td><td align='left'>&quot;https://repo.dev.bbc.co.uk/services/linked-data/ontologies/domain/kl/wildlife&quot;^^xsd:string</td></tr><tr><td align='left'>provenance:changeReason</td><td align='left'>&quot;Copying foaf: makers into dc:contributor.&quot;^^xsd:string</td></tr><tr><td align='left'>provenance:public</td><td align='left'>&quot;true&quot;^^xsd:boolean</td></tr><tr><td align='left'>provenance:slug</td><td align='left'>&quot;wo&quot;^^xsd:string</td></tr><tr><td align='left'>provenance:version</td><td align='left'>&quot;1.1&quot;^^xsd:string</td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;A simple vocabulary for describing biological species and related taxa. The vocabulary defines terms for describing the names and ranking of taxa, as well as providing support for describing their habitats, conservation status, and behavioural characteristics, etc&quot;@en-gb</td></tr></table> > ] 
+# http://purl.org/ontology/wo/Class node20
+node20 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Class</B></td></tr><tr><td href='http://purl.org/ontology/wo/Class' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/Class</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;A class is a scientific way to group related organisms together, some examples of classes being jellyfish, reptiles and sea urchins. Classes are big groups and contain within them smaller groupings called orders, families, genera and species.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/TaxonName node25
+node25 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Taxon Name</B></td></tr><tr><td href='http://purl.org/ontology/wo/TaxonName' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/TaxonName</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;A taxonomic name, describing the structure and provenance of a taxonomic name.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/commonName node24
+node24 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>common name</B></td></tr><tr><td href='http://purl.org/ontology/wo/commonName' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/commonName</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a formal taxon name with a common version. E.g. Panthera leo might be associated with a common name of 'Lion'. A given taxon name may have several common names&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/ecozone node74
+node74 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>ecozone</B></td></tr><tr><td href='http://purl.org/ontology/wo/ecozone' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/ecozone</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;indicates that a habitat or a taxon rank can be found within an ecozone&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/CommunicationAdaptation node13
+node13 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Communication Adaptation</B></td></tr><tr><td href='http://purl.org/ontology/wo/CommunicationAdaptation' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/CommunicationAdaptation</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Communication and senses are how an organism perceives the world - for instance through scent or sight - and how it sends messages or warnings to others.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://www.bbc.co.uk/nature/order node87
+node87 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>order</B></td></tr><tr><td href='http://www.bbc.co.uk/nature/order' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.bbc.co.uk/nature/order</font></td></tr></table> > ] 
+# http://en.wikipedia.org/wiki/Family_%28biology%29 node94
+node94 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>http://en.wikipedia.org/wiki/Family_%28biology%29</B></td></tr><tr><td href='http://en.wikipedia.org/wiki/Family_%28biology%29' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://en.wikipedia.org/wiki/Family_%28biology%29</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/TaxonRank node17
+node17 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Taxonomic Rank</B></td></tr><tr><td href='http://purl.org/ontology/wo/TaxonRank' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/TaxonRank</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Generic concept for a taxonomic rank such as a Genus or Species.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/PredationStrategy node41
+node41 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Predation Strategy</B></td></tr><tr><td href='http://purl.org/ontology/wo/PredationStrategy' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/PredationStrategy</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Predation is catching and killing an animal in order to eat it. The prey can be chased, ambushed or caught in a trap such as a spider's web.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/class node37
+node37 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>class</B></td></tr><tr><td href='http://purl.org/ontology/wo/class' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/class</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a taxon rank with a class&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/ConservationStatus node4
+node4 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Conservation Status</B></td></tr><tr><td href='http://purl.org/ontology/wo/ConservationStatus' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/ConservationStatus</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Conservation status as described by the IUCN Red List. Will typically have a number of properties including an official IUCN status, population trend, and a year of assessment.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/species node65
+node65 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>species</B></td></tr><tr><td href='http://purl.org/ontology/wo/species' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/species</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a taxon rank with a species&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://www.ldodds.com#me node69
+node69 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Leigh Dodds</B></td></tr><tr><td href='http://www.ldodds.com#me' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.ldodds.com#me</font></td></tr><tr><td align='left'>foaf:name</td><td align='left'>&quot;Leigh Dodds&quot;</td></tr></table> > ] 
+# http://www.w3.org/2002/07/owl#DatatypeProperty node30
+node30 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>DatatypeProperty</B></td></tr><tr><td href='http://www.w3.org/2002/07/owl#DatatypeProperty' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.w3.org/2002/07/owl#DatatypeProperty</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/kingdom node53
+node53 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>kingdom</B></td></tr><tr><td href='http://purl.org/ontology/wo/kingdom' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/kingdom</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a taxon rank with a kingdom&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/1.1 node98
+node98 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>http://purl.org/ontology/wo/1.1</B></td></tr><tr><td href='http://purl.org/ontology/wo/1.1' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/1.1</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/1.0 node92
+node92 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>http://purl.org/ontology/wo/1.0</B></td></tr><tr><td href='http://purl.org/ontology/wo/1.0' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/1.0</font></td></tr></table> > ] 
+# http://www.bbc.co.uk/ontologies/provenance/Ontology node1
+node1 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Ontology</B></td></tr><tr><td href='http://www.bbc.co.uk/ontologies/provenance/Ontology' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.bbc.co.uk/ontologies/provenance/Ontology</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/familyName node39
+node39 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>family name</B></td></tr><tr><td href='http://purl.org/ontology/wo/familyName' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/familyName</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Used to specify the name of a family as part of a Taxon Name&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/phylum node11
+node11 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>phylum</B></td></tr><tr><td href='http://purl.org/ontology/wo/phylum' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/phylum</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a taxon rank with a phylum&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://www.bbc.co.uk/nature/habitats node68
+node68 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>habitats</B></td></tr><tr><td href='http://www.bbc.co.uk/nature/habitats' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.bbc.co.uk/nature/habitats</font></td></tr></table> > ] 
+# http://www.w3.org/2003/06/sw-vocab-status/ns# node64
+node64 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>http://www.w3.org/2003/06/sw-vocab-status/ns#</B></td></tr><tr><td href='http://www.w3.org/2003/06/sw-vocab-status/ns#' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.w3.org/2003/06/sw-vocab-status/ns#</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/scientificName node76
+node76 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>scientific name</B></td></tr><tr><td href='http://purl.org/ontology/wo/scientificName' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/scientificName</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a taxon name with its formal scientific name. This may be a binomial name (e.g. Panthera leo) in the case of a species name, or a uninomial (e.g. Panthera) name in the case of a name associated with another taxon rank. In formal taxonomic naming conventions, the scientific name is often qualified with the source of the name, e.g. Panthera leo (Linnaeus, 1758).&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/LifeCycle node67
+node67 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Life Cycle</B></td></tr><tr><td href='http://purl.org/ontology/wo/LifeCycle' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/LifeCycle</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;An organism's Life Cycle describes the stages in an organisms development including metamorphosis, courtship displays and parental care..&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/genusName node36
+node36 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>genus name</B></td></tr><tr><td href='http://purl.org/ontology/wo/genusName' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/genusName</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;specifies the genus part of a binomial name, allowing this portion of the name to be explicitly described. Therefore this property will typically only be used in TaxonNames associated with species. The property is largely provided as a convenience to avoid applications having to parse the binomial name.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/yearAssessed node14
+node14 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>year assessed</B></td></tr><tr><td href='http://purl.org/ontology/wo/yearAssessed' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/yearAssessed</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;the year in which the conservation status was assessed.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/TerrestrialHabitat node72
+node72 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Terrestrial Habitat</B></td></tr><tr><td href='http://purl.org/ontology/wo/TerrestrialHabitat' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/TerrestrialHabitat</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Terrestrial habitats include forests, grasslands, deserts and rainforests. They are typically defined by factors such as plant structure (trees and grasses), leaf types (eg broadleaf and needleleaf), plant spacing (forest, woodland, savanna) and climate.&quot;</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/LocomotionAdaptation node5
+node5 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Locomotion</B></td></tr><tr><td href='http://purl.org/ontology/wo/LocomotionAdaptation' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/LocomotionAdaptation</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Locomotion is how an animal gets around - for instance by swimming, flying or climbing.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/taxonomicName node35
+node35 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>taxonomic name</B></td></tr><tr><td href='http://purl.org/ontology/wo/taxonomicName' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/taxonomicName</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;a naming property, associating a formal taxonomic name with a Taxon Name instance. This property is a parent of a number of sub-properties that provide more specific terms for denoting names of families, phyla, species, etc.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://www.bbc.co.uk/nature/species node47
+node47 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>species</B></td></tr><tr><td href='http://www.bbc.co.uk/nature/species' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.bbc.co.uk/nature/species</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/conservationStatus node49
+node49 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>conservation status</B></td></tr><tr><td href='http://purl.org/ontology/wo/conservationStatus' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/conservationStatus</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a taxon rank with a description of a recent assessment of its conservation status&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/RedListStatus node54
+node54 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Red List Status</B></td></tr><tr><td href='http://purl.org/ontology/wo/RedListStatus' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/RedListStatus</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;A category in the IUCN red list, 2001.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/Genus node57
+node57 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Genus</B></td></tr><tr><td href='http://purl.org/ontology/wo/Genus' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/Genus</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;A genus is a scientific way of showing that species are very closed related to each other. In fact the first word of the species' scientific name is its genus. So for lions (Panthera leo), Panthera is the genus and tells us that they are closely related to tigers (Panthera tigris), because they share the name&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/dc/terms/ node93
+node93 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>http://purl.org/dc/terms/</B></td></tr><tr><td href='http://purl.org/dc/terms/' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/dc/terms/</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/growsIn node18
+node18 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>grows in</B></td></tr><tr><td href='http://purl.org/ontology/wo/growsIn' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/growsIn</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a taxon rank with a habitat in which it grows. Sub-property of wo:habitat to be used for plants, fungi, etc&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/livesIn node40
+node40 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>lives in</B></td></tr><tr><td href='http://purl.org/ontology/wo/livesIn' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/livesIn</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a taxon rank with a habitat in which it lives. Sub-property of wo:habitat to be used for members of the animal kingdom&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://creativecommons.org/licenses/by/1.0#id node96
+node96 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>id</B></td></tr><tr><td href='http://creativecommons.org/licenses/by/1.0#id' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://creativecommons.org/licenses/by/1.0#id</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/FeedingHabit node88
+node88 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Feeding Habit</B></td></tr><tr><td href='http://purl.org/ontology/wo/FeedingHabit' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/FeedingHabit</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Feeding habits describe the dominant diet of a particular species or group of species, and how they go about obtaining it.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/EcosystemRole node22
+node22 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Ecosystem Role</B></td></tr><tr><td href='http://purl.org/ontology/wo/EcosystemRole' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/EcosystemRole</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Ecosystem roles are about the part an animal or plant plays in sustaining or maintaining the habitat around them. Bees, for example, pollinate flowers, without which those plants would not produce fruits or seeds. Other species, such as dung beetles, play a vital role in keeping grasslands clear of animal waste and recycling valuable resources.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://en.wikipedia.org/wiki/Adaptation node75
+node75 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Adaptation</B></td></tr><tr><td href='http://en.wikipedia.org/wiki/Adaptation' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://en.wikipedia.org/wiki/Adaptation</font></td></tr></table> > ] 
+# http://www.w3.org/2002/07/owl#ObjectProperty node33
+node33 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>ObjectProperty</B></td></tr><tr><td href='http://www.w3.org/2002/07/owl#ObjectProperty' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.w3.org/2002/07/owl#ObjectProperty</font></td></tr></table> > ] 
+# http://www.bbc.co.uk/nature/class node89
+node89 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>class</B></td></tr><tr><td href='http://www.bbc.co.uk/nature/class' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.bbc.co.uk/nature/class</font></td></tr></table> > ] 
+# http://www.bbc.co.uk/nature/family node99
+node99 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>family</B></td></tr><tr><td href='http://www.bbc.co.uk/nature/family' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.bbc.co.uk/nature/family</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/order node61
+node61 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>order</B></td></tr><tr><td href='http://purl.org/ontology/wo/order' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/order</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a taxon rank with an order&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/dc/elements/1.1/ node29
+node29 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>http://purl.org/dc/elements/1.1/</B></td></tr><tr><td href='http://purl.org/dc/elements/1.1/' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/dc/elements/1.1/</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/FreshwaterHabitat node82
+node82 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Freshwater Habitat</B></td></tr><tr><td href='http://purl.org/ontology/wo/FreshwaterHabitat' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/FreshwaterHabitat</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Freshwater habitats include bogs, ponds, lakes, rivers and streams. About 3% of Earth's water is freshwater, but this includes the water locked up in the ice caps and trapped in rocks and soil as groundwater. Only a tiny fraction (0.014%) is surface water in the form of rivers, lakes and swamps.&quot;</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://www.bbc.co.uk/ontologies/provenance node91
+node91 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>provenance</B></td></tr><tr><td href='http://www.bbc.co.uk/ontologies/provenance' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.bbc.co.uk/ontologies/provenance</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/threatDescription node27
+node27 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>threatDescription</B></td></tr><tr><td href='http://purl.org/ontology/wo/threatDescription' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/threatDescription</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;description of the threat(s) that have been identified as part of the assessment of the Conservation Status of a taxon&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://xmlns.com/foaf/0.1/ node70
+node70 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>http://xmlns.com/foaf/0.1/</B></td></tr><tr><td href='http://xmlns.com/foaf/0.1/' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://xmlns.com/foaf/0.1/</font></td></tr></table> > ] 
+# http://xmlns.com/foaf/0.1/Image node103
+node103 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Image</B></td></tr><tr><td href='http://xmlns.com/foaf/0.1/Image' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://xmlns.com/foaf/0.1/Image</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/collection node2
+node2 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>collection</B></td></tr><tr><td href='http://purl.org/ontology/wo/collection' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/collection</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a taxon rank, habitat, species, clip with a collection of which it is a member&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/MorphologyAdaptation node60
+node60 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Morphology</B></td></tr><tr><td href='http://purl.org/ontology/wo/MorphologyAdaptation' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/MorphologyAdaptation</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Morphology is anything to do with what a plant or animal looks like - its size, shape, colour or structure.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/phylumName node73
+node73 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>phylum name</B></td></tr><tr><td href='http://purl.org/ontology/wo/phylumName' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/phylumName</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Used to specify the name of a phylum as part of a Taxon Name&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/Species node10
+node10 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>species</B></td></tr><tr><td href='http://purl.org/ontology/wo/Species' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/Species</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Generic class defining a biological species&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/SurvivalStrategy node8
+node8 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Survival Strategy</B></td></tr><tr><td href='http://purl.org/ontology/wo/SurvivalStrategy' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/SurvivalStrategy</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Survival strategies include adaptations to changes in the organisms environment, including: hibernation, abscission and migration.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/vocab/vann/ node80
+node80 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>http://purl.org/vocab/vann/</B></td></tr><tr><td href='http://purl.org/vocab/vann/' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/vocab/vann/</font></td></tr></table> > ] 
+# http://www.w3.org/2001/XMLSchema#string node34
+node34 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>string</B></td></tr><tr><td href='http://www.w3.org/2001/XMLSchema#string' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.w3.org/2001/XMLSchema#string</font></td></tr></table> > ] 
+# http://en.wikipedia.org/wiki/Order_%28biology%29 node59
+node59 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>http://en.wikipedia.org/wiki/Order_%28biology%29</B></td></tr><tr><td href='http://en.wikipedia.org/wiki/Order_%28biology%29' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://en.wikipedia.org/wiki/Order_%28biology%29</font></td></tr></table> > ] 
+# http://en.wikipedia.org/wiki/Habitat node23
+node23 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Habitat</B></td></tr><tr><td href='http://en.wikipedia.org/wiki/Habitat' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://en.wikipedia.org/wiki/Habitat</font></td></tr></table> > ] 
+# http://en.wikipedia.org/wiki/Taxonomic_rank node90
+node90 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Taxonomic_rank</B></td></tr><tr><td href='http://en.wikipedia.org/wiki/Taxonomic_rank' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://en.wikipedia.org/wiki/Taxonomic_rank</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/className node63
+node63 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>class name</B></td></tr><tr><td href='http://purl.org/ontology/wo/className' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/className</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Used to specify the name of a class as part of a Taxon Name&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/Adaptation node38
+node38 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Adaptation</B></td></tr><tr><td href='http://purl.org/ontology/wo/Adaptation' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/Adaptation</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;An adaptation is any feature of an animal or plant which makes it better suited for a particular habitat or to do a particular task. For instance, being streamlined is an adaptation to swimming fast and being able to survive on very little water is an adaptation to life in the desert.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/speciesName node42
+node42 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>species name</B></td></tr><tr><td href='http://purl.org/ontology/wo/speciesName' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/speciesName</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;specifies the species part of a binomial name, allowing this portion of the name to be explicitly described. Therefore this property will typically only be used in TaxonNames associated with species. The property is largely provided as a convenience to avoid applications having to parse the binomial name.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/dc/dcmitype/Collection node97
+node97 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Collection</B></td></tr><tr><td href='http://purl.org/dc/dcmitype/Collection' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/dc/dcmitype/Collection</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/SocialBehaviour node9
+node9 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Social Behaviour</B></td></tr><tr><td href='http://purl.org/ontology/wo/SocialBehaviour' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/SocialBehaviour</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Social behaviour is all about how an animal interacts with members of its own species. For instance, does it live in a colony or on its own, does it fight to be top of the pecking order, or does it try to keep strangers away from its home?&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://en.wikipedia.org/wiki/Species node86
+node86 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Species</B></td></tr><tr><td href='http://en.wikipedia.org/wiki/Species' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://en.wikipedia.org/wiki/Species</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/BehaviouralPattern node44
+node44 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Behavioural Pattern</B></td></tr><tr><td href='http://purl.org/ontology/wo/BehaviouralPattern' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/BehaviouralPattern</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Behavioural pattern describes an animal's dominant way of life. Arboreal animals, for example, live in trees and nocturnal animals are active at night.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/distributionMap node7
+node7 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>distribution map</B></td></tr><tr><td href='http://purl.org/ontology/wo/distributionMap' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/distributionMap</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a habitat, ecozone, or taxon rank with a map depicting its distribution or location&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;unstable&quot;</td></tr></table> > ] 
+# http://www.w3.org/2002/07/owl#Ontology node83
+node83 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Ontology</B></td></tr><tr><td href='http://www.w3.org/2002/07/owl#Ontology' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.w3.org/2002/07/owl#Ontology</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/Collection node15
+node15 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Collection</B></td></tr><tr><td href='http://purl.org/ontology/wo/Collection' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/Collection</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;A collection of resources, including documents, multimedia files, programme clips and their associated taxa, which aims to showcase a particular aspect of natural history film-making, or illustrate aspects of the natural world. A collection provides an alternate way to organize content over and above the basic taxonomic hierarchy.&quot;</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/name node43
+node43 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>name</B></td></tr><tr><td href='http://purl.org/ontology/wo/name' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/name</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a taxon rank with a taxon name&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/AnimalIntelligence node6
+node6 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Animal Intelligence</B></td></tr><tr><td href='http://purl.org/ontology/wo/AnimalIntelligence' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/AnimalIntelligence</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Animal Intelligence or animal cognition is the title given to a modern approach to the mental capacities of non-human animals. It has developed out of comparative psychology, but has also been strongly influenced by the approach of ethology, behavioral ecology, and evolutionary psychology.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/MarineHabitat node31
+node31 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Marine Habitat</B></td></tr><tr><td href='http://purl.org/ontology/wo/MarineHabitat' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/MarineHabitat</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Approximately 71% of the Earth's surface is covered by the oceans, an area of some 223698816km/sq. Although marine life evolved around three billion years before life on land, marine habitats are relatively poorly studied and much of the ocean's depths remains unexplored.&quot;</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/shortDescription node45
+node45 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>short description</B></td></tr><tr><td href='http://purl.org/ontology/wo/shortDescription' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/shortDescription</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a short description with a Collection.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://www.bbc.co.uk/nature/kingdom node84
+node84 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>kingdom</B></td></tr><tr><td href='http://www.bbc.co.uk/nature/kingdom' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.bbc.co.uk/nature/kingdom</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/family node55
+node55 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>family</B></td></tr><tr><td href='http://purl.org/ontology/wo/family' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/family</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a taxon rank with a family&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://en.wikipedia.org/wiki/Phylum node101
+node101 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Phylum</B></td></tr><tr><td href='http://en.wikipedia.org/wiki/Phylum' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://en.wikipedia.org/wiki/Phylum</font></td></tr></table> > ] 
+# http://www.bbc.co.uk/nature/adaptations node95
+node95 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>adaptations</B></td></tr><tr><td href='http://www.bbc.co.uk/nature/adaptations' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.bbc.co.uk/nature/adaptations</font></td></tr></table> > ] 
+# http://www.w3.org/2002/07/owl#Class node28
+node28 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Class</B></td></tr><tr><td href='http://www.w3.org/2002/07/owl#Class' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.w3.org/2002/07/owl#Class</font></td></tr></table> > ] 
+# http://purl.org/ontology/wo/#tom node85
+node85 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Tom Scott</B></td></tr><tr><td href='http://purl.org/ontology/wo/#tom' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/#tom</font></td></tr><tr><td align='left'>foaf:name</td><td align='left'>&quot;Tom Scott&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/ReproductionStrategy node46
+node46 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Reproduction Strategy</B></td></tr><tr><td href='http://purl.org/ontology/wo/ReproductionStrategy' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/ReproductionStrategy</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Reproduction covers all the tactics and behaviours involved in obtaining a mate, conceiving the next generation and successfully raising them. It includes everything from plants being pollinated, to stags fighting over hinds, to lionesses babysitting their sisters' cubs.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/Kingdom node52
+node52 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Kingdom</B></td></tr><tr><td href='http://purl.org/ontology/wo/Kingdom' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/Kingdom</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;Kingdoms are the major categories into which scientists divide up all living things. The main kingdoms are animals, plants, fungi and bacteria, although there are others. Each kingdom has its own suite of defining characteristics - for instance plants have rigid cell walls, whilst animals do not.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/Habitat node19
+node19 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Habitat</B></td></tr><tr><td href='http://purl.org/ontology/wo/Habitat' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/Habitat</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;A habitat, or biome, is the type of environment in which plant and animals live. Habitat is dictated by what kinds of plants grow there, the climate and the geography. Rainforest, coral reefs and the tundra are all habitats where particular kinds of plants and animals might be found.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/Phylum node12
+node12 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Phylum</B></td></tr><tr><td href='http://purl.org/ontology/wo/Phylum' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/Phylum</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;A phylum - also known as a division when referring to plants - is a scientfic way of grouping together related organisms. All the members of a phylum have a common ancestor and anatomical similarities. For instance, all the arthropods have external skeletons. Phlya are large groups and are further subdivided into classes, orders, families and so on.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/redListStatus node26
+node26 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>red list status</B></td></tr><tr><td href='http://purl.org/ontology/wo/redListStatus' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/redListStatus</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a Conservation Status with a category in the IUCN Red List&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/genus node51
+node51 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>genus</B></td></tr><tr><td href='http://purl.org/ontology/wo/genus' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/genus</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;associates a taxon rank with a genus&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/ontology/wo/Order node16
+node16 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Order</B></td></tr><tr><td href='http://purl.org/ontology/wo/Order' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/ontology/wo/Order</font></td></tr><tr><td align='left'>rdfs:comment</td><td align='left'>&quot;An order is a scientific way to categorise related organisms. An order is a smaller grouping than a class, but bigger than a family or genus. Examples of orders are willows, cockroaches and primates.&quot;@en-gb</td></tr><tr><td align='left'>vs:term_status</td><td align='left'>&quot;testing&quot;</td></tr></table> > ] 
+# http://purl.org/dc/terms/isPartOf node102
+node102 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>isPartOf</B></td></tr><tr><td href='http://purl.org/dc/terms/isPartOf' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://purl.org/dc/terms/isPartOf</font></td></tr></table> > ] 
+# http://en.wikipedia.org/wiki/Kingdom_%28biology%29 node104
+node104 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>http://en.wikipedia.org/wiki/Kingdom_%28biology%29</B></td></tr><tr><td href='http://en.wikipedia.org/wiki/Kingdom_%28biology%29' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://en.wikipedia.org/wiki/Kingdom_%28biology%29</font></td></tr></table> > ] 
+# http://www.iucnredlist.org/technical-documents/categories-and-criteria/2001-categories-criteria node81
+node81 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>categories-criteria</B></td></tr><tr><td href='http://www.iucnredlist.org/technical-documents/categories-and-criteria/2001-categories-criteria' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.iucnredlist.org/technical-documents/categories-and-criteria/2001-categories-criteria</font></td></tr></table> > ] 
+}

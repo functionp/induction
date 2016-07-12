@@ -1,7 +1,7 @@
 #-*- coding: utf-8 -*-
 
 from rdflib import Graph, URIRef, BNode, Literal, Namespace
-from rdflib.namespace import RDF, FOAF
+from rdflib.namespace import RDF, FOAF, OWL, RDFS
 
 
 bob = URIRef("http://example.org/people/Bob")
@@ -33,6 +33,12 @@ print "Bob is ", g.value( bob, FOAF.age )
 g.set( ( bob, FOAF.age, Literal(43) ) )
 print "Bob is now ", g.value( bob, FOAF.age )
 
+# bobをsubjにするグラフがあるかチェック
+#(bob, None, None) in graph
+
+for s,p,o in g.triples( (None,  RDF.type, None) ):
+   print "%s is a %s"%(s,o)
+
 # SubjectがBobのノードを全消し
 #g.remove( (bob, None, None) ) 
 
@@ -44,8 +50,6 @@ g2.parse("http://bigasterisk.com/foaf.rdf")
 
 print len(g2)
 
-g.parse("http://bigasterisk.com/foaf.rdf")
-print len(g)
 
 #for subj, pred, obj in g2:
 #    print "({0}, {1}, {2})".format(subj, pred, obj)

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:ns4="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q6901585">
+    <rdfs:label xml:lang="hy">Կենդանիների մենամուսնություն</rdfs:label>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">651</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://hy.dbpedia.org/resource/Կենդանիների_մենամուսնություն"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">129730981</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="en">Monogamous pairing in animals</rdfs:label>
+    <ns4:wasDerivedFrom rdf:resource="http://www.wikidata.org/wiki/Q6901585?oldid=129730981"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Monogamous_pairing_in_animals"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6758204</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q6901585"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-nl="http://nl.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Lijst_van_vogelgeslachten">
+    <dbpedia-owl:wikiPageExtracted rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-10-31T06:14:43+00:00</dbpedia-owl:wikiPageExtracted>
+    <dbpedia-owl:wikiPageEditLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Lijst_van_vogelgeslachten&amp;action=edit"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Inhoud_abc"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">63331</dbpedia-owl:wikiPageLength>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lijst van vogelgeslachten</rdfs:label>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Appendix"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43099435</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2195</dbpedia-owl:wikiPageOutDegree>
+    <dcterms:subject rdf:resource="http://nl.dbpedia.org/resource/Categorie:Lijsten_van_vogels"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deze Lijst van vogelgeslachten geeft een overzicht van alle 2197 vogelgeslachten in de wereld waarvan nog minimaal één soort bestaat.</rdfs:comment>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1789438</dbpedia-owl:wikiPageID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://nl.wikipedia.org/wiki/Lijst_van_vogelgeslachten"/>
+    <dbpedia-owl:wikiPageRevisionLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Lijst_van_vogelgeslachten&amp;oldid=43099435"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Lijst_van_vogelgeslachten"/>
+    <dbpedia-owl:wikiPageModified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-01-24T19:08:31+00:00</dbpedia-owl:wikiPageModified>
+    <dbpedia-owl:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deze Lijst van vogelgeslachten geeft een overzicht van alle 2197 vogelgeslachten in de wereld waarvan nog minimaal één soort bestaat.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageHistoryLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Lijst_van_vogelgeslachten&amp;action=history"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.wikipedia.org/wiki/Lijst_van_vogelgeslachten">
+    <foaf:primaryTopic rdf:resource="http://nl.dbpedia.org/resource/Lijst_van_vogelgeslachten"/>
+  </rdf:Description>
+</rdf:RDF>

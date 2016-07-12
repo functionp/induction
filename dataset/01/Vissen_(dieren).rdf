@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-nl="http://nl.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Vissen_(dieren)">
+    <dbpedia-owl:domain rdf:resource="http://nl.dbpedia.org/resource/Dierenrijk"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Woordenboek"/>
+    <dbpedia-owl:pictureDescription rdf:resource="http://nl.dbpedia.org/resource/Goudvis_(dier)"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7623</dbpedia-owl:wikiPageID>
+    <prop-nl:taxon rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Informele groep</prop-nl:taxon>
+    <dbpedia-owl:superTribus rdf:resource="http://nl.dbpedia.org/resource/Deuterostomia"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Navigatie_Vertebrata"/>
+    <dbpedia-owl:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vissen</dbpedia-owl:name>
+    <dbpedia-owl:wikiPageModified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-09-18T10:21:56+00:00</dbpedia-owl:wikiPageModified>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.fishbase.org"/>
+    <dbpedia-owl:wikiPageEditLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Vissen_(dieren)&amp;action=edit"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vissen (Pisces) zijn in het water levende gewervelde dieren die in de regel ademhalen met kieuwen. De meeste vissen zijn koudbloedig, maar sommige grotere soorten vertonen warmbloedige trekjes. Vissen komen over de hele wereld voor. Er zijn ruim 32.000 bekende soorten, in meer dan 500 families onderverdeeld en er wordt met regelmaat een nieuwe soort ontdekt.Vis vormt voor mensen een voorname voedselbron. De vis heeft ook een belangrijke cultuurhistorische en symbolische betekenis.</rdfs:comment>
+    <dbpedia-owl:scientificName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vissen</dbpedia-owl:scientificName>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">195</dbpedia-owl:wikiPageOutDegree>
+    <prop-nl:onderrijk rdf:resource="http://nl.dbpedia.org/resource/Eumetazoa"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Zie_ook"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:subTribus rdf:resource="http://nl.dbpedia.org/resource/Gewervelden"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">34118</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44921615</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://aquavisie.retry.org/Database/database.html"/>
+    <prop-nl:superstam rdf:resource="http://nl.dbpedia.org/resource/Deuterostomia"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Clade"/>
+    <dbpedia-owl:wikiPageHistoryLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Vissen_(dieren)&amp;action=history"/>
+    <prop-nl:onderstam rdf:resource="http://nl.dbpedia.org/resource/Gewervelden"/>
+    <dbpedia-owl:tribus rdf:resource="http://nl.dbpedia.org/resource/Chordadieren"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Largethumb"/>
+    <prop-nl:stam rdf:resource="http://nl.dbpedia.org/resource/Chordadieren"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.soortenbank.nl/hoofdgroepen.php?groep=Vissen&amp;selectie=6&amp;hoofdgroepen_pad=%2C1%2C6"/>
+    <dbpedia-owl:wikiPageRevisionLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Vissen_(dieren)&amp;oldid=44921615"/>
+    <prop-nl:rijk rdf:resource="http://nl.dbpedia.org/resource/Dierenrijk"/>
+    <prop-nl:afbeelding rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gullfiskur.jpg</prop-nl:afbeelding>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Vissen_(dieren)"/>
+    <dbpedia-owl:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vissen (Pisces) zijn in het water levende gewervelde dieren die in de regel ademhalen met kieuwen. De meeste vissen zijn koudbloedig, maar sommige grotere soorten vertonen warmbloedige trekjes. Vissen komen over de hele wereld voor. Er zijn ruim 32.000 bekende soorten, in meer dan 500 families onderverdeeld en er wordt met regelmaat een nieuwe soort ontdekt.Vis vormt voor mensen een voorname voedselbron. De vis heeft ook een belangrijke cultuurhistorische en symbolische betekenis.</dbpedia-owl:abstract>
+    <prop-nl:afbeeldingtekst rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Een goudvis .</prop-nl:afbeeldingtekst>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vissen (dieren)</rdfs:label>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Appendix"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Taxobox"/>
+    <dcterms:subject rdf:resource="http://nl.dbpedia.org/resource/Categorie:Vis"/>
+    <prop-nl:naam rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vissen</prop-nl:naam>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://nl.wikipedia.org/wiki/Vissen_(dieren)"/>
+    <dbpedia-owl:wikiPageExtracted rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-11-02T11:50:15+00:00</dbpedia-owl:wikiPageExtracted>
+    <prop-nl:wNaam rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vissen</prop-nl:wNaam>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Rugvin">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Vissen_(dieren)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Zoutwatervis">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Vissen_(dieren)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Leedsichthys">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vissen_(dieren)"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vissen_(dieren)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Vissen">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://nl.dbpedia.org/resource/Vissen_(dieren)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Vis">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://nl.dbpedia.org/resource/Vissen_(dieren)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Vis_(dier)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Vissen_(dieren)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.wikipedia.org/wiki/Vissen_(dieren)">
+    <foaf:primaryTopic rdf:resource="http://nl.dbpedia.org/resource/Vissen_(dieren)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Zoetwatervis">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Vissen_(dieren)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Visgraat_(skelet)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Vissen_(dieren)"/>
+  </rdf:Description>
+</rdf:RDF>

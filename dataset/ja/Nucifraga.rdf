@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-ja="http://ja.dbpedia.org/property/"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ホシガラス">
+    <owl:sameAs rdf:resource="http://sah.dbpedia.org/resource/Оҥоло"/>
+    <owl:sameAs rdf:resource="http://pms.dbpedia.org/resource/Nucifraga_caryocatactes"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Wikispecies"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Bird-stub"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Nucifraga_caryocatactes"/>
+    <foaf:name xml:lang="ja">鳥綱</foaf:name>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/平凡社"/>
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/Nucifraga_caryocatactes"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/新北区"/>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Fenyőszajkó"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スズメ目"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Nötkråka"/>
+    <prop-ja:assessors xml:lang="ja">BirdLife International</prop-ja:assessors>
+    <dbpedia-owl:binomial rdf:resource="http://ja.dbpedia.org/resource/1758年"/>
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Арэхаўка,_птушка"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:生物分類表"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://cyberbirding.uib.no/photo/n_caryocatactes_02.php"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:IUCN2006"/>
+    <prop-ja:downloaded rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</prop-ja:downloaded>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79873</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/Nøttekråke"/>
+    <owl:sameAs rdf:resource="http://ka.dbpedia.org/resource/მეთხილია"/>
+    <dbpedia-owl:family rdf:resource="http://ja.dbpedia.org/resource/カラス科"/>
+    <prop-ja:画像 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</prop-ja:画像>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ハイマツ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/マルハナバチ"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Ořešník_kropenatý"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Nucifraga_caryocatactes"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q184820"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/マツ"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">45</dbpedia-owl:wikiPageOutDegree>
+    <owl:sameAs rdf:resource="http://tt.dbpedia.org/resource/Эрбетче"/>
+    <owl:sameAs rdf:resource="http://ceb.dbpedia.org/resource/Nucifraga_caryocatactes"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Intxaurjale"/>
+    <owl:sameAs rdf:resource="http://br.dbpedia.org/resource/Torrer-kraoñ_brizhellek"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スズメバチ"/>
+    <foaf:depiction rdf:resource="http://ja.wikipedia.org/wiki/Special:FilePath/Wiki-hosigarasu.jpg"/>
+    <prop-ja:year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</prop-ja:year>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Spotted_nutcracker"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://web.archive.org/web/20030915144213/http:/www.birdclubkatwijk.nl/Gallery%20nieuw/Spotted%20Nutcracker.htm"/>
+    <owl:sameAs rdf:resource="http://mn.dbpedia.org/resource/Бидэрт_самарчшаазгай"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/黒田長久"/>
+    <owl:sameAs rdf:resource="http://fo.dbpedia.org/resource/Krákukárn"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q184820"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1758年"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Горіхівка_(птах)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/飛騨山脈"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/アルプス山脈"/>
+    <owl:sameAs rdf:resource="http://ba.dbpedia.org/resource/Баян_ҡош"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/種子"/>
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/ホシガラス?oldid=49024068"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/高山帯"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Nucifraga_caryocatactes"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/センチメートル"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/迷鳥"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ハシバミ"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/فندق‌شکن_خالدار"/>
+    <rdfs:comment xml:lang="ja">ホシガラス（星鴉、学名：Nucifraga caryocatactes)はスズメ目カラス科ホシガラス属に分類される鳥類の一種である。</rdfs:comment>
+    <prop-ja:英名 rdf:resource="http://ja.dbpedia.org/resource/W:Spotted_Nutcracker"/>
+    <owl:sameAs rdf:resource="http://lt.dbpedia.org/resource/Riešutinė"/>
+    <prop-ja:省略 xml:lang="ja">鳥綱</prop-ja:省略>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ヒマラヤ山脈"/>
+    <dbpedia-owl:conservationStatus>LC</dbpedia-owl:conservationStatus>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Tannenhäher"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チョウセンゴヨウ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ゴヨウマツ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カルパティア山脈"/>
+    <owl:sameAs rdf:resource="http://pnb.dbpedia.org/resource/دھبیانوالا_گری_توڑنا"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Wiki-hosigarasu.jpg"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Cassenoix_moucheté"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://ja.wikipedia.org/wiki/Special:FilePath/Wiki-hosigarasu.jpg?width=300"/>
+    <owl:sameAs rdf:resource="http://commons.dbpedia.org/resource/Nucifraga_caryocatactes"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/シロマツ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/トウヒ"/>
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Nøttekråke"/>
+    <prop-ja:科 xml:lang="ja">カラス科 Corvidae</prop-ja:科>
+    <dbpedia-owl:abstract xml:lang="ja">ホシガラス（星鴉、学名：Nucifraga caryocatactes)はスズメ目カラス科ホシガラス属に分類される鳥類の一種である。</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/Лешникарка"/>
+    <prop-ja:種 xml:lang="ja">ホシガラス</prop-ja:種>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1986年"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Καρυοθραύστης_(πτηνό)"/>
+    <prop-ja:status xml:lang="ja">LC</prop-ja:status>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49024068</dbpedia-owl:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://lv.dbpedia.org/resource/Riekstrozis"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:カラス科"/>
+    <prop-ja:目 xml:lang="ja">スズメ目 Passeriformes</prop-ja:目>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/冠羽"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/鳥類"/>
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Nøddekrige"/>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Mänsak"/>
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Orešnica_perlavá"/>
+    <rdfs:label xml:lang="ja">ホシガラス</rdfs:label>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Кедровка"/>
+    <dbpedia-owl:binomial rdf:resource="http://ja.dbpedia.org/resource/カール・フォン・リンネ"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/ホシガラス"/>
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/Krekovt"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Pähkinähakki"/>
+    <dbpedia-owl:order rdf:resource="http://ja.dbpedia.org/resource/スズメ目"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/タイガ"/>
+    <prop-ja:属 xml:lang="ja">ホシガラス属 Nucifraga</prop-ja:属>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Commons&amp;cat"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/星鴉"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カケス"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/個体群"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/W:Spotted_Nutcracker"/>
+    <prop-ja:title xml:lang="ja">Nucifraga caryocatactes</prop-ja:title>
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Göknar_kargası"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/孵化"/>
+    <owl:sameAs rdf:resource="http://kk.dbpedia.org/resource/Самыркеш"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/燕岳"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:PAGENAME"/>
+    <prop-ja:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51143</prop-ja:id>
+    <prop-ja:種 xml:lang="ja">N. caryocatactes</prop-ja:種>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Сокерица"/>
+    <foaf:name xml:lang="ja">Spotted Nutcracker</foaf:name>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ハイイロホシガラス"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:要出典"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/インターネット・アーカイブ"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Nuksrompulo"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Notenkraker_(Europese_vogel)"/>
+    <owl:sameAs rdf:resource="http://fy.dbpedia.org/resource/Nutekreaker"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カール・フォン・リンネ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/旧北区"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/渡り鳥"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/バルカン半島"/>
+    <prop-ja:学名 xml:lang="ja">Nucifraga caryocatactes</prop-ja:学名>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Orzechówka_zwyczajna"/>
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Nucifraga_caryocatactes"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス科"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Trencanous"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">3345</dbpedia-owl:wikiPageLength>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ハマル＝ダバン山脈">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/イギリスの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/星鴉">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/中国の野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本の野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/チョコエッグ一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/爺ヶ岳">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ハシナガホシガラス">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/ホシガラス.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カラス上科">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/インド亜大陸の野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/北岳">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/空木岳">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/西穂高岳">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/仙涯嶺">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/台湾の野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ハイマツ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ハイイロホシガラス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/モンゴルの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/鹿島槍ヶ岳">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/御嶽山_(長野県)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/松かさ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/韓国の野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/乗鞍岳">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/チベットの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ロシアの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/ホシガラス">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/常念岳">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/中部山岳国立公園">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カラス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カラス科">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/利根川">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシガラス"/>
+  </rdf:Description>
+</rdf:RDF>

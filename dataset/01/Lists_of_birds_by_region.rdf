@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dbp="http://dbpedia.org/property/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lists_of_birds_by_region">
+    <rdfs:comment xml:lang="en">The following are the regional bird lists by continent. Some are full species lists, others, particularly continental lists, have just the families.For another list see Category:Lists of birds by location</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lists_of_birds_by_country"/>
+    <rdfs:label xml:lang="en">Lists of birds by region</rdfs:label>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q6646911"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Lists_of_birds_by_region"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Lists_of_birds_by_region"/>
+    <dbp:nonum xml:lang="en">y</dbp:nonum>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lists_of_birds_by_location"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6646911"/>
+    <dbo:abstract xml:lang="en">The following are the regional bird lists by continent. Some are full species lists, others, particularly continental lists, have just the families.For another list see Category:Lists of birds by location</dbo:abstract>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Anexo:Aves_por_región"/>
+    <dbo:abstract xml:lang="ar">قائمة الطيور حسب المنطقة</dbo:abstract>
+    <dbp:limit rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:limit>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">673003389</dbo:wikiPageRevisionID>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517122</dbo:wikiPageID>
+    <rdfs:comment xml:lang="ar">قائمة الطيور حسب المنطقة</rdfs:comment>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Lists_of_birds_by_region?oldid=673003389"/>
+    <rdfs:label xml:lang="ar">قائمة الطيور حسب المنطقة</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Lists_of_birds_by_region"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_regional_bird_lists">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Lists_of_birds_by_region"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lists_of_regional_birds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Lists_of_birds_by_region"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Lists_of_birds_by_region">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Lists_of_birds_by_region"/>
+  </rdf:Description>
+</rdf:RDF>

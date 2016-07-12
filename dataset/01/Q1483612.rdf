@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:ns4="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q1483612">
+    <rdfs:label xml:lang="nl">Cuckolding</rdfs:label>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1483612"/>
+    <rdfs:label xml:lang="fr">Cuckolding</rdfs:label>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4431</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Aisankannattaja"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Paroháč"/>
+    <owl:sameAs rdf:resource="http://eml.dbpedia.org/resource/Bêc_(tradî)"/>
+    <rdfs:label xml:lang="sv">Hanrej</rdfs:label>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Рогоносец"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Cuckolding"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Hanrej"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/寝取られ"/>
+    <rdfs:label xml:lang="ja">寝取られ</rdfs:label>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Cuckold"/>
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Hanrej"/>
+    <owl:sameAs rdf:resource="http://wa.dbpedia.org/resource/Wiyinme"/>
+    <rdfs:label xml:lang="pt">Cuckold</rdfs:label>
+    <owl:sameAs rdf:resource="http://br.dbpedia.org/resource/Doganerezh"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/دیوث"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Cuckolding"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">182020587</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="ar">ديوث</rdfs:label>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/绿帽子"/>
+    <rdfs:label xml:lang="ca">Cuckold</rdfs:label>
+    <rdfs:label xml:lang="ru">Рогоносец</rdfs:label>
+    <rdfs:label xml:lang="it">Cuckold</rdfs:label>
+    <rdfs:label xml:lang="de">Hahnrei</rdfs:label>
+    <rdfs:label xml:lang="et">cuckold</rdfs:label>
+    <rdfs:label xml:lang="zh">绿帽子</rdfs:label>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Hahnrei"/>
+    <rdfs:label xml:lang="el">cuckolding</rdfs:label>
+    <ns4:wasDerivedFrom rdf:resource="http://www.wikidata.org/wiki/Q1483612?oldid=182020587"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1421480</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cuckold"/>
+    <rdfs:label xml:lang="en">Cuckold</rdfs:label>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/ديوث"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Cuckold"/>
+    <rdfs:label xml:lang="sl">cuckolding</rdfs:label>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Cuckold"/>
+    <owl:sameAs rdf:resource="http://freebase.com//m/01q_g9"/>
+    <rdfs:label xml:lang="cs">Paroháč</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

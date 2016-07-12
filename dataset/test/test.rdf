@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dbp="http://dbpedia.org/property/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_crow_(bird)">
+    <dbo:kingdom rdf:resource="http://dbpedia.org/resource/Animal"/>
+    <dbp:species xml:lang="en">C. bennetti</dbp:species>
+    <rdfs:comment xml:lang="en">The little crow (Corvus bennetti) is an Australian species of crow, very similar to the Torresian crow in having white bases to the neck and head feathers (shown when ruffled in strong wind) but slightly smaller (38–45 cm in length) and with a slightly smaller bill. It has the same white iris that distinguish the Australian species from all other Corvus except a few island species to the north of Australia, and one from Eurasia, the jackdaw (Corvus monedula).</rdfs:comment>
+    <rdfs:label xml:lang="it">Corvus bennetti</rdfs:label>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Corvus_bennetti"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Corvus_(genus)"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Western_Australia"/>
+    <rdfs:comment xml:lang="ru">Беннетов ворон (лат. Corvus Bennetti) — австралийский вид воронов, по внешнему виду очень похож на Австралийского ворона (Corvus orru) тем, что обладает белыми перьями у основания шеи и головы (они видны только при сильном ветре, когда он ерошит оперение), однако размером он немного меньше (42-48 см в длину) и его клюв также пропорционально меньше.</rdfs:comment>
+    <dbp:ordo rdf:resource="http://dbpedia.org/resource/Passerine"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Corvus_bennetti"/>
+    <dbo:conservationStatusSystem>IUCN3.1</dbo:conservationStatusSystem>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Wrona_mała"/>
+    <dbo:binomialAuthority rdf:resource="http://dbpedia.org/resource/Alfred_John_North"/>
+    <dbp:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Little_crow_(bird)"/>
+    <dbp:statusSystem xml:lang="en">IUCN3.1</dbp:statusSystem>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Corbeau_du_désert"/>
+    <dbo:order rdf:resource="http://dbpedia.org/resource/Passerine"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.viridans.com/birdpics/691amc2.jpg"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q729"/>
+    <dbp:rangeMap xml:lang="en">Corvus_bennetti_map.jpg</dbp:rangeMap>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Little_crow_(Fifer).jpg?width=300"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">211640</dbo:wikiPageID>
+    <dbp:status xml:lang="en">LC</dbp:status>
+    <rdfs:label xml:lang="es">Corvus bennetti</rdfs:label>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Little_crow_(bird)"/>
+    <dbo:abstract xml:lang="en">The little crow (Corvus bennetti) is an Australian species of crow, very similar to the Torresian crow in having white bases to the neck and head feathers (shown when ruffled in strong wind) but slightly smaller (38–45 cm in length) and with a slightly smaller bill. It has the same white iris that distinguish the Australian species from all other Corvus except a few island species to the north of Australia, and one from Eurasia, the jackdaw (Corvus monedula). Like the Australian raven, this species  has a blue ring around the pupil.</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://members.iinet.net.au/~foconnor/birds/photos/little_crow_1.jpg"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_South_Australia"/>
+    <dbo:conservationStatus>LC</dbo:conservationStatus>
+    <rdfs:label xml:lang="nl">Bennetts kraai</rdfs:label>
+    <dbo:abstract xml:lang="zh">小嘴鸦（学名：Corvus bennetti），是鸦科鸦属的一种，是游猎迁徙的候鸟，为澳大利亚的特有种。该物种的保护状况被评为无危。小嘴鸦的平均体重约为395.0克。栖息地包括亚热带或热带的（低地）干燥疏灌丛、牧草地、城市、耕地、干燥的稀树草原和亚热带或热带的（低地）干草原。</dbo:abstract>
+    <dbo:abstract xml:lang="es">El Cuervo chico (Corvus bennetti) es una especie australiana de cuervo, muy parecido al  cuervo australiano en el sentido de que tienen plumas blancas en el cuello y en la cabeza, pero difieren en que son más pequeños (De 42 a 48 cm) con un pico proporcionalmente más pequeño. Tiene también el iris blanco que distingue a las especies australianas de cuervo de todas las demás, con excepción de la  grajilla euroasiática. Al igual que el cuervo australiano grande, esta especie tiene una anillo azul alrededor de la pupila y algunas veces otro anillo azul alrededor del iris.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Bennetts_kraai"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Little_crow_(bird)?oldid=644193300"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animals_described_in_1901"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1299703"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01f0kk"/>
+    <rdfs:label xml:lang="ru">Беннетов ворон</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Bird"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+    <dbp:name xml:lang="en">Little crow</dbp:name>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <rdfs:label xml:lang="en">Little crow (bird)</rdfs:label>
+    <dbo:abstract xml:lang="pl">Wrona mała (Corvus bennetti) – gatunek ptaka z rodziny krukowatych (Corvidae) zamieszkujący Australię. Z wyglądu bardzo przypominają wronę papuaską - mają białą podstawę szyi oraz przejaśnienia na głowie, co widać w trakcie stroszenia na silnym wietrze. Jest jednak nieco mniejsza - osiąga 42-48 cm długości. Ma też proporcjonalnie mniejszy dziób. Posiada podobnie białą tęczówkę, która odróżnia te dwa australijskie gatunki od pozostałych w rodzaju Corvus, poza paroma wyspowymi gatunkami na północy Australii i jednym żyjącym w Eurazji - kawką (Corvus monedula). Podobnie jak kruk australijski, wrona mała ma niebieską obwódkę wokół źrenic, a czasem również taką otoczkę po najbardziej zewnętrznej krawędzi białej tęczówki.</dbo:abstract>
+    <rdfs:label xml:lang="pl">Wrona mała</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Corvus_bennetti"/>
+    <dbp:classis rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Corvus_bennetti"/>
+    <dbo:abstract xml:lang="it">Il corvo australiano (Corvus bennetti North, 1901) è un uccello appartenente alla famiglia Corvidae, endemico dell'Australia.</dbo:abstract>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/Corvidae"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1299703"/>
+    <dbp:regnum xml:lang="en">Animalia</dbp:regnum>
+    <dbp:binomialAuthority xml:lang="en">North, 1901</dbp:binomialAuthority>
+    <rdfs:comment xml:lang="fr">Corvus bennettiLe Corbeau du désert (Corvus bennetti) est une espèce australienne de passereau de la famille des Corvidae.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El Cuervo chico (Corvus bennetti) es una especie australiana de cuervo, muy parecido al  cuervo australiano en el sentido de que tienen plumas blancas en el cuello y en la cabeza, pero difieren en que son más pequeños (De 42 a 48 cm) con un pico proporcionalmente más pequeño. Tiene también el iris blanco que distingue a las especies australianas de cuervo de todas las demás, con excepción de la  grajilla euroasiática.</rdfs:comment>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/Corvidae"/>
+    <rdfs:comment xml:lang="pl">Wrona mała (Corvus bennetti) – gatunek ptaka z rodziny krukowatych (Corvidae) zamieszkujący Australię. Z wyglądu bardzo przypominają wronę papuaską - mają białą podstawę szyi oraz przejaśnienia na głowie, co widać w trakcie stroszenia na silnym wietrze. Jest jednak nieco mniejsza - osiąga 42-48 cm długości. Ma też proporcjonalnie mniejszy dziób.</rdfs:comment>
+    <dbo:abstract xml:lang="fr">Corvus bennettiLe Corbeau du désert (Corvus bennetti) est une espèce australienne de passereau de la famille des Corvidae.</dbo:abstract>
+    <rdfs:comment xml:lang="nl">De Bennetts kraai (Corvus bennetti) behoort tot de familie van de kraaiachtigen.</rdfs:comment>
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Corvus_(genus)"/>
+    <dbo:abstract xml:lang="nl">De Bennetts kraai (Corvus bennetti) behoort tot de familie van de kraaiachtigen.</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.dwpicture.com.au/search.asp?look_for=crow"/>
+    <rdfs:label xml:lang="pt">Corvus bennetti</rdfs:label>
+    <rdfs:label xml:lang="zh">小嘴鸦</rdfs:label>
+    <dbo:abstract xml:lang="ru">Беннетов ворон (лат. Corvus Bennetti) — австралийский вид воронов, по внешнему виду очень похож на Австралийского ворона (Corvus orru) тем, что обладает белыми перьями у основания шеи и головы (они видны только при сильном ветре, когда он ерошит оперение), однако размером он немного меньше (42-48 см в длину) и его клюв также пропорционально меньше. У него такая же белая радужка глаза, которая отличает австралийские виды от всех других видов воронов, за исключением нескольких островных видов к северу от Австралии, и одного из Евразии (галки, Corvus monedula) (Corvus monedula). Также как и у австралийского, у беннетова ворона вокруг зрачка есть кольцо голубого цвета, а иногда и на внешнем краю белой радужки.</dbo:abstract>
+    <rdfs:comment xml:lang="zh">小嘴鸦（学名：Corvus bennetti），是鸦科鸦属的一种，是游猎迁徙的候鸟，为澳大利亚的特有种。该物种的保护状况被评为无危。小嘴鸦的平均体重约为395.0克。栖息地包括亚热带或热带的（低地）干燥疏灌丛、牧草地、城市、耕地、干燥的稀树草原和亚热带或热带的（低地）干草原。</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il corvo australiano (Corvus bennetti North, 1901) è un uccello appartenente alla famiglia Corvidae, endemico dell'Australia.</rdfs:comment>
+    <rdfs:label xml:lang="fr">Corbeau du désert</rdfs:label>
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">644193300</dbo:wikiPageRevisionID>
+    <dbo:abstract xml:lang="pt">O Corvus bennetti é uma ave da família Corvidae (corvos)</dbo:abstract>
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbp:binomial xml:lang="en">Corvus bennetti</dbp:binomial>
+    <foaf:name xml:lang="en">Little crow</foaf:name>
+    <rdfs:comment xml:lang="pt">O Corvus bennetti é uma ave da família Corvidae (corvos)</rdfs:comment>
+    <dbp:rangeMapWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:rangeMapWidth>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Little_crow_(Fifer).jpg"/>
+    <dbp:genus xml:lang="en">Corvus</dbp:genus>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Collared_crow">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/20090908厦门-白颈鸦.jpg?width=300"/>
+    <dbp:synonyms xml:lang="en">*Corvus pectoralis (Gould, 1836)</dbp:synonyms>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animals_described_in_1836"/>
+    <dbp:ordo rdf:resource="http://dbpedia.org/resource/Passerine"/>
+    <dbo:abstract xml:lang="es">El cuervo de collar (Corvus torquatus),es una especie de ave en la familia Corvidae, que es nativa de China.</dbo:abstract>
+    <dbo:binomialAuthority rdf:resource="http://dbpedia.org/resource/René_Lesson"/>
+    <rdfs:comment xml:lang="en">The collared crow (Corvus torquatus), also known as the ring-necked crow or white-collared crow, is a member of the Corvidae family native to China.</rdfs:comment>
+    <dbo:synonym>*Corvus pectoralis (Gould, 1836)</dbo:synonym>
+    <dbp:status xml:lang="en">NT</dbp:status>
+    <dbp:rangeMap xml:lang="en">Corvus_torquatus_map.jpg</dbp:rangeMap>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Bird"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.orientalbirdimages.org/images/data/collared_crow_copy_mh.jpg"/>
+    <rdfs:label xml:lang="nl">Halsbandkraai</rdfs:label>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/Corvidae"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <dbp:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:comment xml:lang="es">El cuervo de collar (Corvus torquatus),es una especie de ave en la familia Corvidae, que es nativa de China.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2579959"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.orientalbirdimages.org/images/data/collared_crow_4378a_mk.jpg"/>
+    <dbp:species xml:lang="en">C. torquatus</dbp:species>
+    <rdfs:label xml:lang="ru">Ошейниковый ворон</rdfs:label>
+    <dbo:abstract xml:lang="ru">Ошейниковый ворон (лат.  Corvus torquatus) — вид птиц из рода во́ронов.</dbo:abstract>
+    <dbp:binomialAuthority xml:lang="en">Lesson, 1831</dbp:binomialAuthority>
+    <dbp:statusSystem xml:lang="en">IUCN3.1</dbp:statusSystem>
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Corvus_torquatus"/>
+    <rdfs:comment xml:lang="zh">白颈鸦（学名：Corvus torquatus）为鸦科鸦属的鸟类。分布于文莱、台湾岛以及中国大陆的东北、河北西达山西、陕西、甘肃、四川、云南、南抵福建、广东、海南等地，一般栖息于平原、丘陵或低山、也见于海拔2500m 左右的山地、多栖于开阔的农田、河滩和河湾等处以及筑巢于高大树上。该物种的模式产地在中国。</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Crows"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Corvus_torquatus"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2579959"/>
+    <rdfs:comment xml:lang="nl">De halsbandkraai (Corvus torquatus, synoniem: Corvus pectoralis) behoort tot de familie van de kraaiachtigen.</rdfs:comment>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.orientalbirdimages.org/images/data/collared_crow_4360_mk.jpg"/>
+    <dbo:abstract xml:lang="en">The collared crow (Corvus torquatus), also known as the ring-necked crow or white-collared crow, is a member of the Corvidae family native to China.</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.birdlife.org/action/science/species/global_species_programme/whats_new.html"/>
+    <dbp:binomial xml:lang="en">Corvus torquatus</dbp:binomial>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Collared_crow"/>
+    <dbo:conservationStatus>NT</dbo:conservationStatus>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Collared_crow?oldid=634071047"/>
+    <dbo:conservationStatusSystem>IUCN3.1</dbo:conservationStatusSystem>
+    <dbp:genus xml:lang="en">Corvus</dbp:genus>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Corvus_(genus)"/>
+    <rdfs:comment xml:lang="ru">Ошейниковый ворон (лат.  Corvus torquatus) — вид птиц из рода во́ронов.</rdfs:comment>
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <rdfs:label xml:lang="es">Corvus torquatus</rdfs:label>
+    <dbp:name xml:lang="en">Collared crow</dbp:name>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q729"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">218717</dbo:wikiPageID>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01f_m5"/>
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Corvus_(genus)"/>
+    <dbp:regnum xml:lang="en">Animalia</dbp:regnum>
+    <dbo:kingdom rdf:resource="http://dbpedia.org/resource/Animal"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/Corvidae"/>
+    <dbo:abstract xml:lang="zh">白颈鸦（学名：Corvus torquatus）为鸦科鸦属的鸟类。分布于文莱、台湾岛以及中国大陆的东北、河北西达山西、陕西、甘肃、四川、云南、南抵福建、广东、海南等地，一般栖息于平原、丘陵或低山、也见于海拔2500m 左右的山地、多栖于开阔的农田、河滩和河湾等处以及筑巢于高大树上。该物种的模式产地在中国。</dbo:abstract>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Collared_crow"/>
+    <dbo:abstract xml:lang="nl">De halsbandkraai (Corvus torquatus, synoniem: Corvus pectoralis) behoort tot de familie van de kraaiachtigen.</dbo:abstract>
+    <foaf:name xml:lang="en">Collared crow</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/20090908厦门-白颈鸦.jpg"/>
+    <rdfs:label xml:lang="zh">白颈鸦</rdfs:label>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">634071047</dbo:wikiPageRevisionID>
+    <dbp:classis rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <dbp:rangeMapWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</dbp:rangeMapWidth>
+    <dbo:order rdf:resource="http://dbpedia.org/resource/Passerine"/>
+    <dbp:rangeMapCaption xml:lang="en">Global range</dbp:rangeMapCaption>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Halsbandkraai"/>
+    <rdfs:label xml:lang="en">Collared crow</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyto">
+    <rdfs:comment xml:lang="it">Tyto Billberg, 1828 è un genere di uccelli della famiglia Tytonidae, comunemente noti come barbagianni.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/Barn-owl"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q729"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Concept105835747"/>
+    <dbp:synonyms xml:lang="en">Strix (sensu  auct. non Linnaeus, 1758 - preoccupied)</dbp:synonyms>
+    <rdfs:label xml:lang="zh">草鸮属</rdfs:label>
+    <dbo:abstract xml:lang="pt">Tyto é um gênero de corujas da família Tytonidae. São corujas cosmopolitas, mais difundidas nas regiões quentes.</dbo:abstract>
+    <dbo:order rdf:resource="http://dbpedia.org/resource/Owl"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tyto"/>
+    <dbp:ordo rdf:resource="http://dbpedia.org/resource/Owl"/>
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <dbo:abstract xml:lang="pl">Płomykówki (Tytoninae) – monotypowa podrodzina ptaków z rodziny płomykówkowatych (Tytonidae).</dbo:abstract>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tyto"/>
+    <dbo:abstract xml:lang="ru">Сипухи (лат. Tyto) — один из двух родов хищных птиц семейства сипуховых. Верхняя часть тела более тёмная, чем нижняя, обычно рыже-бурых тонов. Нижняя часть туловища обычно с тёмными крапинками, однако их рисунок может значительно различаться у отдельных видов. Лицевой диск в форме сердца, и в отличие от близких им масковых сипух (Phodilus) и многих других видов сов, перья в виде ушей у них отсутствуют. Как правило, настоящие сипухи более крупные, чем масковые. Известны с миоцена, в плиоцене и плейстоцене получили своё развитие. Ранние формы сипух были крупнее, а некоторые островные виды имели гигантские по сравнению с нынешними размеры. Наибольшее биоразнообразие видов наблюдается в Австралии. Реликтовые виды сохранились в Африке, на Мадагаскаре и в Юго-Восточной Азии.</dbo:abstract>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/EukaryoticCell"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Tyto?oldid=677231715"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Bird"/>
+    <dbp:imageCaption xml:lang="en">African grass owl, Tyto capensis</dbp:imageCaption>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Tyto"/>
+    <dbo:abstract xml:lang="nl">Tyto is een geslacht van uilen binnen de familie kerkuilen (Tytonidae), met als bekende soort de 'gewone' kerkuil. Het geslacht telt 16 soorten.</dbo:abstract>
+    <dbo:kingdom rdf:resource="http://dbpedia.org/resource/Animal"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Owls"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/Barn-owl"/>
+    <dbo:abstract xml:lang="it">Tyto Billberg, 1828 è un genere di uccelli della famiglia Tytonidae, comunemente noti come barbagianni.</dbo:abstract>
+    <rdfs:label xml:lang="it">Tyto</rdfs:label>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Tyto"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Bird"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <dbo:synonym>Strix (sensu  auct. non Linnaeus, 1758 -preoccupied)</dbo:synonym>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Idea105833840"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeneraOfBirds"/>
+    <rdfs:comment xml:lang="en">The genus Tyto includes all barn owls (family Tytonidae) except for the bay owls (subfamily Phodilinae, genus  Phodilus) - that is, the true barn owls, the grass owls and the masked owls collectively making up the subfamily Tytoninae. They are darker on the back than the front, usually an orange-brown colour, the front being a paler version of the back or mottled, although there is considerable variation even amongst species.</rdfs:comment>
+    <dbp:subfamilia xml:lang="en">Tytoninae</dbp:subfamilia>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nm.cz/download/JML-18-2002-CBE.pdf"/>
+    <dbo:abstract xml:lang="es">Tyto es un género de aves estrigiformes de la familia Tytonidae. El género agrupa alrededor de 13 a 15 especies distribuidas en casi todo el mundo. El número exacto de especies incluidas es algo en discusión. Al igual que todos los titónidos, los miembros del género son aves de presa nocturnas de tamaño mediano-grande y tienen una cabeza relativamente grande con la cara en forma de corazón. Sus patas son largas y equipadas de fuertes garras bien desarrolladas. El plumaje es generalmente de color marrón, beige y crema o blanco, con manchas o rayas. El nombre genérico tyto viene del griego onomatopéyico (τυτο) para búho.</dbo:abstract>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bird_genera"/>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Grass_Owl_adult.jpg?width=300"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+    <rdfs:comment xml:lang="ru">Сипухи (лат. Tyto) — один из двух родов хищных птиц семейства сипуховых. Верхняя часть тела более тёмная, чем нижняя, обычно рыже-бурых тонов. Нижняя часть туловища обычно с тёмными крапинками, однако их рисунок может значительно различаться у отдельных видов. Лицевой диск в форме сердца, и в отличие от близких им масковых сипух (Phodilus) и многих других видов сов, перья в виде ушей у них отсутствуют. Как правило, настоящие сипухи более крупные, чем масковые.</rdfs:comment>
+    <dbp:genusAuthority xml:lang="en">Billberg, 1828</dbp:genusAuthority>
+    <rdfs:label xml:lang="de">Schleiereulen (Gattung)</rdfs:label>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Schleiereulen_(Gattung)"/>
+    <dbp:imageCaption xml:lang="en">The "grass owls" are two rather long-legged species of Tyto.</dbp:imageCaption>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Cognition100023271"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Content105809192"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">677231715</dbo:wikiPageRevisionID>
+    <rdfs:comment xml:lang="de">Die Schleiereulen (Tyto) sind eine artenreiche Gattung innerhalb der Familie der Schleiereulen. Die Gattung ist nahezu weltweit verbreitet.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Tyto é um gênero de corujas da família Tytonidae. São corujas cosmopolitas, mais difundidas nas regiões quentes.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q375716"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Tyto"/>
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <dbp:regnum xml:lang="en">Animalia</dbp:regnum>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Animal"/>
+    <dbp:genus xml:lang="en">Tyto</dbp:genus>
+    <rdfs:comment xml:lang="pl">Płomykówki (Tytoninae) – monotypowa podrodzina ptaków z rodziny płomykówkowatych (Tytonidae).</rdfs:comment>
+    <dbo:abstract xml:lang="fr">TytoLes effraies sont des chouettes à grosse tête et au disque facial en forme de cœur. Leurs pattes sont longues et munies de doigts puissants, habituellement avec des serres bien développées. Le plumage est généralement brun fauve et crème ou blanc, tacheté, moucheté ou barré.Les effraies appartiennent au genre Tyto, qui à lui seul constitue la sous-famille des Tytoninae, l'une des deux sous-familles des tytonidés.</dbo:abstract>
+    <dbp:fossilRange rdf:resource="http://dbpedia.org/resource/Late_Miocene"/>
+    <dbp:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Genus105845013"/>
+    <rdfs:label xml:lang="ru">Сипухи</rdfs:label>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3034219</dbo:wikiPageID>
+    <rdfs:label xml:lang="nl">Tyto</rdfs:label>
+    <dbo:abstract xml:lang="de">Die Schleiereulen (Tyto) sind eine artenreiche Gattung innerhalb der Familie der Schleiereulen. Die Gattung ist nahezu weltweit verbreitet.</dbo:abstract>
+    <dbp:subdivisionRanks rdf:resource="http://dbpedia.org/resource/Species"/>
+    <rdfs:label xml:lang="fr">Effraie</rdfs:label>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Tyto"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Grass_Owl_adult.jpg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Category105838765"/>
+    <dbp:classis rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <rdfs:comment xml:lang="fr">TytoLes effraies sont des chouettes à grosse tête et au disque facial en forme de cœur. Leurs pattes sont longues et munies de doigts puissants, habituellement avec des serres bien développées. Le plumage est généralement brun fauve et crème ou blanc, tacheté, moucheté ou barré.Les effraies appartiennent au genre Tyto, qui à lui seul constitue la sous-famille des Tytoninae, l'une des deux sous-familles des tytonidés.</rdfs:comment>
+    <dbp:fossilRange rdf:resource="http://dbpedia.org/resource/Holocene"/>
+    <foaf:name xml:lang="en">Tyto</foaf:name>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.08m247"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Kind105839024"/>
+    <dbp:subdivision xml:lang="en">About 20, see text</dbp:subdivision>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q375716"/>
+    <rdfs:comment xml:lang="es">Tyto es un género de aves estrigiformes de la familia Tytonidae. El género agrupa alrededor de 13 a 15 especies distribuidas en casi todo el mundo. El número exacto de especies incluidas es algo en discusión. Al igual que todos los titónidos, los miembros del género son aves de presa nocturnas de tamaño mediano-grande y tienen una cabeza relativamente grande con la cara en forma de corazón. Sus patas son largas y equipadas de fuertes garras bien desarrolladas.</rdfs:comment>
+    <rdfs:label xml:lang="pt">Tyto</rdfs:label>
+    <rdfs:label xml:lang="pl">Płomykówki</rdfs:label>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Effraie"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <dbp:name xml:lang="en">Tyto</dbp:name>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/BiologicalLivingObject"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Płomykówki"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Tyto"/>
+    <dbo:synonym>Lechusa (Miller, 1956)</dbo:synonym>
+    <dbo:abstract xml:lang="en">The genus Tyto includes all barn owls (family Tytonidae) except for the bay owls (subfamily Phodilinae, genus  Phodilus) - that is, the true barn owls, the grass owls and the masked owls collectively making up the subfamily Tytoninae. They are darker on the back than the front, usually an orange-brown colour, the front being a paler version of the back or mottled, although there is considerable variation even amongst species. Tyto owls have a divided, heart-shaped facial disc, and lack the ear-like tufts of feathers found in many other owls. Tyto owls tend to be larger than Bay-owls. The name tyto (τυτώ) is onomatopeic Greek for owl.Throughout their evolutionary history, Tyto owls have shown a better capability to colonize islands than other owls. Several such island forms have become extinct, some long ago, but some in comparatively recent times. A number of insular barn-owls from the Mediterranean and the Caribbean were very large or truly gigantic species.</dbo:abstract>
+    <rdfs:label xml:lang="es">Tyto</rdfs:label>
+    <rdfs:label xml:lang="en">Tyto</rdfs:label>
+    <rdfs:comment xml:lang="nl">Tyto is een geslacht van uilen binnen de familie kerkuilen (Tytonidae), met als bekende soort de 'gewone' kerkuil. Het geslacht telt 16 soorten.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Tyto"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100"/>
+    <dbp:synonyms xml:lang="en">Lechusa (Miller, 1956)</dbp:synonyms>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moluccan_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Little_crow_(bird)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Little_crow_(bird)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minahassa_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lesser_sooty_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Puerto_Rican_barn_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Collared_crow">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Collared_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyto_robusta">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corvus_bennetti">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Little_crow_(bird)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andaman_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Collared_Crow">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Collared_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Golden_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taliabu_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corvus_pectoralis">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Collared_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/African_grass_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashy-faced_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barn_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyto_pollens">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eastern_grass_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greater_sooty_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_Crow_(bird)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Little_crow_(bird)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sulawesi_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Australian_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyto_gigantea">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manus_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corvus_torquatus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Collared_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Caledonian_barn_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tasmanian_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Tyto">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tytoninae">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seram_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+</rdf:RDF>

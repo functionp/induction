@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-eo="http://eo.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Vertebruloj">
+    <owl:sameAs rdf:resource="http://jv.dbpedia.org/resource/Vertebrata"/>
+    <owl:sameAs rdf:resource="http://tl.dbpedia.org/resource/Bertebrado"/>
+    <owl:sameAs rdf:resource="http://th.dbpedia.org/resource/สัตว์มีกระดูกสันหลัง"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Гръбначни"/>
+    <owl:sameAs rdf:resource="http://bs.dbpedia.org/resource/Kičmenjaci"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/脊椎動物"/>
+    <owl:sameAs rdf:resource="http://yi.dbpedia.org/resource/ווערטייברעיטס"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Skeleto"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ventriklo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Synapsida"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Σπονδυλωτό"/>
+    <prop-eo:wikiPageUsesTemplate rdf:resource="http://eo.dbpedia.org/resource/Ŝablono:Taksonomio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Koro"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Nerva_sistemo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ĥordulo"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/척추동물"/>
+    <owl:sameAs rdf:resource="http://lv.dbpedia.org/resource/Mugurkaulnieki"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/脊椎动物"/>
+    <prop-eo:subfilumoAŭtoritato xml:lang="eo">Cuvier, 1812</prop-eo:subfilumoAŭtoritato>
+    <owl:sameAs rdf:resource="http://su.dbpedia.org/resource/Vertebrata"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Ornodun"/>
+    <prop-eo:speciojDeSubdivizio xml:lang="eo">Klasoj kaj Kladoj</prop-eo:speciojDeSubdivizio>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Gewervelden"/>
+    <owl:sameAs rdf:resource="http://ms.dbpedia.org/resource/Vertebrat"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+    <prop-eo:priskriboDeDosiero xml:lang="eo">Thunnus thynnus</prop-eo:priskriboDeDosiero>
+    <owl:sameAs rdf:resource="http://wa.dbpedia.org/resource/Biesse_ås_cronzoxhs"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Senvertebruloj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Vertebruloj"/>
+    <owl:sameAs rdf:resource="http://lt.dbpedia.org/resource/Stuburiniai"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Vertebruloj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birda_klaso"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <owl:sameAs rdf:resource="http://af.dbpedia.org/resource/Gewerweldes"/>
+    <rdfs:label xml:lang="eo">Vertebruloj</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/1/hi/sci/tech/3920183.stm"/>
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Пазваночныя"/>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q25241"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5171728</dbpedia-owl:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://lmo.dbpedia.org/resource/Vertebràcc"/>
+    <owl:sameAs rdf:resource="http://cy.dbpedia.org/resource/Fertebrat"/>
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Vertebrate"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Vertebrata"/>
+    <owl:sameAs rdf:resource="http://mr.dbpedia.org/resource/पृष्ठवंशी_प्राणी"/>
+    <owl:sameAs rdf:resource="http://hy.dbpedia.org/resource/Ողնաշարավորներ"/>
+    <owl:sameAs rdf:resource="http://is.dbpedia.org/resource/Hryggdýr"/>
+    <owl:sameAs rdf:resource="http://lb.dbpedia.org/resource/Wierbeldéieren"/>
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Động_vật_có_xương_sống"/>
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Omurgalılar"/>
+    <owl:sameAs rdf:resource="http://ga.dbpedia.org/resource/Veirteabrach"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebro"/>
+    <prop-eo:subdivizio xml:lang="eo">* Senmakzeluloj Agnatha
+* Plakodermoj* Placodermi
+* Kartilagaj fiŝoj Chondrichthyes
+* Akantoduloj* Acanthodii
+* Aktinopterigoj Actinopterygii
+* Sarkopterigoj Sarcopterygii
+* Amfibioj Amphibia
+* Reptilioj Reptilia
+* Birdoj Aves
+* Sinapsidoj* Synapsida
+* Mamuloj Mammalia</prop-eo:subdivizio>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Vertebrata"/>
+    <owl:sameAs rdf:resource="http://qu.dbpedia.org/resource/Tulluyuq"/>
+    <owl:sameAs rdf:resource="http://az.dbpedia.org/resource/Onurğalılar"/>
+    <owl:sameAs rdf:resource="http://an.dbpedia.org/resource/Vertebrata"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4535</dbpedia-owl:wikiPageID>
+    <prop-eo:dosieroLarĝo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</prop-eo:dosieroLarĝo>
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Vertebrata"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Vertebrata"/>
+    <prop-eo:regno xml:lang="eo">Animaloj Animalia</prop-eo:regno>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Senso"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</dbpedia-owl:wikiPageOutDegree>
+    <prop-eo:filumo xml:lang="eo">Ĥorduloj Chordata</prop-eo:filumo>
+    <owl:sameAs rdf:resource="http://oc.dbpedia.org/resource/Vertebrata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Reptilio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Senvertebrulo"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eo.wikipedia.org/wiki/Vertebruloj"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Ryggradsdjur"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kraniuloj"/>
+    <owl:sameAs rdf:resource="http://ceb.dbpedia.org/resource/Vertebrata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Insekto"/>
+    <owl:sameAs rdf:resource="http://scn.dbpedia.org/resource/Vertebrata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kambrio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Animalo"/>
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/Kralješnjaci"/>
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/Virveldyr"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Wirbeltiere"/>
+    <owl:sameAs rdf:resource="http://kk.dbpedia.org/resource/Омыртқалылар"/>
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Kralježnjaci"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Selkärankaiset"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Subfilumo"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q25241"/>
+    <prop-eo:koloro xml:lang="eo">pink</prop-eo:koloro>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3001</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://hi.dbpedia.org/resource/कशेरुकी_जन्तु"/>
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Stavovce"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ordovicio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Lamarck"/>
+    <owl:sameAs rdf:resource="http://ckb.dbpedia.org/resource/بڕبڕەداران"/>
+    <owl:sameAs rdf:resource="http://ia.dbpedia.org/resource/Vertebrato"/>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Gerincesek"/>
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/בעלי_חוליות"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Akantodulo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Sango"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Senmakzelulo"/>
+    <owl:sameAs rdf:resource="http://pnb.dbpedia.org/resource/کنگریڑے"/>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Кичмењаци"/>
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Virveldyr"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Vertebrados"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Georges_Cuvier"/>
+    <prop-eo:nomo xml:lang="eo">Vertebruloj</prop-eo:nomo>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Plakodermo"/>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/فقاريات"/>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Selgroogsed"/>
+    <owl:sameAs rdf:resource="http://als.dbpedia.org/resource/Wirbeltiere"/>
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/Vretenčarji"/>
+    <owl:sameAs rdf:resource="http://ml.dbpedia.org/resource/നട്ടെല്ലുള്ള_ജീവികൾ"/>
+    <owl:sameAs rdf:resource="http://te.dbpedia.org/resource/సకశేరుకాలు"/>
+    <prop-eo:trovebloDeFosilioj xml:lang="eo">mez-frua Kambrio ĝis nun</prop-eo:trovebloDeFosilioj>
+    <owl:sameAs rdf:resource="http://ba.dbpedia.org/resource/Умыртҡалылар"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Vertébrés"/>
+    <owl:sameAs rdf:resource="http://sah.dbpedia.org/resource/Тоноҕостоохтор"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Хребетні"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Mamulo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Krustaco"/>
+    <owl:sameAs rdf:resource="http://sco.dbpedia.org/resource/Vertebrate"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/مهره‌داران"/>
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/Vertebrados"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kartilagaj_fiŝoj"/>
+    <owl:sameAs rdf:resource="http://bn.dbpedia.org/resource/মেরুদণ্ডী_প্রাণী"/>
+    <owl:sameAs rdf:resource="http://ta.dbpedia.org/resource/முதுகெலும்பி"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Aktinopterigo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Lineo"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Vertebrate"/>
+    <ns7:wasDerivedFrom rdf:resource="http://eo.wikipedia.org/wiki/Vertebruloj?oldid=5171728"/>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism"/>
+    <owl:sameAs rdf:resource="http://sa.dbpedia.org/resource/कशेरुकाः"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Vertebrat"/>
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/’Рбетници"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Fiŝo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Amfibio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vermo"/>
+    <prop-eo:senrangaFilumo xml:lang="eo">Kraniuloj Craniata</prop-eo:senrangaFilumo>
+    <owl:sameAs rdf:resource="http://yo.dbpedia.org/resource/Aléegunẹ̀yìn"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Позвоночные"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Spino"/>
+    <owl:sameAs rdf:resource="http://tt.dbpedia.org/resource/Умырткалылар"/>
+    <owl:sameAs rdf:resource="http://am.dbpedia.org/resource/የጀርባ_አጥንት_ያላቸው_እንስሳት"/>
+    <owl:sameAs rdf:resource="http://ur.dbpedia.org/resource/فقاری_جاندار"/>
+    <owl:sameAs rdf:resource="http://fy.dbpedia.org/resource/Wringedier"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Lamarko"/>
+    <owl:sameAs rdf:resource="http://ku.dbpedia.org/resource/Movikdar"/>
+    <owl:sameAs rdf:resource="http://br.dbpedia.org/resource/Vertebrata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Aristotelo"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Kręgowce"/>
+    <owl:sameAs rdf:resource="http://ka.dbpedia.org/resource/ხერხემლიანები"/>
+    <owl:sameAs rdf:resource="http://la.dbpedia.org/resource/Vertebrata"/>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Vertebrata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Molusko"/>
+    <owl:sameAs rdf:resource="http://pa.dbpedia.org/resource/ਰੀੜ੍ਹਧਾਰੀ"/>
+    <prop-eo:subfilumo xml:lang="eo">Vertebruloj</prop-eo:subfilumo>
+    <owl:sameAs rdf:resource="http://sw.dbpedia.org/resource/Vertebrata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebrulo"/>
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Hvirveldyr"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Sarkopterigo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Akantodulo">
+    <prop-eo:subfilumo rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kaverno_Ŝipka">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Vertebro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Vipuredoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Makruredoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Plakozoo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kabjork-duoninsula_tropika_savano">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Hienedoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+    <prop-eo:subfilumo rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Teleckoje">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Floridaj_sablopinaroj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Mamuloj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Konektiva_histo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Lolino">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Vertebrata">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Birdoprotektanta_organizaĵo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Tilacino">
+    <prop-eo:subfilumo rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Muzeo_pri_deveno_de_la_specioj_(Jena)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Vivonaskuloj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Aktinopterigoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Notokordo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Vertebraro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Grandfolia_fago">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Konscio">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Dento">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Sanga_vaskulo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Tiktaliko">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Berbera_leono">
+    <prop-eo:subphylum rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Johann_Jakob_von_Tschudi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Grandbuŝa_ŝarko">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kavernoj_en_Mladeč">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Mukofiŝoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Sciuredoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Cerado">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Bird-manĝanta_Goliato">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Blua_gnuo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Fokuloj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Pandionedoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Rekordoj_de_mamuloj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Stripiedfingra_geko">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Makzelulo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Zizelo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kolvertebraro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Birdoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+    <prop-eo:subfilumo rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Okulvitra_urso">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Mjelo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Ungego">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Makzelo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Sarkopterigoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Haŭto">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Tropikaj_Andoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Turfalko">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Tropikaj_kaj_subtropikaj_sekaj_foliarbaroj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Protektita_birda_areo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Talio_(korpa_parto)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Centra-meksika_kserofitaro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Centra_nerva_sistemo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Ŝarko">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Torakaj_vertebroj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Psetta_maxima">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Torturado_de_bestoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Paa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Eragrosto">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Dinosaŭro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Orfiŝo_(fiŝo)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+    <prop-eo:subfilumo rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Listo_de_protektitaj_birdaj_areoj_en_Eŭropo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Panteroj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Vertebrulo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Tiranosaŭro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Natriko">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kuŝejo_Lance">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Neĝleopardo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kakapo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Fiŝoj">
+    <prop-eo:subfilumo rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Gvineaj_montarbaroj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kraniulo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Napaj_humidaj_arbaroj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Salamandro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Pulmofiŝoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.wikipedia.org/wiki/Vertebruloj">
+    <foaf:primaryTopic rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Endodermo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Humidaj_arbaroj_de_sudokcidenta_Amazonio">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Centra-meksikaltebenaĵa_kserofitaro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Blankgorĝa_bruna_bucero">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Torako">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Gusto">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Prahistoria_vivo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kartilagaj_fiŝoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Senmakzeluloj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/12896_Geoffroy">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Perkoformaj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Gila_monstro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Norda_senharibiso">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Biodiverseco-riĉaĵejo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Ĉako_(ekoregiono)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Pulmo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Simfizo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Rano">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Gŭangŝjio">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Peritoneo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Urina_veziko">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Reptilioj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Ostaj_fiŝoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kranio">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Klaso">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Humero">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Amniulo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Laniedoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Tetrapodoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Aorto">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Laringo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Ĥorduloj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Cetacoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Vosto">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Buŝo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Ĉotanagpur-altebenaĵaj_sekaj_deciduaj_arbaroj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Pepsino">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Plakodermo">
+    <prop-eo:subfilumo rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Membro_(anatomio)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Nildeltaj_inunditaj_savanoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Peruaj_jungaoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Amfibioj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Keltaj_foliarbaroj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Iberaj_sklerofilaj_kaj_kvazaŭdeciduaj_arbaroj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Gala_veziko">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Synapsida">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kojpo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Polusa_gado">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Nacia_parko_Écrins">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Einar_Lönnberg">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Movkapablo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Babezio">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Jaritatako">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebruloj"/>
+  </rdf:Description>
+</rdf:RDF>

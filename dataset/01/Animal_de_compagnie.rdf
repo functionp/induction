@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-fr="http://fr.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Animal_de_compagnie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Convention_sur_le_commerce_international_des_espèces_de_faune_et_de_flore_sauvages_menacées_d'extinction"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Grippe_aviaire"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Manchon"/>
+    <rdfs:label xml:lang="nl">Huisdier</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="ru">Живо́тные-компаньо́ны (иначе дома́шние пито́мцы или дома́шние люби́мцы) — термин, используемый для обозначения домашних животных, которых человек содержит у себя в доме для общения и получения положительных эмоций. Такие домашние животные противопоставляются, таким образом, сельскохозяйственным животным, которых содержат для получения мясо-молочной продукции, шерсти и т. д. и как рабочий скот.Традиционными и наиболее распространенными животными-компаньонами являются кошки и собаки. Реже в качестве животных-компаньонов встречаются птицы (в основном попугаи, канарейки и домашние голуби), грызуны, рыбы. Ещё реже животными компаньонами выступают обезьяны, лисы (два вида — одомашненная чёрно-бурая лисица и лисица фенек), рептилии (сухопутные черепахи, реже змеи, ящерицы, крокодилы) или членистоногие (например, паук-птицеед, мадагаскарский шипящий таракан).В определенной степени животными-компаньонами можно также признать и рабочий скот: лошадь, осла, верблюда, слона (в Индии), а также ламу (в Южной Америке). Во многих сказках и былинах фигурируют кони — нередко волшебные — способные общаться с седоком на человеческом языке и наделенные не меньшим интеллектом, то есть практически являющиеся полноценными компаньонами для всадников, а не просто живым транспортом. Лошадей в последнее время многие также стали содержать именно в качестве животных-компаньонов (в современном понимании этого термина). Традиция же содержания слонов в этом качестве (например в качестве культовых животных) в Индии довольно древняя.Наиболее популярные домашние питомцы отличаются своим толерантным отношением к человеку и игривым характером, имеют привлекательный внешний вид или красиво поют.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Тварини-компаньйони"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Домашен_любимец"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Douane"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Killie"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Référence_nécessaire"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Annaviis.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Tourterelle"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cheval"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://oiseauclubsaran.free.fr/index.php?menu=menup5&amp;contenu=menus0507#chapA1"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Oiseau_de_compagnie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Années_1970"/>
+    <owl:sameAs rdf:resource="http://cy.dbpedia.org/resource/Anifail_anwes"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cuniculture"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cabiai"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1850"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Article_détaillé"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Aquarium"/>
+    <dbpedia-owl:abstract xml:lang="pl">Zwierzęta domowe – zwierzęta trzymane przez człowieka w domu dla osobistej przyjemności lub dla towarzystwa, w odróżnieniu od zwierząt chowanych lub hodowanych z innych powodów (zwierzęta hodowlane, gospodarskie i użytkowe).</dbpedia-owl:abstract>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Article_connexe"/>
+    <rdfs:label xml:lang="en">Pet</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cacatoès"/>
+    <rdfs:comment xml:lang="pl">Zwierzęta domowe – zwierzęta trzymane przez człowieka w domu dla osobistej przyjemności lub dla towarzystwa, w odróżnieniu od zwierząt chowanych lub hodowanych z innych powodów (zwierzęta hodowlane, gospodarskie i użytkowe).</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Carnivore_domestique"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cage"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Louis_XV"/>
+    <dbpedia-owl:abstract xml:lang="bg">Домашни любимци (синоним е питомец, а от там питомци) се наричат животните, които човек отглежда за компания или развлечение. Това понятие отделя домашните любимци от групата на домашни животни, опитомени от човека, за различни стопански цели, като получаване на продукция (месо, мляко, яйца, вълна), жива теглителна сила (кон, магаре, катър), спортни цели (куче за лов, куче за надбягване, кон за надбягване и др). Домашните любимци също могат да бъдат отглеждани със стопанска цел - за разплод, за участие в конкурси или филми и пр.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ペット"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Lagomorphe"/>
+    <rdfs:label xml:lang="ca">Animal de companyia</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Italie"/>
+    <rdfs:label xml:lang="pt">Animal de estimação</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100763</dbpedia-owl:wikiPageID>
+    <rdfs:comment xml:lang="en">A pet (or companion animal) is an animal kept primarily for a person's company or protection, as opposed to working animals, sport animals, livestock, and laboratory animals, which are kept primarily for performance, agricultural value, or research. The most popular pets are noted for their attractive appearances and their loyal or playful personalities.Pets commonly provide their owners (or guardians) physical and emotional benefits.</rdfs:comment>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:E"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Paris"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Canari"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Heimtier"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Âne"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/American_Staffordshire_Terrier"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Appellation_animale"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vaccin"/>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Кућни_љубимац"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Tosa"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Identification"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/États-Unis"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hamster"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Nouveaux_animaux_de_compagnie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Irlande_(île)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vison_d'Amérique"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1860"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Rat_domestique"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Perroquet"/>
+    <rdfs:comment xml:lang="ca">Un animal de companyia és un animal criat i mantingut per éssers humans per lleure. Tot i que en teoria qualsevol animal pot "fer companyia" als éssers humans, en la pràctica la majoria d'animals de companyia pertanyen a un nombre limitat d'espècies, preferides pel seu aspecte bell, un comportament afectuós o alegre, o altres característiques positives. Els gossos i els gats són els animals de companyia més estesos; més generalment, els més populars són mamífers i ocells.</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/2006"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Apprivoisement"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Passeport_européen_pour_animal_de_compagnie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Alimentation_animale"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Verlat-diptyque.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Chien_de_prairie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Corydoras"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Empire_colonial"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Lapin_nain"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Trafic_d'animaux"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/UNESCO"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Havana_-_Cuba_-_1175.jpg?width=300"/>
+    <dbpedia-owl:abstract xml:lang="eu">Konpainia-animalia edo maskota-animaliak etxebizitzetan jolasgarri edukitzen diren animaliak dira. Beste animalien aldean bereizteko, konpainia-animaliak pertsonak bizi diren etxe berean bizi ohi dira (abereak, ordea, ikuilu edo landetan bizi dira), izenak jaso ohi dituzte eta ez dira janaritarako akabatzen. Lanerako edo kiroletarako animaliak edo laborategiko animaliak ere ez dira konpainia-anaimaliatzat jotzen. Denetariko espezieak izan daiteke konpainia-animaliak baina arruntenak txakurrak, katuak eta txoriak izaten dira. Basa animaliak zein abereak izan daitezke konpainia-animalia. Aldi berean, espezie bereko bi animalia helburu ezberdinekin erabil daiteke. Adibidez, Txinan ohikoa da txakurrak jatea, lanerako ere erabil daitezke (artzain txakurrak, lera txakurrak), laborategietan esperimentuak egiteko eta konpainia animalia gisa ere bai.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Triton_(amphibien)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Zoonose"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Euro"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Chat_domestique"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Pécari"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Chèvre_naine"/>
+    <dbpedia-owl:abstract xml:lang="fr">Un animal de compagnie est un animal recevant la protection de l'Homme en échange de sa présence, sa beauté, sa jovialité ou encore pour ses talents (oiseaux chanteurs, parleurs…). En raison de leur très longue présence au côté de l'Homme, ces animaux familiers ont souvent fait l'objet d'une domestication à la suite de leur apprivoisement. Ils se distinguent toutefois de l'animal domestique vivant simplement dans la voisinage de la maison, simple commensale de l'homme comme le chien de travail, et par opposition aux animaux de production telles les vaches (lait) ou les poules (œufs). Dans les pays occidentaux, les principaux animaux de compagnie sont le chat et le chien qui, avec le furet, sont des animaux classés comme « carnivores domestiques » et donc soumis à une législation particulière.Depuis les années 1980, on désigne sous le terme « nouveaux animaux de compagnie » (NAC), des espèces qui sont entrées après les années 1970 dans le cercle des animaux de compagnie. Certains de ces animaux, comme le furet ou le lapin, étaient domestiqués depuis longtemps, mais destinés à un autre usage. D'autres sont des animaux exotiques, légalement considérés comme animaux domestiques uniquement dans leur pays d'origine, tandis qu'ailleurs ce sont des individus sauvages qu'il est possible de garder en captivité sous certaines conditions. Depuis le début des années 2000, des animaux de compagnie génétiquement modifiés comme le GloFish font également leur apparition.La réglementation diffère d'un pays à l'autre, notamment pour les conditions d'acquisition, de détention, d'importation et d'exportation.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Société_protectrice_des_animaux"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Maria_Braunstein.JPG"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Volaille"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/宠物"/>
+    <rdfs:label xml:lang="pl">Zwierzęta domowe</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Goldfish_with_swim_bladder_disease.JPG"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Verdier_(oiseau)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cochon_vietnamien"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.068hy"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Winterkost.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Columbidae"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://oatao.univ-toulouse.fr/1348/1/celdran_1348.pdf"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Alpaga"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Oie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Testudines"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Konpainia-animalia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Pigeon_biset"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.animauxdecompagnie.ch"/>
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Kućni_ljubimac"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109542731</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="bg">Домашен любимец</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Mainate"/>
+    <rdfs:comment xml:lang="eu">Konpainia-animalia edo maskota-animaliak etxebizitzetan jolasgarri edukitzen diren animaliak dira. Beste animalien aldean bereizteko, konpainia-animaliak pertsonak bizi diren etxe berean bizi ohi dira (abereak, ordea, ikuilu edo landetan bizi dira), izenak jaso ohi dituzte eta ez dira janaritarako akabatzen. Lanerako edo kiroletarako animaliak edo laborategiko animaliak ere ez dira konpainia-anaimaliatzat jotzen.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="nl">Een huisdier is een gedomesticeerd dier dat in of om het huis woont en leeft en door de mens wordt gevoed en verzorgd.Te onderscheiden zijn: Landbouwhuisdieren, die gedomesticeerd werden om hun nut en de productie van goederen en diensten. Hiertoe behoren koeien, schapen, geiten, varkens, eenden, kippen, ganzen en eventueel paarden. Gezelschapsdieren, zoals honden, katten, duiven, (sier-)kippen, konijnen en cavia's. Oorspronkelijk werden huisdieren voornamelijk gehouden om hun nut, bijvoorbeeld als waakhond, of een kat tegen de muizen. Tegenwoordig worden dieren vaak uitsluitend als gezelschapsdier gehouden of om wedstrijdsport mee te bedrijven. Het eerste dier dat door de mens gedomesticeerd werd was de hond. De kat is al sinds het Oude Egypte bekend als huisdier.In Nederland werden in 2009 ongeveer 2,1 miljoen honden en 3,6 miljoen katten gehouden. In België had in 2006 48 % van de gezinnen een huisdier. In Wallonië hebben gemiddeld meer gezinnen een huisdier dan in Brussel en in Vlaanderen.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Indoor_market,_Hereford_-_IMG_0040.JPG"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Caille"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Pet"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Animal_de_compagnie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Suède"/>
+    <rdfs:comment xml:lang="fr">Un animal de compagnie est un animal recevant la protection de l'Homme en échange de sa présence, sa beauté, sa jovialité ou encore pour ses talents (oiseaux chanteurs, parleurs…). En raison de leur très longue présence au côté de l'Homme, ces animaux familiers ont souvent fait l'objet d'une domestication à la suite de leur apprivoisement.</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Rage_(maladie)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Chinchilla_domestique"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Civilisation_gréco-romaine"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Crawford_Market_Pets.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Molosse"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Souris_domestique"/>
+    <rdfs:comment xml:lang="ko">애완동물(愛玩動物)은 인간이 주로 즐거움을 위해 사육하는 동물을 말한다. 오늘날에는 애완동물을 단순히 인간의 장난감이 아니라 반려자(친구)로서 대우하자는 의미에서 반려동물(伴侶動物)로 부르기도 한다.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="id">Hewan peliharaan atau hewan timangan adalah hewan yang dipelihara sebagai teman sehari-hari manusia. Hewan timangan berbeda dari hewan ternak, hewan percobaan, hewan pekerja, atau hewan tunggangan yang dipelihara untuk kepentingan ekonomi atau untuk melakukan tugas tertentu. Hewan peliharaan yang populer biasanya adalah hewan yang memiliki karakter setia pada majikannya atau memiliki penampilan yang menarik, atau kemampuan menarik tertentu seperti mengeluarkan suara yang indah. Walaupun secara teori seseorang dapat memelihara hewan apa pun sebagai hewan peliharaan, dalam prakteknya hanya spesies-spesies tertentu saja yang sering dijumpai, terutama hewan kecil (anjing, kucing, dan kelinci), burung, dan ikan.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/GloFish"/>
+    <dbpedia-owl:abstract xml:lang="it">Un animale da compagnia è un animale con il quale gli umani convivono per compagnia. Anche se in teoria qualunque animale può far compagnia agli esseri umani, in pratica la maggior parte degli animali da compagnia appartengono a un ristretto numero di specie, preferite per il loro aspetto o per il comportamento. I cani e i gatti sono certamente gli animali da compagnia più diffusi, e in generale i mammiferi, insieme agli uccelli e ai pesci, i quali, presuppongono attrezzature specifiche. Fanno parte degli animali da compagnia anche numerose specie di rettili (dalle più comuni tartarughe ai serpenti e alle iguane), alcuni tipi anfibi e, più raramente, anche artropodi come ragni e scorpioni.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="nl">Een huisdier is een gedomesticeerd dier dat in of om het huis woont en leeft en door de mens wordt gevoed en verzorgd.Te onderscheiden zijn: Landbouwhuisdieren, die gedomesticeerd werden om hun nut en de productie van goederen en diensten. Hiertoe behoren koeien, schapen, geiten, varkens, eenden, kippen, ganzen en eventueel paarden. Gezelschapsdieren, zoals honden, katten, duiven, (sier-)kippen, konijnen en cavia's.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="ja">ペット（英語：Pet）とは、一般的には愛玩を目的として飼育される動物のこと。愛玩動物（あいがんどうぶつ）伴侶動物とも呼ばれる。広義には、動物に限らず、日常生活で飼育される生物全般のことを指す。</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Axolotl"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Abattage"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Espèce"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Sällskapsdjur"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Euthanasie_animale"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/애완동물"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Chien"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_hoarding"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1727"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Certificat_de_capacité_pour_l'entretien_d'animaux_d'espèces_non_domestiques"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Havana_-_Cuba_-_1175.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Boerbull"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Serin"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Allemagne"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Guppy"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Животные-компаньоны"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Services_aux_animaux_familiers"/>
+    <dbpedia-owl:abstract xml:lang="pt">Um animal de estimação (ou mascote) é um animal doméstico selecionado para o convívio com os seres humanos por questões de companheirismo ou divertimento, o que não significa que essa seja a única função dessas espécies na nossa sociedade. O cão, por exemplo, é muito usado não só como animal de companhia, mas também na caça, na guarda domiciliar etc.</dbpedia-owl:abstract>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Lang"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://oiseauclubsaran.free.fr/index.php?menu=menup5&amp;contenu=menus0507#chapA2"/>
+    <rdfs:comment xml:lang="de">Heimtiere sind Tiere, die vom Menschen aus verschiedenen Motiven meist in der Wohnung oder in sonstigem engen Kontakt mit ihm gehalten werden.</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Yunnan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Loche_(poisson)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Pays-Bas"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Caoguia2006.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Perruche_(oiseau)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Diamant_(oiseau)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Boucle"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Animal_de_companyia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie_virtuel"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.senat.fr/index.html"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Convention_européenne_pour_la_protection_des_animaux_de_compagnie"/>
+    <rdfs:label xml:lang="id">Hewan timangan</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Aquariophilie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Synapses_(syndicat)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Union_européenne"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Puce_sous-cutanée"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Danemark"/>
+    <rdfs:label xml:lang="ja">ペット</rdfs:label>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Hewan_timangan"/>
+    <dbpedia-owl:abstract xml:lang="en">A pet (or companion animal) is an animal kept primarily for a person's company or protection, as opposed to working animals, sport animals, livestock, and laboratory animals, which are kept primarily for performance, agricultural value, or research. The most popular pets are noted for their attractive appearances and their loyal or playful personalities.Pets commonly provide their owners (or guardians) physical and emotional benefits. Walking a dog can supply both the human and pet with exercise, fresh air, and social interaction. Pets can give companionship to elderly adults who do not have adequate social interaction with other people. There is a medically approved class of therapy animals, mostly dogs, that are brought to visit confined humans. Pet therapy utilizes trained animals and handlers to achieve specific physical, social, cognitive, and emotional goals with patients.The most popular pets are likely dogs and cats, but people also keep house rabbits, ferrets; rodents such as gerbils, hamsters, chinchillas, fancy rats, and guinea pigs; avian pets, such as canaries, parakeets, and parrots; reptile pets, such as turtles, lizards and snakes; aquatic pets, such as tropical fish and frogs; and arthropod pets, such as tarantulas and hermit crabs.Some scholars and animal rights organizations have raised concern over pet-keeping with regards to the autonomy of nonhuman animals.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Жывёлы-кампаньёны"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:General_Montgomery_with_his_puppies_%22Hitler%22_and_%22Rommel%22_at_his_mobile_headquarters_in_Normandy,_6_July_1944._Behind_can_be_seen_his_cage_of_canaries_which_also_travelled_with_him._B6542.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Zoothérapie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Lézard"/>
+    <rdfs:label xml:lang="it">Animale da compagnia</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Chasseurs-cueilleurs"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Baguage"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Homo_sapiens"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:S-"/>
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Animal_de_companie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Commensalisme"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Références"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Quarantaine"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Animale_da_compagnia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_domestique"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_génétiquement_modifié"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hérisson_commun"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/2004"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vétérinaire"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Parasitisme"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Irlande_(pays)"/>
+    <owl:sameAs rdf:resource="http://ga.dbpedia.org/resource/Peata"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Autres_projets"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Dogue"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Perroquet_jaco"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Royaume-Uni"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Grenouille"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Passereau"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Zwierzęta_domowe"/>
+    <rdfs:label xml:lang="es">Animal de compañía</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Années_1980"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Nourriture_pour_chats"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3022463/"/>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Lemmikloom"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://oiseauclubsaran.free.fr/index.php?menu=menup5&amp;contenu=menus0507"/>
+    <dbpedia-owl:abstract xml:lang="ca">Un animal de companyia és un animal criat i mantingut per éssers humans per lleure. Tot i que en teoria qualsevol animal pot "fer companyia" als éssers humans, en la pràctica la majoria d'animals de companyia pertanyen a un nombre limitat d'espècies, preferides pel seu aspecte bell, un comportament afectuós o alegre, o altres característiques positives. Els gossos i els gats són els animals de companyia més estesos; més generalment, els més populars són mamífers i ocells. Més recent s'han començat a criar peixos (que, excepte en casos rars com els peixos vermells, requereixen instal·lacions específiques) o fins i tot rèptils, amfibis, o artròpodes com les aranyes i escorpins.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Napoléon_III"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Yen"/>
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Appellation_animale"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Animal_de_compañía"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.agrobiosciences.org/IMG/pdf/page-de-garde-Desnoyers.pdf"/>
+    <rdfs:comment xml:lang="pt">Um animal de estimação (ou mascote) é um animal doméstico selecionado para o convívio com os seres humanos por questões de companheirismo ou divertimento, o que não significa que essa seja a única função dessas espécies na nossa sociedade. O cão, por exemplo, é muito usado não só como animal de companhia, mas também na caça, na guarda domiciliar etc.</rdfs:comment>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:..."/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Espagne"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Canard"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Furet"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://fr.wikipedia.org/wiki/Animal_de_compagnie"/>
+    <dbpedia-owl:abstract xml:lang="de">Heimtiere sind Tiere, die vom Menschen aus verschiedenen Motiven meist in der Wohnung oder in sonstigem engen Kontakt mit ihm gehalten werden. Motive für die Haltung von Heimtieren können sein: Freude am Tier, Zierde, Interesse an Verhaltensweisen oder Züchtung der Tiere, Ersatz für Sozialpartner oder Spielgefährte für Kinder.Als Heimtiere kommen fast alle in Größe und Verhaltensweisen zur Haltung in der Wohnung geeigneten Arten in Frage, wobei bei geeigneter Unterbringung dazu auch durchaus gefährliche Tiere zählen können: Skorpione, Giftspinnen, Giftschlangen, Riesenschlangen.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gerbille_de_Mongolie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Discus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Internet"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Japon"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Colombophilie"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Date"/>
+    <rdfs:comment xml:lang="it">Un animale da compagnia è un animale con il quale gli umani convivono per compagnia. Anche se in teoria qualunque animale può far compagnia agli esseri umani, in pratica la maggior parte degli animali da compagnia appartengono a un ristretto numero di specie, preferite per il loro aspetto o per il comportamento. I cani e i gatti sono certamente gli animali da compagnia più diffusi, e in generale i mammiferi, insieme agli uccelli e ai pesci, i quali, presuppongono attrezzature specifiche.</rdfs:comment>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">28712</dbpedia-owl:wikiPageLength>
+    <rdfs:comment xml:lang="ja">ペット（英語：Pet）とは、一般的には愛玩を目的として飼育される動物のこと。愛玩動物（あいがんどうぶつ）伴侶動物とも呼ばれる。広義には、動物に限らず、日常生活で飼育される生物全般のことを指す。</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Liste_des_conventions_internationales_relatives_à_la_protection_de_l'animal"/>
+    <rdfs:comment xml:lang="es">Un animal de compañía o mascota es un animal doméstico conservado con el propósito de brindar compañía o para el disfrute del poseedor.</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Psittacidés"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:1re"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.senat.fr/rap/l97-429/l97-429.html"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Grande-Bretagne"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Années_2000"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Combattant"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cavia_porcellus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Poisson_d'aquarium"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Henri_Nallet"/>
+    <rdfs:label xml:lang="fr">Animal de compagnie</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="ko">애완동물(愛玩動物)은 인간이 주로 즐거움을 위해 사육하는 동물을 말한다. 오늘날에는 애완동물을 단순히 인간의 장난감이 아니라 반려자(친구)로서 대우하자는 의미에서 반려동물(伴侶動物)로 부르기도 한다.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Ambassade"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Serpent"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Comportementaliste"/>
+    <rdfs:label xml:lang="ru">Животные-компаньоны</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:GloFish.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Havana_-_Cuba_-_1175.jpg"/>
+    <rdfs:comment xml:lang="ru">Живо́тные-компаньо́ны (иначе дома́шние пито́мцы или дома́шние люби́мцы) — термин, используемый для обозначения домашних животных, которых человек содержит у себя в доме для общения и получения положительных эмоций. Такие домашние животные противопоставляются, таким образом, сельскохозяйственным животным, которых содержат для получения мясо-молочной продукции, шерсти и т. д. и как рабочий скот.Традиционными и наиболее распространенными животными-компаньонами являются кошки и собаки.</rdfs:comment>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Portail"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Agouti"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:,"/>
+    <rdfs:label xml:lang="ko">애완동물</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Octodon_degus"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:1er_octobre"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Législation"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_domestique_en_droit_français"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Liste_des_races_de_chiens"/>
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Domáce_zviera"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Rongeurs"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Colombe_diamant"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Rat_gris"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Chien_de_travail"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/2010"/>
+    <rdfs:label xml:lang="eu">Konpainia-animalia</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Koï"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vache"/>
+    <owl:sameAs rdf:resource="http://hi.dbpedia.org/resource/पालतू_पशु"/>
+    <ns7:wasDerivedFrom rdf:resource="http://fr.wikipedia.org/wiki/Animal_de_compagnie?oldid=109542731"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Grèce"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Chien_ratier"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Mastiff"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Domestication_du_chien"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Litière"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Protection"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Scalaire"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Poule"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Frontière"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Affenpinscher"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/France"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Portugal"/>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Társállat"/>
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Animal_de_compagnie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Poisson_rouge"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">218</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:abstract xml:lang="es">Un animal de compañía o mascota es un animal doméstico conservado con el propósito de brindar compañía o para el disfrute del poseedor. A diferencia de los animales de laboratorio, animales para la crianza o ganado, animales de tiro, animales para el transporte o animales para el deporte; los animales de compañía no son conservados para traer beneficios económicos o alimenticios, aunque sí un beneficio personal.Los animales de compañía son seleccionados por su comportamiento y adaptabilidad, y por su interacción con los humanos, en la que posiblemente se utilicen como herramientas de caza o seguridad. Poseer un animal de compañía puede traer a la salud consecuencias positivas ya que el cuidado diario hace olvidar a muchas personas otro tipo de preocupaciones, evita la depresión y nos hace sentir últiles. Los animales de compañía más populares son el perro y el gato.El animal de compañía también se caracteriza por ser amigable: se puede decir que la mayoría de estos animales se convierten en domésticos si la persona con la que conviven les enseña buenos modales en la convivencia diaria, no olvidando su naturaleza animal.Un animal de compañía se adapta al ambiente de un ser humano sin importar su naturaleza: se adhiere a un grupo, familia o sociedad, la cual le dota de todo lo necesario para su desarrollo.En adaptabilidad y comportamiento, se dice que los perros, como animales de compañía, superan a la mayoría. Su adaptabilidad ha ayudado al hombre en diversos ámbitos sociales, culturales y recreativos, como en su uso terapéutico en hospitales, como guías de personas ciegas, como apoyo policial, y en complicados rescates de personas.La compañía de cualquier mascota evoca siempre ternura, compañía y amistad, cualidades que se intensifican cuando la soledad busca filtrarse en la vida de las personas; es en estos momentos cuando la mascota adquiere un papel más importante, al sentirlo parte de la familia y, aun más, como un amigo.La mayoría de las personas muestran una actitud positiva a través de su relación con una mascota o animal de compañía, sobre todo aquellos que sufren problemas de tipo psicológico o físico.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/حيوان_منزلي"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ats.agr.gc.ca/inter/5504-fra.pdf"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://etudesrurales.revues.org/document3013.html"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Crocodile"/>
+    <rdfs:label xml:lang="de">Heimtier</rdfs:label>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Huisdier"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Tamias_sibiricus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Belgique"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Animal_de_estimação"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Staffordshire_Bull_Terrier"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Lapin_domestique"/>
+    <rdfs:comment xml:lang="bg">Домашни любимци (синоним е питомец, а от там питомци) се наричат животните, които човек отглежда за компания или развлечение. Това понятие отделя домашните любимци от групата на домашни животни, опитомени от човека, за различни стопански цели, като получаване на продукция (месо, мляко, яйца, вълна), жива теглителна сила (кон, магаре, катър), спортни цели (куче за лов, куче за надбягване, кон за надбягване и др).</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Liste_des_animaux_d'élevage"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Domestication"/>
+    <rdfs:comment xml:lang="id">Hewan peliharaan atau hewan timangan adalah hewan yang dipelihara sebagai teman sehari-hari manusia. Hewan timangan berbeda dari hewan ternak, hewan percobaan, hewan pekerja, atau hewan tunggangan yang dipelihara untuk kepentingan ekonomi atau untuk melakukan tugas tertentu. Hewan peliharaan yang populer biasanya adalah hewan yang memiliki karakter setia pada majikannya atau memiliki penampilan yang menarik, atau kemampuan menarik tertentu seperti mengeluarkan suara yang indah.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Lapin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Lapin_domestique">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cheval_au_XXe_siècle">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Mondou">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Terrariophilie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Domaine_du_rêve">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Albinisme">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Syndicat_professionnel_des_métiers_et_services_de_l'animal_familier">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Stress">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Laisse">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Animal">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Fresison">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Jack_Russell_terrier">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Hamster">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Martes_americana">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Animal_De_Compagnie">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Gamelle_(récipient)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Popeye">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Hippophagie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Apprivoisement">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cavia_porcellus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Ratel">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/The_Blue_Cross">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cheval">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Catégorie:Animal_de_compagnie">
+    <skos:subject rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Carnivore_domestique">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Hamster_russe">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cuy_(cobaye)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Mammifère">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Équitation_éthologique">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Équitation_en_France">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Colombe">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Oiseaux_de_cage">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Pan_troglodytes">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Chat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/La_Maison_de_Claudine">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cheval_miniature_américain">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tortue_étoilée_d'Inde">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Rattus_norvegicus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Perruche_ondulée">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Chaton_bonsaï">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Perroquet_rouge_et_vert">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cochon_vietnamien">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Bicolore_(robe_de_chat)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Rétention_d'œuf">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Charlotte_aux_fraises">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/GloFish">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Domestication_du_cheval">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Élevage_félin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Dogue_de_Bordeaux">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Nain_(créature_fantastique)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Monster_Rancher_(jeu_vidéo)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tortue_peinte">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Trichotillomanie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Âne_romagnolo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Chien_chanteur">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Falabella">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Galictis_vittata">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Poule_comme_animal_de_compagnie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Gary_(Bob_l'éponge)">
+    <prop-fr:activité rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+    <dbpedia-owl:occupation rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Nécropole_d'animaux">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Poicephalus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Vétérinaire_(France)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Alimentation_animale">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Furet">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Plume">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cage">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tourterelle_domestique">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Aide_simienne">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Strigops_kakapo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Conraua_goliath">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Pie_(robe)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Génius">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cœur_brisé">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Astrochelys_radiata">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Élevage_du_cheval_en_France">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Bobtail_(homonymie)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Fish_only">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Flat_daddy">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Basse-cour_d'élevage">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Personnages_de_Modern_Family">
+    <dbpedia-owl:occupation rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+    <prop-fr:activité rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Callisie_rampante">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Animaux_de_compagnie">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Minnie_Mouse">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tortue_terrestre">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Lapin_nain">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Angora">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Pavillon_de_l'oreille">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Ceratophrys_cornuta">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Marché_de_Louhans">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tamias_sibiricus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Peinture_animalière">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Forêt_de_Sénart">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Koko_(gorille)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Granulé">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Vide_(sentiment)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tencent_QQ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Fauve_de_Bourgogne">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Toiletteur">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Testudinidae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Domestication">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Personnage_type">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/La_Famille_Flopsaut">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Souris">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Acomys_cahirinus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Chinchilla">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Perroquet">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Garfield_(bande_dessinée)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Beagle-harrier">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Litière">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Pension">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Race">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Chien_des_refuges">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Certificat_de_capacité_pour_l'entretien_d'animaux_d'espèces_non_domestiques">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Extensions_du_jeu_Les_Sims_2">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Médecine_vétérinaire">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Le_poussin_et_le_canard">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/30_millions_d'amis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Jean-Claude_Rodet">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Histoire_du_chat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Legend_of_Mana">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Équarrissage">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Sépion">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Kerry_bog">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Moineau_domestique">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Fressnapf">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tortue">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Digimon_World">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Zoothérapie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Élevage">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Poule_soie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Theraphosidae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Hamster_doré">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Psittaciformes">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cheval_miniature">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Perdus_dans_l'espace_(série_télévisée)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Oiseau_de_cage">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Aquarium_marin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Hamster_de_Roborovski">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Âne_du_Cotentin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Catégorie:Droit_de_l'animal_de_compagnie">
+    <skos:subject rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Bien-être_animal">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Copycat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tortue_de_Muhlenberg">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Rainette_de_White">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Dijon">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Boa_constricteur">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tamia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Organisme_nuisible">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Doypack">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Syndrome_de_Noé">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Château_de_Vendeuvre">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Sándor_Bökönyi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Digimon_World_Championship">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Serpentaire_du_Congo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Siphonaptera">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Comportementaliste">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Animal_domestique">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cardinal_rouge">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Chartreux_(chat)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Vétérinaire">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Ariégeois">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/The_Pet_Network">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Équitation">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Zoonose">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Farine_de_poisson">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/American_curl">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Écureuil_de_Corée">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Convention_européenne_pour_la_protection_des_animaux_de_compagnie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Promeneur_de_chien">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Les_Minikeums">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Mus_musculus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Chimpanzé">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Rat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Elsa_la_lionne">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Entomoculture">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Oiseau">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Animal_de_compagnie_virtuel">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Asticot">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Griffe_(anatomie_animale)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Mort_aux_rats">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Euthanasie_animale">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Géopélie_diamant">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.wikipedia.org/wiki/Animal_de_compagnie">
+    <foaf:primaryTopic rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Poissons_d'aquarium">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Lapin_angora">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Spécisme">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/L'Aventure_des_Ewoks">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Âne_commun">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Rat_domestique">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Vieillesse_du_cheval">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tortue_boîte">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Équilibres_prédateurs-proies">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Science_du_bien-être_animal">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Octodon_degus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/École_nationale_vétérinaire_d'Alfort">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Zootechnie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Kreeblim">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/École_nationale_vétérinaire_de_Toulouse">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Krefeld">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Baguage">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Extensions_du_jeu_Les_Sims">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Donald_Duck">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Lur_Berri">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Pollution_olfactive">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Chien_de_compagnie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Lemniscomys">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cimetière_animalier_de_Liège">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Histoire_de_Nestlé">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Nitenpyrame">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Huile_de_poisson">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Synapses_(syndicat)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Opossum">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Remplaçable">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Moi_et_mon_ange_gardien">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cuniculture">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Nouveaux_animaux_de_compagnie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cacatoès_nasique">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Anabaena">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Refuge_animalier">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Soja">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Animal_domestique_en_droit_français">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Nain_angora">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Brachypelma_smithi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Octodon">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Peste">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Bélier_français">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Fondation_Brigitte-Bardot">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tusken">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Chien">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dbp="http://dbpedia.org/property/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird_nest">
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Nido_de_aves"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.com/?id=jFfs1jsPfwgC&amp;pg=PA383"/>
+    <dbo:abstract xml:lang="en">A bird nest is the spot in which a bird lays and incubates its eggs and raises its young. Although the term popularly refers to a specific structure made by the bird itself—such as the grassy cup nest of the American robin or Eurasian blackbird, or the elaborately woven hanging nest of the Montezuma oropendola or the village weaver—that is too restrictive a definition. For some species, a nest is simply a shallow depression made in sand; for others, it is the knot-hole left by a broken branch, a burrow dug into the ground, a chamber drilled into a tree, an enormous rotting pile of vegetation and earth, a shelf made of dried saliva or a mud dome with an entrance tunnel. The smallest bird nests are those of some hummingbirds, tiny cups which can be a mere 2 cm (0.79 in) across and 2–3 cm (0.79–1.18 in) high. At the other extreme, some nest mounds built by the dusky scrubfowl measure more than 11 m (36 ft) in diameter and stand nearly 5 m (16 ft) tall.Not all bird species build nests.  Some species lay their eggs directly on the ground or rocky ledges, while brood parasites lay theirs in the nests of other birds, letting unwitting "foster parents" do all the work of rearing the young.  Although nests are primarily used for breeding, they may also be reused in the non-breeding season for roosting and some species build special dormitory nests or roost nests (or winter-nest) that are used only for roosting.  Most birds build a new nest each year, though some refurbish their old nests.The large eyries (or aeries) of some eagles are platform nests that have been used and refurbished for several years.In most species, the female does most or all of the nest construction, though the male often helps. In some polygynous species, however, the male does most or all of the nest building. The nest may also form a part of the courtship display such as in weaver birds. The ability to choose and maintain good nest sites and build high quality nests may be selected for by females in these species. In some species the young from previous broods may also act as helpers for the adults.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/새의_둥지"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.earthlife.net/birds/nests.html"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://sora.unm.edu/sites/default/files/journals/wilson/v101n04/p0579-p0590.pdf"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03bx1ft"/>
+    <rdfs:comment xml:lang="es">Un nido de ave es el lugar en el cual un ave pone e incuba sus huevos y cría sus polluelos.</rdfs:comment>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">678089244</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://sora.unm.edu/node/155"/>
+    <rdfs:label xml:lang="en">Bird nest</rdfs:label>
+    <rdfs:label xml:lang="es">Nido de aves</rdfs:label>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Bird_Nest_With_Egg.jpg"/>
+    <rdfs:label xml:lang="pt">Nidificação</rdfs:label>
+    <dbo:abstract xml:lang="pt">Nidificação é a ação de alguma espécie de animal construir seu ninho. É muito comum aos pássaros no período de incubação de seus ovos. Em algumas espécies tanto o macho como a fêmea constroem o ninho; em outras, somente a fêmea ou o macho.  Esse comportamento apresenta diversos aspectos interessantes para o entendimento da formação do comportamento social dos animais, dos insetos ao homem. E essa compreensão está ligada à teoria darwinista das espécies. Por isso é importante entender como certas espécies adquiriram essa comportamento com o passar das gerações. Uma espécie pode, dependendo da região, ter mais chances de sobreviver quando se desenvolve dentro de um ninho aos cuidados dos seus genitores, em relação à outra que se desenvolve de modo mais independente.A nidificação pode relacionar-se com os ninhos criados pelas aves migratórias como andorinhas e cegonhas que todos os anos regressam aos mesmos locais para o fazer, assegurando a continuação da espécie, já que não tem capacidade para se adaptar aos meios com temperaturas extremas.</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://dnr.state.il.us/lands/education/wild/birdnest.htm"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Bird_nest"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://sora.unm.edu/sites/default/files/journals/auk/v101n03/p0615-p0618.pdf"/>
+    <rdfs:comment xml:lang="en">A bird nest is the spot in which a bird lays and incubates its eggs and raises its young. Although the term popularly refers to a specific structure made by the bird itself—such as the grassy cup nest of the American robin or Eurasian blackbird, or the elaborately woven hanging nest of the Montezuma oropendola or the village weaver—that is too restrictive a definition.</rdfs:comment>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.eoearth.org/article/Abiotic_factor?topic=49461"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://sora.unm.edu/sites/default/files/journals/wilson/v102n01/p0014-p0022.pdf"/>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Bird_Nest_With_Egg.jpg?width=300"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">947038</dbo:wikiPageID>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1137226"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://people.eku.edu/ritchisong/birdnests.html"/>
+    <dbo:abstract xml:lang="ru">Гнездо птицы — место, в котором птицы откладывают и высиживают свои, а в некоторых случаях чужие яйца и выращивает птенцов. Хотя в большинстве случаев термин обычно обозначает созданные самими птицами структуры, такие как травяные чашеобразные гнезда странствующего и чёрного дроздов, или «подвесные» гнёзда оропендолы-монтесумы, черноголового ткачика или червонобривого пардалота, орнитологическое определение понятие «гнездо» шире. Для некоторых видов птиц гнездом является лишь небольшое углубление в песке, разветвление двух ветвей, нора в земле, дупло в дереве, куча перегнившего растительного материала или земляной купол с входным туннелем. Некоторые виды, такие как саланганы рода Collocalia, строят гнёзда целиком из собственной слюны, которая, загустевая, образует место для откладывания яиц на вертикальной стене пещеры. Наименьшие гнезда — гнезда колибри, имеющие вид крошечных чашочек диаметром около 2 см и высотой 2-3 см. С другой стороны, гнёзда, построенные «джунглевой курицей» (Megapodius freycinet), достигают более 11 м в диаметре и высоты около 5 м.Часто сама птица не строит гнёзда, захватывая чужое гнездо или используя стратегию гнездового паразитизма. В последнем случае яйца откладываются в гнездо птицы-хозяина — того же или другого вида, — которая высиживает яйца и ухаживает за птенцами, избавляя птицу-паразита от необходимости заниматься этим самостоятельно.Хотя степень участия представителей обоих полов в строительстве гнезда у разных видов птиц различна, чаще большую часть работы выполняет самки. У некоторых полигамных видов, однако, большую часть работы выполняет самец. У некоторых видов взрослым птицам в строительстве гнезда помогают молодые особи из предыдущих кладок. Гнездо часто бывает местом различных этапов спаривания, в частности, ухаживания и брачных игр: например, таковы гнезда шалашниковов и ткачиков. Способность строить и поддерживать хорошее гнездо, вероятно, является результатом эволюционного отбора у этих видов.</dbo:abstract>
+    <rdfs:comment xml:lang="ru">Гнездо птицы — место, в котором птицы откладывают и высиживают свои, а в некоторых случаях чужие яйца и выращивает птенцов. Хотя в большинстве случаев термин обычно обозначает созданные самими птицами структуры, такие как травяные чашеобразные гнезда странствующего и чёрного дроздов, или «подвесные» гнёзда оропендолы-монтесумы, черноголового ткачика или червонобривого пардалота, орнитологическое определение понятие «гнездо» шире.</rdfs:comment>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Bird_nest?oldid=678089244"/>
+    <rdfs:comment xml:lang="pt">Nidificação é a ação de alguma espécie de animal construir seu ninho. É muito comum aos pássaros no período de incubação de seus ovos. Em algumas espécies tanto o macho como a fêmea constroem o ninho; em outras, somente a fêmea ou o macho.  Esse comportamento apresenta diversos aspectos interessantes para o entendimento da formação do comportamento social dos animais, dos insetos ao homem. E essa compreensão está ligada à teoria darwinista das espécies.</rdfs:comment>
+    <rdfs:label xml:lang="ru">Гнездо птицы</rdfs:label>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Shelters_built_or_used_by_animals"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bird_breeding"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1137226"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.prbo.org/cms/docs/edu/activity4.pdf"/>
+    <dbo:abstract xml:lang="es">Un nido de ave es el lugar en el cual un ave pone e incuba sus huevos y cría sus polluelos. Mientras que el término popularmente se refiere a la estructura específica hecha por el ave misma —tal como el nido de copa de hierba del zorzal robín (Turdus migratorius) o del mirlo común (Turdus merula), o el nido colgante elaboradamente tejido de la oropéndola americana de Moctezuma (Psarocolius montezuma), del tejedor aldeano (Ploceus cucullatus) o del pardalote cejirrojo (Pardalotus rubricatus)— esa es una definición muy restrictiva. Para algunas especies, un nido es simplemente una depresión somera hecha de arena; para otras, es el hueco del nudo que queda en un tronco luego de que una rama se parte, una madriguera excavada en el suelo, una cámara taladrada en un árbol, una pila enorme de vegetación en putrefacción y tierra, o una cúpula de barro con un túnel de entrada. Algunas especies de salanganas linchi del género Collocalia hacen sus nidos enteramente de saliva, que se seca y endurece para formar una repisa en la pared de la cueva dentro de la cual el ave pone sus huevos.Los nidos de aves más pequeños son los de algunos colibríes, copas pequeñitas que pueden llegar a ser de sólo 2 cm de ancho y 2-3 cm de alto. En el otro extremo, algunos nidos de montículo construidos por el megápodo talégalo de freycinet (Megapodius freycinet)  miden más de 11 metros de diámetro y casi 5 metros de alto.En la mayoría de las especies, la hembra hace todo o la mayor parte del trabajo de construcción, aunque el macho frecuentemente ayuda. En algunas especies poliginas, el macho puede sin embargo, hacer todo o la mayor parte de la construcción del nido. El nido puede también ser parte de su demostración de cortejo tal como en las cabañeras Ptilonorhynchidae y en las tejedoras Ploceidae. La habilidad de escoger y mantener buenos sitios de anidación y de construir nidos de alta calidad puede ser seleccionada por las hembras en estas especies. En algunas especies los jóvenes de nidadas previas pueden actuar como ayudantes de los adultos.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Nidificação"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavitynests">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nest_(bird)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavity-nester">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavity-nest">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavity-nesters">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavity_nesters">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Burnside_Nest">
+    <dbp:subject rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavity-nested">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scrape_nest">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavity_nesting">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nidification">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavity_nests">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aerie_(nest)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavity_nest">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burrow_nest">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavity-nesting">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eyrie_(nest)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavitynesters">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nest_cavities">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cup_nest">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nest_cavity">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavity_nested">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavitynester">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavity_nester">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Bird_nest">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavity-nests">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dormitory_nest">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavitynesting">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavitynested">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cavitynest">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+  </rdf:Description>
+</rdf:RDF>

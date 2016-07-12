@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-nl="http://nl.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Vogelzang">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://nl.dbpedia.org/resource/Vogelzang_(ornithologie)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Vogelzang_(ornithologie)">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vogelzang (ornithologie)</rdfs:label>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">4722</dbpedia-owl:wikiPageLength>
+    <foaf:isPrimaryTopicOf rdf:resource="http://nl.wikipedia.org/wiki/Vogelzang_(ornithologie)"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">37</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageHistoryLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Vogelzang_(ornithologie)&amp;action=history"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Appendix"/>
+    <dbpedia-owl:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vogelzang is het vermogen van vogels om te fluiten en is de bekendste vorm van diercommunicatie. Van zingen is geen sprake omdat vogels geen strottenhoofd hebben, maar de lucht laten trillen met behulp van membranen in de syrinx. Maar de term 'fluiten' is ook niet helemaal correct, aangezien mensen met hun lippen fluiten en vogels geen lippen hebben. Wel speelt de snavel zichtbaar een rol. Vrijwel iedere vogelsoort heeft een unieke zang, zodat soortgenoten elkaar kunnen herkennen. Ook bij het tellen van vogelpopulaties worden de soortspecifieke geluiden gebruikt. Er zijn twee soorten vogelgeluiden; de roep en de zang.</dbpedia-owl:abstract>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vogelzang is het vermogen van vogels om te fluiten en is de bekendste vorm van diercommunicatie. Van zingen is geen sprake omdat vogels geen strottenhoofd hebben, maar de lucht laten trillen met behulp van membranen in de syrinx. Maar de term 'fluiten' is ook niet helemaal correct, aangezien mensen met hun lippen fluiten en vogels geen lippen hebben. Wel speelt de snavel zichtbaar een rol. Vrijwel iedere vogelsoort heeft een unieke zang, zodat soortgenoten elkaar kunnen herkennen.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Vogelzang_(ornithologie)"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">421103</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageEditLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Vogelzang_(ornithologie)&amp;action=edit"/>
+    <dbpedia-owl:wikiPageModified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-01-10T15:24:45+00:00</dbpedia-owl:wikiPageModified>
+    <dbpedia-owl:wikiPageExtracted rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-11-25T23:06:30+00:00</dbpedia-owl:wikiPageExtracted>
+    <dcterms:subject rdf:resource="http://nl.dbpedia.org/resource/Categorie:Ornithologie"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Commonscat"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42966642</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageRevisionLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Vogelzang_(ornithologie)&amp;oldid=42966642"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.wikipedia.org/wiki/Vogelzang_(ornithologie)">
+    <foaf:primaryTopic rdf:resource="http://nl.dbpedia.org/resource/Vogelzang_(ornithologie)"/>
+  </rdf:Description>
+</rdf:RDF>

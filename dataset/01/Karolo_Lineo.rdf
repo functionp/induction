@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-eo="http://eo.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Karolo_Lineo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Stameno"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Johannes_Burman"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Linea_Botanika_Ĝardeno"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/1740-aj_jaroj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Hans_Sloane"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Botaniko"/>
+    <owl:sameAs rdf:resource="http://az.dbpedia.org/resource/Karl_Linney"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Tornio"/>
+    <owl:sameAs rdf:resource="http://oc.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Svedaj_nobeloj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Carl_Gustav_Tessin"/>
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/Carl_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Tilio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Hortus_Cliffortianus"/>
+    <owl:sameAs rdf:resource="http://lv.dbpedia.org/resource/Kārlis_Linnejs"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Peter_Artedi"/>
+    <owl:sameAs rdf:resource="http://ga.dbpedia.org/resource/Carl_von_Linné"/>
+    <owl:sameAs rdf:resource="http://sa.dbpedia.org/resource/केरोलस्_लीनियस्"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Latino"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Carl_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:Albertus_Seba_-_Hydra.jpg"/>
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Nepenthes"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/1766"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/1751"/>
+    <prop-eo:wikiPageUsesTemplate rdf:resource="http://eo.dbpedia.org/resource/Ŝablono:Ĉefartikolo"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Линней,_Карл"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Simbolo"/>
+    <owl:sameAs rdf:resource="http://yi.dbpedia.org/resource/קארל_פאן_לינע"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Biologoj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Nils_Rosén_von_Rosenstein"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kanaloj_de_Amsterdamo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Genera_plantarum"/>
+    <owl:sameAs rdf:resource="http://ml.dbpedia.org/resource/കാൾ_ലിനേയസ്"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Bazlernejo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Species_plantarum"/>
+    <owl:sameAs rdf:resource="http://qu.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.iltimone.org/rivistaSommario.php?idRec=109"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Universitato_de_Upsalo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Celsius"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:CarlvonLinne_house.jpg"/>
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Svedaj_botanikistoj"/>
+    <prop-eo:wikiPageUsesTemplate rdf:resource="http://eo.dbpedia.org/resource/Ŝablono:Referencoj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Skåne"/>
+    <owl:sameAs rdf:resource="http://ms.dbpedia.org/resource/Carl_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Botanika_nomenklaturo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ornitologio"/>
+    <owl:sameAs rdf:resource="http://vo.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <owl:sameAs rdf:resource="http://ku.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo_la_pli_juna"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Uppsala"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Philip_Miller"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Slovenio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/1760-aj_jaroj"/>
+    <owl:sameAs rdf:resource="http://nds.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dunoma_nomenklaturo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/1778"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Universitato_de_Lund"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/칼_폰_린네"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Carl_von_Linné"/>
+    <owl:sameAs rdf:resource="http://lmo.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:Carolus_Linnaeus_by_Hendrik_Hollander_1853.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Røros"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Jean-Jacques_Rousseau"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ĉimpanzo"/>
+    <owl:sameAs rdf:resource="http://jv.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/کارل_لینه"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Hidro_(mitologio)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/1749"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Plinio_la_Maljuna"/>
+    <owl:sameAs rdf:resource="http://lb.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Biodiverseco"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Georg_Dionysius_Ehret"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Carl_von_Linné"/>
+    <owl:sameAs rdf:resource="http://ta.dbpedia.org/resource/கரோலஸ்_லின்னேயஸ்"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Umeå"/>
+    <owl:sameAs rdf:resource="http://hy.dbpedia.org/resource/Կարլ_Լինեյ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Gliro"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:Karte_Linne.png"/>
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Carl_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Patronomo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/1757"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Edward_Lee_Greene"/>
+    <prop-eo:wikiPageUsesTemplate rdf:resource="http://eo.dbpedia.org/resource/Ŝablono:LigoElstara"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Falun"/>
+    <owl:sameAs rdf:resource="http://pms.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Elisabeth_Christina_von_Linné"/>
+    <owl:sameAs rdf:resource="http://arz.dbpedia.org/resource/كارل_لينيوس"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Zoologia_nomenklaturo"/>
+    <owl:sameAs rdf:resource="http://ast.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Genera_Plantarum"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/1737"/>
+    <owl:sameAs rdf:resource="http://ba.dbpedia.org/resource/Карл_Линней"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Duklando_de_Karniolo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Nederlanda_Orient-hinda_Kompanio"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5510998</dbpedia-owl:wikiPageRevisionID>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Svedaj_botanikistoj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Fiziologio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Prusa_Akademio_de_Sciencoj"/>
+    <owl:sameAs rdf:resource="http://tl.dbpedia.org/resource/Carl_Linnaeus"/>
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Carl_Linné"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Карл_Лінней"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Karol_Linneusz"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Botanikisto"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eo.wikipedia.org/wiki/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Boaco"/>
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Luteranismo"/>
+    <owl:sameAs rdf:resource="http://sw.dbpedia.org/resource/Carl_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Matematiko"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Карл_Линей"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Botanikistoj"/>
+    <owl:sameAs rdf:resource="http://hi.dbpedia.org/resource/कार्ल_लीनियस"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Reĝa_Sveda_Akademio_de_Scienco"/>
+    <owl:sameAs rdf:resource="http://ia.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/William_Shakespeare"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/カール・フォン・リンネ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Harderwijk"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Eternulo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Systema_Naturae"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Solanacoj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Upsalo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karnovoraj_plantoj"/>
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:LinnaeusWeddingPortrait.jpg"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Κάρολος_Λινναίος"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ucmp.berkeley.edu/history/linnaeus.html"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Golfo_de_Botnio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Profesoro"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Gimnazio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Likeno"/>
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Карл_Ліней"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Eneado"/>
+    <owl:sameAs rdf:resource="http://mn.dbpedia.org/resource/Карл_Линней"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Sameoj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Baruch_Spinoza"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Paroĥo"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www2.nrm.se/fbo/hist/linnaeus/linnaeus.html.en"/>
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Carl_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Juglando_(genro)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Respubliko_de_la_Sep_Unuiĝintaj_Provincoj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:Carl_Linnaeus_dressed_as_a_Laplander.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Upsala_Universitato"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Linea_taksonomio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/International_Code_of_Zoological_Nomenclature"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Växjö"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Adamo_(Biblio)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Mineralo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Blazono"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Natura_historio"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2691</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://sq.dbpedia.org/resource/Carl_Linné"/>
+    <prop-eo:wikiPageUsesTemplate rdf:resource="http://eo.dbpedia.org/resource/Ŝablono:Commons"/>
+    <prop-eo:wikiPageUsesTemplate rdf:resource="http://eo.dbpedia.org/resource/Ŝablono:Havenda_artikolo"/>
+    <owl:sameAs rdf:resource="http://is.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <owl:sameAs rdf:resource="http://bn.dbpedia.org/resource/কার্ল_লিনিয়াস"/>
+    <owl:sameAs rdf:resource="http://tt.dbpedia.org/resource/Карл_Линней"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Genro"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Hebrea"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Mineralogoj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Adolfo_Frederiko_(Svedio)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Greka_lingvo"/>
+    <owl:sameAs rdf:resource="http://pnb.dbpedia.org/resource/کارل_لنیاس"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Svedoj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Lars_Roberg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Æ"/>
+    <prop-eo:wikiPageUsesTemplate rdf:resource="http://eo.dbpedia.org/resource/Ŝablono:LigoLeginda"/>
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/Carl_Linnaeus"/>
+    <owl:sameAs rdf:resource="http://lt.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Anders_Celsius"/>
+    <owl:sameAs rdf:resource="http://kk.dbpedia.org/resource/Карл_Линней"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Skopolamino"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Joseph_Pitton_de_Tournefort"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/August_Strindberg"/>
+    <owl:sameAs rdf:resource="http://vec.dbpedia.org/resource/Carl_von_Linné"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1043"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Sorpujo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Tipo_(biologio)"/>
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Nederlando"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Johann_Jacob_Dillenius"/>
+    <owl:sameAs rdf:resource="http://th.dbpedia.org/resource/คาโรลัส_ลินเนียส"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Universitato_de_Upsalo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Linea_Ĝardeno"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.systbot.uu.se/history/linnaeus.html"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Joseph_Banks"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Svedaj_nobeloj"/>
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Carl_Linné"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Carl_Linné"/>
+    <owl:sameAs rdf:resource="http://yo.dbpedia.org/resource/Carl_Linnaeus"/>
+    <owl:sameAs rdf:resource="http://ur.dbpedia.org/resource/لنی_اس"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Scopolia"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Idrija"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/卡尔·林奈"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Arkiatro"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Nomenklaturo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/George_Clifford_la_3-a"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:Hortus_Cliffortianus_folia_simpl.png"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Carlos_Linneo"/>
+    <owl:sameAs rdf:resource="http://la.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Aristotelo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Teologio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:Linné-Praeludia_Sponsaliorum_Plantarum.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Västergötland"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:LA2-Rashult-2.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Olof_Celsius"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Philosophia_Botanica"/>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/1735"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Gotlando"/>
+    <owl:sameAs rdf:resource="http://scn.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <owl:sameAs rdf:resource="http://ka.dbpedia.org/resource/კარლ_ლინე"/>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q1043"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Franca_lingvo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:LinnéUppsalaDom.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:CarlvonLinne_Garden.jpg"/>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Mineralogoj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Musko"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Darvino"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Olof_Rudbeck_la_Juna"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Smolando"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Lappland"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Systema_naturae"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:CarlvonLinne_Hammarby.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dalarna"/>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Карл_фон_Лине"/>
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/קארולוס_ליניאוס"/>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Universitato_de_Lund"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:Species_plantarum_001.jpg"/>
+    <owl:sameAs rdf:resource="http://ckb.dbpedia.org/resource/کارلۆس_لینایۆس"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/23-an_de_majo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ligaturo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Iskiatalgio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Abelbredado"/>
+    <owl:sameAs rdf:resource="http://bs.dbpedia.org/resource/Carl_von_Linné"/>
+    <owl:sameAs rdf:resource="http://fy.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.linnaeus.uu.se/LTeng.html"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Nobelo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Latina_lingvo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Flaŭro"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ordeno_de_la_Polusa_Stelo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Animalo"/>
+    <owl:sameAs rdf:resource="http://als.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kuracisto"/>
+    <owl:sameAs rdf:resource="http://mr.dbpedia.org/resource/कार्ल_लिनेयस"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Heemstede"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Universitato_de_Upsalo"/>
+    <owl:sameAs rdf:resource="http://ky.dbpedia.org/resource/Линней,_Карл"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Remburado_(konservado_de_bestoj)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Proteo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Skanio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Species_Plantarum"/>
+    <rdfs:label xml:lang="eo">Karolo Lineo</rdfs:label>
+    <owl:sameAs rdf:resource="http://uz.dbpedia.org/resource/Carl_Linnaeus"/>
+    <owl:sameAs rdf:resource="http://af.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/S:Manual_of_the_New_Zealand_Flora"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Antoine_de_Jussieu"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46826</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/1707"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Botanikistoj"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">236</dbpedia-owl:wikiPageOutDegree>
+    <owl:sameAs rdf:resource="http://sah.dbpedia.org/resource/Карл_Линней"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Sébastien_Vaillant"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Zoologio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Augustin_Pyramus_de_Candolle"/>
+    <owl:sameAs rdf:resource="http://br.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Luleå"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Primato"/>
+    <owl:sameAs rdf:resource="http://cy.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/كارولوس_لينيوس"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kilian_Stobæus"/>
+    <owl:sameAs rdf:resource="http://io.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Linnaea_borealis"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/1753"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Gävle"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Hamburgo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vertebrulo"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <prop-eo:wikiPageUsesTemplate rdf:resource="http://eo.dbpedia.org/resource/Ŝablono:Vivtempo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Biologia_klaso"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/10-an_de_januaro"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/10a_eldono_de_Systema_Naturae"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Linneo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Planto"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Jan_Frederik_Gronovius"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Upsala_Katedralo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:Hortus_Cliffortianus_folia_compos.png"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Pastro"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Olando"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <owl:sameAs rdf:resource="http://sco.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Universitato_de_Harderwijk"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Homo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Biologia_klasigo"/>
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/Карл_Лине"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Von"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Tero"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Specio"/>
+    <owl:sameAs rdf:resource="http://ce.dbpedia.org/resource/Линней,_Карл"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Genro_(biologio)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:Carl_von_Linné_i_Lund.jpg"/>
+    <ns7:wasDerivedFrom rdf:resource="http://eo.wikipedia.org/wiki/Karolo_Lineo?oldid=5510998"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/James_Edward_Smith"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Listo_de_botanikistoj_laŭ_mallongigoj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Svedoj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Visby"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Taksonomio"/>
+    <owl:sameAs rdf:resource="http://an.dbpedia.org/resource/Carl_von_Linné"/>
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Flora_Lapponica"/>
+    <owl:sameAs rdf:resource="http://gd.dbpedia.org/resource/Carl_Linnaeus"/>
+    <prop-eo:wikiPageUsesTemplate rdf:resource="http://eo.dbpedia.org/resource/Ŝablono:Lang"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Herman_Boerhaave"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Katerina_la_2-a_(Rusio)"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Carl_von_Linné"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vegetala_reproduktado"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Biologia_ordo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Pistilo"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Lineo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Svedio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Malario"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:Linnaeus1758-title-page.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Johann_Wolfgang_von_Goethe"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kuriozaĵkabineto"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Giovanni_Antonio_Scopoli"/>
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Reĝa_Societo_de_Sciencoj_en_Upsalo"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Biologoj"/>
+    <owl:sameAs rdf:resource="http://te.dbpedia.org/resource/కరోలస్_లిన్నేయస్"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Universitato_de_Lund"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/1738"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ĉelsia_Botanika_Ĝardeno"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Biologia_regno"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Linea_Societo_de_Londono"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Czesław_Słania">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Carolus_Linnaeus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Dunoma_nomsistemo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Astero">
+    <prop-eo:genroAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Granda_botaŭro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Driado_(genro)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <prop-eo:genroAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Genera_Plantarum">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/George_Clifford_la_3-a">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Adonido">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <prop-eo:genroAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Karlo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Linné">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Flora_Lapponica">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Olof_Celsius">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Carl_von_Linné">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Fikario">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <prop-eo:dunomoAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Coronilla_minima">
+    <prop-eo:dunomoAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Narvalo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Taliktro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <prop-eo:genroAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Araba_kofeo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Cedrato">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Linea_Societo_de_Londono">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Giovanni_Antonio_Scopoli">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Tamarindo_(arbo)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <prop-eo:genroAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Andreas_Elias_Büchner">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Pirenea_kverko">
+    <prop-eo:dunomoAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Tridakno">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <prop-eo:genroAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Korkoro">
+    <prop-eo:genroAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Anemono">
+    <prop-eo:genroAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Biologia_klasado">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/1-a_de_majo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Rubuso_(genro)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <prop-eo:taksonoAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Johannes_Burman">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Plantoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Carl_VON_LINNÉ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Pehr_Kalm">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Idrija">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Rufa_sciuro">
+    <prop-eo:dunomoAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Linnæus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Wilfrid_Jasper_Walter_Blunt">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Litorino">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <prop-eo:genroAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Olaus_Rudbeckius,_la_Juna">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Faŭno_(biologio)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Carl_Linnæus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Venuso_(genro)">
+    <prop-eo:genroAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Upsala_Katedralo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Erik_Acharius">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Gliro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Pufa_peŭcedano">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Georg_Brandt">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Pumo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Christopher_Polhem">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Lineo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Pastinako">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Species_Plantarum">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Blanka_cikonio">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Carl_von_LINNÉ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Linnaeus">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Oficina_taraksako">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Carlos_Linneo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kalam-akoro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Nelikeniĝintaj_Fungoj_Likenloĝaj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Carl_Linnaeus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.wikipedia.org/wiki/Karolo_Lineo">
+    <foaf:primaryTopic rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Jonas_Carlsson_Dryander">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Agla_pteridio">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Trolio">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <prop-eo:genroAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/L.">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Philip_Miller">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Botanika_nomenklaturo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Linnaea_borealis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Adam_Afzelius">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Robert_Brown_(botanikisto)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Lars_Roberg">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Carolus_Linnæus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Joseph_Sabine">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Arbara_antrisko">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Okpetala_driado">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <prop-eo:dunomoAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Philosophia_Botanica">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Linea_Ĝardeno">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Karolo_Lineo_la_pli_juna">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Elisabeth_Christina_von_Linné">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Hortus_Cliffortianus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Gazania_rigens">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/White_Watson">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Ormeduzo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <prop-eo:dunomoAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Stratioto">
+    <prop-eo:dunomoAŭtoritato rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Linneo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Universitato_de_Upsalo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Nova_Biologia_Nomenklaturo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Makula_konio">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/9-a_de_aŭgusto">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/7412_Lineo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kilian_Stobæus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Rembert_Dodoens">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Ĉelsia_Botanika_Ĝardeno">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Sámuel_Diószegi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/10a_eldono_de_Systema_Naturae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Prusa_Akademio_de_Sciencoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Blua_trigonelo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Karolo_Lineo"/>
+  </rdf:Description>
+</rdf:RDF>

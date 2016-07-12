@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-ja="http://ja.dbpedia.org/property/"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ウオガラス">
+    <prop-ja:学名 xml:lang="ja">Corvus ossifragusWilson, 1812</prop-ja:学名>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スズメ目_(Sibley)"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Corvus_ossifragus"/>
+    <owl:sameAs rdf:resource="http://pnb.dbpedia.org/resource/مچھی_کاں"/>
+    <dbpedia-owl:binomial rdf:resource="http://ja.dbpedia.org/resource/1812年"/>
+    <dbpedia-owl:order rdf:resource="http://ja.dbpedia.org/resource/スズメ目"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1980147</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Corvus_ossifragus"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47068112</dbpedia-owl:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Corneille_de_rivage"/>
+    <dbpedia-owl:genus rdf:resource="http://ja.dbpedia.org/resource/カラス属"/>
+    <rdfs:comment xml:lang="ja">ウオガラス （魚烏、学名：Corvus ossifragus）は、スズメ目カラス科に分類される鳥類の一種。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/کلاغ_ماهی‌خور"/>
+    <rdfs:label xml:lang="ja">ウオガラス</rdfs:label>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1420315"/>
+    <dbpedia-owl:family rdf:resource="http://ja.dbpedia.org/resource/カラス科"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス属"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Fiskkråka"/>
+    <prop-ja:省略 xml:lang="ja">鳥綱</prop-ja:省略>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">16</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Fish_crow_on_post.jpg?width=300"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/W:Corvidae"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Bird-stub"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Corvus_ossifragus"/>
+    <prop-ja:種 xml:lang="ja">ウオガラス C. ossifragus</prop-ja:種>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/魚鴉"/>
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/ウオガラス?oldid=47068112"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Commons"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Reflist"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Fish_crow_on_post.jpg"/>
+    <dbpedia-owl:abstract xml:lang="ja">ウオガラス （魚烏、学名：Corvus ossifragus）は、スズメ目カラス科に分類される鳥類の一種。</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1420315"/>
+    <foaf:name xml:lang="ja">鳥綱</foaf:name>
+    <dbpedia-owl:family rdf:resource="http://ja.dbpedia.org/resource/カラス属"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Corvus_ossifragus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス小目_(Sibley)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス科"/>
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/Corvus_ossifragus"/>
+    <dbpedia-owl:conservationStatus>LC</dbpedia-owl:conservationStatus>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Vrána_rybí"/>
+    <foaf:name xml:lang="ja">Fish Crow</foaf:name>
+    <owl:sameAs rdf:resource="http://commons.dbpedia.org/resource/Corvus_ossifragus"/>
+    <prop-ja:status xml:lang="ja">LC</prop-ja:status>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Corvus_ossifragus"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">953</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スズメ亜目_(Sibley)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:カラス科"/>
+    <prop-ja:属 xml:lang="ja">カラス属 Corvus</prop-ja:属>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Sibley"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス科_(Sibley)"/>
+    <prop-ja:英名 xml:lang="ja">Fish Crow</prop-ja:英名>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス上科_(Sibley)"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Рыбный_ворон"/>
+    <owl:sameAs rdf:resource="http://ast.dbpedia.org/resource/Corvus_ossifragus"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Kalastajavaris"/>
+    <prop-ja:画像 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</prop-ja:画像>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Viskraai"/>
+    <prop-ja:目 xml:lang="ja">スズメ目 Passeriformes</prop-ja:目>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Fischkrähe"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Corvus_ossifragus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スズメ目"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/ウオガラス"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Fish_crow"/>
+    <owl:sameAs rdf:resource="http://ceb.dbpedia.org/resource/Corvus_ossifragus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1812年"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス亜科_(Sibley)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Fish_crow_on_post.jpg"/>
+    <prop-ja:科 xml:lang="ja">カラス科 Corvidae</prop-ja:科>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス族_(Sibley)"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Fiŝkorvo"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:生物分類表"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:PAGENAME"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/キマダラチズガメ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ウオガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/ウオガラス">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/ウオガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カラス科">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ウオガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カナダの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ウオガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/ウオガラス.rdf">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/ウオガラス"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カラス属">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ウオガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カラス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ウオガラス"/>
+  </rdf:Description>
+</rdf:RDF>

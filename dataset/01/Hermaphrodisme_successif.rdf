@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-fr="http://fr.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Hermaphrodisme_successif">
+    <rdfs:label xml:lang="nl">Dichogamie</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Homozygote"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Size_advantage_protandrie.png"/>
+    <rdfs:label xml:lang="de">Dichogamie</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Angiosperme"/>
+    <rdfs:comment xml:lang="es">En el contexto de la sexualidad vegetal de las plantas con flores (angiospermas) la dicogamia describe la condición en la que existe una separación temporal en la maduración de los sexos dentro de la misma flor o de la misma planta.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="de">Als Dichogamie bezeichnet man in der Fortpflanzungsbiologie der Zoologie und Botanik das Phänomen unterschiedlicher Reifezeitpunkte von weiblichen und männlichen Geschlechtsorganen bei zwittrigen Tieren oder Pflanzen. Dabei gibt es zwei verschiedene Formen mit tendenziell unterschiedlichen Zielen, die Proterogynie (weibliche Reife tritt früher ein) und die Proterandrie (männliche Reife tritt früher ein).</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">L'hermaphrodisme successif (ou séquentiel) est une forme d'hermaphrodisme correspondant à une acquisition des caractères sexuels mâles et femelles différée dans le temps. Il se retrouve aussi bien chez les animaux que chez les plantes, mais pour ces dernières on préférera le terme dichogamie. Contrairement à l’hermaphrodisme simultané, la production des gamètes mâles et femelles s’effectue à deux temps distincts. Ce mode de reproduction peut être considéré comme un intermédiaire entre le gonochorisme et l'hermaphrodisme simultané, ces derniers étant les extrêmes d'un même continuum.On peut distinguer trois grandes tendances d’hermaphrodisme séquentiel : la protandrie (ou protérandrie) où l’individu est d’abord mâle puis devient femelle ; la protogynie (ou protérogynie) où l’individu est d’abord femelle puis devient mâle ; et l’hermaphrodisme alternant où l’individu va changer de sexe plus d’une fois au cours de sa vie.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Inflorescence"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Pistil"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Crustacé"/>
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Sexualité_animale"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Premnas_biaculeatus_juvenile.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Stigmate_(botanique)"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109743101</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Caractère_sexuel"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Portail"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Premnas_biaculeatus_juvenile.jpg?width=300"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Dichogamie"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Sexualité_animale"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme"/>
+    <rdfs:label xml:lang="fr">Hermaphrodisme successif</rdfs:label>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1670385</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Dicogamia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Arisaema_triphyllum_WPC.jpg"/>
+    <rdfs:comment xml:lang="de">Als Dichogamie bezeichnet man in der Fortpflanzungsbiologie der Zoologie und Botanik das Phänomen unterschiedlicher Reifezeitpunkte von weiblichen und männlichen Geschlechtsorganen bei zwittrigen Tieren oder Pflanzen. Dabei gibt es zwei verschiedene Formen mit tendenziell unterschiedlichen Zielen, die Proterogynie (weibliche Reife tritt früher ein) und die Proterandrie (männliche Reife tritt früher ein).</rdfs:comment>
+    <foaf:isPrimaryTopicOf rdf:resource="http://fr.wikipedia.org/wiki/Hermaphrodisme_successif"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gonochorisme"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gamète"/>
+    <ns7:wasDerivedFrom rdf:resource="http://fr.wikipedia.org/wiki/Hermaphrodisme_successif?oldid=109743101"/>
+    <rdfs:comment xml:lang="nl">Dichogamie bij een plant is het fenomeen waarbij de stempel en de meeldraden niet tegelijkertijd rijp zijn. Dit heeft als voordeel dat de plant minder aan zelfbevruchting doet.Er kan een onderscheid gemaakt worden tussen proterogynie en proterandrie: bij proterogynie is de stempel is eerder rijp dan de meeldraden, terwijl bij proterandrie de meeldraden eerder rijp zijn dan de stempel.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="es">En el contexto de la sexualidad vegetal de las plantas con flores (angiospermas) la dicogamia describe la condición en la que existe una separación temporal en la maduración de los sexos dentro de la misma flor o de la misma planta. Hay dos formas de dicogamia: la protoginia, en la que la maduración del gineceo precede a la del androceo, y la protandria en la que, por el contrario, el androceo madura antes que el gineceo.Históricamente, la dicogamia ha sido considerada como un mecanismo para reducir la endogamia (por ejemplo, Darwin, 1862). Sin embargo, la proporción de especies dicógamas es similar tanto en plantas autógamas como alógamas.La duración del período de receptividad estigmática juega un papel central en la regulación del aislamiento entre sexos en las plantas dicógamas, y tal duración se halla influenciada por la temperatura y la humedad. La protandria favorece la alogamia y es la condición más frecuente en especies con dicogamia intrafloral. La protoginia intrafloral está asociada con la autogamia, por lo que este proceso es un recurso evolutivo para asegurar la producción de frutos y semillas.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Дихогамија"/>
+    <dbpedia-owl:abstract xml:lang="en">Sequential hermaphroditism (called dichogamy in botany) is a type of hermaphroditism that occurs in many fish, gastropoda and plants. Sequential hermaphroditism occurs when the individual changes sex at some point in their life. They can change from a male to female (protandry), or from female to male (protogyny). Those that change gonadal sex can have both female and male germ cells in the gonads or can change from one complete gonadal type to the other during their last life stage. Individual flowers are also called sequentially hermaphrodite, although the plant as a whole may have functionally male and functionally female flowers open at the same time.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Pression_sélective"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Références"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Reproduction"/>
+    <rdfs:comment xml:lang="ru">Дихогамия (от др.-греч. διίχα — надвое, пополам и γάμος — брак) — в биологии феномен раздельного во времени проявления противоположных половых признаков у организмов-гермафродитов. Свойственна некоторым рыбам, брюхоногим, а также многим цветковым растениям.</rdfs:comment>
+    <rdfs:label xml:lang="es">Dicogamia</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Reproduction_(biologie)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Huître"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gamétogenèse"/>
+    <rdfs:label xml:lang="en">Sequential hermaphroditism</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Thalassoma_bifasciatum"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Дихогамия"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Dichogamie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fécondité"/>
+    <rdfs:comment xml:lang="fr">L'hermaphrodisme successif (ou séquentiel) est une forme d'hermaphrodisme correspondant à une acquisition des caractères sexuels mâles et femelles différée dans le temps. Il se retrouve aussi bien chez les animaux que chez les plantes, mais pour ces dernières on préférera le terme dichogamie. Contrairement à l’hermaphrodisme simultané, la production des gamètes mâles et femelles s’effectue à deux temps distincts.</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Protandrie_et_progynie.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Dichogamie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Dépression_endogamique"/>
+    <rdfs:comment xml:lang="pl">Dichogamia, dychogamia – wytwarzanie przez jednego osobnika gamet męskich i żeńskich w różnym czasie. Jest to jeden z mechanizmów mający na celu zapobieganie niekorzystnemu samozapłodnieniu. Wyróżnia się dwa rodzaje dichogamii: protandria, protoandria (gr. protos = pierwszy, andros = mężczyzna) – wcześniejsze dojrzewanie gamet męskich. U roślin kwiatowych polega to na wcześniejszym dojrzewaniu pręcików niż słupków i nosi nazwę przedprątności.</rdfs:comment>
+    <rdfs:label xml:lang="ru">Дихогамия</rdfs:label>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05l410"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Dicogamia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Premnas_biaculeatus_juvenile.jpg"/>
+    <rdfs:label xml:lang="pl">Dichogamia</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="pl">Dichogamia, dychogamia – wytwarzanie przez jednego osobnika gamet męskich i żeńskich w różnym czasie. Jest to jeden z mechanizmów mający na celu zapobieganie niekorzystnemu samozapłodnieniu. Wyróżnia się dwa rodzaje dichogamii: protandria, protoandria (gr. protos = pierwszy, andros = mężczyzna) – wcześniejsze dojrzewanie gamet męskich. U roślin kwiatowych polega to na wcześniejszym dojrzewaniu pręcików niż słupków i nosi nazwę przedprątności. protogynia, proterogynia (pisane też: protoginia, proteroginia; z gr. protos = pierwszy, gyne = kobieta) – wcześniejsze dojrzewanie gamet żeńskich. U roślin kwiatowych polega to na wcześniejszym dojrzewaniu słupków, przed pręcikami i nosi nazwę przedsłupności.Dichogamia może być całkowita, gdy różnice w terminie dojrzewania gamet męskich i żeńskich u jednego osobnika są tak duże, że praktycznie wykluczają możliwość samozapłodnienia, lub częściowa, gdy terminy te częściowo się pokrywają i przez pewien czas istnieje możliwość samozapłodnienia. Na przykład u wielu gatunków roślin przedprątnych pod koniec dojrzewania pręcików zaczynają już dojrzewać słupki.Protandria i protogynia występują u niektórych zwierząt hermafrodytycznych.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Pollinisation"/>
+    <rdfs:comment xml:lang="pt">Dicogamia (forma preferida em botânica) ou hermafroditismo sequencial (forma preferida em zoologia) é a designação dada às estratégias reprodutivas que incluem um tipo de hermafroditismo com separação temporal na produção de gâmetas masculinos e femininos num mesmo indivíduo. No contexto da sexualidade vegetal das plantas com flores (angiospermas) a dicogamia descreve a existência de uma separação temporal na maturação dos sexos dentro da mesma flor ou da mesma planta.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="cs">Dichogamie je vzájemné časové posunutí dozrávání vajíček a pylu v oboupohlavném květu.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">Дихогамия (от др.-греч. διίχα — надвое, пополам и γάμος — брак) — в биологии феномен раздельного во времени проявления противоположных половых признаков у организмов-гермафродитов. Свойственна некоторым рыбам, брюхоногим, а также многим цветковым растениям. У растений проявляется как неодновременное созревание в цветках пыльников и рылец.Различают: в зависимости от несовпадения периодов созревания: совершенную дихогамию, в которой периоды полностью не совпадаютнесовершенную дихогамию, в которой периоды созревания органов частично перекрываются. в зависимости от очерёдности созревания мужских и женских органов: протандрия — вначале созревают мужские, а затем женские органы (семейства сложноцветных, зонтичных и многих других) протогиния — вначале созревают женские, а затем мужские органы (семейства крестоцветных, розовых, лютиковых (анемоны) и некоторых других). Протогиния встречается реже, чем протандрия.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Spermatogenèse"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Dicogàmia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Autofécondation"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Transition_di_modèle_DISCRETE.jpg"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gastéropode"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hormone"/>
+    <rdfs:label xml:lang="pt">Dicogamia</rdfs:label>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">20435</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Consanguinité"/>
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Reproduction"/>
+    <owl:sameAs rdf:resource="http://hy.dbpedia.org/resource/Դիխոգամիա"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Dichogamie"/>
+    <rdfs:comment xml:lang="cs">Dichogamie je vzájemné časové posunutí dozrávání vajíček a pylu v oboupohlavném květu.</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Eric_Charnov"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Pollen"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Arisaema_triphyllum"/>
+    <rdfs:comment xml:lang="en">Sequential hermaphroditism (called dichogamy in botany) is a type of hermaphroditism that occurs in many fish, gastropoda and plants. Sequential hermaphroditism occurs when the individual changes sex at some point in their life. They can change from a male to female (protandry), or from female to male (protogyny). Those that change gonadal sex can have both female and male germ cells in the gonads or can change from one complete gonadal type to the other during their last life stage.</rdfs:comment>
+    <rdfs:label xml:lang="cs">Dichogamie</rdfs:label>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">49</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Sex-ratio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Size_advantage_protogynie.png"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Facteur_abiotique"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Teleostei"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Valeur_sélective"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gène"/>
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Botanique"/>
+    <dbpedia-owl:abstract xml:lang="nl">Dichogamie bij een plant is het fenomeen waarbij de stempel en de meeldraden niet tegelijkertijd rijp zijn. Dit heeft als voordeel dat de plant minder aan zelfbevruchting doet.Er kan een onderscheid gemaakt worden tussen proterogynie en proterandrie: bij proterogynie is de stempel is eerder rijp dan de meeldraden, terwijl bij proterandrie de meeldraden eerder rijp zijn dan de stempel.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">Dicogamia (forma preferida em botânica) ou hermafroditismo sequencial (forma preferida em zoologia) é a designação dada às estratégias reprodutivas que incluem um tipo de hermafroditismo com separação temporal na produção de gâmetas masculinos e femininos num mesmo indivíduo. No contexto da sexualidade vegetal das plantas com flores (angiospermas) a dicogamia descreve a existência de uma separação temporal na maturação dos sexos dentro da mesma flor ou da mesma planta. Na sexualidade animal, a dicogamia descreve a produção, em fases diferentes da vida, de gâmetas masculinos e femininos por um mesmo espécime. Há duas formas de dicogamia: a protoginia, na qual a maturação dos órgãos sexuais femininos precede a dos masculinos, e a protandria na qual, pelo contrário, os órgão sexuais masculinos maturam antes dos femininos. Esta estratégia reprodutiva é muito comum em plantas, peixes e gastrópodes, podendo as espécies ter gónadas que contenham em simultâneo células germinais femininas e masculinas ou mudar completamente de tipo gonadal durante o seu último estádio de vida.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Anthère"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Déterminisme_sexuel"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Botanique"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Protérogynie">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Dichogame">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Amphiprion_perideraion">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cromileptes_altivelis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Hermaphrodisme_séquentiel">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Crepidula_fornicata">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Protandrie">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Protandre">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Anyperodon_leucogrammicus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Xyrichtys_novacula">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Hermaphrodisme_protogyne">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Centropyge_bicolor">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Epinephelus_fuscoguttatus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Protérandrie">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Lumbricina">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Amphiprion_clarkii">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Scaridae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Centropyge">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Amphiprion_nigripes">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.wikipedia.org/wiki/Hermaphrodisme_successif">
+    <foaf:primaryTopic rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Labridae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Protogynie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Napoléon_(poisson)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Poisson-clown_à_trois_bandes">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Histoire_de_la_pensée_évolutionniste">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Hermaphrodisme_Successif">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cephalopholis_leopardus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Serranidae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Dichogamie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Fleur">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Déterminisme_du_sexe">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Protérogyne">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Pomacanthidae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Protérogynique">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Centropyge_bispinosa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Gomphosus_varius">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Amphiprion_sandaracinos">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Poisson-clown">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Pagrus_pagrus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Halichoeres_maculipinna">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Protogyne">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Jurassic_Park_(roman)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Gobiodon_okinawae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Centropyge_loricula">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Courge">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Pomacentridae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Thalassoma_pavo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Amphiprion_polymnus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Patella_vulgata">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Epinephelus_malabaricus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Delphinium_ajacis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Teredo_navalis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Centropyge_flavissima">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Halichoeres_bivittatus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+  </rdf:Description>
+</rdf:RDF>

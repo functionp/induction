@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Womanises">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sexual_licentiousness">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Promiscuity">
+    <dbo:wikiPageExternalLink rdf:resource="http://www.wordtrade.com/history/womenshistoryR.htm"/>
+    <rdfs:label xml:lang="en">Promiscuity</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q261290"/>
+    <dbo:abstract xml:lang="nl">Een promiscue seksleven (van het Latijn promiscuus = dooreengemengd, gemeenschappelijk) houdt in dat men verschillende, wisselende, seksuele contacten met meerdere personen heeft.Traditioneel rust in de meeste maatschappijen op dergelijk gedrag een taboe, zeker daar waar het vrouwen betreft. Volgens de Zwitserse antropoloog Johann Jakob Bachofen (1815 – 1887) vormde promiscuïteit de basis van primitieve samenlevingen, waarin de identiteit van de vader onachterhaalbaar was en afstamming en vererving daarom in vrouwelijke lijn plaatsvonden (matrilineariteit). Daarna zou dit gebruik afgenomen zijn en evolueerde de maatschappij naar een patriarchaat. Empirisch sociaal-antropologisch onderzoek heeft de waarde van deze theorie gerelativeerd. Vooral het universele voorkomen van de door Bachofen beschreven stadia is in twijfel getrokken.Sinds de seksuele revolutie (jaren '60) en naarmate de seksuele moraal in de westerse maatschappij minder streng werd is de promiscuïteit in de westerse maatschappij toegenomen. De verspreiding van de ziekte aids sinds het begin van de jaren '80, heeft deze ontwikkeling weer enigszins afgeremd.Door wisselende contacten is er een grotere kans op een seksueel overdraagbare aandoening (soa), waartoe sinds de jaren 80 ook besmetting met HIV behoort. Door veilig vrijen, zoals het gebruik van een condoom en andere bescherming kan dit risico sterk verminderd worden.</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.it/books?id=Zc318kI-TPMC"/>
+    <rdfs:label xml:lang="ja">二股</rdfs:label>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q261290"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Promiscuity?oldid=683323605"/>
+    <dbo:abstract xml:lang="ja">二股（ふたまた）とは、二人の恋人と同時交際すること。様々な事象において、主に対立する二つの両方に味方するような場合もこの言葉が使われる。戦国時代末期、伊達政宗が「二股膏薬」（右足の股にも左足の股にもいつの間にかついている貼り薬。風見鶏と同様の意味）と揶揄されていたようであり、本来はこちらの意味が主流だった。</dbo:abstract>
+    <rdfs:comment xml:lang="ja">二股（ふたまた）とは、二人の恋人と同時交際すること。様々な事象において、主に対立する二つの両方に味方するような場合もこの言葉が使われる。戦国時代末期、伊達政宗が「二股膏薬」（右足の股にも左足の股にもいつの間にかついている貼り薬。風見鶏と同様の意味）と揶揄されていたようであり、本来はこちらの意味が主流だった。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La promiscuité sexuelle désigne un comportement sexuel humain caractérisé par le fait d'avoir des rapports sexuels occasionnels avec plusieurs partenaires. Le terme peut porter un jugement moral.Portail de la sexualité et de la sexologie Portail de la sexualité et de la sexologie</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Free_love"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://links.jstor.org/sici?sici=0097-9740(198624)11%3A2%3C236%3ATOOPIA%3E2.0.CO%3B2-L"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sexual_promiscuity"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Human_sexuality"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Free_sex"/>
+    <rdfs:label xml:lang="nl">Promiscuïteit</rdfs:label>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60094</dbo:wikiPageID>
+    <dbo:abstract xml:lang="ru">Промискуите́т (от лат. prōmiscuus «общий») — беспорядочная, ничем и никем не ограниченная половая связь со многими партнёрами. Термин применяется в двух различных значениях: для описания половых отношений в первобытном человеческом обществе до образования семей и для описания беспорядочных половых связей индивида.Исторический термин «промискуитет» был введён в XIX веке для обозначения предполагаемой стадии неупорядоченных половых отношений в первобытном человеческом обществе, предшествовавших возникновению брака и семьи. Наблюдения, подтверждающие существование промискуитета в этом смысле в прошлом или у современных народов с первобытнообщинным строем, отсутствуют.В сексологии термин «промискуитет» используется для обозначения хаотичных половых сношений с многочисленными партнёрами. Промискуитет встречается как среди мужчин, так и среди женщин любых сексуальных ориентаций. Иногда промискуитет порождается патологически высоким либидо, вызванным расстройствами головного мозга.Пол Эрлих связал промискуитет с эффектом Кулиджа (появление новой самки поощряет копуляцию у самцов животных).</dbo:abstract>
+    <rdfs:comment xml:lang="nl">Een promiscue seksleven (van het Latijn promiscuus = dooreengemengd, gemeenschappelijk) houdt in dat men verschillende, wisselende, seksuele contacten met meerdere personen heeft.Traditioneel rust in de meeste maatschappijen op dergelijk gedrag een taboe, zeker daar waar het vrouwen betreft.</rdfs:comment>
+    <dbo:abstract xml:lang="en">Promiscuity is the practice of having casual sex frequently with different partners or being indiscriminate in the choice of sexual partners. The term can carry a moral judgement if viewed in the context of a mainstream social ideal for sexual activity to occur only within exclusive committed relationships. A common example of behavior viewed as promiscuous within the social ideals of many cultures is a one-night stand and (as seen in this 2014 survey) is often the way researchers define a society's promiscuity levels at any given time.What sexual behavior is considered promiscuous varies between cultures, as does the prevalence of promiscuity, with different standards often being applied to different genders and civil status. Feminists have traditionally argued a significant double standard exists between how men and women are judged for promiscuity. Historically, stereotypes of the promiscuous woman have tended to be negative, such as "the slut", while male stereotypes have been more varied, some expressing approval, such as "the stud" or "the player", while others imply societal deviance, such as "a womanizer". A scientific study published in 2005 found that promiscuous men and women are judged equally harshly and a recent poll showed that both genders tend to express strong preference for sexually conservative partners. However, later studies show evidence for a double standard.Promiscuity is common in many animal species. Some species have promiscuous mating systems, ranging from polyandry and polygyny to mating systems with no stable relationships where mating between two individuals is a one-time event. Many species form stable pair bonds, but still mate with other individuals outside the pair. In biology, incidents of promiscuity in species that form pair bonds are usually called extra-pair copulations.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Promiscuidad"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Casual_sex"/>
+    <rdfs:label xml:lang="fr">Promiscuité sexuelle</rdfs:label>
+    <rdfs:comment xml:lang="pt">Promiscuidade denota um comportamento sexual desregrado ou sem regras determinadas, de sexo casual entre pessoas conhecidas ou não conhecidas entre si. Não se deve confundir com poligamia.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Promiskuität"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Promiscuità"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Promiscuidade"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Promiscuity"/>
+    <rdfs:comment xml:lang="it">La promiscuità è la presenza, in uno stesso luogo, di maschi e femmine, spesso vista o interpretata in modo di disagio o di equivoco. Nel comportamento sessuale umano è la pratica di avere frequenti rapporti sessuali occasionali con partner diversi o in maniera indiscriminata nella scelta del partner. Il termine è spesso in uso per portare un giudizio morale, se considerato nel contesto di un ideale sociale in cui le attività sessuali devono avvenire solo all'interno di relazioni impegnate.</rdfs:comment>
+    <dbo:abstract xml:lang="fr">La promiscuité sexuelle désigne un comportement sexuel humain caractérisé par le fait d'avoir des rapports sexuels occasionnels avec plusieurs partenaires. Le terme peut porter un jugement moral.Portail de la sexualité et de la sexologie Portail de la sexualité et de la sexologie</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.alternet.org/story/13648/"/>
+    <rdfs:comment xml:lang="en">Promiscuity is the practice of having casual sex frequently with different partners or being indiscriminate in the choice of sexual partners. The term can carry a moral judgement if viewed in the context of a mainstream social ideal for sexual activity to occur only within exclusive committed relationships.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+    <rdfs:comment xml:lang="es">La promiscuidad es la práctica de relaciones sexuales con varias parejas o grupos sexuales, en contraposición con la monogamia, tanto en el reino animal como entre los seres humanos. En el Diccionario de la lengua española, editado por la Real Academia Española, se define simplemente como: Convivencia con personas de distinto sexo. En el Diccionario del español de México, como el "intercambio sexual con muchas personas".</rdfs:comment>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Promiscuïteit"/>
+    <dbo:abstract xml:lang="it">La promiscuità è la presenza, in uno stesso luogo, di maschi e femmine, spesso vista o interpretata in modo di disagio o di equivoco. Nel comportamento sessuale umano è la pratica di avere frequenti rapporti sessuali occasionali con partner diversi o in maniera indiscriminata nella scelta del partner. Il termine è spesso in uso per portare un giudizio morale, se considerato nel contesto di un ideale sociale in cui le attività sessuali devono avvenire solo all'interno di relazioni impegnate. Un esempio comune di comportamento considerato promiscuo nei principi ideali di molte culture è la cosiddetta "una notte e via" o "scappatella".La promiscuità impulsiva come necessità di impegnarsi in rapporti sessuali al di fuori del convenzionale o del legale può essere sintomo di disturbo borderline di personalità, ma non è implicito che gli individui promiscui siano anche affetti da tale disturbo.Il termine è stato utilizzato dagli etnologi del XIX secolo per indicare una condizione sociale antica o primitiva che non prevedeva la presenza del matrimonio e che quindi poteva essere caratterizzata dalla presenza di rapporti tra individui dei due sessi senza regole né convenzioni. Oggigiorno, l'idea primitiva della promiscuità non trova molto riscontro, anche se diverse culture praticano la promiscuità come matrimonio di gruppo in forma poliandrica, come per i popoli Olo-ot del Borneo.</dbo:abstract>
+    <rdfs:label xml:lang="ru">Промискуитет</rdfs:label>
+    <rdfs:comment xml:lang="ru">Промискуите́т (от лат. prōmiscuus «общий») — беспорядочная, ничем и никем не ограниченная половая связь со многими партнёрами.</rdfs:comment>
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.it/books?id=u3rJpB4F2yMC"/>
+    <rdfs:label xml:lang="pt">Promiscuidade</rdfs:label>
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.it/books?id=0Pq4JSC-JNMC"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Promiscuité_sexuelle"/>
+    <rdfs:label xml:lang="zh">劈腿族</rdfs:label>
+    <rdfs:label xml:lang="es">Promiscuidad</rdfs:label>
+    <dbo:abstract xml:lang="es">La promiscuidad es la práctica de relaciones sexuales con varias parejas o grupos sexuales, en contraposición con la monogamia, tanto en el reino animal como entre los seres humanos. En el Diccionario de la lengua española, editado por la Real Academia Española, se define simplemente como: Convivencia con personas de distinto sexo. En el Diccionario del español de México, como el "intercambio sexual con muchas personas". La definición de qué comportamiento sexual se considera promiscuo y cuál no varía en función de la cultura y de la época, y promiscuidad y promiscuo se han venido utilizando en sentido despectivo para calificar como negativo (descalificar) el comportamiento sexual de otras personas; es por ello que ambos términos no se utilizan en los estudios científicos de la sexualidad humana ni tampoco en la educación sexual.</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.as.ua.edu/ant/Faculty/murphy/evol.htm"/>
+    <rdfs:label xml:lang="de">Promiskuität</rdfs:label>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gc18"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Anthropology"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://links.jstor.org/sici?sici=0033-5770(193112)6%3A4%3C379%3ATPBOHS%3E2.0.CO%3B2-Z"/>
+    <dbo:abstract xml:lang="pt">Promiscuidade denota um comportamento sexual desregrado ou sem regras determinadas, de sexo casual entre pessoas conhecidas ou não conhecidas entre si. Não se deve confundir com poligamia. A promiscuidade é relativamente comum nas espécies animais, ocorrendo inclusive em espécies que formam casais, evento ao qual dá-se a denominação de relação extra-conjugal.Promiscuidade também é uma forma de classificar pessoas sem inibições sexuais, cujo prazer esta acima de preconceitos, tabus religiosos e/ou valores morais; Pessoa essa, que não tem vergonha de falar sobre ou praticar seus diversos fetiches sexuais.</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://archive.thedailycougar.com/vol67/111/opinion/oped2.html"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=ShU3N7_GaMYC"/>
+    <rdfs:label xml:lang="pl">Promiskuityzm</rdfs:label>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Promiskuitate"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">683323605</dbo:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/二股"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bradley.edu/academics/las/psy/facstaff/schmitt/documents/Schmitt-BBS-2005-Sociosexuality-ALL.pdf"/>
+    <rdfs:label xml:lang="it">Promiscuità</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philandered">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Womanising">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philandry">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Womanised">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hoer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Permiscuous">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Extra_Pair_Copulations">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philanderers">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manslag">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Putting_out">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Womanized">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wenchers">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Womanizers">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sexually_promiscuous">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wenched">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Extra-pair_matings">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Primitive_promiscuity">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Extra-pair_mating">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philanders">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Player_(dating)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Unrestrained_sexual_activity">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Promiscuous_sex">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Male_promiscuity">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Extra_pair_copulation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philanderer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Extra-pair_copulation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philander">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Player">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philander_(action)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Promiscuity">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philandering">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Womanizes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sexual_promiscuity">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Womanisers">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wencher">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Womanize">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wenching">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Promiscuousness">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Promiscuism">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Promiscuity_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_sexual_behaviour">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Female_promiscuity">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Womanise">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Promiscuous">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Womanizing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+  </rdf:Description>
+</rdf:RDF>

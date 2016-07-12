@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Monogamy_in_animals">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Monogamy_in_animals"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evolution_of_Monogamy">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monogamy_in_animals"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monogamy_in_animals">
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">677057284</dbo:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6901585"/>
+    <rdfs:label xml:lang="en">Monogamy in animals</rdfs:label>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monogamy"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Monogamy_in_animals"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5424051</dbo:wikiPageID>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mating_systems"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0dl80n"/>
+    <rdfs:comment xml:lang="en">Monogamous pairing in animals refers to the natural history of mating systems in which species pair bond to raise offspring. This is associated, usually implicitly, with sexual monogamy.</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ethology"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q6901585"/>
+    <dbo:abstract xml:lang="en">Monogamous pairing in animals refers to the natural history of mating systems in which species pair bond to raise offspring. This is associated, usually implicitly, with sexual monogamy.</dbo:abstract>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animal_sexuality"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Evolution_of_animals"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Monogamy_in_animals?oldid=677057284"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Monogamy_in_animals"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monogamous_pairing_in_animals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monogamy_in_animals"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_sexual_behaviour">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Monogamy_in_animals"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monogamamous_pairing_in_animals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monogamy_in_animals"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evolution_of_monogamy">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monogamy_in_animals"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_Monogamy">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monogamy_in_animals"/>
+  </rdf:Description>
+</rdf:RDF>

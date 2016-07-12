@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns3="http://eu.dbpedia.org/property/"
+   xmlns:ns5="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Konpainia-animalia">
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">136593</dbpedia-owl:wikiPageID>
+    <ns5:wasDerivedFrom rdf:resource="http://eu.wikipedia.org/wiki/Konpainia-animalia?oldid=4110024"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:En"/>
+    <dbpedia-owl:abstract xml:lang="eu">Konpainia-animalia edo maskota-animaliak etxebizitzetan jolasgarri edukitzen diren animaliak dira. Beste animalien aldean bereizteko, konpainia-animaliak pertsonak bizi diren etxe berean bizi ohi dira (abereak, ordea, ikuilu edo landetan bizi dira), izenak jaso ohi dituzte eta ez dira janaritarako akabatzen. Lanerako edo kiroletarako animaliak edo laborategiko animaliak ere ez dira konpainia-anaimaliatzat jotzen. Denetariko espezieak izan daiteke konpainia-animaliak baina arruntenak txakurrak, katuak eta txoriak izaten dira. Basa animaliak zein abereak izan daitezke konpainia-animalia. Aldi berean, espezie bereko bi animalia helburu ezberdinekin erabil daiteke. Adibidez, Txinan ohikoa da txakurrak jatea, lanerako ere erabil daitezke (artzain txakurrak, lera txakurrak), laborategietan esperimentuak egiteko eta konpainia animalia gisa ere bai.</dbpedia-owl:abstract>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eu.wikipedia.org/wiki/Konpainia-animalia"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Commonskat"/>
+    <rdfs:comment xml:lang="eu">Konpainia-animalia edo maskota-animaliak etxebizitzetan jolasgarri edukitzen diren animaliak dira. Beste animalien aldean bereizteko, konpainia-animaliak pertsonak bizi diren etxe berean bizi ohi dira (abereak, ordea, ikuilu edo landetan bizi dira), izenak jaso ohi dituzte eta ez dira janaritarako akabatzen. Lanerako edo kiroletarako animaliak edo laborategiko animaliak ere ez dira konpainia-anaimaliatzat jotzen.</rdfs:comment>
+    <rdfs:label xml:lang="eu">Konpainia-animalia</rdfs:label>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4110024</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Trillium_Poncho_cat_dog.jpg?width=300"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://exoticpets.about.com/cs/resourcesgeneral/a/exoticpetsatoz.htm"/>
+    <dcterms:subject rdf:resource="http://eu.dbpedia.org/resource/Kategoria:Aisia"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dcterms:subject rdf:resource="http://eu.dbpedia.org/resource/Kategoria:Konpainia-animaliak"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.petchoice.org/"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Trillium_Poncho_cat_dog.jpg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org:81/data/Konpainia-animalia.rdf">
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Konpainia-animalia"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.wikipedia.org/wiki/Konpainia-animalia">
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Konpainia-animalia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Kategoria:Konpainia-animaliak">
+    <skos:subject rdf:resource="http://eu.dbpedia.org/resource/Konpainia-animalia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Maskota_(animalia)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Konpainia-animalia"/>
+  </rdf:Description>
+</rdf:RDF>

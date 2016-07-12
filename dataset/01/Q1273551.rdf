@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns5="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q1273551">
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Gurneys_dvärguv"/>
+    <rdfs:label xml:lang="ru">Красноухая совка</rdfs:label>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Otus_gurneyi"/>
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Dråpeugle"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/PseudoptynxGurneyiSmit.jpg?width=300"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Otus_gurneyi"/>
+    <rdfs:label xml:lang="sv">Jättedvärguv</rdfs:label>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Grote_dwergooruil"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Otus_gurneyi"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/TopicalConcept"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Красноухая_совка"/>
+    <rdfs:seeAlso rdf:resource="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=555403"/>
+    <rdfs:label xml:lang="nl">Grote dwergooruil</rdfs:label>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney"/>
+    <rdfs:seeAlso rdf:resource="https://www.ncbi.nlm.nih.gov/taxonomy/56287"/>
+    <rdfs:label xml:lang="pt">Mimizuku gurneyi</rdfs:label>
+    <rdfs:label xml:lang="de">Rotohreule</rdfs:label>
+    <rdfs:label xml:lang="en">Giant Scops Owl</rdfs:label>
+    <rdfs:label xml:lang="eu">Otus gurneyi</rdfs:label>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q16521"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Otus_gurneyi"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1273551"/>
+    <rdfs:label xml:lang="zh">巨角鴞</rdfs:label>
+    <rdfs:label xml:lang="bg">Otus gurneyi</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://commons.wikimedia.org/wiki/Category:Otus_gurneyi"/>
+    <ns5:wasDerivedFrom rdf:resource="http://www.wikidata.org/wiki/Q1273551?oldid=193619849"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Otus_gurneyi"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/Mimizuku_gurneyi"/>
+    <rdfs:label xml:lang="es">Otus gurneyi</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Taxon"/>
+    <owl:sameAs rdf:resource="http://az.dbpedia.org/resource/İri_bayquşcuq"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/PseudoptynxGurneyiSmit.jpg"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/مرغ_حق_بزرگ"/>
+    <owl:sameAs rdf:resource="http://ceb.dbpedia.org/resource/Mimizuku_gurneyi"/>
+    <owl:sameAs rdf:resource="http://freebase.com//m/02w54_x"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11810</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Mimizuku_gurneyi"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Pisarapöllönen"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/巨角鴞"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Rotohreule"/>
+    <rdfs:label xml:lang="it">Otus gurneyi</rdfs:label>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">193619849</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="ca">Otus gurneyi</rdfs:label>
+    <rdfs:label xml:lang="fr">Petit-duc de Gurney</rdfs:label>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1214126</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Otus_gurneyi"/>
+    <rdfs:seeAlso rdf:resource="http://eol.org/pages/1178308"/>
+    <rdfs:label xml:lang="az">İri bayquşcuq</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

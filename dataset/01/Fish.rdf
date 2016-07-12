@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dbp="http://dbpedia.org/property/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fish">
+    <rdfs:label xml:lang="pt">Peixe</rdfs:label>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.blackwellpublishing.com/helfman/"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fish"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Peixe"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Seafood"/>
+    <rdfs:label xml:lang="ru">Рыбы</rdfs:label>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.fischinfos.de/"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fisheries"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Obsolete_vertebrate_taxa"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.co.nz/books?id=c008kdNwR1cC&amp;dq=%22Your+Inner+Fish%22&amp;hl=en&amp;sa=X&amp;ei=1qOyUJCqOorsmAX5xYCwDg&amp;ved=0CDAQ6AEwAA"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q152"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0ch_cf"/>
+    <rdfs:label xml:lang="de">Fische</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Aquatic_ecology"/>
+    <rdfs:comment xml:lang="ja">魚類（ぎょるい）は、生物学的には脊椎動物亜門 Vertebrata に属する動物群のうち、両生類と有羊膜類を含む系統である四肢動物を除外した動物群である。基本的に一生の間水中生活を営み、えら（鰓）呼吸を行い、ひれ（鰭）を用いて移動する。体表はうろこ（鱗）で覆われている。一部の種を除き、外界の温度によって体温を変化させる変温動物である。魚類は地球上のあらゆる水圏環境に放散し、その生息域は熱帯から極域、海洋の表層から深層、また内陸の淡水域まで多岐におよぶ。その生態や形態も実に様々である。魚類全体の種数は2 万5000 - 3 万近くにものぼり、脊椎動物全体の半数以上を占めている。大きさは種による。現存種で最大のものは体長13.7mに達するジンベエザメである。また化石種を含めると、約1億6500万年前のリードシクティス・プロブレマティカスが、推定の仕方に違いがあるが28m以上もしくは16.7mの個体が発見されている。最小のものは Paedocypris progenetica の7.9mmである。</rdfs:comment>
+    <dbo:wikiPageExternalLink rdf:resource="http://web.archive.org/web/20130305052159/http:/www.somas.stonybrook.edu/~conover/Textbooks/Fishes%20of%20the%20World,%204th%20ed.%20Joseph%20S.%20Nelson.pdf"/>
+    <rdfs:comment xml:lang="pt">Os peixes são animais vertebrados, aquáticos, tipicamente ectotérmicos, que possuem o corpo fusiforme, os membros transformados em barbatanas ou nadadeiras (ausentes em alguns grupos) sustentadas por raios ósseos ou cartilaginosos, guelras ou brânquias com que respiram o oxigénio dissolvido na água (embora os dipnóicos usem pulmões) e, na sua maior parte, o corpo coberto de escamas.Os peixes são recursos importantes, principalmente como alimento, mas também são capturados por pescadores recreativos, mantidos como animais de estimação, criados por aquaristas, e expostos em aquários públicos. </rdfs:comment>
+    <rdfs:label xml:lang="nl">Vissen (dieren)</rdfs:label>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Pisces"/>
+    <rdfs:comment xml:lang="nl">Vissen (Pisces) zijn in het water levende gewervelde dieren die in de regel ademhalen met kieuwen. De meeste vissen zijn koudbloedig, maar sommige grotere soorten vertonen warmbloedige trekjes. Vissen komen over de hele wereld voor. Er zijn ruim 32.000 bekende soorten, in meer dan 500 families onderverdeeld en er wordt met regelmaat een nieuwe soort ontdekt.Vis vormt voor mensen een voorname voedselbron. De vis heeft ook een belangrijke cultuurhistorische en symbolische betekenis.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">السمك (ج. أسماك؛ والواحدة سمكة).السمكة هى أي عضو من تلك المجموعة من الكائنات الحية الشبه شُعْبَوِيّة التي تضم جميع الحيوانات المائية القحفية ذات الخياشيم والتي تفتقر لأطراف ذات أصابع. ويندرج تحت هذا التعريف أسماك الجريث، والأنقليس، والأسماك الغضروفية والعظمية الحالية، فضلا عن مختلف المجموعات السمكية المنقرضة ذات الصلة.</rdfs:comment>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.poppe-images.com/"/>
+    <rdfs:label xml:lang="fr">Poisson</rdfs:label>
+    <rdfs:label xml:lang="it">Pesce</rdfs:label>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ψάρι"/>
+    <dbo:abstract xml:lang="nl">Vissen (Pisces) zijn in het water levende gewervelde dieren die in de regel ademhalen met kieuwen. De meeste vissen zijn koudbloedig, maar sommige grotere soorten vertonen warmbloedige trekjes. Vissen komen over de hele wereld voor. Er zijn ruim 32.000 bekende soorten, in meer dan 500 families onderverdeeld en er wordt met regelmaat een nieuwe soort ontdekt.Vis vormt voor mensen een voorname voedselbron. De vis heeft ook een belangrijke cultuurhistorische en symbolische betekenis.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ichthyology"/>
+    <dbp:image2Width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:image2Width>
+    <dbp:includes xml:lang="en">:Jawless fish
+:†Armoured fish
+:Cartilaginous fish
+:Ray-finned fish
+:Lobe-finned fishes</dbp:includes>
+    <rdfs:comment xml:lang="fr">Les poissons sont des animaux vertébrés aquatiques à branchies, pourvus de nageoires et dont le corps est le plus souvent couvert d'écailles. On les trouve abondamment aussi bien dans les eaux douces que dans les mers : on trouve des espèces depuis les sources de montagnes (omble de fontaine, goujon) jusqu'au plus profond des océans (grandgousier, poisson-ogre).</rdfs:comment>
+    <rdfs:label xml:lang="zh">鱼</rdfs:label>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Georgia_Aquarium_-_Giant_Grouper_edit.jpg"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Poisson"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Fische"/>
+    <dbp:unrankedClassis rdf:resource="http://dbpedia.org/resource/Craniate"/>
+    <dbo:abstract xml:lang="pt">Os peixes são animais vertebrados, aquáticos, tipicamente ectotérmicos, que possuem o corpo fusiforme, os membros transformados em barbatanas ou nadadeiras (ausentes em alguns grupos) sustentadas por raios ósseos ou cartilaginosos, guelras ou brânquias com que respiram o oxigénio dissolvido na água (embora os dipnóicos usem pulmões) e, na sua maior parte, o corpo coberto de escamas.Os peixes são recursos importantes, principalmente como alimento, mas também são capturados por pescadores recreativos, mantidos como animais de estimação, criados por aquaristas, e expostos em aquários públicos. Os peixes tiveram um papel importante na cultura através dos tempos, servindo como divindades, símbolos religiosos (ver ichthys), e como temas de arte, livros e filmes.Uma vez que o "peixe" é definido negativamente, e exclui os tetrápodes (ou seja, os anfíbios, répteis, aves e mamíferos) que são descendentes da mesma origem, é um agrupamento parafilético, não considerado adequado na biologia sistemática. A classe Pisces, de Lineu é considerada tipológica, mas não filogenética.Os primeiros organismos que podem ser classificados como peixes eram cordados de corpo mole que apareceram pela primeira vez durante o período Cambriano. Embora eles não tivessem uma verdadeira espinha dorsal, possuíam notocórdio, que lhes permitiu serem mais ágeis do que os invertebrados marinhos. Os peixes continuaram a evoluir durante o  Paleozoico, diversificando-se em uma grande variedade de formas.</dbo:abstract>
+    <rdfs:label xml:lang="ar">سمك</rdfs:label>
+    <dbo:abstract xml:lang="fr">Les poissons sont des animaux vertébrés aquatiques à branchies, pourvus de nageoires et dont le corps est le plus souvent couvert d'écailles. On les trouve abondamment aussi bien dans les eaux douces que dans les mers : on trouve des espèces depuis les sources de montagnes (omble de fontaine, goujon) jusqu'au plus profond des océans (grandgousier, poisson-ogre). Leur répartition est toutefois très inégale : 50 % des poissons vivraient dans 17 % de la surface des océans (qui sont souvent aussi les plus surexploités). Le milieu marin étant moins accessible aux humains, de nombreuses espèces restent encore probablement à découvrir.Ils ont un rôle fondamental pour les hommes : En tant que nourriture, partout dans le monde ; qu'ils soient pêchés dans la nature ou élevés en pisciculture.  Ils sont aussi exploités à des fins récréatives, avec la pêche et l'aquariophilie, et sont parfois exposés dans de grands aquariums publics.  Ils jouent et ont joué un rôle significatif dans de nombreuses cultures, en tant que déités et symboles religieux, ou sujets de contes, légendes, livres et films. En jouant un rôle écosystémique important En contribuant aux cycles biogéochimiques, dont le cycle du carbone et en particulier en contribuant au puits de carbone océanique.Dans la classification phylogénétique, obtenue par application des méthodes cladistiques, le groupe des poissons est paraphylétique. La classe des Poissons (Pisces) de la classification classique est obsolète. Les espèces actuelles (non-éteintes) de poissons sont réparties dans les taxons Actinoptérygiens (les plus communs), Chondrichtyens (les raies et requins), Dipneustes, Actinistiens, Myxinoïdes et Pétromyzontides.Le premier inventaire ichtyologique de France semble être celui de Belon P., en 1555, intitulé  La nature et la diversité des poissons avec leurs pourtraicts représentés au plus près du naturel.</dbo:abstract>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Sensory_system"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://researcharchive.calacademy.org/research/ichthyology/"/>
+    <rdfs:comment xml:lang="it">Con il termine pesci, dal latino pisces, si intende un gruppo eterogeneo di organismi fondamentalmente acquatici, che nelle vecchie tassonomie assurgeva a classe sistematica dei vertebrati.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/魚類"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://fishdata.siu.edu/"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/물고기"/>
+    <rdfs:comment xml:lang="es">Los peces (con nombre científico Pisces) son animales vertebrados acuáticos, generalmente ectotérmicos (regulan su temperatura a partir del medio ambiente). La mayoría de ellos están recubiertos por escamas, y dotados de aletas, que permiten su movimiento continuo en los medios acuáticos, y branquias, con las que captan el oxígeno disuelto en el agua.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ryby"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Fish"/>
+    <dbp:image2Caption xml:lang="en">Head-on view of a red lionfish</dbp:image2Caption>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.somas.stonybrook.edu/~conover/Textbooks/Fishes%2520of%2520the%2520World%2C%25204th%2520ed.%2520Joseph%2520S.%2520Nelson.pdf"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <rdfs:label xml:lang="pl">Ryby</rdfs:label>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.uctv.tv/search-details.aspx?showID=16412"/>
+    <rdfs:comment xml:lang="en">A fish is any member of a paraphyletic group of organisms that consist of all gill-bearing aquatic craniate animals that lack limbs with digits. Included in this definition are the living hagfish, lampreys, and cartilaginous and bony fish, as well as various extinct related groups.</rdfs:comment>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.fao.org/fi/website/FIRetrieveAction.do?dom=topic&amp;fid=2888"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nativefish.org/"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q152"/>
+    <dbo:abstract xml:lang="ar">السمك (ج. أسماك؛ والواحدة سمكة).السمكة هى أي عضو من تلك المجموعة من الكائنات الحية الشبه شُعْبَوِيّة التي تضم جميع الحيوانات المائية القحفية ذات الخياشيم والتي تفتقر لأطراف ذات أصابع. ويندرج تحت هذا التعريف أسماك الجريث، والأنقليس، والأسماك الغضروفية والعظمية الحالية، فضلا عن مختلف المجموعات السمكية المنقرضة ذات الصلة. معظم الأسماك هي كائنات خارجية الحرارة ("ذات دم بارد")، مما يسمح لحرارة أجسامها بالاختلاف مع تغير درجات الحرارة المحيطة، على الرغم من أن بعض الأسماك الكبيرة نشطة السباحة مثل القرش الأبيض وأسماك التونة تستطيع أن تحتفظ بدرجة حرارة باطنية أعلى من الحرارة المحيطة.  أغلب أنواع الأسماك لها عظام وبعض الأنواع الأخرى مثل القرش ليس لها عظام حقيقية بل هي غضروفية. بعض الأسماك تكون صغيرة بطول ١ سم أو أقل وبعضها الأخر كبيرة وطويلة قد يصل طولها إلى ١٥ متر ووزنها إلى ١٥ طن كما في سمك القرش والحوت.يتوافر السمك في معظم المسطحات المائية. ويمكن العثور عليه تقريبا في كل البيئات المائية، ابتداء من الجداول الجبلية العالية (مثل سمك الشار وسمك القُوبِيُون) إلى الأعماق السحيقة وحتى الخندقية من أعمق المحيطات (على سبيل المثال، الأنقليس المبتلع وأسماك أبو الشص).كما أن الأسماك بعضها يعيش في الماء العذب في البحيرات والأنهار والأهوار وبعضها الأخر يعيش في المياه المالحة في البحار والمحيطات. هناك حوالى ٣٢٠٠٠ نوع من الأسماك، وهى بذلك الأكثر تنوعا من أي مجموعة أخرى من الفقاريات.السمك مورد من الموارد الهامة للبشر في جميع أنحاء العالم فأكثر أنواعه تعتبر غذاء رئيسيا للبشر. ومن أنواع الأسماك التي تكون مرغوبة أكثر من غيرها هى سمك الكارب وسمك القدّ وسمك الرنجة وسمك السردين وسمك التونة. يقوم الصيادون المحترفون والكفافيون باصطياد الأسماك من المصايد البرية (انظر صيد السمك) أو باستزراعها في برك أو في أقفاص في المحيط (انظر الزراعة المائية). ويتم أيضا صيدها من قبل محبى الصيد الترفيهي أو الرياضي، أو للاحتفاظ بها كحيوانات أليفة من قبل محبى هواية تربية الأسماك، أو لعرضها في الأحواض العامة. وقد لعبت الأسماك دورا هاما في الثقافة على مر العصور، فوظفت للألوهية وفى الرموز الدينية، وكما وظفت في الفنون والكتب والأفلام.كلمة "سمك" أو "سمكة" هي مصطلح يتم تعريفة بشكل سلبي، وتُستَبْعَد منه رباعيات الأرجل (مثل البرمائيات والزواحف والطيور والثدييات) التي تنحدر من بين ثنايا نفس السلف. لذلك هو مصطلح شبه شُعْبَوِيّ، ولا يعبر عن تصنيف حيوي سليم في علم الأحياء النظامي. المصطلحات التقليدية الأخري مثل السمكيات pisces (أو ichthyes) هى مصطلحات نمطيةأو نموذجية، ولكنها ليست تصنيف في علم تطور السلالات. بعض الأنواع الأخرى من الحيوانات التي تعيش في البحر مثل نجمة البحر وقنديل البحر تدعى كذلك بالأسماك ولكنها ليست بالأسماك. أيضا الكائنات الرخوية ذات الصدف مثل المحاريات المختلفة، والقشريات مثل الروبيان والجمبري والسلطعونات ليست بالأسماك. أقدم الكائنات الحية التي يمكن أن تصنف بأنها من الأسماك هى الحبليات رخوة الجسم التي ظهرت للمرة الأولى خلال العصر الكمبري. ومع أنها افتقرت إلى عمود فقري حقيقي، فإنها امتلكت أحبال ظهرية سمحت لها أن تكون أكثر مرونة من نظرائها من اللافقاريات. استمرت الأسماك في التطور خلال الحقبة الأولّية، وتنوعت لضروب واسعة من الأشكال. العديد من أسماك الحقبة الأولّية طورت دروعا خارجية لتحميها من الحيوانات المفترسة. أول أسماك لها فك ظهرت في العصر السيلوري، وبعدها أصبح العديد منها (مثل أسماك القرش) ضوارٍ بحرية هائلة بدلا من كونها مجرد فريسة للكائنات من شعبة مفصليات الأرجل.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Vissen_(dieren)"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Rybovití_obratlovci"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://db.angfa.org.au/"/>
+    <dbp:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.co.nz/books?id=cu-J9tqy4IQC&amp;printsec=frontcover&amp;dq=Fish:+An+Enthusiast%27s+Guide&amp;hl=en&amp;sa=X&amp;ei=YUp3Up_UCo6jiAf3z4CADA&amp;ved=0CC8Q6AEwAA#v=onepage&amp;q=Fish%3A%20An%20Enthusiast%27s%20Guide&amp;f=false"/>
+    <dbp:imageCaption xml:lang="en">Giant grouper swimming among schools of other fish</dbp:imageCaption>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Fish?oldid=683329099"/>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Georgia_Aquarium_-_Giant_Grouper_edit.jpg?width=300"/>
+    <dbp:name xml:lang="en">Fish</dbp:name>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animals_in_religion"/>
+    <dbp:imageWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:imageWidth>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">683329099</dbo:wikiPageRevisionID>
+    <dbo:abstract xml:lang="it">Con il termine pesci, dal latino pisces, si intende un gruppo eterogeneo di organismi fondamentalmente acquatici, che nelle vecchie tassonomie assurgeva a classe sistematica dei vertebrati. I pesci, con oltre 32 000 specie coprono quasi il 50% del totale delle specie del subphylum vertebrata.La zoologia moderna non riconosce ai pesci valore di raggruppamento sistematico (categoria tassonomica), ma l'insieme di tratti esteriori evolutivamente convergenti o costanti, come l'idrodinamicità, la presenza di pinne, che permettono loro di muoversi nell'elemento fluido con particolare efficacia e la respirazione prevalentemente branchiale dell'ossigeno disciolto, dati dal comune ambiente vitale, la fanno, anche se in ambito non tassonomico, tuttora variamente utilizzare, ad esempio in itticoltura e ecologia.Il più antico pesce fossile è lo Haikouichthys vissuto durante il Cambriano 500 milioni di anni fa, imparentato con le lamprede.Il più grande pesce vivente è lo Squalo balena (Rhincodon typus) che può raggiungere i 20 metri di lunghezza e pesare fino a 34 tonnellate, i Paedocypris invece sono i pesci più piccoli viventi, infatti i maschi raggiungono i 10 mm e le femmine possono essere lunghe solo 7,9 mm.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://data.nytimes.com/76399059359870970690"/>
+    <dbp:image xml:lang="en">Pterois volitans Manado-e edit.jpg</dbp:image>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Arrain"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.fishbase.org/"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Environmental_impact_of_fishing"/>
+    <dbo:abstract xml:lang="ja">魚類（ぎょるい）は、生物学的には脊椎動物亜門 Vertebrata に属する動物群のうち、両生類と有羊膜類を含む系統である四肢動物を除外した動物群である。基本的に一生の間水中生活を営み、えら（鰓）呼吸を行い、ひれ（鰭）を用いて移動する。体表はうろこ（鱗）で覆われている。一部の種を除き、外界の温度によって体温を変化させる変温動物である。魚類は地球上のあらゆる水圏環境に放散し、その生息域は熱帯から極域、海洋の表層から深層、また内陸の淡水域まで多岐におよぶ。その生態や形態も実に様々である。魚類全体の種数は2 万5000 - 3 万近くにものぼり、脊椎動物全体の半数以上を占めている。大きさは種による。現存種で最大のものは体長13.7mに達するジンベエザメである。また化石種を含めると、約1億6500万年前のリードシクティス・プロブレマティカスが、推定の仕方に違いがあるが28m以上もしくは16.7mの個体が発見されている。最小のものは Paedocypris progenetica の7.9mmである。</dbo:abstract>
+    <dbp:regnum xml:lang="en">Animalia</dbp:regnum>
+    <rdfs:label xml:lang="en">Fish</rdfs:label>
+    <rdfs:label xml:lang="ja">魚類</rdfs:label>
+    <dbo:abstract xml:lang="es">Los peces (con nombre científico Pisces) son animales vertebrados acuáticos, generalmente ectotérmicos (regulan su temperatura a partir del medio ambiente). La mayoría de ellos están recubiertos por escamas, y dotados de aletas, que permiten su movimiento continuo en los medios acuáticos, y branquias, con las que captan el oxígeno disuelto en el agua. Pisces es una superclase siendo un grupo parafilético.Los peces son abundantes tanto en agua salada como en agua dulce, pudiéndose encontrar especies desde los arroyos de montaña (por ejemplo, el gobio), así como en lo más profundo del océano (por ejemplo, anguilas tragonas).Los alimentos preparados con pescado son una importante fuente de nutrición para los seres humanos. Pueden ser pescados a partir de ejemplares silvestres, o criados de manera similar al ganado (véase acuicultura). Hoy en día la llamada pesca deportiva cada día se vuelve una actividad más popular. Los peces han tenido un papel importante en muchas culturas a través de la historia, que van desde las deidades religiosas a temas de libros y películas.La especialidad de la zoología que se ocupa específicamente de los peces se denomina ictiología.</dbo:abstract>
+    <rdfs:comment xml:lang="de">Fische oder Pisces (lateinisch piscis „Fisch“) sind aquatisch lebende Wirbeltiere mit Kiemen. In der Systematik sind Fische paraphyletisch, d. h. sie bilden keine natürliche Einheit (Monophylon), daher sind sie eine Gruppe morphologisch ähnlicher Tiere. Die Lehre von der Biologie der Fische ist die Ichthyologie.</rdfs:comment>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4699587</dbo:wikiPageID>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+    <dbo:abstract xml:lang="de">Fische oder Pisces (lateinisch piscis „Fisch“) sind aquatisch lebende Wirbeltiere mit Kiemen. In der Systematik sind Fische paraphyletisch, d. h. sie bilden keine natürliche Einheit (Monophylon), daher sind sie eine Gruppe morphologisch ähnlicher Tiere. Die Lehre von der Biologie der Fische ist die Ichthyologie.</dbo:abstract>
+    <dbp:excludes xml:lang="en">:Tetrapods</dbp:excludes>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Ikan"/>
+    <dbo:abstract xml:lang="en">A fish is any member of a paraphyletic group of organisms that consist of all gill-bearing aquatic craniate animals that lack limbs with digits. Included in this definition are the living hagfish, lampreys, and cartilaginous and bony fish, as well as various extinct related groups. Most fish are ectothermic ("cold-blooded"), allowing their body temperatures to vary as ambient temperatures change, though some of the large active swimmers like white shark and tuna can hold a higher core temperature. Fish are abundant in most bodies of water. They can be found in nearly all aquatic environments, from high mountain streams (e.g., char and gudgeon) to the abyssal and even hadal depths of the deepest oceans (e.g., gulpers and anglerfish). With 33,100 described species, fish exhibit greater species diversity than any other group of vertebrates.Fish are an important resource for humans worldwide, especially as food. Commercial and subsistence fishers hunt fish in wild fisheries (see fishing) or farm them in ponds or in cages in the ocean (see aquaculture). They are also caught by recreational fishers, kept as pets, raised by fishkeepers, and exhibited in public aquaria. Fish have had a role in culture through the ages, serving as deities, religious symbols, and as the subjects of art, books and movies.Because the term "fish" is defined negatively, and excludes the tetrapods (i.e., the amphibians, reptiles, birds and mammals) which descend from within the same ancestry, it is paraphyletic, and is not considered a proper grouping in systematic biology. The traditional term pisces (also ichthyes) is considered a typological, but not a phylogenetic classification.The earliest organisms that can be classified as fish were soft-bodied chordates that first appeared during the Cambrian period. Although they lacked a true spine, they possessed notochords which allowed them to be more agile than their invertebrate counterparts. Fish would continue to evolve through the Paleozoic era, diversifying into a wide variety of forms. Many fish of the Paleozoic developed external armor that protected them from predators. The first fish with jaws appeared in the Silurian period, after which many (such as sharks) became formidable marine predators rather than just the prey of arthropods.</dbo:abstract>
+    <rdfs:label xml:lang="es">Pisces</rdfs:label>
+    <dbo:wikiPageExternalLink rdf:resource="http://content.lib.washington.edu/cgi-bin/queryresults.exe?CISOOP=adv&amp;CISORESTMP=%2Fsite-templates%2Fsearch_results-sub.html&amp;CISOVIEWTMP=%2Fsite-templates%2Fitem_viewer.html&amp;CISOMODE=thumb&amp;CISOGRID=thumbnail%2CA%2C1%3Btitle%2CA%2C1%3Bsubjec%2CA%2C0%3Bdescri%2C200%2C0%3B0%2CA%2C0%3B10&amp;CISOBIB=title%2CA%2C1%2CN%3Bsubjec%2CA%2C0%2CN%3Bdescri%2CK%2C0%2CN%3B0%2CA%2C0%2CN%3B0%2CA%2C0%2CN%3B10&amp;CISOTHUMB=3%2C5&amp;CISOTITLE=10&amp;CISOPARM=%2Ffishimages%3Asubjec%3Afish&amp;x=20&amp;y=1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fish_venoms">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pisces_(zoology)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baeksuk">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Fish">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_sexual_behaviour">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maachha_Bihana">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brudet">
+    <dbp:mainIngredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waterzooi">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dahi_machha">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Sims_(biologist)">
+    <dbp:fields rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caldillo_de_congrio">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cachupa">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Planet_Dinosaur">
+    <dbp:shortsummary rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fisherman's_soup">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fish_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aquaculture">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wholey's">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pottage">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_ships_attacked_by_Nigerian_pirates">
+    <dbp:cargo rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maple_slaw">
+    <dbp:mainIngredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/🐟">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fisshes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lemper">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fish_cracker">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Larb">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fischbrötchen">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ndolé">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mahyawa">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <dbp:mainIngredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Electroreception">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fishbones">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hinava">
+    <dbp:mainIngredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fish_(Biology)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ichthyoid">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hachee">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fish_vs_fishes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albacore">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smørrebrød">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Finfish">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wallago_attu">
+    <dbp:unrankedSuperclassis rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarsiado">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <dbp:mainIngredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fish_proteins">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tradimento">
+    <dbp:producer rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <dbo:producer rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paling_in_'t_groen">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yong_Tau_Foo">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sliced_fish_soup">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wild_fisheries">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indian_ice_cream_(Alaska)">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chandpur,_Malda">
+    <dbp:demographics2Info rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Economy_of_the_Maldives">
+    <dbp:exportGoods rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frikadeller">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seafood_mislabelling">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ohaw">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Economy_of_Mauritania">
+    <dbp:exportGoods rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Naked_Science_episodes">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otolith">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ragout_fin">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fish_versus_fishes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pira_caldo">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fishes_versus_fish">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chermoula">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <dbp:mainIngredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fishes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lekor">
+    <dbp:mainIngredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chankonabe">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fish_(zoology)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inchthyic">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Sanrio_characters">
+    <dbo:species rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <dbp:species rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amok_trey">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Machher_Jhol">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canh_chua">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carpaccio">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fishes_or_fish">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Priapus">
+    <dbp:symbol rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akutaq">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fish_physiology">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fish_or_fishes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catch_and_release">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malu_Mirisata">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marine_fish">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piscines">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smoked_meat">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Economy_of_Sierra_Leone">
+    <dbp:exportGoods rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ichthyofauna">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Silurus_biwaensis">
+    <dbp:unrankedSuperclassis rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fish_chowder">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sick_fish">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khao_poon">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ichthyes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marine_pollution">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cioppino">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fish_anatomy">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solyanka">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tuna">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phosop">
+    <dbp:mount rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fish-Fin">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fush">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/R._J._McKay">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Umai_(food)">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fin-fish">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_Baik">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Fish"/>
+  </rdf:Description>
+</rdf:RDF>

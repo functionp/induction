@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-ja="http://ja.dbpedia.org/property/"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/フエガラス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/オーストラリア首都特別地域"/>
+    <rdfs:comment xml:lang="ja">フエガラス（笛烏、学名Strepera graculina ）はオーストラリア東部およびロード・ハウ島に分布する中型、黒色のスズメ目フエガラス科の鳥類である。フエガラスはモリツバメ科のモズガラス類やカササギフエガラスに近縁である。6亜種が記録されている。フエガラスは体長が約48cm、黒褐色の羽毛、下尾筒が白色、翼には白色のパッチがあり、虹彩は黄色、厚いくちばしをもつ、カラスに似た鳥類である。雌雄の外見は同じ。美しい鳴き声で知られ、英語名の "currawong"（カラワン）はアボリジニの言葉が起源となっている。分布域内では、寒い時期には高所から低地へ移動するが、一般的に定住性である。食性は鳥類の卵や雛、無脊椎動物、果実や種子など様々な種を含む雑食性である。フエガラスは市街地によく順応した捕食者で、農村の森林地帯と同様に、公園や庭などでも見られる。発達した森林が繁殖に好まれるが、生息地はすべての森林地域が含まれる。ねぐらや繁殖、採食行動の大部分は樹上である。</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/W:Strepera"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スズメ目"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/オーストラリア"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/マミジロヤブムシクイ"/>
+    <prop-ja:科 rdf:resource="http://ja.dbpedia.org/resource/フエガラス科"/>
+    <prop-ja:学名 xml:lang="ja">Strepera graculina</prop-ja:学名>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Pied_currawong"/>
+    <foaf:name xml:lang="ja">Pied Currawong</foaf:name>
+    <dbpedia-owl:order rdf:resource="http://ja.dbpedia.org/resource/スズメ目"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/シドニー"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/斑噪钟雀"/>
+    <foaf:name xml:lang="ja">鳥綱</foaf:name>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q966961"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Huilukorppi"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/オオツチスドリ"/>
+    <prop-ja:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51218</prop-ja:id>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/オプンティア"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/サウス・イースト・クイーンズランド"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/シチメンチョウ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/グレート・バリア・リーフ"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/レースオオトカゲ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ハイムネメジロ"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Flétňák_stračí"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/W:Cracticidae"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Svartvit_kurrawong"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ヒガシキバラヒタキ"/>
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Strepera_graculina"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Strepera_graculina"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス科_(Sibley)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ニュー・サウス・ウェールズ州"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/グルーミング"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Dickschnabel-Würgerkrähe"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Kurawonga_czarna"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Пестрохвостая_ворона-флейтист"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/アカハラオオタカ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/学名"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Carnisser_graller"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/کاراوونگ_ابلق"/>
+    <dbpedia-owl:family rdf:resource="http://ja.dbpedia.org/resource/W:Strepera"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/W:Passeriformes"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ブリスベン"/>
+    <dc:description>フエガラス（亜種S. g. graculina、ニュー・サウス・ウェールズ州ブルーマウンテン）</dc:description>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Currawong-malhado"/>
+    <owl:sameAs rdf:resource="http://ku.dbpedia.org/resource/Kurrawong"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/サンショクヒタキ"/>
+    <prop-ja:filename xml:lang="ja">Pied-Currawong.ogg</prop-ja:filename>
+    <prop-ja:画像キャプション xml:lang="ja">フエガラス（亜種S. g. graculina、ニュー・サウス・ウェールズ州ブルーマウンテン）</prop-ja:画像キャプション>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/托卵"/>
+    <prop-ja:year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</prop-ja:year>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/トウネズミモチ"/>
+    <owl:sameAs rdf:resource="http://ceb.dbpedia.org/resource/Strepera_graculina"/>
+    <prop-ja:和名 xml:lang="ja">フエガラス</prop-ja:和名>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Grand_Réveilleur"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ロード・ハウ島"/>
+    <prop-ja:downloaded rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</prop-ja:downloaded>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ビクトリア州"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1790年"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/クイーンズランド州"/>
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/Strepera_graculina"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">70</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ニシコクマルガラス"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Reflist"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/オーストラリアチゴハヤブサ"/>
+    <dbpedia-owl:family rdf:resource="http://ja.dbpedia.org/resource/フエガラス科"/>
+    <prop-ja:目 rdf:resource="http://ja.dbpedia.org/resource/W:Passeriformes"/>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/كوراونغ_أبقع"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:フエガラス科"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/アボリジニ"/>
+    <prop-ja:属 xml:lang="ja">フエガラス属 Strepera</prop-ja:属>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/硬葉樹林"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/モリツバメ族_(Sibley)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/イボタノキ属"/>
+    <dbpedia-owl:binomial rdf:resource="http://ja.dbpedia.org/resource/1790年"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/クロフエガラス"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/コドリンガ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Currawongs_carnarvon_gorge_1994_email.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/フエガラス科"/>
+    <dbpedia-owl:abstract xml:lang="ja">フエガラス（笛烏、学名Strepera graculina ）はオーストラリア東部およびロード・ハウ島に分布する中型、黒色のスズメ目フエガラス科の鳥類である。フエガラスはモリツバメ科のモズガラス類やカササギフエガラスに近縁である。6亜種が記録されている。フエガラスは体長が約48cm、黒褐色の羽毛、下尾筒が白色、翼には白色のパッチがあり、虹彩は黄色、厚いくちばしをもつ、カラスに似た鳥類である。雌雄の外見は同じ。美しい鳴き声で知られ、英語名の "currawong"（カラワン）はアボリジニの言葉が起源となっている。分布域内では、寒い時期には高所から低地へ移動するが、一般的に定住性である。食性は鳥類の卵や雛、無脊椎動物、果実や種子など様々な種を含む雑食性である。フエガラスは市街地によく順応した捕食者で、農村の森林地帯と同様に、公園や庭などでも見られる。発達した森林が繁殖に好まれるが、生息地はすべての森林地域が含まれる。ねぐらや繁殖、採食行動の大部分は樹上である。</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Lord_Howe_Island_Currawong.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ハイイロフエガラス"/>
+    <dbpedia-owl:genus rdf:resource="http://ja.dbpedia.org/resource/W:Strepera"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/アオアズマヤドリ"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Strepera_graculina"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Strepera_graculina"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Commons"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ナナフシ"/>
+    <prop-ja:英名 xml:lang="ja">Pied Currawong</prop-ja:英名>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:生物分類表"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/無脊椎動物"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/フエガラス"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1981013</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/キバタン"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/亜種"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/アカエリツミ"/>
+    <prop-ja:画像 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</prop-ja:画像>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ホシムクドリ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/オオオニカッコウ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/雑食性"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ジョン・アールクィスト"/>
+    <prop-ja:種 xml:lang="ja">フエガラス S. graculina</prop-ja:種>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Listen"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Cite_book"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ヨーク岬半島"/>
+    <prop-ja:title xml:lang="ja">フエガラスのさえずり</prop-ja:title>
+    <prop-ja:title xml:lang="ja">Strepera graculina</prop-ja:title>
+    <prop-ja:科 rdf:resource="http://ja.dbpedia.org/resource/W:Cracticidae"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Currawong_in_peppercorn.jpg"/>
+    <prop-ja:名称 xml:lang="ja">フエガラス</prop-ja:名称>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ミナミシロハラミズナギドリ"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Pied_Currawong,_Blue_Mountains.jpg"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Least_concern"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58084597</dbpedia-owl:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://commons.dbpedia.org/resource/Strepera_graculina"/>
+    <rdfs:label xml:lang="ja">フエガラス</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Pied_Currawong,_Blue_Mountains.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チャールズ・シブリー"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ニワトリ"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">19096</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Pied_Currawong,_Blue_Mountains.jpg?width=300"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カササギフエガラス"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/グランピアンズ国立公園"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/優占種"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q966961"/>
+    <foaf:name xml:lang="ja">フエガラス</foaf:name>
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/フエガラス?oldid=58084597"/>
+    <prop-ja:目 rdf:resource="http://ja.dbpedia.org/resource/スズメ目"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ニューイングランド大学_(オーストラリア)"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:IUCN2006"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/マッコーリー大学"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:脚注ヘルプ"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Bonte_klauwierkraai"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/オーストラリア国立大学"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/蟻浴"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/トキワサンザシ属"/>
+    <prop-ja:省略 xml:lang="ja">鳥綱</prop-ja:省略>
+    <prop-ja:assessors xml:lang="ja">BirdLife International</prop-ja:assessors>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ヨコフリオウギビタキ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/フエガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/フエガラス科">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/フエガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/オーストラリアの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/フエガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/クロフエガラス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/フエガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カラス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/フエガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/フエガラス.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/フエガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ハイイロフエガラス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/フエガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ロード・ハウ島">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/フエガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/フエガラス">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/フエガラス"/>
+  </rdf:Description>
+</rdf:RDF>

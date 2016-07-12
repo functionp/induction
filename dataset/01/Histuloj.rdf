@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-eo="http://eo.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Histuloj">
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Eumetazoa"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5111491</dbpedia-owl:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5174"/>
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Epitelovce"/>
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/Eumetazoos"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Eumetazou"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eo.wikipedia.org/wiki/Histuloj"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Gewebetiere"/>
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/רב-תאיים_אמיתיים"/>
+    <owl:sameAs rdf:resource="http://tl.dbpedia.org/resource/Eumetazoa"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Bestoj"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Эуметазои"/>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Pärishulkraksed"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Eumetazoa"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+    <owl:sameAs rdf:resource="http://az.dbpedia.org/resource/Eumetazoylar"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Histuloj"/>
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/Ткивни_животни"/>
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Gerçek_dokusu_olan_hayvanlar"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Eumetazoa"/>
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Eumetazoa"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1067</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://als.dbpedia.org/resource/Gewebetiere"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Същински_многоклетъчни"/>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q5174"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Bilateria"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Faŭno_de_Ediacara"/>
+    <owl:sameAs rdf:resource="http://oc.dbpedia.org/resource/Eumetazoa"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Eumetazoa"/>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Valódi_szövetes_állatok"/>
+    <prop-eo:wikiPageUsesTemplate rdf:resource="http://eo.dbpedia.org/resource/Ŝablono:Wikispecies"/>
+    <owl:sameAs rdf:resource="http://sco.dbpedia.org/resource/Eumetazoa"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ediacara"/>
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Эўметазоі"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</dbpedia-owl:wikiPageOutDegree>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/真后生动物"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dermo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Cryogenium"/>
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Pravi_mnogostaničari"/>
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/Pravi_mnogoceličarji"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Eumetazoa"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Placozoa"/>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/بعديات_حقيقية"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Eumetazoa"/>
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Eumetazoa"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318572</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Еуметазоа"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Mesozoa"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ευμετάζωα"/>
+    <rdfs:label xml:lang="eo">Histuloj</rdfs:label>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Eumetazoa"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Bestoj"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/真正後生動物"/>
+    <owl:sameAs rdf:resource="http://la.dbpedia.org/resource/Eumetazoa"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/هوپس‌زیان"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Vernanimalcula"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Справжні_багатоклітинні"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ctenophora"/>
+    <ns6:wasDerivedFrom rdf:resource="http://eo.wikipedia.org/wiki/Histuloj?oldid=5111491"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Cnidaria"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Eumetazoa"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Eumetazoa"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Eumetazoa"/>
+    <owl:sameAs rdf:resource="http://lv.dbpedia.org/resource/Eimetazoji"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Gastrulo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Klado"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Eumetazoa"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/진정후생동물"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Neĝleopardo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Histuloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Okulvitra_urso">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Histuloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Eŭmetazoa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Histuloj"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Histuloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Maskarenaj_arbaroj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Histuloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Eumetazoa">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Histuloj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Histuloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Panteroj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Histuloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.wikipedia.org/wiki/Histuloj">
+    <foaf:primaryTopic rdf:resource="http://eo.dbpedia.org/resource/Histuloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Vivonaskuloj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Histuloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Ortonektidoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Histuloj"/>
+  </rdf:Description>
+</rdf:RDF>

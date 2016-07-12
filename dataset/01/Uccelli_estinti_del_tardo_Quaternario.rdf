@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop-it="http://it.dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:provenance="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Uccelli_estinti_del_tardo_Quaternario">
+    <rdfs:comment xml:lang="it">Di seguito è riportata una lista di uccelli estintisi nel tardo Quaternario: si tratta dunque esclusivamente di neorniti, in quanto tutte le altre linee evolutive di uccelli si estinsero durante il Cretaceo; inoltre, questi uccelli per la stragrande maggioranza si sono estinti per cause naturali (grandi cataclismi, competizione diretta con altri animali evolutisi in quel periodo), con interferenze umane scarse o nulle.</rdfs:comment>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1775832</dbpedia-owl:wikiPageID>
+    <rdfs:label xml:lang="it">Uccelli estinti del tardo Quaternario</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1511309"/>
+    <dcterms:subject rdf:resource="http://it.dbpedia.org/resource/Categoria:Uccelli_estinti"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Spätquartäre_Avifauna"/>
+    <dbpedia-owl:abstract xml:lang="it">Di seguito è riportata una lista di uccelli estintisi nel tardo Quaternario: si tratta dunque esclusivamente di neorniti, in quanto tutte le altre linee evolutive di uccelli si estinsero durante il Cretaceo; inoltre, questi uccelli per la stragrande maggioranza si sono estinti per cause naturali (grandi cataclismi, competizione diretta con altri animali evolutisi in quel periodo), con interferenze umane scarse o nulle.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Lista_de_aves_subfósseis"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Anexo:Aves_prehistóricas_del_Cuaternario_tardío"/>
+    <dcterms:subject rdf:resource="http://it.dbpedia.org/resource/Categoria:Liste_di_biologia"/>
+    <provenance:wasDerivedFrom rdf:resource="http://it.wikipedia.org/wiki/Uccelli_estinti_del_tardo_Quaternario?oldid=62975965"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Late_Quaternary_prehistoric_birds"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19833</dbpedia-owl:wikiPageLength>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:F"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://it.wikipedia.org/wiki/Uccelli_estinti_del_tardo_Quaternario"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.wikipedia.org/wiki/Uccelli_estinti_del_tardo_Quaternario">
+    <foaf:primaryTopic rdf:resource="http://it.dbpedia.org/resource/Uccelli_estinti_del_tardo_Quaternario"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org:18080/data/Uccelli_estinti_del_tardo_Quaternario.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://it.dbpedia.org/resource/Uccelli_estinti_del_tardo_Quaternario"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Elenco_di_uccelli_del_quaternario_estinti">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Uccelli_estinti_del_tardo_Quaternario"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Elenco_di_uccelli_estinti_del_tardo_Quaternario">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Uccelli_estinti_del_tardo_Quaternario"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Lista_di_uccelli_estinti_del_tardo_Quaternario">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Uccelli_estinti_del_tardo_Quaternario"/>
+  </rdf:Description>
+</rdf:RDF>

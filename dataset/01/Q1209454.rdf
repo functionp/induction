@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:ns4="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q1209454">
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4670</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Dichogamie"/>
+    <rdfs:label xml:lang="ca">Dicogàmia</rdfs:label>
+    <rdfs:label xml:lang="de">Dichogamie</rdfs:label>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/דיכוגמיה"/>
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/Dicogamia"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Дихогамия"/>
+    <rdfs:label xml:lang="sr">Дихогамија</rdfs:label>
+    <rdfs:label xml:lang="pl">Dichogamia</rdfs:label>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Dicogamia"/>
+    <rdfs:label xml:lang="es">Dicogamia</rdfs:label>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1209454"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Dichogamie"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+    <rdfs:label xml:lang="nl">Diochamie</rdfs:label>
+    <rdfs:label xml:lang="cs">Dichogamie</rdfs:label>
+    <owl:sameAs rdf:resource="http://io.dbpedia.org/resource/Dikogamo"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Dichogami"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">197746910</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="hy">Դիխոգամիա</rdfs:label>
+    <rdfs:label xml:lang="pt">Dicogamia</rdfs:label>
+    <owl:sameAs rdf:resource="http://freebase.com//m/05l410"/>
+    <rdfs:label xml:lang="ru">Дихогамия</rdfs:label>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Dicogamia"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Dicogàmia"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Dichogamie"/>
+    <owl:sameAs rdf:resource="http://hy.dbpedia.org/resource/Դիխոգամիա"/>
+    <ns4:wasDerivedFrom rdf:resource="http://www.wikidata.org/wiki/Q1209454?oldid=197746910"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1151761</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Дихогамија"/>
+    <rdfs:label xml:lang="fr">Hermaphrodisme successif</rdfs:label>
+    <rdfs:label xml:lang="en">Sequential hermaphroditism</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:ns4="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q1511309">
+    <rdfs:label xml:lang="pt">Anexo:Lista de aves subfósseis</rdfs:label>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1448530</dbpedia-owl:wikiPageID>
+    <rdfs:label xml:lang="en">Late Quaternary prehistoric birds</rdfs:label>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Anexo:Aves_prehistóricas_del_Cuaternario_tardío"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170757493</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="de">Spätquartäre Avifauna</rdfs:label>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Lista_de_aves_subfósseis"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Late_Quaternary_prehistoric_birds"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Uccelli_estinti_del_tardo_Quaternario"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1351</dbpedia-owl:wikiPageLength>
+    <rdfs:label xml:lang="es">Anexo:Aves prehistóricas del Cuaternario tardío</rdfs:label>
+    <rdfs:label xml:lang="it">Elenco di uccelli estinti del tardo Quaternario</rdfs:label>
+    <ns4:wasDerivedFrom rdf:resource="http://www.wikidata.org/wiki/Q1511309?oldid=170757493"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Spätquartäre_Avifauna"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1511309"/>
+  </rdf:Description>
+</rdf:RDF>

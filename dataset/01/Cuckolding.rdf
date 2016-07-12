@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-fr="http://fr.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cuckolding">
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:A_sourcer"/>
+    <dbpedia-owl:abstract xml:lang="nl">Cuckolding is een term uit de wereld van het sadomasochisme, die is komen overwaaien uit de Verenigde Staten. Het woord wordt gebruikt voor een spel, voor velen ook een levenswijze, waarin van een (echt)paar de vrouw allerlei seksuele vrijheden heeft, die de man niet heeft. De man heeft in een cuckolding-relatie weet van zijn vrouws vreemdgaan.In het algemeen is de vrouw in zo'n relatie dominant aan haar partner.Cuckolding kent vele variëteiten. Sommige daarvan zijn relatief zachtaardig; er zijn er ook die buitengewoon vergaand zijn. Zo zijn er stellen die hun plezier beleven in een parenclub en feitelijk niet verder gaan dan een eenzijdig soort swingen.Aan de andere kant van het spectrum zijn stellen die zover gaan dat de vrouw volledige controle heeft over haar partner. Het komt voor dat zij in zo'n geval een nieuwe partner heeft gekozen, die feitelijk haar (chronologisch) eerste partner heeft verdrongen. Niet zelden rest de cuckold in een dergelijke relatie de rol van slaaf of huisdier. Het komt voor dat de vrouw kinderen krijgt van haar nieuwe partner.Het woord is afgeleid van koekoek (cuckoo), die na de bevruchting hun eieren door een andere vogel laten uitbroeden. Vroeger dacht men daarom dat het koekoeksvrouwtje zich door andere vogelmannetjes liet bevruchten.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110408314</dbpedia-owl:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Paroháč"/>
+    <dbpedia-owl:abstract xml:lang="ca">Cuckold fa referència al "cucut" (cuckoo en anglès) - l'ocell dels rellotges sonors-, en català el terme és "cornut" o "banyut". A la naturalesa, el "cucut" mascle accepta i té en el seu niu una femella promiscua. Així, un "banyut" és un home que accepta o li agrada imaginar, conèixer i fins i tot veure, la diversió que la seva companya té amb una altra persona (o persones). Pot sorgir dels diferents interessos a través del plaer en la gelosia (zelofilia), el voyeurisme, la submissió, la humiliació, o del plaer i por de la traïció.Hi ha la varietat en intercanvi de parella en què l'home banyut, convida altres homes a penetrar l'esposa i poc després la penetra ell. També hi ha la pràctica, coneguda com a Creampie en la qual hi ha un altre home que ejacula dins de la dona i després el banyut la penetra o hi fa sexe oral, aquesta darrera s'ha convertit cada vegada més rara amb l'ús generalitzat dels condons.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="cs">Paroháč</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Excitation_sexuelle"/>
+    <rdfs:label xml:lang="ja">寝取られ</rdfs:label>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Cuckold"/>
+    <rdfs:comment xml:lang="pt">Cuckold vem do inglês cuckoo e faz referência à ave enganada pelo cuco a incubar os seus ovos e criar os seus filhotes. O termo em inglês foi adaptado do seu significado normal, que significa corno. Assim, uma pessoa "cuckold" é aquela que gosta de imaginar, de saber ou de ver, o próprio companheiro tendo prazer com outra pessoa (ou pessoas).</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Voyeurisme"/>
+    <rdfs:comment xml:lang="en">Cuckold historically referred to a husband with an adulterous wife and is still often used with this meaning. In evolutionary biology, the term cuckold is also applied to males who are unwittingly investing parental effort in offspring that are not genetically their own. Since the 1990s, the term has also been widely used to refer to a sexual fetish in which the fetishist is stimulated by their committed partner choosing to have sex with someone else.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Cuckold"/>
+    <ns6:wasDerivedFrom rdf:resource="http://fr.wikipedia.org/wiki/Cuckolding?oldid=110408314"/>
+    <rdfs:label xml:lang="nl">Cuckolding</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="en">Cuckold historically referred to a husband with an adulterous wife and is still often used with this meaning. In evolutionary biology, the term cuckold is also applied to males who are unwittingly investing parental effort in offspring that are not genetically their own. Since the 1990s, the term has also been widely used to refer to a sexual fetish in which the fetishist is stimulated by their committed partner choosing to have sex with someone else.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="de">Hahnrei</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Femelle"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Rapport_sexuel"/>
+    <dbpedia-owl:abstract xml:lang="ru">Рогоносец — мужчина, жена которого ему изменила (или делает это систематически). Широко известное выражение «Наставить рога» означает измену супругу.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="ru">Рогоносец — мужчина, жена которого ему изменила (или делает это систематически). Широко известное выражение «Наставить рога» означает измену супругу.</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Candaulisme"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vaudeville_(théâtre)"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:En"/>
+    <dbpedia-owl:abstract xml:lang="it">Con il termine inglese cuckold (pronuncia: /ˈkʌkəʊld/) si usa indicare la persona che consapevolmente e volontariamente induce il proprio partner, chiamato talvolta sweet se di sesso femminile, a vivere esperienze sessuali con altre persone (che, se di sesso maschile, sono denominati solitamente bull, tori, con allusione alla funzione di monta di tali animali).Al contrario il termine cuckquean (conosciuto anche come reverse cuckold) è utilizzato per indicare lo stesso tipo di pratica con sottomessa la donna e dominante il maschio (ovvero colui che commette il tradimento di fronte al partner femminile)</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="ca">Cuckold fa referència al "cucut" (cuckoo en anglès) - l'ocell dels rellotges sonors-, en català el terme és "cornut" o "banyut". A la naturalesa, el "cucut" mascle accepta i té en el seu niu una femella promiscua. Així, un "banyut" és un home que accepta o li agrada imaginar, conèixer i fins i tot veure, la diversió que la seva companya té amb una altra persona (o persones).</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Dominatrice"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Portail"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cuckold"/>
+    <dbpedia-owl:abstract xml:lang="cs">Paroháč je označení pro muže, jemuž byla jeho žena nevěrná. Metafora s parohy existuje krom češtiny také v mnoha dalších jazycích (it. cornuto, rus. рогоносец (rogonósjec) apod.), ale např. anglicky se 'paroháč' řekne cuckold (ze starofr. cuccu 'kukačka'), německy Hahnrei nebo zastarávajícně Gehörnter (což je ale také rohatý-ďábel). Pojem 'paroháč' byl podle Rabelaise v jeho době už notoricky známý, v literatuře se s ním setkáváme mj. také u Moliéra.</dbpedia-owl:abstract>
+    <rdfs:label xml:lang="fr">Cuckolding</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="fr">Le cuckolding ou cuckold désigne une paraphilie et une forme de domination sexuelle dans laquelle un homme est sexuellement excité par l'idée que son épouse légitime ou sa compagne ait des relations sexuelles avec un autre homme (voire plusieurs) régulièrement ou occasionnellement, alors que l'époux doit rester fidèle à sa femme ou s'abstenir. Le mari étant souvent très amoureux de sa femme, il accepte qu'elle ait un amant, voire plusieurs. La traduction française est plus connue sous le terme de candaulisme.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">Cuckold vem do inglês cuckoo e faz referência à ave enganada pelo cuco a incubar os seus ovos e criar os seus filhotes. O termo em inglês foi adaptado do seu significado normal, que significa corno. Assim, uma pessoa "cuckold" é aquela que gosta de imaginar, de saber ou de ver, o próprio companheiro tendo prazer com outra pessoa (ou pessoas). Pode ter origem em diferentes interesses passando pelo prazer no ciúme (zelofilia), submissão, humilhação, prazer e medo da traição, voyeurismo.Casais swingers, nos quais o homem é cuckold, convidam homens a penetrarem a esposa para logo em seguida o marido penetrá-la. Existe também a prática, conhecida como creampie na qual existe a ejaculação de outro homem dentro da mulher e então o cuckold a penetra ou pratica sexo oral, o que tem se tornado cada dia mais raro com a difusão do uso do preservativo, graças à prevenção da AIDS/SIDA.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">18</dbpedia-owl:wikiPageOutDegree>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/绿帽子"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Hahnrei"/>
+    <rdfs:label xml:lang="en">Cuckold</rdfs:label>
+    <rdfs:label xml:lang="ru">Рогоносец</rdfs:label>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">646849</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Polyandrie"/>
+    <rdfs:comment xml:lang="de">Der Begriff Hahnrei bezeichnet einen Ehemann, dessen Ehefrau fremdgegangen ist.</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Masochisme_de_Leopold_von_Sacher-Masoch"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cuculinae"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://fr.wikipedia.org/wiki/Cuckolding"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/寝取られ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:BDSM"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Échangisme"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Mariage"/>
+    <rdfs:comment xml:lang="ja">寝取られとは、国語辞典的な定義では動詞「寝取る」の受動形の名詞化された言葉である。性問題用語としては、自分の好きな異性が他の者と性的関係になる状況・そのような状況に性的興奮を覚える嗜好・そういう嗜好の人に向けたフィクションなどの創造物のジャンル名、などを指す。ゲーム業界などでは、NTRなどと呼ぶ場合がある。</rdfs:comment>
+    <rdfs:label xml:lang="ca">Cuckold</rdfs:label>
+    <rdfs:comment xml:lang="nl">Cuckolding is een term uit de wereld van het sadomasochisme, die is komen overwaaien uit de Verenigde Staten. Het woord wordt gebruikt voor een spel, voor velen ook een levenswijze, waarin van een (echt)paar de vrouw allerlei seksuele vrijheden heeft, die de man niet heeft. De man heeft in een cuckolding-relatie weet van zijn vrouws vreemdgaan.In het algemeen is de vrouw in zo'n relatie dominant aan haar partner.Cuckolding kent vele variëteiten.</rdfs:comment>
+    <rdfs:comment xml:lang="cs">Paroháč je označení pro muže, jemuž byla jeho žena nevěrná. Metafora s parohy existuje krom češtiny také v mnoha dalších jazycích (it. cornuto, rus. рогоносец (rogonósjec) apod.), ale např. anglicky se 'paroháč' řekne cuckold (ze starofr. cuccu 'kukačka'), německy Hahnrei nebo zastarávajícně Gehörnter (což je ale také rohatý-ďábel). Pojem 'paroháč' byl podle Rabelaise v jeho době už notoricky známý, v literatuře se s ním setkáváme mj. také u Moliéra.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/ديوث"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Théâtre_de_boulevard"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Cuckolding"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Рогоносец"/>
+    <rdfs:comment xml:lang="it">Con il termine inglese cuckold (pronuncia: /ˈkʌkəʊld/) si usa indicare la persona che consapevolmente e volontariamente induce il proprio partner, chiamato talvolta sweet se di sesso femminile, a vivere esperienze sessuali con altre persone (che, se di sesso maschile, sono denominati solitamente bull, tori, con allusione alla funzione di monta di tali animali).Al contrario il termine cuckquean (conosciuto anche come reverse cuckold) è utilizzato per indicare lo stesso tipo di pratica con sottomessa la donna e dominante il maschio (ovvero colui che commette il tradimento di fronte al partner femminile)</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Cuckolding"/>
+    <rdfs:label xml:lang="pt">Cuckold</rdfs:label>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2046</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Hanrej"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Références"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Paraphilie"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://fr.wikipedia.org/wiki/Candaulisme"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01q_g9"/>
+    <rdfs:comment xml:lang="fr">Le cuckolding ou cuckold désigne une paraphilie et une forme de domination sexuelle dans laquelle un homme est sexuellement excité par l'idée que son épouse légitime ou sa compagne ait des relations sexuelles avec un autre homme (voire plusieurs) régulièrement ou occasionnellement, alors que l'époux doit rester fidèle à sa femme ou s'abstenir. Le mari étant souvent très amoureux de sa femme, il accepte qu'elle ait un amant, voire plusieurs.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="ja">寝取られとは、国語辞典的な定義では動詞「寝取る」の受動形の名詞化された言葉である。性問題用語としては、自分の好きな異性が他の者と性的関係になる状況・そのような状況に性的興奮を覚える嗜好・そういう嗜好の人に向けたフィクションなどの創造物のジャンル名、などを指す。ゲーム業界などでは、NTRなどと呼ぶ場合がある。</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Cuckold"/>
+    <rdfs:label xml:lang="it">Cuckold</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Adultère"/>
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:BDSM"/>
+    <dbpedia-owl:abstract xml:lang="de">Der Begriff Hahnrei bezeichnet einen Ehemann, dessen Ehefrau fremdgegangen ist. Die zugehörige Redewendung, dass einem betrogenen Ehemann „Hörner aufgesetzt“ worden seien, es sich bei ihm also um einen Gehörnten handele, lässt sich vermutlich auf die früher übliche Behandlung kastrierter Hähne (Kapaune) zurückführen.Für das Hochmittelalter ist eine Verwendung des Wortes „Kapaun“ im Sinne von Ehebrecher und auch Kuppler belegt.Im neueren deutschen Sprachgebrauch findet die verbreitete moralische Uminterpretation des Fremdgehens darin Ausdruck, dass eine bewusste und gewollte Einnahme der Rolle des betrogenen Ehemannes nicht mehr mit dem Begriff „Hahnrei“, sondern mit dem entsprechenden englischen Lehnwort Cuckold bezeichnet wird.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Anglais"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.wikipedia.org/wiki/Cuckolding">
+    <foaf:primaryTopic rdf:resource="http://fr.dbpedia.org/resource/Cuckolding"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Candaulisme">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cuckolding"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Liste_de_paraphilies">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cuckolding"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Humiliation_érotique">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cuckolding"/>
+  </rdf:Description>
+</rdf:RDF>

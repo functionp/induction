@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns3="http://eu.dbpedia.org/property/"
+   xmlns:ns5="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/1910">
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Urtea_beste_egutegi_batean"/>
+    <dcterms:subject rdf:resource="http://eu.dbpedia.org/resource/Kategoria:1910"/>
+    <dbpedia-owl:abstract xml:lang="eu">Daturen bat gaineratzen baduzu, egunaren lotura segi dezakezu han ere sartzeko. Eskerrik asko!</dbpedia-owl:abstract>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Denbora_unitate_aurkibidea"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Urte_aurkibidea"/>
+    <ns5:wasDerivedFrom rdf:resource="http://eu.wikipedia.org/wiki/1910?oldid=3946854"/>
+    <rdfs:comment xml:lang="eu">Daturen bat gaineratzen baduzu, egunaren lotura segi dezakezu han ere sartzeko. Eskerrik asko!</rdfs:comment>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Kokapen_mapa+"/>
+    <rdfs:label xml:lang="eu">1910</rdfs:label>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Urtegertaerak"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Commonskat"/>
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://nv.dbpedia.org/resource/1901_–_1950"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1237</dbpedia-owl:wikiPageID>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3946854</dbpedia-owl:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eu.wikipedia.org/wiki/1910"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Kategoria:1910">
+    <skos:subject rdf:resource="http://eu.dbpedia.org/resource/1910"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.wikipedia.org/wiki/1910">
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/1910"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org:81/data/1910.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/1910"/>
+  </rdf:Description>
+</rdf:RDF>

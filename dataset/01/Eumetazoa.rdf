@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-eo="http://eo.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Mudulo">
+    <prop-eo:subregno rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Eumetazoa">
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318571</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2870495</dbpedia-owl:wikiPageRevisionID>
+    <ns6:wasDerivedFrom rdf:resource="http://eo.wikipedia.org/wiki/Eumetazoa?oldid=2870495"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eo.wikipedia.org/wiki/Eumetazoa"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Histuloj"/>
+    <rdfs:label xml:lang="eo">Eumetazoa</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Histuloj"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Ĥorduloj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+    <prop-eo:subregno rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Meloidogyne_incognita">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+    <prop-eo:subregno rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Spirurida">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+    <prop-eo:subregno rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Bestoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Nematodoj">
+    <prop-eo:subregno rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Senhistuloj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Duflankulo">
+    <prop-eo:subregno rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.wikipedia.org/wiki/Eumetazoa">
+    <foaf:primaryTopic rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Macroglenes">
+    <prop-eo:subregno rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Pirenenoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+    <prop-eo:subregno rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Prabuŝulo">
+    <prop-eo:subregno rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Eumetazoa"/>
+  </rdf:Description>
+</rdf:RDF>

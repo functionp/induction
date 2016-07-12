@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sistem_indera">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kategori:Sistem_indera"/>
+    <ns6:wasDerivedFrom rdf:resource="http://id.wikipedia.org/wiki/Sistem_indera?oldid=6711675"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Penglihatan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Berkas:Menschliches_auge.jpg"/>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Sistem_indera"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://id.wikipedia.org/wiki/Sistem_indera"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Pengecapan"/>
+    <dcterms:subject rdf:resource="http://id.dbpedia.org/resource/Kategori:Sistem_indera"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/7/71/Menschliches_auge.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Penciuman"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Jalur_saraf"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Otak"/>
+    <dbpedia-owl:abstract xml:lang="id">Sistem indera adalah bagian dari sistem saraf yang berfungsi untuk proses informasi indera. Di dalam sistem indera, terdapat reseptor indera, jalur saraf, dan bagian dari otak ikut serta dalam tanggapan indera. Umumnya, sistem indera yang dikenal adalah penglihatan, pendengaran, penciuman, pengecapan dan peraba.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="id">Sistem indera adalah bagian dari sistem saraf yang berfungsi untuk proses informasi indera. Di dalam sistem indera, terdapat reseptor indera, jalur saraf, dan bagian dari otak ikut serta dalam tanggapan indera. Umumnya, sistem indera yang dikenal adalah penglihatan, pendengaran, penciuman, pengecapan dan peraba.</rdfs:comment>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246517</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Peraba"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Pendengaran"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sistem_saraf"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Reseptor_indera"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6711675</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="id">Sistem indera</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Indera"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Menschliches_auge.jpg/200px-Menschliches_auge.jpg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Filsafat_pikiran">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sistem_indera"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.wikipedia.org/wiki/Sistem_indera">
+    <foaf:primaryTopic rdf:resource="http://id.dbpedia.org/resource/Sistem_indera"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Antena_(biologi)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sistem_indera"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Reseptor_indra">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sistem_indera"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sistem_indra">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sistem_indera"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Sistem_indera"/>
+  </rdf:Description>
+</rdf:RDF>

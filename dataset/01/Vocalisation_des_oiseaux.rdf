@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-fr="http://fr.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux">
+    <dbpedia-owl:abstract xml:lang="hu">A madarak életében kiemelt szerepe van az akusztikus kommunikációnak. A madárfajok szinte mindegyike képes valamilyen egyszerű hangot kiadni, ám egyharmaduk énekelni is tud. A madárénekben hangok, szótagok és frázisok is megkülönböztethetőek egy-egy hosszabb hangsor esetén.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Psittacidae"/>
+    <prop-fr:site xml:lang="fr">ornithomedia.com</prop-fr:site>
+    <prop-fr:url xml:lang="fr">http://www.sciencedaily.com/releases/2000/08/000811064855.htm</prop-fr:url>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ptasi_śpiew"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Coucou"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Afrique"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.shanlung.com/shamasong2.html"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Étourneau"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Nature_(journal)"/>
+    <prop-fr:auteurs xml:lang="fr">André Bossus &amp; François Charron</prop-fr:auteurs>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Langue_des_oiseaux"/>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Linnulaul"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Vogelzang_(ornithologie)"/>
+    <prop-fr:auteur xml:lang="fr">Maxime Metzmacher &amp; François Mairy</prop-fr:auteur>
+    <rdfs:label xml:lang="en">Bird vocalization</rdfs:label>
+    <prop-fr:année rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2008</prop-fr:année>
+    <rdfs:comment xml:lang="pt">As vocalizações das aves incluem tanto chamamentos como canções. Em termos leigos, as canções das aves são sons que são melodiosos para o ouvido humano. Em ornitologia, as canções das aves são geralmente distinguidas de sons mais curtos, que podem ser apelidados de chamamentos.As canções das aves estão mais desenvolvidas na ordem Passeriformes.</rdfs:comment>
+    <prop-fr:auteur xml:lang="fr">Gary Ritchison</prop-fr:auteur>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:En"/>
+    <rdfs:label xml:lang="hu">Madárdal</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Oiseau"/>
+    <rdfs:comment xml:lang="hu">A madarak életében kiemelt szerepe van az akusztikus kommunikációnak. A madárfajok szinte mindegyike képes valamilyen egyszerű hangot kiadni, ám egyharmaduk énekelni is tud. A madárénekben hangok, szótagok és frázisok is megkülönböztethetőek egy-egy hosszabb hangsor esetén.</rdfs:comment>
+    <prop-fr:trad xml:lang="fr">Bird scarer</prop-fr:trad>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1932"/>
+    <rdfs:comment xml:lang="pl">Ptasi śpiew – wydawanie głosu w okresie godowym przez niektóre spośród ptaków, należących do podrzędu śpiewających (Oscines).Poszczególne gatunki ptaków, w wyniku ewolucji, wykształciły w swoich zachowaniach odruch odzywania się wczesnym rankiem o charakterystycznych dla każdego z nich porach, zależnych od pory doby.</rdfs:comment>
+    <prop-fr:titre xml:lang="fr">Hummingbird Studies Raise Questions About Birdsong Evolution</prop-fr:titre>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Homo_sapiens"/>
+    <dbpedia-owl:abstract xml:lang="ca">Les vocalitzacions dels ocells són els sons vocals que les aus emeten, i inclouen tant les crides com els cants. En un llenguatge no tècnic, s'entén per cant dels ocells aquells sons produïts per aus i que resulten melodiosos a l'oïda humana. En ornitologia i observació d'aus, el cant es distingeix de la crida per la funció: els cants són més llargs i més complexes i estan associats amb el festeig i l'aparellament, mentre que les crides tenen funcions com ara d'alarma o establiment de contacte entre els membres d'una bandada.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Coq"/>
+    <prop-fr:texte xml:lang="fr">neurodégénerescence</prop-fr:texte>
+    <prop-fr:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1995</prop-fr:date>
+    <rdfs:comment xml:lang="es">Las vocalizaciones de las aves se refiere a los sonidos vocales que estos animales emiten, incluyendo tanto el canto como los reclamos. A un nivel no técnico, el canto son los sonidos que emiten las aves y que son melodiosos al oído humano. En ornitología, el canto de las aves se diferencia de los sonidos cortos distintivos a menudo denominados reclamos o llamados.</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Olivier_Messiaen"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Solsort.jpg"/>
+    <prop-fr:texte xml:lang="fr">théorie du cher ennemi</prop-fr:texte>
+    <prop-fr:éditeur xml:lang="fr">Flammarion</prop-fr:éditeur>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Nom_vernaculaire"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Métapopulation"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Légende"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Rossignol"/>
+    <prop-fr:titre xml:lang="fr">Variations géographiques de la figure finale du chant du Pinson des arbres, Fringilla c. coelebs L.</prop-fr:titre>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Vocalització_dels_ocells"/>
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Oiseau"/>
+    <prop-fr:isbn rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">9782081209435</prop-fr:isbn>
+    <prop-fr:fr xml:lang="fr">neurodégénerescence</prop-fr:fr>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Arthur_Allen"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Syrinx_(anatomie)"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:XVIIe_siècle"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Le_merle_noir"/>
+    <prop-fr:titre xml:lang="fr">Le chant</prop-fr:titre>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Trochiliformes"/>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/صوت_الطيور"/>
+    <prop-fr:trad xml:lang="fr">Dear enemy effect</prop-fr:trad>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Antiquité"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110871198</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Sonagramme"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Janequin"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vertébrés"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Menuridae"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://fr.wikipedia.org/wiki/Vocalisation_des_oiseaux"/>
+    <prop-fr:url xml:lang="fr">http://people.eku.edu/ritchisong/birdcommunication.html</prop-fr:url>
+    <prop-fr:isbn rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2940329028</prop-fr:isbn>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Manchot"/>
+    <rdfs:comment xml:lang="de">Als Vogelgesang wird im deutschen Sprachraum die akustische Kommunikation der Vögel, insbesondere der Singvögel bezeichnet. Die Lauterzeugung erfolgt bei Vögeln meist im Stimmkopf.</rdfs:comment>
+    <prop-fr:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1972</prop-fr:date>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Traduction/Référence"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Le_Gerfaut"/>
+    <rdfs:comment xml:lang="ru">Вокализация птиц — набор голосовых звуков, издаваемых птицами. В орнитологии разделяется на длинное пение и короткие голосовые сигналы, различные по функциям — пение используется преимущественно в половом поведении и для защиты территории, голосовые сигналы предназначены преимущественно для коммуникации, например призыва или сообщения об опасности.Все звуки, издаваемые птицами, являются мелодичными для человеческого уха и оказали влияние на развитие музыки.</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Ordre_(biologie)"/>
+    <prop-fr:vol rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</prop-fr:vol>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Vogelgesang"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Oriolus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Oscines"/>
+    <rdfs:label xml:lang="de">Vogelgesang</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Écholocation"/>
+    <rdfs:label xml:lang="pl">Ptasi śpiew</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gélinotte"/>
+    <prop-fr:date xml:lang="fr">août 2000</prop-fr:date>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Protection_des_oiseaux"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">96</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Moineau_du_Japon"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Parade_nuptiale_aviaire"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Perroquet"/>
+    <prop-fr:revue rdf:resource="http://fr.dbpedia.org/resource/Le_Gerfaut"/>
+    <dbpedia-owl:abstract xml:lang="ru">Вокализация птиц — набор голосовых звуков, издаваемых птицами. В орнитологии разделяется на длинное пение и короткие голосовые сигналы, различные по функциям — пение используется преимущественно в половом поведении и для защиты территории, голосовые сигналы предназначены преимущественно для коммуникации, например призыва или сообщения об опасности.Все звуки, издаваемые птицами, являются мелодичными для человеческого уха и оказали влияние на развитие музыки.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Allemand"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Guacharo_des_cavernes"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1810045</dbpedia-owl:wikiPageID>
+    <prop-fr:auteurs xml:lang="fr">Sterckeman</prop-fr:auteurs>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Wikt:babil"/>
+    <prop-fr:titre xml:lang="fr">Vocal Communication</prop-fr:titre>
+    <prop-fr:lang xml:lang="fr">en</prop-fr:lang>
+    <prop-fr:trad xml:lang="fr">Neurodegeneration</prop-fr:trad>
+    <prop-fr:titre xml:lang="fr">La transmission du chant chez le Pinson des arbres  : phase sensible et rôle des tuteurs chez les oiseaux captifs</prop-fr:titre>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Madárdal"/>
+    <prop-fr:trad xml:lang="fr">Ethnoornithology</prop-fr:trad>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">21534</dbpedia-owl:wikiPageLength>
+    <prop-fr:auteur xml:lang="fr">Maxime Metzmacher</prop-fr:auteur>
+    <rdfs:comment xml:lang="fr">Comme la plupart des vertébrés, les oiseaux émettent des sons vocalisés. L'être humain différencie bon nombre de ces chants ou sons et leur a donné un nom particulier, par exemple roucoulement, piaillement, cancanement. Parfois le nom vernaculaire d'un oiseau évoque ses vocalises comme pour les coucous. Le terme coq en français est issu du chant que les locuteurs francophones transcrivent en « Cocorico », alors qu'il est transcrit « Kikeriki » par les locuteurs germanophones, etc.</rdfs:comment>
+    <prop-fr:vol rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">406</prop-fr:vol>
+    <prop-fr:url xml:lang="fr">http://www.oiseau.info/le.chant.html</prop-fr:url>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Galliformes"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.020bb7"/>
+    <prop-fr:fr xml:lang="fr">effaroucheur d'oiseau</prop-fr:fr>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Mainate"/>
+    <dbpedia-owl:abstract xml:lang="en">Bird vocalization includes both bird calls and bird songs. In non-technical use, bird songs are the bird sounds that are melodious to the human ear. In ornithology and birding, (relatively complex) songs are distinguished by function from (relatively simple) calls.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Quatuor_pour_la_fin_du_temps"/>
+    <dbpedia-owl:abstract xml:lang="de">Als Vogelgesang wird im deutschen Sprachraum die akustische Kommunikation der Vögel, insbesondere der Singvögel bezeichnet. Die Lauterzeugung erfolgt bei Vögeln meist im Stimmkopf.</dbpedia-owl:abstract>
+    <prop-fr:titre xml:lang="fr">Le chant des oiseaux</prop-fr:titre>
+    <prop-fr:texte xml:lang="fr">http://jarvislab.net/Publications/JarvisEtAl2000%28Nature%29.pdf</prop-fr:texte>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Diamant_mandarin"/>
+    <prop-fr:isbn rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">978</prop-fr:isbn>
+    <ns7:wasDerivedFrom rdf:resource="http://fr.wikipedia.org/wiki/Vocalisation_des_oiseaux?oldid=110871198"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Trachée"/>
+    <prop-fr:éditeur xml:lang="fr">Science Daily</prop-fr:éditeur>
+    <prop-fr:éditeur xml:lang="fr">Department of Biological Sciences Eastern Kentucky University</prop-fr:éditeur>
+    <dbpedia-owl:abstract xml:lang="es">Las vocalizaciones de las aves se refiere a los sonidos vocales que estos animales emiten, incluyendo tanto el canto como los reclamos. A un nivel no técnico, el canto son los sonidos que emiten las aves y que son melodiosos al oído humano. En ornitología, el canto de las aves se diferencia de los sonidos cortos distintivos a menudo denominados reclamos o llamados.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Salangane"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Migration_des_oiseaux"/>
+    <prop-fr:auteur xml:lang="fr">Erich D. Jarvis, Sidarta Ribeiro, Maria Luisa da Silva, Dora Ventura, Jacques Vielliardk &amp; Claudio V. Mello</prop-fr:auteur>
+    <prop-fr:url xml:lang="fr">http://ornithomedia.com/pratique/debuter/debut_art42_2.htm</prop-fr:url>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Chant"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Rousserolle_verderolle"/>
+    <rdfs:label xml:lang="ca">Vocalització dels ocells</rdfs:label>
+    <prop-fr:fr xml:lang="fr">théorie du cher ennemi</prop-fr:fr>
+    <rdfs:label xml:lang="nl">Vogelzang (ornithologie)</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Neurogenèse"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Sylvester_Judd"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Langage_récursif"/>
+    <dbpedia-owl:abstract xml:lang="pl">Ptasi śpiew – wydawanie głosu w okresie godowym przez niektóre spośród ptaków, należących do podrzędu śpiewających (Oscines).Poszczególne gatunki ptaków, w wyniku ewolucji, wykształciły w swoich zachowaniach odruch odzywania się wczesnym rankiem o charakterystycznych dla każdego z nich porach, zależnych od pory doby. Niektóre z gatunków zaczynają jeszcze przed brzaskiem, inne, dopiero po wschodzie Słońca, ale pory te ściśle – z dokładnością do kilkunastu minut – zależą od pory brzasku.W tabeli poniżej przedstawione są godziny, w których odzywają się poszczególne gatunki typowe dla Polski przy założeniu, że brzask następuje o godz. 4:00 (tak jak w Polsce w połowie maja według czasu letniego).</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="en">Bird vocalization includes both bird calls and bird songs. In non-technical use, bird songs are the bird sounds that are melodious to the human ear. In ornithology and birding, (relatively complex) songs are distinguished by function from (relatively simple) calls.</rdfs:comment>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Portail"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Canari"/>
+    <prop-fr:titre xml:lang="fr">Les plus beaux chants d'oiseaux, 40 virtuoses de France</prop-fr:titre>
+    <prop-fr:commons xml:lang="fr">Category:Sounds of birds</prop-fr:commons>
+    <prop-fr:année rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2002</prop-fr:année>
+    <rdfs:label xml:lang="fr">Vocalisation des oiseaux</rdfs:label>
+    <prop-fr:revue rdf:resource="http://fr.dbpedia.org/resource/Nature_(journal)"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Vocalização_das_aves"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Troglodytes"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Lien"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+    <prop-fr:éditeur xml:lang="fr">Astrabile</prop-fr:éditeur>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Duo_(zoologie)"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://audioblog.sonatura.com/?p=255"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Lien_web"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Fr"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Université_Cornell"/>
+    <prop-fr:fr xml:lang="fr">ethnoornithologie</prop-fr:fr>
+    <dbpedia-owl:abstract xml:lang="fr">Comme la plupart des vertébrés, les oiseaux émettent des sons vocalisés. L'être humain différencie bon nombre de ces chants ou sons et leur a donné un nom particulier, par exemple roucoulement, piaillement, cancanement. Parfois le nom vernaculaire d'un oiseau évoque ses vocalises comme pour les coucous. Le terme coq en français est issu du chant que les locuteurs francophones transcrivent en « Cocorico », alors qu'il est transcrit « Kikeriki » par les locuteurs germanophones, etc. Ces relations étymologiques sont étudiées en ethnoornithologie (en).Lorsque ces sons paraissent mélodieux à l'oreille humaine, ils sont désignés sous le terme de chants. En ornithologie, on étend le terme de chant à tous les « appels » émis en vue de communiquer. Par ailleurs les Passeriformes (notamment les Oscines), s'ils sont surnommés « oiseaux chanteurs », ne sont pas les seuls à pouvoir vocaliser.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Sg_fexx_19.JPG"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Vocalización_de_las_aves"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Richard_Wagner"/>
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/Oglašanje_ptic"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Testostérone"/>
+    <prop-fr:lang xml:lang="fr">fr</prop-fr:lang>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Oiseau"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Chœur_de_l'aube"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Ornithologie"/>
+    <prop-fr:site xml:lang="fr">oiseau.net</prop-fr:site>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Parus_major_sonagram.jpg"/>
+    <dbpedia-owl:abstract xml:lang="pt">As vocalizações das aves incluem tanto chamamentos como canções. Em termos leigos, as canções das aves são sons que são melodiosos para o ouvido humano. Em ornitologia, as canções das aves são geralmente distinguidas de sons mais curtos, que podem ser apelidados de chamamentos.As canções das aves estão mais desenvolvidas na ordem Passeriformes. A maioria das canções é emitida pelas aves do sexo masculino e é normalmente dada a partir de poleiros proeminentes, apesar de algumas espécies poderem cantar em pleno voo. Alguns grupos são praticamente áfonas, produzindo apenas sons percussivos e rítmicos, como as cegonhas, que fazem barulho com os bicos.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Signal_d'alarme_(biologie)"/>
+    <rdfs:label xml:lang="pt">Vocalização das aves</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Alauda"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Automate"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cétacé"/>
+    <prop-fr:année rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</prop-fr:année>
+    <rdfs:comment xml:lang="nl">Vogelzang is het vermogen van vogels om te fluiten en is de bekendste vorm van diercommunicatie. Van zingen is geen sprake omdat vogels geen strottenhoofd hebben, maar de lucht laten trillen met behulp van membranen in de syrinx. Maar de term 'fluiten' is ook niet helemaal correct, aangezien mensen met hun lippen fluiten en vogels geen lippen hebben. Wel speelt de snavel zichtbaar een rol. Vrijwel iedere vogelsoort heeft een unieke zang, zodat soortgenoten elkaar kunnen herkennen.</rdfs:comment>
+    <prop-fr:vol rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</prop-fr:vol>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Parus_major_15mars2011.ogg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Convergence_évolutive"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cartilage"/>
+    <prop-fr:titre xml:lang="fr">Behaviourally driven gene expression reveals song nuclei in hummingbird brain</prop-fr:titre>
+    <foaf:homepage rdf:resource="http://oiseau.net"/>
+    <prop-fr:éditeur rdf:resource="http://fr.dbpedia.org/resource/Sang_de_la_Terre"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Вокализация_птиц"/>
+    <prop-fr:commonsTitre xml:lang="fr">Exemples de chant d'oiseau</prop-fr:commonsTitre>
+    <prop-fr:revue rdf:resource="http://fr.dbpedia.org/resource/Alauda"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Article"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hormone"/>
+    <rdfs:comment xml:lang="ca">Les vocalitzacions dels ocells són els sons vocals que les aus emeten, i inclouen tant les crides com els cants. En un llenguatge no tècnic, s'entén per cant dels ocells aquells sons produïts per aus i que resulten melodiosos a l'oïda humana.</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Ludwig_Karl_Koch"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cerveau"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Вокалізація_птахів"/>
+    <rdfs:label xml:lang="ru">Вокализация птиц</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1889"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Jean_Ferrat"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Solsort.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Appeau"/>
+    <rdfs:label xml:lang="es">Vocalización de las aves</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Psittaciformes"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1898"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Zoosémiotique"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Passeri"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Solsort.jpg?width=300"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Sang_de_la_Terre"/>
+    <prop-fr:auteurs xml:lang="fr">Hervé Millancourt</prop-fr:auteurs>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Geai_des_chênes"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Autres_projets"/>
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Zoosémiotique"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Plasticité_neuronale"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Passeriformes"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Enfant"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Effet_cocktail_party"/>
+    <dbpedia-owl:abstract xml:lang="nl">Vogelzang is het vermogen van vogels om te fluiten en is de bekendste vorm van diercommunicatie. Van zingen is geen sprake omdat vogels geen strottenhoofd hebben, maar de lucht laten trillen met behulp van membranen in de syrinx. Maar de term 'fluiten' is ook niet helemaal correct, aangezien mensen met hun lippen fluiten en vogels geen lippen hebben. Wel speelt de snavel zichtbaar een rol. Vrijwel iedere vogelsoort heeft een unieke zang, zodat soortgenoten elkaar kunnen herkennen. Ook bij het tellen van vogelpopulaties worden de soortspecifieke geluiden gebruikt. Er zijn twee soorten vogelgeluiden; de roep en de zang.</dbpedia-owl:abstract>
+    <prop-fr:titre xml:lang="fr">Le fonctionnement du cerveau : le cas du chant</prop-fr:titre>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Fågelläte"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Sirli_ricoti"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Ouvrage"/>
+    <prop-fr:texte xml:lang="fr">effaroucheur d'oiseau</prop-fr:texte>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Station_ornithologique_suisse_de_Sempach">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cardinal_rouge">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Sarcelle_d'hiver">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Rossignol_philomèle">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Parade_nuptiale">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Paradisaeidae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cardinal_à_poitrine_rose">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Mérion_élégant">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Oiseau">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cacatoès_banksien">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Sittelle_à_poitrine_blanche">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Moineau_domestique">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Daniel_Goyone">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tweet">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Rossignol">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Le_Chant_des_oiseaux_(homonymie)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Moineau_des_saxaouls">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Bernard_Altum">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Psittaciformes">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Sélection_intersexuelle">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.wikipedia.org/wiki/Vocalisation_des_oiseaux">
+    <foaf:primaryTopic rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Paruline_de_Grace">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Chant_(oiseau)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Urubu_à_tête_rouge">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Méliphage_bruyant">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Traquet_motteux">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Échasse_blanche">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Epic_Meal_Time">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Micrastur">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Promenade_de_l'Helvétie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cassican_flûteur">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Trochilinae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Sittelle_bleue">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Sittelle_kabyle">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Sterne_arctique">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Fauvine_des_pins">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Passeri">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Goglu_des_prés">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Appareil_reproducteur_aviaire">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cri_d'appel">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Intelligence_des_oiseaux">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Le_Merle_noir">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Gracula">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Coucou">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Grand_Géocoucou">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Nette_à_cou_rose">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Anseriformes">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Chant_(homonymie)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Histoire_de_la_musique_classique_occidentale">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Moineau_mélanure">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Merle_noir">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Gaviiformes">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Grand_Corbeau">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Aire_de_parade">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Signal_d'alarme_(biologie)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tohi_à_calotte_fauve">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Faucon_pèlerin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Sittelle_du_Victoria">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Duo_(zoologie)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Moineau_rutilant">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Miro_à_front_rouge">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Zoosémiotique">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tourterelle_triste">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Paruline_d'Angela">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Trochilidae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Falconidae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Parade_nuptiale_aviaire">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Canard">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Chant">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Olivier_Messiaen">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Chœur_de_l'aube">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cormoran_à_aigrettes">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Anatomie_des_oiseaux">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Crash_Bandicoot">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Grive_des_bois">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Abondance_(écologie)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Chardonneret">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Pinson">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Pics_anti-volatiles">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Syrinx_(anatomie)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Oiseau_sans_tête">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+  </rdf:Description>
+</rdf:RDF>

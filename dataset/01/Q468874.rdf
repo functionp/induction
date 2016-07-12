@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:ns4="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q468874">
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/فهرست_پرندگان"/>
+    <rdfs:label xml:lang="ar">ملحق:قائمة طيور</rdfs:label>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7734</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Κατάλογος_πτηνών_με_την_επιστημονική_ονομασία"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q468874"/>
+    <rdfs:label xml:lang="tr">Kuşlar listesi</rdfs:label>
+    <owl:sameAs rdf:resource="http://bn.dbpedia.org/resource/পাখির_তালিকা"/>
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Clasificarea_păsărilor"/>
+    <rdfs:label xml:lang="es">Anexo:Aves</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/Класификација_на_птиците"/>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Класификација_птица"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/Clements鳥類分類"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Класификация_на_птиците"/>
+    <rdfs:label xml:lang="en">list of birds</rdfs:label>
+    <rdfs:label xml:lang="ru">Систематика птиц</rdfs:label>
+    <owl:sameAs rdf:resource="http://zea.dbpedia.org/resource/Lieste_van_veugels"/>
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/Fuglar_etter_klassifisering"/>
+    <rdfs:label xml:lang="pt">Anexo:Lista de aves</rdfs:label>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Lijst_van_vogels"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Lista_de_aves"/>
+    <owl:sameAs rdf:resource="http://ta.dbpedia.org/resource/பறவைகள்_பட்டியல்"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">442209</dbpedia-owl:wikiPageID>
+    <rdfs:label xml:lang="sr">Класификација птица</rdfs:label>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Anexo:Órdenes_y_familias_de_Aves"/>
+    <rdfs:label xml:lang="nl">lijst van vogels</rdfs:label>
+    <rdfs:label xml:lang="hu">A madarak rendszerezése</rdfs:label>
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Kuşlar_listesi"/>
+    <owl:sameAs rdf:resource="http://lt.dbpedia.org/resource/Sąrašas:Paukščių_būriai_ir_šeimos"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Lista_över_fåglar"/>
+    <rdfs:label xml:lang="ja">Clements鳥類分類</rdfs:label>
+    <rdfs:label xml:lang="ro">Clasificarea păsărilor</rdfs:label>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q468874"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168924077</dbpedia-owl:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Систематика_птиц"/>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/A_madarak_rendszerezése"/>
+    <owl:sameAs rdf:resource="http://tum.dbpedia.org/resource/Mazina_gha_Viyuni_mu_chiTumbuka"/>
+    <rdfs:label xml:lang="bg">Класификация на птиците</rdfs:label>
+    <rdfs:label xml:lang="el">Κατάλογος πτηνών με την επιστημονική ονομασία</rdfs:label>
+    <owl:sameAs rdf:resource="http://nrm.dbpedia.org/resource/Liste_des_ouésiâos"/>
+    <rdfs:label xml:lang="zh">鸟类传统分类系统</rdfs:label>
+    <rdfs:label xml:lang="de">Systematik der Vögel</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://commons.wikimedia.org/wiki/Category:Aves"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Luettelo_linnuista"/>
+    <ns4:wasDerivedFrom rdf:resource="http://www.wikidata.org/wiki/Q468874?oldid=168924077"/>
+    <rdfs:label xml:lang="bn">পাখির তালিকা</rdfs:label>
+    <rdfs:label xml:lang="sv">Lista över fåglar</rdfs:label>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/ملحق:قائمة_طيور"/>
+    <owl:sameAs rdf:resource="http://fy.dbpedia.org/resource/List_fan_fûgels"/>
+    <owl:sameAs rdf:resource="http://ms.dbpedia.org/resource/Senarai_burung"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Systematik_der_Vögel"/>
+    <owl:sameAs rdf:resource="http://lb.dbpedia.org/resource/Systematik_vun_de_Vullen"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/鸟类传统分类系统"/>
+  </rdf:Description>
+</rdf:RDF>

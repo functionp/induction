@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop-it="http://it.dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:provenance="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Uccelli_fossili">
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36091</dbpedia-owl:wikiPageLength>
+    <rdfs:comment xml:lang="it">Di seguito è riportata una lista di uccelli estintisi fra il Cretaceo e l'Olocene (alla fine del Terziario): per gli uccelli estintisi nell'era successiva, vedere Elenco di uccelli estinti del tardo Quaternario, mentre per vedere gli uccelli estintisi nellera moderna, consultare la voce Elenco di uccelli estinti.Si tratta di specie in cui l’interferenza umana ha avuto un peso insignificante nell’ambito dell’estinzione: piuttosto gli uccelli elencati in seguito si estinsero a causa della competizione con altre specie di più recente evoluzione o dei cambiamenti climatici ai quali non riuscirono a far fronte con rapidità sufficiente.Le voci della lista vengono elencate in ordine decrescente d’importanza ed in base alle relazioni fra i vari ‘’taxa’’: vengono riportati anche antichi uccelli tradizionalmente associati ai dinosauri, e a questo proposito si ricorda che in base alle recenti analisi del DNA e con l’introduzione della cladistica nella tassonomia, gli uccelli sarebbero teoricamente un clade dei dinosauri.</rdfs:comment>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1762997</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1812008"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx_lithographica_-_cast_of_Humboldt_Museum_specimen.JPG?width=300"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://it.wikipedia.org/wiki/Uccelli_fossili"/>
+    <rdfs:label xml:lang="it">Uccelli fossili</rdfs:label>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Lista_de_aves_fósseis"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Список_викопних_птахів"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Anexo:Aves_fósiles"/>
+    <provenance:wasDerivedFrom rdf:resource="http://it.wikipedia.org/wiki/Uccelli_fossili?oldid=68085122"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx_lithographica_-_cast_of_Humboldt_Museum_specimen.JPG"/>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Portale"/>
+    <dcterms:subject rdf:resource="http://it.dbpedia.org/resource/Categoria:Liste_di_biologia"/>
+    <dbpedia-owl:abstract xml:lang="it">Di seguito è riportata una lista di uccelli estintisi fra il Cretaceo e l'Olocene (alla fine del Terziario): per gli uccelli estintisi nell'era successiva, vedere Elenco di uccelli estinti del tardo Quaternario, mentre per vedere gli uccelli estintisi nellera moderna, consultare la voce Elenco di uccelli estinti.Si tratta di specie in cui l’interferenza umana ha avuto un peso insignificante nell’ambito dell’estinzione: piuttosto gli uccelli elencati in seguito si estinsero a causa della competizione con altre specie di più recente evoluzione o dei cambiamenti climatici ai quali non riuscirono a far fronte con rapidità sufficiente.Le voci della lista vengono elencate in ordine decrescente d’importanza ed in base alle relazioni fra i vari ‘’taxa’’: vengono riportati anche antichi uccelli tradizionalmente associati ai dinosauri, e a questo proposito si ricorda che in base alle recenti analisi del DNA e con l’introduzione della cladistica nella tassonomia, gli uccelli sarebbero teoricamente un clade dei dinosauri.</dbpedia-owl:abstract>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Interprogetto"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/List_of_fossil_bird_genera"/>
+    <dcterms:subject rdf:resource="http://it.dbpedia.org/resource/Categoria:Uccelli_preistorici"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Liste_ausgestorbener_Vögel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org:18080/data/Uccelli_fossili.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://it.dbpedia.org/resource/Uccelli_fossili"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Elenco_di_uccelli_fossili">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Uccelli_fossili"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.wikipedia.org/wiki/Uccelli_fossili">
+    <foaf:primaryTopic rdf:resource="http://it.dbpedia.org/resource/Uccelli_fossili"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Lista_di_uccelli_fossili">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Uccelli_fossili"/>
+  </rdf:Description>
+</rdf:RDF>

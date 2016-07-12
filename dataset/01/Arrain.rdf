@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns3="http://eu.dbpedia.org/property/"
+   xmlns:ns5="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Arraina">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Arrain"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Arrain">
+    <rdfs:comment xml:lang="eu">Arrainak (aitzineuskaraz: *arrani) uretan bizi diren eta hatzdun gorputz-adarrik ez duten, ornodun, gehienean poikilotermoak ("odol hotzekoak") dira. Hegalak izaten dituzte. Gehienek gorputz ezkataduna eta isats-hegal batean amaitua daukate. Maizenik, arnasketa zakatzen bidezkoa izaten da. Arrainak ikertzen dituen zientzia iktiologia da.Talde parafiletikoa da, balio sistematikorik ez duena. Bertan odol-hotzeko kordatu ez tetrapodo urtar guztiak sartzen dira.</rdfs:comment>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47331</dbpedia-owl:wikiPageID>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Taxotaula_automatikoa"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Tax"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4576919</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Georgia_Aquarium_-_Giant_Grouper_edit.jpg?width=300"/>
+    <ns5:wasDerivedFrom rdf:resource="http://eu.wikipedia.org/wiki/Arrain?oldid=4576919"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Wikiztegia"/>
+    <rdfs:label xml:lang="eu">Arrain</rdfs:label>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eu.wikipedia.org/wiki/Arrain"/>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Description"/>
+    <dbpedia-owl:abstract xml:lang="eu">Arrainak (aitzineuskaraz: *arrani) uretan bizi diren eta hatzdun gorputz-adarrik ez duten, ornodun, gehienean poikilotermoak ("odol hotzekoak") dira. Hegalak izaten dituzte. Gehienek gorputz ezkataduna eta isats-hegal batean amaitua daukate. Maizenik, arnasketa zakatzen bidezkoa izaten da. Arrainak ikertzen dituen zientzia iktiologia da.Talde parafiletikoa da, balio sistematikorik ez duena. Bertan odol-hotzeko kordatu ez tetrapodo urtar guztiak sartzen dira. Sailkapen tradizionalak lau klasetan banatzen ditu: plakodermo, kondriktie, osteiktie eta agnatuak.</dbpedia-owl:abstract>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Commonskat"/>
+    <dcterms:subject rdf:resource="http://eu.dbpedia.org/resource/Kategoria:Arrainak"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Georgia_Aquarium_-_Giant_Grouper_edit.jpg"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Erreferentzia_zerrenda"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org:81/data/Arrain.rdf">
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Arrain"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.wikipedia.org/wiki/Arrain">
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Arrain"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:ns4="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q2431958">
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Hayvanlarda_cinsellik"/>
+    <rdfs:label xml:lang="ja">動物の性行動</rdfs:label>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Sexualidade_animal"/>
+    <rdfs:label xml:lang="pt">Sexualidade animal</rdfs:label>
+    <rdfs:label xml:lang="fr">sexualité animale</rdfs:label>
+    <rdfs:label xml:lang="en">animal sexual behaviour</rdfs:label>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/動物の性行動"/>
+    <rdfs:label xml:lang="ru">Половое поведение животных</rdfs:label>
+    <ns4:wasDerivedFrom rdf:resource="http://www.wikidata.org/wiki/Q2431958?oldid=180137436"/>
+    <owl:sameAs rdf:resource="http://freebase.com//m/05wwpj"/>
+    <rdfs:label xml:lang="tr">Hayvanlarda cinsellik</rdfs:label>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180137436</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:seeAlso rdf:resource="https://commons.wikimedia.org/wiki/Category:Interspecies_sex"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Sexualité_animale"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5600</dbpedia-owl:wikiPageLength>
+    <rdfs:seeAlso rdf:resource="https://commons.wikimedia.org/wiki/Category:Animal_sex"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2349132</dbpedia-owl:wikiPageID>
+    <rdfs:label xml:lang="cs">zvířecí sexuální chování</rdfs:label>
+    <owl:sameAs rdf:resource="http://tl.dbpedia.org/resource/Seksuwalidad_ng_hayop"/>
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Hành_vi_tình_dục_ở_động_vật"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Eläinten_seksuaalisuus"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Половое_поведение_животных"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2431958"/>
+  </rdf:Description>
+</rdf:RDF>

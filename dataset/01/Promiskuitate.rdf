@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns3="http://eu.dbpedia.org/property/"
+   xmlns:ns5="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Promiskuo">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Promiskuitate"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Promiskuitate">
+    <rdfs:label xml:lang="eu">Promiskuitate</rdfs:label>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Zirriborro"/>
+    <rdfs:comment xml:lang="eu">Promiskuitatea pertsona batek hainbat pertsonarekin maiz sexu harreman esporadikoak izateko joera da. Promiskuitatezko sexu harremanak dituen pertsona promiskuo dela esaten da. Maiz, termino modu gaitzesgarrian erabiltzen da, erlijio eta kultura askotan moralaren aurkako jokabidetzat jotzen baita.</rdfs:comment>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">334770</dbpedia-owl:wikiPageID>
+    <dcterms:subject rdf:resource="http://eu.dbpedia.org/resource/Kategoria:Morala"/>
+    <dcterms:subject rdf:resource="http://eu.dbpedia.org/resource/Kategoria:Giza_sexualitatea"/>
+    <ns5:wasDerivedFrom rdf:resource="http://eu.wikipedia.org/wiki/Promiskuitate?oldid=3869832"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eu.wikipedia.org/wiki/Promiskuitate"/>
+    <dbpedia-owl:abstract xml:lang="eu">Promiskuitatea pertsona batek hainbat pertsonarekin maiz sexu harreman esporadikoak izateko joera da. Promiskuitatezko sexu harremanak dituen pertsona promiskuo dela esaten da. Maiz, termino modu gaitzesgarrian erabiltzen da, erlijio eta kultura askotan moralaren aurkako jokabidetzat jotzen baita.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3869832</dbpedia-owl:wikiPageRevisionID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.wikipedia.org/wiki/Promiskuitate">
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Promiskuitate"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org:81/data/Promiskuitate.rdf">
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Promiskuitate"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+</rdf:RDF>

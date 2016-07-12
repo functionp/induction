@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Ovodento">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdoj"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Egg_tooth"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:Poicephalus_senegalus_-egg_tooth_-two_weeks-21July07.JPG"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Äggtand"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eo.wikipedia.org/wiki/Ovodento"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Яйцевой_зуб"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Besta_anatomio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Besta_anatomio"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q669339"/>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Munahammas"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Lacerto"/>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Јајни_зуб"/>
+    <owl:sameAs rdf:resource="http://ur.dbpedia.org/resource/بیضائی_دانت"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Eizahn"/>
+    <rdfs:label xml:lang="eo">Ovodento</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Rano"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ząb_jajowy"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Araneo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Reptilio"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Яйцевий_зуб"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5202422</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Monotremo"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Eitand"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">406913</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Serpento"/>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q669339"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Animaloj"/>
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Eggtann"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</dbpedia-owl:wikiPageOutDegree>
+    <ns6:wasDerivedFrom rdf:resource="http://eo.wikipedia.org/wiki/Ovodento?oldid=5202422"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Ovodento"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Telolècit"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:Egg-tooth2.jpg"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Diente_de_huevo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ovodemeto"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">933</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dento"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Diamant_(anatomie)"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Munahammas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Nila_krokodilo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ovodento"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Punaa_flamengo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ovodento"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Amerika_blanka_ibiso">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ovodento"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Granda_fregato">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ovodento"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Megapodo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ovodento"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Ovokonko">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ovodento"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.wikipedia.org/wiki/Ovodento">
+    <foaf:primaryTopic rdf:resource="http://eo.dbpedia.org/resource/Ovodento"/>
+  </rdf:Description>
+</rdf:RDF>

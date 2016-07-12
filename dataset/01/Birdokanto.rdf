@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-eo="http://eo.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Birdokanto">
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q1126556"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Homo"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Вокалізація_птахів"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ĝardensilvio"/>
+    <prop-eo:wikiPageUsesTemplate rdf:resource="http://eo.dbpedia.org/resource/Ŝablono:LigoLeginda"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Orelo"/>
+    <owl:sameAs rdf:resource="http://is.dbpedia.org/resource/Fuglasöngur"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Vogelgesang"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51625</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Linnulaul"/>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/صوت_الطيور"/>
+    <ns6:wasDerivedFrom rdf:resource="http://eo.wikipedia.org/wiki/Birdokanto?oldid=4998134"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4998134</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kontaktkrio_(birdo)"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1126556"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Sono"/>
+    <rdfs:label xml:lang="eo">Birdokanto</rdfs:label>
+    <prop-eo:wikiPageUsesTemplate rdf:resource="http://eo.dbpedia.org/resource/Ŝablono:Portalo_Birdoj"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ino"/>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Madárdal"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Vogelzang_(ornithologie)"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Birdoj"/>
+    <owl:sameAs rdf:resource="http://wa.dbpedia.org/resource/Xhuflaedje_d'_oujhea"/>
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Fuglesang"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Viro"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ptasi_śpiew"/>
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/Fuglevokalisering"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Fågelläte"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:Birdsinging03182006.JPG"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Vocalización_de_las_aves"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Birdoj"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Vocalització_dels_ocells"/>
+    <prop-eo:wikiPageUsesTemplate rdf:resource="http://eo.dbpedia.org/resource/Ŝablono:Birdoj"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eo.wikipedia.org/wiki/Birdokanto"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Paseroformaj_birdoj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Nigraĉapa_silvio"/>
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/Vocalización_das_aves"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdo"/>
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/Oglašanje_ptic"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Вокализация_птиц"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Simfonio"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/آوای_پرندگان"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1403</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Alarmkrio_(birdo)"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Vocalização_das_aves"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Krioj_de_birdoj">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Reĝa_buteo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Licicirupo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Akvoparulio">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Birdkanto">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Aziaj_barbuloj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Afrikaj_barbuloj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Arkta_ŝterno">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Ruĝbruna_emberizo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Teritorio_(animaloj)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kanada_ansero">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Fringo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Procelarioformaj_birdoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Nana_tinamo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Sulfurflava_emberizo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Hartertulo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kantobirdo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Nigrakrona_parulio">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.wikipedia.org/wiki/Birdokanto">
+    <foaf:primaryTopic rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Birdovoĉo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Keo_(birdo)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Birkanto">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Afrika_akcipitraglo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Flankapluma_arbanaso">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Alaŭdedoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Ruĝdorsa_ruĝvostulo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Birdoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Imitado_ĉe_birdkanto">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kanto">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Tigra_lanio">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Merlo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Bombiciledoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Gustav_Mahler">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:ns4="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q1137226">
+    <rdfs:label xml:lang="ru">Гнездо птицы</rdfs:label>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">193526442</dbpedia-owl:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1137226"/>
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/Птичје_гнездо"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Ptačí_hnízdo"/>
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/Fuglereir"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Nidificação"/>
+    <rdfs:label xml:lang="ko">새의 둥지</rdfs:label>
+    <ns4:wasDerivedFrom rdf:resource="http://www.wikidata.org/wiki/Q1137226?oldid=193526442"/>
+    <owl:sameAs rdf:resource="http://commons.dbpedia.org/resource/Category:Bird_nests"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Birdonesto"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Niu_d'ocell"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Пташине_гніздо"/>
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Bird_nest"/>
+    <rdfs:label xml:lang="ca">Niu d'ocell</rdfs:label>
+    <rdfs:label xml:lang="eo">Birdonesto</rdfs:label>
+    <rdfs:label xml:lang="uk">Пташине гніздо</rdfs:label>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Linnupesa"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Гнездо_птицы"/>
+    <rdfs:label xml:lang="pt">Nidificação</rdfs:label>
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Cuib"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bird_nest"/>
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Fuglerede"/>
+    <rdfs:label xml:lang="es">Nido de aves</rdfs:label>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3413</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://te.dbpedia.org/resource/పక్షిగూడు"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/새의_둥지"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/آشیانه"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Nido_de_aves"/>
+    <rdfs:label xml:lang="en">Bird nest</rdfs:label>
+    <rdfs:label xml:lang="et">Linnupesa</rdfs:label>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q1137226"/>
+    <rdfs:seeAlso rdf:resource="https://commons.wikimedia.org/wiki/Category:Bird_nests"/>
+    <rdfs:label xml:lang="cs">Ptačí hnízdo</rdfs:label>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1084008</dbpedia-owl:wikiPageID>
+    <rdfs:label xml:lang="ro">Cuib</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dbp="http://dbpedia.org/property/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird_vocalization">
+    <rdfs:label xml:lang="ar">صوت الطيور</rdfs:label>
+    <dbo:abstract xml:lang="fr">Comme la plupart des vertébrés, les oiseaux émettent des sons vocalisés. L'être humain différencie bon nombre de ces chants ou sons et leur a donné un nom particulier, par exemple roucoulement, piaillement, cancanement. Parfois le nom vernaculaire d'un oiseau évoque ses vocalises comme pour les coucous. Le terme coq en français est issu du chant que les locuteurs francophones transcrivent en « Cocorico », alors qu'il est transcrit « Kikeriki » par les locuteurs germanophones, etc. Ces relations étymologiques sont étudiées en ethnoornithologie (en).Lorsque ces sons paraissent mélodieux à l'oreille humaine, ils sont désignés sous le terme de chants. En ornithologie, on étend le terme de chant à tous les « appels » émis en vue de communiquer. Par ailleurs les Passeriformes (notamment les Oscines), s'ils sont surnommés « oiseaux chanteurs », ne sont pas les seuls à pouvoir vocaliser.</dbo:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LanguageUnit106284225"/>
+    <rdfs:comment xml:lang="ru">Вокализация птиц — набор голосовых звуков, издаваемых птицами. В орнитологии разделяется на длинное пение и короткие голосовые сигналы, различные по функциям — пение используется преимущественно в половом поведении и для защиты территории, голосовые сигналы предназначены преимущественно для коммуникации, например призыва или сообщения об опасности.Все звуки, издаваемые птицами, являются мелодичными для человеческого уха и оказали влияние на развитие музыки.</rdfs:comment>
+    <rdfs:label xml:lang="pl">Ptasi śpiew</rdfs:label>
+    <rdfs:comment xml:lang="de">Als Vogelgesang wird im deutschen Sprachraum die akustische Kommunikation der Vögel, insbesondere der Singvögel bezeichnet. Die Lauterzeugung erfolgt bei Vögeln meist im Stimmkopf.</rdfs:comment>
+    <dbo:abstract xml:lang="nl">Vogelzang is het vermogen van vogels om te fluiten en is de bekendste vorm van diercommunicatie. Van zingen is geen sprake omdat vogels geen strottenhoofd hebben, maar de lucht laten trillen met behulp van membranen in de syrinx. Maar de term 'fluiten' is ook niet helemaal correct, aangezien mensen met hun lippen fluiten en vogels geen lippen hebben. Wel speelt de snavel zichtbaar een rol. Vrijwel iedere vogelsoort heeft een unieke zang, zodat soortgenoten elkaar kunnen herkennen. Ook bij het tellen van vogelpopulaties worden de soortspecifieke geluiden gebruikt. Er zijn twee soorten vogelgeluiden; de roep en de zang.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Vogelzang_(ornithologie)"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.xeno-canto.org/"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bl.uk/listentonature"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://askabiologist.asu.edu/activities/birds"/>
+    <dbo:abstract xml:lang="pt">As vocalizações das aves incluem tanto chamamentos como canções. Em termos leigos, as canções das aves são sons que são melodiosos para o ouvido humano. Em ornitologia, as canções das aves são geralmente distinguidas de sons mais curtos, que podem ser apelidados de chamamentos.As canções das aves estão mais desenvolvidas na ordem Passeriformes. A maioria das canções é emitida pelas aves do sexo masculino e é normalmente dada a partir de poleiros proeminentes, apesar de algumas espécies poderem cantar em pleno voo. Alguns grupos são praticamente áfonas, produzindo apenas sons percussivos e rítmicos, como as cegonhas, que fazem barulho com os bicos.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Bird_vocalization"/>
+    <dbp:filename xml:lang="en">Pixinguinha- O Urubu e o Gaviao 1930.ogg</dbp:filename>
+    <dbo:wikiPageExternalLink rdf:resource="http://pages.cthome.net/rwinkler/hollwood.htm"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animal_identification"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1126556"/>
+    <rdfs:comment xml:lang="pt">As vocalizações das aves incluem tanto chamamentos como canções. Em termos leigos, as canções das aves são sons que são melodiosos para o ouvido humano. Em ornitologia, as canções das aves são geralmente distinguidas de sons mais curtos, que podem ser apelidados de chamamentos.As canções das aves estão mais desenvolvidas na ordem Passeriformes.</rdfs:comment>
+    <dbp:title xml:lang="en">O Urubu e o Gavião</dbp:title>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Bird_vocalization?oldid=677112500"/>
+    <dbo:abstract xml:lang="en">Bird vocalization includes both bird calls and bird songs.  In non-technical use, bird songs are the bird sounds that are melodious to the human ear.  In ornithology and birding, (relatively complex) songs are distinguished by function from (relatively simple) calls.</dbo:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <dbo:soundRecording rdf:resource="http://dbpedia.org/resource/Bird_vocalization__1"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relation100031921"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bird_sounds"/>
+    <dbo:abstract xml:lang="ru">Вокализация птиц — набор голосовых звуков, издаваемых птицами. В орнитологии разделяется на длинное пение и короткие голосовые сигналы, различные по функциям — пение используется преимущественно в половом поведении и для защиты территории, голосовые сигналы предназначены преимущественно для коммуникации, например призыва или сообщения об опасности.Все звуки, издаваемые птицами, являются мелодичными для человеческого уха и оказали влияние на развитие музыки.</dbo:abstract>
+    <rdfs:comment xml:lang="fr">Comme la plupart des vertébrés, les oiseaux émettent des sons vocalisés. L'être humain différencie bon nombre de ces chants ou sons et leur a donné un nom particulier, par exemple roucoulement, piaillement, cancanement. Parfois le nom vernaculaire d'un oiseau évoque ses vocalises comme pour les coucous. Le terme coq en français est issu du chant que les locuteurs francophones transcrivent en « Cocorico », alors qu'il est transcrit « Kikeriki » par les locuteurs germanophones, etc.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SoundProperty104983122"/>
+    <dbo:abstract xml:lang="de">Als Vogelgesang wird im deutschen Sprachraum die akustische Kommunikation der Vögel, insbesondere der Singvögel bezeichnet. Die Lauterzeugung erfolgt bei Vögeln meist im Stimmkopf.</dbo:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Attribute100024264"/>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Solsort.jpg?width=300"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Neuroethology"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Vocalização_das_aves"/>
+    <rdfs:label xml:lang="es">Vocalización de las aves</rdfs:label>
+    <dbo:wikiPageExternalLink rdf:resource="http://songbirdscience.com/"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Bird_vocalization"/>
+    <rdfs:comment xml:lang="es">Las vocalizaciones de las aves se refiere a los sonidos vocales que estos animales emiten, incluyendo tanto el canto como los reclamos. A un nivel no técnico, el canto son los sonidos que emiten las aves y que son melodiosos al oído humano. En ornitología, el canto de las aves se diferencia de los sonidos cortos distintivos a menudo denominados reclamos o llamados.</rdfs:comment>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.birds.cornell.edu/brp/?lk=lpro/"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">677112500</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.birdwatching-bliss.com/bird-song.html"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.020bb7"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1126556"/>
+    <rdfs:comment xml:lang="nl">Vogelzang is het vermogen van vogels om te fluiten en is de bekendste vorm van diercommunicatie. Van zingen is geen sprake omdat vogels geen strottenhoofd hebben, maar de lucht laten trillen met behulp van membranen in de syrinx. Maar de term 'fluiten' is ook niet helemaal correct, aangezien mensen met hun lippen fluiten en vogels geen lippen hebben. Wel speelt de snavel zichtbaar een rol. Vrijwel iedere vogelsoort heeft een unieke zang, zodat soortgenoten elkaar kunnen herkennen.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bl.uk/reshelp/findhelprestype/sound/wildsounds/birdsmamm/birdsmammals.html"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">369978</dbo:wikiPageID>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cognitive_musicology"/>
+    <rdfs:label xml:lang="en">Bird vocalization</rdfs:label>
+    <dbo:wikiPageExternalLink rdf:resource="http://birdlanguage.com/"/>
+    <rdfs:label xml:lang="fr">Vocalisation des oiseaux</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Part113809207"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sound104981139"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BirdSounds"/>
+    <rdfs:comment xml:lang="pl">Ptasi śpiew – wydawanie głosu w okresie godowym przez niektóre spośród ptaków, należących do podrzędu śpiewających (Oscines).Poszczególne gatunki ptaków, w wyniku ewolucji, wykształciły w swoich zachowaniach odruch odzywania się wczesnym rankiem o charakterystycznych dla każdego z nich porach, zależnych od pory doby.</rdfs:comment>
+    <rdfs:label xml:lang="pt">Vocalização das aves</rdfs:label>
+    <rdfs:label xml:lang="ru">Вокализация птиц</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+    <rdfs:comment xml:lang="en">Bird vocalization includes both bird calls and bird songs.  In non-technical use, bird songs are the bird sounds that are melodious to the human ear.  In ornithology and birding, (relatively complex) songs are distinguished by function from (relatively simple) calls.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">تنقسم أصوات الطيور إلى فئتين أساسيَّتين، هما نداءات وأغاني الطيور. تعد أغاني الطيور عموماً الأصوات اللحنية التي تصدرها كما يسمِّيها البشر، وأما في علم الطيور فيُميَّز بين الاثنتين بكون الأغاني أصواتاً معقدة نسبياً فيما أن النداءات تميل إلى البساطة.</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Song_forms"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.thenatureexplorers.com/"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Vocalización_de_las_aves"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Word106286395"/>
+    <dbp:description xml:lang="en">The choro "O Urubu e o Gavião"  quotes several birdsongs.</dbp:description>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Vogelgesang"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.robertinventor.com/software/tunesmithy/pitch_tracer.htm"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ptasi_śpiew"/>
+    <rdfs:label xml:lang="nl">Vogelzang (ornithologie)</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SongForms"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Solsort.jpg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Property104916342"/>
+    <rdfs:label xml:lang="de">Vogelgesang</rdfs:label>
+    <dbo:abstract xml:lang="pl">Ptasi śpiew – wydawanie głosu w okresie godowym przez niektóre spośród ptaków, należących do podrzędu śpiewających (Oscines).Poszczególne gatunki ptaków, w wyniku ewolucji, wykształciły w swoich zachowaniach odruch odzywania się wczesnym rankiem o charakterystycznych dla każdego z nich porach, zależnych od pory doby. Niektóre z gatunków zaczynają jeszcze przed brzaskiem, inne, dopiero po wschodzie Słońca, ale pory te ściśle – z dokładnością do kilkunastu minut – zależą od pory brzasku.W tabeli poniżej przedstawione są godziny, w których odzywają się poszczególne gatunki typowe dla Polski przy założeniu, że brzask następuje o godz. 4:00 (tak jak w Polsce w połowie maja według czasu letniego).</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nature-mentor.com/bird-language.html"/>
+    <dbo:abstract xml:lang="es">Las vocalizaciones de las aves se refiere a los sonidos vocales que estos animales emiten, incluyendo tanto el canto como los reclamos. A un nivel no técnico, el canto son los sonidos que emiten las aves y que son melodiosos al oído humano. En ornitología, el canto de las aves se diferencia de los sonidos cortos distintivos a menudo denominados reclamos o llamados.</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.shanlung.com/shamasong2.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Form106290637"/>
+    <dbo:abstract xml:lang="ar">تنقسم أصوات الطيور إلى فئتين أساسيَّتين، هما نداءات وأغاني الطيور. تعد أغاني الطيور عموماً الأصوات اللحنية التي تصدرها كما يسمِّيها البشر، وأما في علم الطيور فيُميَّز بين الاثنتين بكون الأغاني أصواتاً معقدة نسبياً فيما أن النداءات تميل إلى البساطة.</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://macaulaylibrary.org/index.do?lk=lpro"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Musical_calls">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Song_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chirruped">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vocalization">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird_vocalizations">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chirrups">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chirrup">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird-songs">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird_vocalisations">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird_song">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird_calls">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tweet_(bird_call)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birdcalls">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Talking_bird">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chirrupy">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird-song">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird-call">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird_songs">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birdcall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chirrupers">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chirruping">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird-calls">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Call">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chirp_(bird_call)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Norton">
+    <dbo:instrument rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Bird_vocalization">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird_call">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birdsongs">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birdsong">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tweet">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chirrupingly">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fågelsång">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird_Song">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birdsong_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chirping_birds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chirrupings">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chirruper">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird_vocalisation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chirp_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Musical_call">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+  </rdf:Description>
+</rdf:RDF>

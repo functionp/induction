@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop-it="http://it.dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:provenance="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Animale_da_compagnia">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q39201"/>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Hewan_timangan"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://it.wikipedia.org/wiki/Animale_da_compagnia"/>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Interprogetto"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Heimtier"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Sällskapsdjur"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Тварини-компаньйони"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.salute.gov.it/portale/temi/p2_4.jsp?tema=animali&amp;area=cani"/>
+    <dcterms:subject rdf:resource="http://it.dbpedia.org/resource/Categoria:Animali_da_compagnia"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/애완동물"/>
+    <dbpprop-it:commons xml:lang="it">Category:Pets</dbpprop-it:commons>
+    <rdfs:comment xml:lang="it">Un animale da compagnia è un animale con il quale gli umani convivono per compagnia. Anche se in teoria qualunque animale può far compagnia agli esseri umani, in pratica la maggior parte degli animali da compagnia appartengono a un ristretto numero di specie, preferite per il loro aspetto o per il comportamento. I cani e i gatti sono certamente gli animali da compagnia più diffusi, e in generale i mammiferi, insieme agli uccelli e ai pesci, i quali, presuppongono attrezzature specifiche.</rdfs:comment>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Vedi_anche"/>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Cita_legge_italiana"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Huisdier"/>
+    <rdfs:label xml:lang="it">Animale da compagnia</rdfs:label>
+    <dbpprop-it:tipo xml:lang="it">legge</dbpprop-it:tipo>
+    <dbpprop-it:numero rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</dbpprop-it:numero>
+    <provenance:wasDerivedFrom rdf:resource="http://it.wikipedia.org/wiki/Animale_da_compagnia?oldid=68941711"/>
+    <dbpprop-it:mese rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</dbpprop-it:mese>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">108492</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Zwierzęta_domowe"/>
+    <dbpprop-it:titolo xml:lang="it">Modifiche alla disciplina del condominio negli edifici.</dbpprop-it:titolo>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.animalidacompagnia.ch/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.lav.it/cosa-facciamo/cani-e-gatti"/>
+    <dbpedia-owl:abstract xml:lang="it">Un animale da compagnia è un animale con il quale gli umani convivono per compagnia. Anche se in teoria qualunque animale può far compagnia agli esseri umani, in pratica la maggior parte degli animali da compagnia appartengono a un ristretto numero di specie, preferite per il loro aspetto o per il comportamento. I cani e i gatti sono certamente gli animali da compagnia più diffusi, e in generale i mammiferi, insieme agli uccelli e ai pesci, i quali, presuppongono attrezzature specifiche. Fanno parte degli animali da compagnia anche numerose specie di rettili (dalle più comuni tartarughe ai serpenti e alle iguane), alcuni tipi anfibi e, più raramente, anche artropodi come ragni e scorpioni.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Pet"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Konpainia-animalia"/>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Portale"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Animal_de_estimação"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+    <dbpprop-it:giorno rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dbpprop-it:giorno>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3722</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ペット"/>
+    <dbpprop-it:b xml:lang="it">en:Animal Care</dbpprop-it:b>
+    <dbpprop-it:articolo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dbpprop-it:articolo>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Animal_de_compañía"/>
+    <dbpprop-it:anno rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2012</dbpprop-it:anno>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Animali_da_compagnia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Animale_da_compagnia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org:18080/data/Animale_da_compagnia.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://it.dbpedia.org/resource/Animale_da_compagnia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Uccelli_da_compagnia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Animale_da_compagnia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.wikipedia.org/wiki/Animale_da_compagnia">
+    <foaf:primaryTopic rdf:resource="http://it.dbpedia.org/resource/Animale_da_compagnia"/>
+  </rdf:Description>
+</rdf:RDF>

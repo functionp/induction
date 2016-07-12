@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monogamous_pairing_in_animals">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monogamy_in_animals"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MatingSystems"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Monogamous_pairing_in_animals?oldid=663597711"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Monogamous_pairing_in_animals"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Monogamous_pairing_in_animals"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46776204</dbo:wikiPageID>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">663597711</dbo:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Monogamous_pairing_in_animals"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System104377057"/>
+    <rdfs:label xml:lang="en">Monogamous pairing in animals</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0dl80n"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Instrumentality103575240"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Monogamous_pairing_in_animals">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Monogamous_pairing_in_animals"/>
+  </rdf:Description>
+</rdf:RDF>

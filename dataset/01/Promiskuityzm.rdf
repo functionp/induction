@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns3="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-pl="http://pl.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Flirty_fishing">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Rodzina_(religia)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Promiskuityzm">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Szympans_karłowaty"/>
+    <dcterms:subject rdf:resource="http://pl.dbpedia.org/resource/Kategoria:Obyczajowość_seksualna"/>
+    <rdfs:label xml:lang="pl">Promiskuityzm</rdfs:label>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1365</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Erotomania"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">8</dbpedia-owl:wikiPageOutDegree>
+    <prop-pl:wikiPageUsesTemplate rdf:resource="http://pl.dbpedia.org/resource/Szablon:Dopracować"/>
+    <ns3:wasDerivedFrom rdf:resource="http://pl.wikipedia.org/wiki/Promiskuityzm?oldid=39427548"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39427548</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Kategoria:Obyczajowość_seksualna"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Kopulacja"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Kategoria:Etologia"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://pl.wikipedia.org/wiki/Promiskuityzm"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Seks"/>
+    <prop-pl:wikiPageUsesTemplate rdf:resource="http://pl.dbpedia.org/resource/Szablon:Przypisy"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Kategoria:Biologia_rozrodu"/>
+    <dcterms:subject rdf:resource="http://pl.dbpedia.org/resource/Kategoria:Etologia"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53605</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Hiperseksualność"/>
+    <dcterms:subject rdf:resource="http://pl.dbpedia.org/resource/Kategoria:Biologia_rozrodu"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Dom_na_krańcu_świata">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Naczelne">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Jane_Digby">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Gryzonie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Upiorne_urodziny">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Buszujący_w_zbożu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Uzależnienie_seksualne">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Georges_Bataille">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Nornik_śpiewający">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Determinizm_środowiskowy">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Bocian_biały">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Postacie_z_serialu_„Family_Guy”">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Promiskuizm">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Lejdis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Jęk_czarnego_węża">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Ptaki">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Zachowania_lęgowe_ptaków">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Żyć_szybko,_umierać_młodo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Shelter_(film_2007)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Chomik_europejski">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Egzogamia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Nocek_rudy">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Seks_pozamałżeński">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Paleolityczny_styl_życia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Rak_szyjki_macicy">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Pornografia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Zwyczaj_i_zbrodnia_w_społeczności_dzikich">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.wikipedia.org/wiki/Promiskuityzm">
+    <foaf:primaryTopic rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Skrypt_seksualny">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Rodzina_(socjologia)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Poliamoria">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Ewolucjonizm_(nauki_społeczne)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Straight_edge">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Poligamia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Promiscuous_(singel)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Siedem_Praw_Noego">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Promiskuityzm"/>
+  </rdf:Description>
+</rdf:RDF>

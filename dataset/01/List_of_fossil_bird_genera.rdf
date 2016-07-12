@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_fossil_bird_genera">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_by_classification"/>
+    <dbo:abstract xml:lang="ru">Данный список содержит представителей вымерших ископаемых птиц:Ископаемые: Alca — вымерли не полностью, из всех видов ныне представлены гагаркой. Archaeopteryx Archaeorhynchus Argentavis Avisaurus Bauxitornis Colymbiculus Colymboides Concornis Confuciusornis Conuropsis Copepteryx Dapingfangornis Dinornis Ectopistes Elbretornis  Enantiornis Enantiophoenix  Eoenantiornis Eostrix Exnelumbites Estrada-Ruiz et al. 2011  Gargantuavis philoinos — гигантская птица жившая на юге Франции около 70 млн лет назад. Gastornis Gavia Gradiornis Halimornis Hemiphaga Hesperornis — водоплавающая нелетающая зубастая птица Heterostrix Kurochkin and Dyke 2011 Hokkaidornis Hongshanornis — род беззубых мезозойских орнитурин, представители которого обладали зобом. Intiornis Lavocatavis Mancalla Martinavis Miomancalla Mystiornis Kurochkin et al. 2011 Neuquenornis Ornimegalonyx Osteodontornis Pelagornis Perplexicervix Phocavis Phorusrhacos Plotopterum Qiliania Ji et al. 2011  Raphus Samrukia nessovi — гигантская птица, жившая около 83 млн лет назад в Казахстане. Sapeornis — род птиц птиц раннего мелового периода, обладавшая зобом. Soroavisaurus Teratornis Titanis Tonsala Turdus Vastanavis Yanornis ZhongjianornisВымершие: Ara tricolor Alectroenas — не все виды являются вымершими Camptorhynchus Gallinula — не все виды являются вымершими Harpagornis Nestor — не все виды являются вымершими Porphyrio Raphus↑ 1,0 1,1</dbo:abstract>
+    <rdfs:label xml:lang="it">Uccelli fossili</rdfs:label>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.blackwell-synergy.com/doi/suppl/10.1111/j.1469-7580.2006.00534.x/suppl_file/JOA534_a3.xls"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ornithology_lists"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx_lithographica_-_cast_of_Humboldt_Museum_specimen.JPG"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Anexo:Aves_fósiles"/>
+    <rdfs:comment xml:lang="en">Birds are generally believed to have evolved from certain feathered theropod dinosaurs, and there is no real dividing line between birds and dinosaurs, except of course that some of the former survived the Cretaceous–Paleogene extinction event while the latter did not. For the purposes of this article, a 'bird' is considered to be any member of the clade Aves sensu lato.</rdfs:comment>
+    <dbo:abstract xml:lang="de">Die prähistorisch im späten Quartär ausgestorbenen und meist nur unvollständig fossilisierten Vogeltaxa sind unter Spätquartäre Avifauna aufgeführt.Die seit 1500 ausgestorbenen Vogeltaxa finden sich unter Liste der neuzeitlich ausgestorbenen Vögel.Es wird allgemein angenommen, dass Vögel von gefiederten Dinosauriern (Theropoden) abstammen und zwischen Vögeln und Dinosauriern auch keine eindeutige Trennung vollzogen werden kann. Einige Vogelarten aber haben im Gegensatz zu den Dinosauriern offensichtlich das große Artensterben an der Kreide-Tertiär-Grenze überlebt. Der Begriff „Vogel” wird in diesem Beitrag recht weit gefasst – er umschließt sämtliche Mitglieder der Klasse Aves. Einige Dinosauriergruppen, die möglicherweise bereits echte Vögel waren (oder auch nicht) sind unter „Proto-Vögel” zu finden.Diese Seite enthält eine Auflistung prähistorischer Vogeltaxa, die ausschließlich auf vollständig fossilisierten Funden beruht. Die angeführten Taxa starben alle bereits vor dem späten Quartär aus und es ist daher auszuschließen, dass der Mensch bei diesen Ereignissen entscheidend mit beteiligt war. Ursachen für das Aussterben dürften eher in stochastisch verteilten abiotischen Ereignissen wie z. B. Meteoriteneinschlägen, riesenhaften Vulkanausbrüchen und durch Erdbahnverlagerungen ausgelöste Klimaveränderungen zu suchen sein. Eine andere Erklärung für das Artensterben ist eventuell biologischer Natur und gründet auf evolutionären Verschiebungen, die von nachrückenden oder wetteifernden Taxa initiiert wurden – auffallend ist in diesem Zusammenhang das enorm hohe Artensterben bei den Seevögeln während des mittleren Tertiärs, das sich zumindest teilweise mit der gleichzeitigen stattfindenden Ausbreitung der konkurrierenden Meeressäuger erklären lässt.Eine genaue taxonomische Stellung ist meist sehr schwer feststellbar, da viele Taxa oft nur bruchstückhaft erhalten sind und außerdem eine vollständige Fossilisierung, die eine aufklärende DNA-, RNA- oder Proteinsequenzanalyse vereitelt, erfahren haben. Die in diesem Beitrag vorkommenden Taxa sollten als „fossil” und damit als ausgestorben betrachtet werden.</dbo:abstract>
+    <rdfs:comment xml:lang="it">Di seguito è riportata una lista di uccelli estintisi fra il Cretaceo e l'Olocene (alla fine del Terziario): per gli uccelli estintisi nell'era successiva, vedere Uccelli estinti del tardo Quaternario, mentre per vedere gli uccelli estintisi nellera moderna, consultare la voce Uccelli estinti.Si tratta di specie in cui l’interferenza umana ha avuto un peso insignificante nell’ambito dell’estinzione: piuttosto gli uccelli elencati in seguito si estinsero a causa della competizione con altre specie di più recente evoluzione o dei cambiamenti climatici ai quali non riuscirono a far fronte con rapidità sufficiente.Le voci della lista vengono elencate in ordine decrescente d’importanza ed in base alle relazioni fra i vari ‘’taxa’’: vengono riportati anche antichi uccelli tradizionalmente associati ai dinosauri, e a questo proposito si ricorda che in base alle recenti analisi del DNA e con l’introduzione della cladistica nella tassonomia, gli uccelli sarebbero teoricamente un clade dei dinosauri.</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Taxonomic_lists_(genera,_taxonomic)"/>
+    <rdfs:comment xml:lang="de">Die prähistorisch im späten Quartär ausgestorbenen und meist nur unvollständig fossilisierten Vogeltaxa sind unter Spätquartäre Avifauna aufgeführt.Die seit 1500 ausgestorbenen Vogeltaxa finden sich unter Liste der neuzeitlich ausgestorbenen Vögel.Es wird allgemein angenommen, dass Vögel von gefiederten Dinosauriern (Theropoden) abstammen und zwischen Vögeln und Dinosauriern auch keine eindeutige Trennung vollzogen werden kann.</rdfs:comment>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/List_of_fossil_bird_genera?oldid=679401745"/>
+    <dbo:abstract xml:lang="en">Birds are generally believed to have evolved from certain feathered theropod dinosaurs, and there is no real dividing line between birds and dinosaurs, except of course that some of the former survived the Cretaceous–Paleogene extinction event while the latter did not. For the purposes of this article, a 'bird' is considered to be any member of the clade Aves sensu lato. Some dinosaur groups which may or may not be true birds are listed below under 'Proto-birds'.This page contains a listing of prehistoric bird taxa only known from completely fossilized specimens. These extinctions took place before the Late Quaternary and thus took place in the absence of significant human interference. While the earliest hominids had been eating birds and especially their eggs, human population and technology was simply insufficient to seriously affect healthy bird populations until the Upper Paleolithic Revolution. Rather, reasons for the extinctions listed here are stochastic abiotic events such as bolide impacts, climate change due to orbital shifts, mass volcanic eruptions etc. Alternatively, species may have gone extinct due to evolutionary displacement by successor or competitor taxa – it is notable that an extremely large number of seabirds have gone extinct during the mid-Tertiary; this seems at least partly due to competition by the contemporary radiation of marine mammals.The relationships of these taxa are often hard to determine, as many are known only from very fragmentary remains and due to the complete fossilization precluding analysis of information from DNA, RNA or protein sequencing. The taxa listed in this article should be classified with the Wikipedia conservation status category "Fossil".Before the late 19th century, when minerals were still considered one of the kingdoms of binomial nomenclature, fossils were often treated according to a parallel taxonomy. Rather than assigning them to animal or plant genera, they were treated as mineral genera and given binomial names typically using Osteornis ("bone-bird") or Ornitholithus ("bird fossil") as "genus". The latter name, however, is still in use for an oogenus of fossil bird eggs. Also, other animals (in particular pterosaurs) were placed in these "genera". In sources pre-dating the Linnean system, the above terms are also seen in the more extensive descriptions used to name taxa back then.</dbo:abstract>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx_lithographica_-_cast_of_Humboldt_Museum_specimen.JPG?width=300"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Uccelli_fossili"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.taxonsearch.org/dev/file_home.php"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://si-pddr.si.edu/dspace/bitstream/10088/6553/1/VZ_167_Fossil_Record_of_Birds.pdf"/>
+    <rdfs:comment xml:lang="ru">Данный список содержит представителей вымерших ископаемых птиц:Ископаемые: Alca — вымерли не полностью, из всех видов ныне представлены гагаркой. Archaeopteryx Archaeorhynchus Argentavis Avisaurus Bauxitornis Colymbiculus Colymboides Concornis Confuciusornis Conuropsis Copepteryx Dapingfangornis Dinornis Ectopistes Elbretornis  Enantiornis Enantiophoenix  Eoenantiornis Eostrix Exnelumbites Estrada-Ruiz et al.</rdfs:comment>
+    <dbo:abstract xml:lang="pt">Para uma lista de aves subfósseis do final do Quaternário, veja Lista de Aves Subfósseis. Para aves que se extinguiram desde o ano de 1500 d.C., veja Lista de Aves Extintas.</dbo:abstract>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/List_of_fossil_bird_genera"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.blackwell-synergy.com/doi/pdf/10.1111/j.1469-7580.2006.00534.x"/>
+    <dbo:abstract xml:lang="it">Di seguito è riportata una lista di uccelli estintisi fra il Cretaceo e l'Olocene (alla fine del Terziario): per gli uccelli estintisi nell'era successiva, vedere Uccelli estinti del tardo Quaternario, mentre per vedere gli uccelli estintisi nellera moderna, consultare la voce Uccelli estinti.Si tratta di specie in cui l’interferenza umana ha avuto un peso insignificante nell’ambito dell’estinzione: piuttosto gli uccelli elencati in seguito si estinsero a causa della competizione con altre specie di più recente evoluzione o dei cambiamenti climatici ai quali non riuscirono a far fronte con rapidità sufficiente.Le voci della lista vengono elencate in ordine decrescente d’importanza ed in base alle relazioni fra i vari ‘’taxa’’: vengono riportati anche antichi uccelli tradizionalmente associati ai dinosauri, e a questo proposito si ricorda che in base alle recenti analisi del DNA e con l’introduzione della cladistica nella tassonomia, gli uccelli sarebbero teoricamente un clade dei dinosauri.</dbo:abstract>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prehistoric_birds"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Lista_de_aves_fósseis"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">679401745</dbo:wikiPageRevisionID>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4383850</dbo:wikiPageID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.dinosauria.com/dml/names/aves.htm"/>
+    <rdfs:comment xml:lang="pt">Para uma lista de aves subfósseis do final do Quaternário, veja Lista de Aves Subfósseis. Para aves que se extinguiram desde o ano de 1500 d.C., veja Lista de Aves Extintas.</rdfs:comment>
+    <dbo:wikiPageExternalLink rdf:resource="http://archosaur.us/theropoddatabase/Phylogeny%20of%20Taxa.html"/>
+    <rdfs:label xml:lang="ru">Список вымерших ископаемых птиц</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1812008"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1812008"/>
+    <rdfs:label xml:lang="de">Liste ausgestorbener Vögel</rdfs:label>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lists_of_prehistoric_birds"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/List_of_fossil_bird_genera"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Liste_ausgestorbener_Vögel"/>
+    <rdfs:label xml:lang="pt">Lista de aves fósseis</rdfs:label>
+    <rdfs:label xml:lang="en">List of fossil bird genera</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_fossil_bird_genera"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Proto-birds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/List_of_fossil_bird_genera"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fossil_birds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/List_of_fossil_bird_genera"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_fossil_birds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/List_of_fossil_bird_genera"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Avialae">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_fossil_bird_genera"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osteornis">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/List_of_fossil_bird_genera"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/List_of_fossil_bird_genera">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/List_of_fossil_bird_genera"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fossil_Birds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/List_of_fossil_bird_genera"/>
+  </rdf:Description>
+</rdf:RDF>

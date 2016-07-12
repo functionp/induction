@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dbp="http://dbpedia.org/property/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyto">
+    <dbo:abstract xml:lang="en">The genus Tyto includes all barn owls (family Tytonidae) except for the bay owls (subfamily Phodilinae, genus  Phodilus) - that is, the true barn owls, the grass owls and the masked owls collectively making up the subfamily Tytoninae. They are darker on the back than the front, usually an orange-brown colour, the front being a paler version of the back or mottled, although there is considerable variation even amongst species. Tyto owls have a divided, heart-shaped facial disc, and lack the ear-like tufts of feathers found in many other owls. Tyto owls tend to be larger than Bay-owls. The name tyto (τυτώ) is onomatopeic Greek for owl.Throughout their evolutionary history, Tyto owls have shown a better capability to colonize islands than other owls. Several such island forms have become extinct, some long ago, but some in comparatively recent times. A number of insular barn-owls from the Mediterranean and the Caribbean were very large or truly gigantic species.</dbo:abstract>
+    <rdfs:label xml:lang="nl">Tyto</rdfs:label>
+    <dbo:abstract xml:lang="fr">TytoLes effraies sont des chouettes à grosse tête et au disque facial en forme de cœur. Leurs pattes sont longues et munies de doigts puissants, habituellement avec des serres bien développées. Le plumage est généralement brun fauve et crème ou blanc, tacheté, moucheté ou barré.Les effraies appartiennent au genre Tyto, qui à lui seul constitue la sous-famille des Tytoninae, l'une des deux sous-familles des tytonidés.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Tyto Billberg, 1828 è un genere di uccelli della famiglia Tytonidae, comunemente noti come barbagianni.</dbo:abstract>
+    <rdfs:comment xml:lang="es">Tyto es un género de aves estrigiformes de la familia Tytonidae. El género agrupa alrededor de 13 a 15 especies distribuidas en casi todo el mundo. El número exacto de especies incluidas es algo en discusión. Al igual que todos los titónidos, los miembros del género son aves de presa nocturnas de tamaño mediano-grande y tienen una cabeza relativamente grande con la cara en forma de corazón. Sus patas son largas y equipadas de fuertes garras bien desarrolladas.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tyto"/>
+    <rdfs:label xml:lang="pl">Płomykówki</rdfs:label>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/Barn-owl"/>
+    <dbp:fossilRange rdf:resource="http://dbpedia.org/resource/Late_Miocene"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <dbp:synonyms xml:lang="en">Strix (sensu  auct. non Linnaeus, 1758 - preoccupied)</dbp:synonyms>
+    <dbo:synonym>Strix (sensu  auct. non Linnaeus, 1758 -preoccupied)</dbo:synonym>
+    <rdfs:comment xml:lang="nl">Tyto is een geslacht van uilen binnen de familie kerkuilen (Tytonidae), met als bekende soort de 'gewone' kerkuil. Het geslacht telt 16 soorten.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Tyto"/>
+    <dbp:imageCaption xml:lang="en">African grass owl, Tyto capensis</dbp:imageCaption>
+    <rdfs:label xml:lang="zh">草鸮属</rdfs:label>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Bird"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Schleiereulen_(Gattung)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+    <rdfs:comment xml:lang="pl">Płomykówki (Tytoninae) – monotypowa podrodzina ptaków z rodziny płomykówkowatych (Tytonidae).</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Schleiereulen (Tyto) sind eine artenreiche Gattung innerhalb der Familie der Schleiereulen. Die Gattung ist nahezu weltweit verbreitet.</rdfs:comment>
+    <dbp:subdivisionRanks rdf:resource="http://dbpedia.org/resource/Species"/>
+    <rdfs:label xml:lang="fr">Effraie</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Idea105833840"/>
+    <dbo:kingdom rdf:resource="http://dbpedia.org/resource/Animal"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Bird"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.08m247"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/EukaryoticCell"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Genus105845013"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Content105809192"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q375716"/>
+    <dbp:subdivision xml:lang="en">About 20, see text</dbp:subdivision>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Category105838765"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Concept105835747"/>
+    <rdfs:label xml:lang="ru">Сипухи</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q375716"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Cognition100023271"/>
+    <rdfs:comment xml:lang="pt">Tyto é um gênero de corujas da família Tytonidae. São corujas cosmopolitas, mais difundidas nas regiões quentes.</rdfs:comment>
+    <dbp:genusAuthority xml:lang="en">Billberg, 1828</dbp:genusAuthority>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Tyto"/>
+    <dbo:abstract xml:lang="nl">Tyto is een geslacht van uilen binnen de familie kerkuilen (Tytonidae), met als bekende soort de 'gewone' kerkuil. Het geslacht telt 16 soorten.</dbo:abstract>
+    <dbp:regnum xml:lang="en">Animalia</dbp:regnum>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/BiologicalLivingObject"/>
+    <dbp:classis rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <rdfs:label xml:lang="pt">Tyto</rdfs:label>
+    <dbp:fossilRange rdf:resource="http://dbpedia.org/resource/Holocene"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nm.cz/download/JML-18-2002-CBE.pdf"/>
+    <rdfs:comment xml:lang="it">Tyto Billberg, 1828 è un genere di uccelli della famiglia Tytonidae, comunemente noti come barbagianni.</rdfs:comment>
+    <dbp:ordo rdf:resource="http://dbpedia.org/resource/Owl"/>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Grass_Owl_adult.jpg?width=300"/>
+    <dbp:genus xml:lang="en">Tyto</dbp:genus>
+    <rdfs:comment xml:lang="en">The genus Tyto includes all barn owls (family Tytonidae) except for the bay owls (subfamily Phodilinae, genus  Phodilus) - that is, the true barn owls, the grass owls and the masked owls collectively making up the subfamily Tytoninae. They are darker on the back than the front, usually an orange-brown colour, the front being a paler version of the back or mottled, although there is considerable variation even amongst species.</rdfs:comment>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Grass_Owl_adult.jpg"/>
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <rdfs:label xml:lang="en">Tyto</rdfs:label>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Tyto"/>
+    <dbo:abstract xml:lang="de">Die Schleiereulen (Tyto) sind eine artenreiche Gattung innerhalb der Familie der Schleiereulen. Die Gattung ist nahezu weltweit verbreitet.</dbo:abstract>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/Barn-owl"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbo:order rdf:resource="http://dbpedia.org/resource/Owl"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Tyto?oldid=677231715"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q729"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Kind105839024"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+    <foaf:name xml:lang="en">Tyto</foaf:name>
+    <dbo:abstract xml:lang="pt">Tyto é um gênero de corujas da família Tytonidae. São corujas cosmopolitas, mais difundidas nas regiões quentes.</dbo:abstract>
+    <dbp:name xml:lang="en">Tyto</dbp:name>
+    <rdfs:comment xml:lang="ru">Сипухи (лат. Tyto) — один из двух родов хищных птиц семейства сипуховых. Верхняя часть тела более тёмная, чем нижняя, обычно рыже-бурых тонов. Нижняя часть туловища обычно с тёмными крапинками, однако их рисунок может значительно различаться у отдельных видов. Лицевой диск в форме сердца, и в отличие от близких им масковых сипух (Phodilus) и многих других видов сов, перья в виде ушей у них отсутствуют. Как правило, настоящие сипухи более крупные, чем масковые.</rdfs:comment>
+    <dbp:subfamilia xml:lang="en">Tytoninae</dbp:subfamilia>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Tyto"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tyto"/>
+    <rdfs:comment xml:lang="fr">TytoLes effraies sont des chouettes à grosse tête et au disque facial en forme de cœur. Leurs pattes sont longues et munies de doigts puissants, habituellement avec des serres bien développées. Le plumage est généralement brun fauve et crème ou blanc, tacheté, moucheté ou barré.Les effraies appartiennent au genre Tyto, qui à lui seul constitue la sous-famille des Tytoninae, l'une des deux sous-familles des tytonidés.</rdfs:comment>
+    <dbp:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Tyto"/>
+    <dbo:synonym>Lechusa (Miller, 1956)</dbo:synonym>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Animal"/>
+    <rdfs:label xml:lang="it">Tyto</rdfs:label>
+    <dbo:abstract xml:lang="ru">Сипухи (лат. Tyto) — один из двух родов хищных птиц семейства сипуховых. Верхняя часть тела более тёмная, чем нижняя, обычно рыже-бурых тонов. Нижняя часть туловища обычно с тёмными крапинками, однако их рисунок может значительно различаться у отдельных видов. Лицевой диск в форме сердца, и в отличие от близких им масковых сипух (Phodilus) и многих других видов сов, перья в виде ушей у них отсутствуют. Как правило, настоящие сипухи более крупные, чем масковые. Известны с миоцена, в плиоцене и плейстоцене получили своё развитие. Ранние формы сипух были крупнее, а некоторые островные виды имели гигантские по сравнению с нынешними размеры. Наибольшее биоразнообразие видов наблюдается в Австралии. Реликтовые виды сохранились в Африке, на Мадагаскаре и в Юго-Восточной Азии.</dbo:abstract>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3034219</dbo:wikiPageID>
+    <rdfs:label xml:lang="es">Tyto</rdfs:label>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">677231715</dbo:wikiPageRevisionID>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeneraOfBirds"/>
+    <dbp:imageCaption xml:lang="en">The "grass owls" are two rather long-legged species of Tyto.</dbp:imageCaption>
+    <dbo:abstract xml:lang="pl">Płomykówki (Tytoninae) – monotypowa podrodzina ptaków z rodziny płomykówkowatych (Tytonidae).</dbo:abstract>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Effraie"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Tyto"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bird_genera"/>
+    <dbo:abstract xml:lang="es">Tyto es un género de aves estrigiformes de la familia Tytonidae. El género agrupa alrededor de 13 a 15 especies distribuidas en casi todo el mundo. El número exacto de especies incluidas es algo en discusión. Al igual que todos los titónidos, los miembros del género son aves de presa nocturnas de tamaño mediano-grande y tienen una cabeza relativamente grande con la cara en forma de corazón. Sus patas son largas y equipadas de fuertes garras bien desarrolladas. El plumaje es generalmente de color marrón, beige y crema o blanco, con manchas o rayas. El nombre genérico tyto viene del griego onomatopéyico (τυτο) para búho.</dbo:abstract>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Owls"/>
+    <rdfs:label xml:lang="de">Schleiereulen (Gattung)</rdfs:label>
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <dbp:synonyms xml:lang="en">Lechusa (Miller, 1956)</dbp:synonyms>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Płomykówki"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minahassa_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barn_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seram_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyto_pollens">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taliabu_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tasmanian_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andaman_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eastern_grass_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyto_robusta">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greater_sooty_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Australian_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moluccan_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Caledonian_barn_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manus_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tytoninae">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lesser_sooty_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Puerto_Rican_barn_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyto_gigantea">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/African_grass_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Golden_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Tyto">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashy-faced_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sulawesi_masked_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Tyto"/>
+  </rdf:Description>
+</rdf:RDF>

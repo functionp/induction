@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dbp="http://dbpedia.org/property/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pet">
+    <rdfs:label xml:lang="ar">حيوان منزلي</rdfs:label>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Pet?oldid=683449223"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q39201"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hsus.org/web-files/PDF/hsp/soa_ii_chap02.pdf"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Animal_de_estimação"/>
+    <dbo:abstract xml:lang="ar">الحيوان المنزلي (بالإنجليزية: Pet) هو الحيوان الذي يتم تربيته بالمنازل أو البيوت. ويقوم الناس بتربية هذه الحيوانات لعدة أسباب كجمال الشكل أو جمال الألوان أو للحراسة.ومن هذه الحيوانات القطط، الكلاب، خنازير غينيا، الفئران، طيور الزينة، أسماك الزينة، السلاحف وبعض الحيوانات المائية كالسلحفاة المائية ونجم البحر.لبعض الناس أسلوب خاص في أنواع هذه الحيوانات إذ انهم يختارون أنواعًا غريبة من الحيوانات التي يصعب وجودها بالمنزل كالثعابين والعقارب.وتتطلب تربية الحيوان المنزلي المسؤولية في اختياره والعناية به صحيا ونفسياً32x28pxبوابة كلبيات</dbo:abstract>
+    <rdfs:comment xml:lang="es">Un animal de compañía o mascota es un animal domesticado que se conserva con el propósito de brindar compañía o para  disfrute del poseedor.</rdfs:comment>
+    <dbo:abstract xml:lang="fr">Un animal de compagnie est un animal recevant la protection de l'Homme en échange de sa présence, sa beauté, sa jovialité ou encore pour ses talents (oiseaux chanteurs, parleurs…). En raison de leur très longue présence au côté de l'Homme, ces animaux familiers ont souvent fait l'objet d'une domestication à la suite de leur apprivoisement. Ils se distinguent toutefois de l'animal domestique vivant simplement dans la voisinage de la maison, simple commensale de l'homme comme le chien de travail, et par opposition aux dits « animaux de production » telles les vaches (lait) ou les poules (œufs). Dans les pays occidentaux, les principaux animaux de compagnie sont le chat et le chien qui, avec le furet, sont des animaux classés comme « carnivores domestiques » et donc soumis à une législation particulière.Depuis les années 1980, on désigne sous le terme « nouveaux animaux de compagnie » (NAC), des espèces qui sont entrées après les années 1970 dans le cercle des animaux de compagnie. Certains de ces animaux, comme le furet ou le lapin, étaient domestiqués depuis longtemps, mais destinés à un autre usage. D'autres sont des animaux exotiques, légalement considérés comme animaux domestiques uniquement dans leur pays d'origine, tandis qu'ailleurs ce sont des individus sauvages qu'il est possible de garder en captivité sous certaines conditions. Depuis le début des années 2000, des animaux de compagnie génétiquement modifiés comme le GloFish font également leur apparition.La réglementation diffère d'un pays à l'autre, notamment pour les conditions d'acquisition, de détention, d'importation et d'exportation.</dbo:abstract>
+    <rdfs:comment xml:lang="ar">الحيوان المنزلي (بالإنجليزية: Pet) هو الحيوان الذي يتم تربيته بالمنازل أو البيوت.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbo:abstract xml:lang="pt">Um animal de estimação (ou mascote) é um animal doméstico selecionado para o convívio com os seres humanos por questões de companheirismo ou divertimento, o que não significa que essa seja a única função dessas espécies na nossa sociedade. O cão, por exemplo, é muito usado não só como animal de companhia, mas também na caça, na guarda domiciliar etc.</dbo:abstract>
+    <rdfs:label xml:lang="nl">Huisdier</rdfs:label>
+    <dbo:abstract xml:lang="pl">Zwierzęta domowe – zwierzęta trzymane przez człowieka w domu dla osobistej przyjemności lub dla towarzystwa, w odróżnieniu od zwierząt chowanych lub hodowanych z innych powodów (zwierzęta hodowlane, gospodarskie i użytkowe).</dbo:abstract>
+    <rdfs:comment xml:lang="de">Heimtiere sind Tiere, die vom Menschen aus verschiedenen Motiven meist in der Wohnung oder in sonstigem engen Kontakt mit ihm gehalten werden. Motive für die Haltung von Heimtieren können sein: Freude am Tier, Zierde, Interesse an Verhaltensweisen oder Züchtung der Tiere, Ersatz für Sozialpartner oder Spielgefährte für Kinder.Als Heimtiere kommen fast alle in Größe und Verhaltensweisen zur Haltung in der Wohnung geeigneten Arten in Frage.</rdfs:comment>
+    <rdfs:label xml:lang="pl">Zwierzęta domowe</rdfs:label>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Konpainia-animalia"/>
+    <rdfs:label xml:lang="en">Pet</rdfs:label>
+    <rdfs:comment xml:lang="it">Un animale da compagnia è un animale con il quale gli umani convivono per compagnia. Anche se in teoria qualunque animale può far compagnia agli esseri umani, in pratica la maggior parte degli animali da compagnia appartengono a un ristretto numero di specie, preferite per il loro aspetto o per il comportamento.</rdfs:comment>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Trillium_Poncho_cat_dog.jpg"/>
+    <rdfs:comment xml:lang="en">A pet or companion animal is an animal kept primarily for a person's company or protection, as opposed to working animals, sport animals, livestock, and laboratory animals, which are kept primarily for performance, agricultural value, or research. The most popular pets are noted for their attractive appearances and their loyal or playful personalities.Pets commonly provide their owners (or guardians) physical and emotional benefits.</rdfs:comment>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">683449223</dbo:wikiPageRevisionID>
+    <rdfs:comment xml:lang="ja">ペット（英語：Pet）とは、一般的には愛玩を目的として飼育される動物のこと。愛玩動物（あいがんどうぶつ）、伴侶動物(コンパニオンアニマル)とも呼ばれる。</rdfs:comment>
+    <rdfs:label xml:lang="pt">Animal de estimação</rdfs:label>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+    <rdfs:comment xml:lang="nl">Een huisdier is een gedomesticeerd dier dat in of om het huis woont en leeft en door de mens wordt gevoed en verzorgd.Te onderscheiden zijn: Landbouwhuisdieren, die gedomesticeerd werden om hun nut en de productie van goederen en diensten. Hiertoe behoren koeien, schapen, geiten, varkens, eenden, kippen, ganzen en eventueel paarden. Gezelschapsdieren, zoals honden, katten, duiven, (sier-)kippen, konijnen en cavia's.</rdfs:comment>
+    <dbo:abstract xml:lang="ja">ペット（英語：Pet）とは、一般的には愛玩を目的として飼育される動物のこと。愛玩動物（あいがんどうぶつ）、伴侶動物(コンパニオンアニマル)とも呼ばれる。</dbo:abstract>
+    <rdfs:comment xml:lang="pl">Zwierzęta domowe – zwierzęta trzymane przez człowieka w domu dla osobistej przyjemności lub dla towarzystwa, w odróżnieniu od zwierząt chowanych lub hodowanych z innych powodów (zwierzęta hodowlane, gospodarskie i użytkowe).</rdfs:comment>
+    <rdfs:label xml:lang="it">Animale da compagnia</rdfs:label>
+    <dbo:abstract xml:lang="es">Un animal de compañía o mascota es un animal domesticado que se conserva con el propósito de brindar compañía o para  disfrute del poseedor. A diferencia de los animales de laboratorio, animales para la crianza o ganado, animales para el transporte o animales para el deporte, los animales de compañía no son conservados para traer beneficios económicos o alimenticios, aunque sí un beneficio personal.Los animales de compañía son seleccionados por su comportamiento y adaptabilidad, y por su interacción con los humanos, en la que posiblemente se utilicen como herramientas de caza o seguridad. Poseer un animal de compañía puede traer a la salud consecuencias positivas, ya que el cuidado diario hace olvidar a muchas personas otro tipo de preocupaciones, evita la depresión y nos hace sentir útiles. Los animales de compañía más populares son el perro y el gato.El animal de compañía también se caracteriza por ser amigable. Se puede decir que la mayoría de estos animales se convierten en domésticos si la persona con la que conviven les enseña buenos modales en la convivencia diaria, no olvidando su naturaleza animal.Un animal de compañía se adapta al ambiente de un ser humano sin importar su naturaleza: se adhiere a un grupo, familia o sociedad, la cual le dota de todo lo necesario para su desarrollo.En adaptabilidad y comportamiento, se dice que los perros como animales de compañía, superan a la mayoría. Su adaptabilidad ha ayudado al hombre en diversos ámbitos sociales, culturales y recreativos, como en su uso terapéutico en hospitales, como guías de personas ciegas, como apoyo policial, y en complicados rescates de personas.La compañía de cualquier mascota evoca siempre ternura, compañía y amistad, cualidades que se intensifican cuando la soledad busca filtrarse en la vida de las personas; es en estos momentos cuando la mascota adquiere un papel más importante, al sentirlo parte de la familia y aun más, como un amigo.La mayoría de las personas muestran una actitud positiva a través de su relación con una mascota o animal de compañía, sobre todo aquellos que sufren problemas de tipo psicológico o físico.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Heimtiere sind Tiere, die vom Menschen aus verschiedenen Motiven meist in der Wohnung oder in sonstigem engen Kontakt mit ihm gehalten werden. Motive für die Haltung von Heimtieren können sein: Freude am Tier, Zierde, Interesse an Verhaltensweisen oder Züchtung der Tiere, Ersatz für Sozialpartner oder Spielgefährte für Kinder.Als Heimtiere kommen fast alle in Größe und Verhaltensweisen zur Haltung in der Wohnung geeigneten Arten in Frage. Bei geeigneter Unterbringung in Terrarien können auch durchaus gefährliche Tiere dazu zählen: Skorpione, Giftspinnen, Giftschlangen, Riesenschlangen.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ペット"/>
+    <rdfs:label xml:lang="ru">Животные-компаньоны</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Pet"/>
+    <rdfs:label xml:lang="ja">ペット</rdfs:label>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Human–animal_interaction"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q39201"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Animale_da_compagnia"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25079</dbo:wikiPageID>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Heimtier"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Zwierzęta_domowe"/>
+    <dbo:abstract xml:lang="nl">Een huisdier is een gedomesticeerd dier dat in of om het huis woont en leeft en door de mens wordt gevoed en verzorgd.Te onderscheiden zijn: Landbouwhuisdieren, die gedomesticeerd werden om hun nut en de productie van goederen en diensten. Hiertoe behoren koeien, schapen, geiten, varkens, eenden, kippen, ganzen en eventueel paarden. Gezelschapsdieren, zoals honden, katten, duiven, (sier-)kippen, konijnen en cavia's. Oorspronkelijk werden huisdieren voornamelijk gehouden om hun nut, bijvoorbeeld als waakhond, of een kat tegen de muizen. Tegenwoordig worden dieren vaak uitsluitend als gezelschapsdier gehouden of om wedstrijdsport mee te bedrijven. Het eerste dier dat door de mens gedomesticeerd werd was de hond. De kat is al sinds het Oude Egypte bekend als huisdier.In Nederland werden in 2009 ongeveer 2,1 miljoen honden en 3,6 miljoen katten gehouden. In België had in 2006 48% van de gezinnen een huisdier. In Wallonië hebben gemiddeld meer gezinnen een huisdier dan in Brussel en in Vlaanderen.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Huisdier"/>
+    <dbo:abstract xml:lang="en">A pet or companion animal is an animal kept primarily for a person's company or protection, as opposed to working animals, sport animals, livestock, and laboratory animals, which are kept primarily for performance, agricultural value, or research. The most popular pets are noted for their attractive appearances and their loyal or playful personalities.Pets commonly provide their owners (or guardians) physical and emotional benefits. Walking a dog can supply both the human and pet with exercise, fresh air, and social interaction. Pets can give companionship to elderly adults who do not have adequate social interaction with other people. There is a medically approved class of therapy animals, mostly dogs or cats, that are brought to visit confined humans. Pet therapy utilizes trained animals and handlers to achieve specific physical, social, cognitive, and emotional goals with patients.The most popular pets are likely dogs and cats, but people also keep house rabbits, ferrets; rodents such as gerbils, hamsters, chinchillas, fancy rats, and guinea pigs; avian pets, such as canaries, parakeets, and parrots; reptile pets, such as turtles, lizards and snakes; aquatic pets, such as tropical fish and frogs; and arthropod pets, such as tarantulas and hermit crabs.Some scholars and animal rights organizations have raised concern over pet-keeping with regards to the autonomy and objectification of nonhuman animals.</dbo:abstract>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Pet"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pets"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hsus.org/press_and_publications/humane_bookshelf/the_state_of_the_animals_ii_2003.html"/>
+    <rdfs:label xml:lang="es">Animal de compañía</rdfs:label>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/애완동물"/>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Hewan_timangan"/>
+    <rdfs:label xml:lang="de">Heimtier</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Trillium_Poncho_cat_dog.jpg?width=300"/>
+    <rdfs:comment xml:lang="fr">Un animal de compagnie est un animal recevant la protection de l'Homme en échange de sa présence, sa beauté, sa jovialité ou encore pour ses talents (oiseaux chanteurs, parleurs…). En raison de leur très longue présence au côté de l'Homme, ces animaux familiers ont souvent fait l'objet d'une domestication à la suite de leur apprivoisement.</rdfs:comment>
+    <rdfs:label xml:lang="fr">Animal de compagnie</rdfs:label>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.068hy"/>
+    <dbo:abstract xml:lang="ru">Живо́тные-компаньоны (иначе дома́шние пито́мцы или дома́шние люби́мцы) — термин, используемый для обозначения домашних животных, которых человек содержит у себя в доме для общения и получения положительных эмоций. Такие домашние животные противопоставляются, таким образом, сельскохозяйственным животным, которых содержат для получения мясо-молочной продукции, шерсти и т. д. и как рабочий скот.Традиционными и наиболее распространенными животными-компаньонами являются кошки и собаки. Реже в качестве животных-компаньонов встречаются птицы (в основном попугаи, канарейки и домашние голуби), грызуны (морские свинки, декоративные крысы, хомяки, шиншиллы), домашние кролики, рыбы. Ещё реже животными компаньонами выступают обезьяны, свиньи (карликовые и вьетнамские вислобрюхие свиньи), лисы (два вида — одомашненная чёрно-бурая лисица и лисица фенек), куньи (фретки), рептилии (черепахи, реже змеи, ящерицы, крокодилы) или членистоногие (например, паук-птицеед, мадагаскарский шипящий таракан).В определенной степени животными-компаньонами можно также признать и рабочий скот: лошадь, осла, верблюда, слона (в Индии), северного оленя (у народов крайнего севера), а также ламу (в Южной Америке). Во многих сказках и былинах фигурируют кони — нередко волшебные — способные общаться с седоком на человеческом языке и наделенные не меньшим интеллектом, то есть практически являющиеся полноценными компаньонами для всадников, а не просто живым транспортом. Лошадей (от обычных до карликовых), а также пони в последнее время многие также стали содержать именно в качестве животных-компаньонов (в современном понимании этого термина). Традиция же содержания слонов в этом качестве (например в качестве культовых животных) в Индии довольно древняя.Наиболее популярные домашние питомцы отличаются своим толерантным отношением к человеку и игривым характером, имеют привлекательный внешний вид или красиво поют.</dbo:abstract>
+    <rdfs:comment xml:lang="ru">Живо́тные-компаньоны (иначе дома́шние пито́мцы или дома́шние люби́мцы) — термин, используемый для обозначения домашних животных, которых человек содержит у себя в доме для общения и получения положительных эмоций. Такие домашние животные противопоставляются, таким образом, сельскохозяйственным животным, которых содержат для получения мясо-молочной продукции, шерсти и т. д. и как рабочий скот.Традиционными и наиболее распространенными животными-компаньонами являются кошки и собаки.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Animal_de_compañía"/>
+    <rdfs:comment xml:lang="pt">Um animal de estimação (ou mascote) é um animal doméstico selecionado para o convívio com os seres humanos por questões de companheirismo ou divertimento, o que não significa que essa seja a única função dessas espécies na nossa sociedade. O cão, por exemplo, é muito usado não só como animal de companhia, mas também na caça, na guarda domiciliar etc.</rdfs:comment>
+    <rdfs:label xml:lang="zh">宠物</rdfs:label>
+    <dbo:abstract xml:lang="it">Un animale da compagnia è un animale con il quale gli umani convivono per compagnia. Anche se in teoria qualunque animale può far compagnia agli esseri umani, in pratica la maggior parte degli animali da compagnia appartengono a un ristretto numero di specie, preferite per il loro aspetto o per il comportamento. Si contrappongono idealmente agli animali da reddito, raggruppamento che comprende tutti quelli che, a partire dai primordiali utilizzi nella pastorizia, hanno un'utilità di tipo produttivo (carne, latte, lana, eccetera).I cani e i gatti sono certamente gli animali da compagnia più diffusi, e in generale i mammiferi, insieme agli uccelli e ai pesci, i quali, presuppongono attrezzature specifiche. Fanno parte degli animali da compagnia anche numerose specie di rettili (dalle più comuni tartarughe ai serpenti e alle iguane), alcuni tipi di anfibi e, più raramente, anche artropodi come ragni e scorpioni.</dbo:abstract>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Residential_pets">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_pet">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bubbles_(chimpanzee)">
+    <dbp:role rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buddy_(dog)">
+    <dbp:occupation rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mr_Case">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Companion_animals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pet_Circle">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Companimal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Travis_(chimpanzee)">
+    <dbp:role rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pet_School">
+    <dbp:genre rdf:resource="http://dbpedia.org/resource/Pet"/>
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cat_health">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_companions">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Companion_animal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Want_a_Dog">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dunelm_Group">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Chunk">
+    <dbp:occupation rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Companion">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Notcutts">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Pet"/>
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zoophilia_and_the_law">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pets_in_condominiums">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Domesticated_pets">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pets">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Where_the_Blind_Horse_Sings">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Pets">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dog_health">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilberforce_(cat)">
+    <dbp:occupation rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pet_animal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_pets">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Residental_pets">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Alderton">
+    <skos:subject rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brooklyn_Bunny">
+    <dbp:industry rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Pet">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilko_(retailer)">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_companion">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucky_Diamond_(dog)">
+    <dbp:occupation rdf:resource="http://dbpedia.org/resource/Pet"/>
+  </rdf:Description>
+</rdf:RDF>

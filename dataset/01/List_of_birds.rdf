@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_birds">
+    <dbo:abstract xml:lang="ja">Clements鳥類分類（クレメンツちょうるいぶんるい）は、James F. Clements  (October 31, 1927 – June 9, 2005) による鳥類分類の目科リスト。このClementsは保守的な分類であるが、最新の知見を随時取り入れていることもあり参照されることのしばしばある鳥類分類である。</dbo:abstract>
+    <rdfs:comment xml:lang="en">This page lists living orders and families of birds. The links below should then lead to family accounts and hence to individual species.Taxonomy is very fluid in the age of DNA analysis, so comments are made where appropriate, and all numbers are approximate. In particular see Sibley-Ahlquist taxonomy for a very different classification.</rdfs:comment>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">680857412</dbo:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/List_of_birds"/>
+    <dbo:abstract xml:lang="en">This page lists living orders and families of birds. The links below should then lead to family accounts and hence to individual species.Taxonomy is very fluid in the age of DNA analysis, so comments are made where appropriate, and all numbers are approximate. In particular see Sibley-Ahlquist taxonomy for a very different classification.</dbo:abstract>
+    <rdfs:comment xml:lang="ja">Clements鳥類分類（クレメンツちょうるいぶんるい）は、James F. Clements  (October 31, 1927 – June 9, 2005) による鳥類分類の目科リスト。このClementsは保守的な分類であるが、最新の知見を随時取り入れていることもあり参照されることのしばしばある鳥類分類である。</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_by_classification"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q468874"/>
+    <rdfs:label xml:lang="ar">قائمة طيور</rdfs:label>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ornithology_lists"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/Clements鳥類分類"/>
+    <rdfs:comment xml:lang="ar">ترتب هذه القائمة الرتب التابعة لصف الطيور، ويلي اسم كل رتبة من هذه الرتب أسماء الفصائل التي تدرج تحتها، ولتسهيل عملية البحث فقد وضعت أسماء الرتب والعائلات باللغة العربية واللغة الإنجليزية.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Lista_de_aves"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:label xml:lang="pt">Lista de aves</rdfs:label>
+    <dbo:abstract xml:lang="pt">Esta é uma lista de aves, organizada por ordem alfabética do nome comum.</dbo:abstract>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/King_Penguins_at_Salisbury_Plain_(5719466981).jpg?width=300"/>
+    <rdfs:label xml:lang="en">List of birds</rdfs:label>
+    <dbo:abstract xml:lang="de">Die Systematik der Vögel soll Ordnung in die Artenvielfalt der Vögel bringen. Dabei sollen systematische Reihenfolgen, Gruppierungen und Artenlisten die gegenwärtigen Kenntnisse von der natürlichen Entwicklung (Phylogenese) und der Verwandtschaft widerspiegeln. Gruppen sollen nur Arten umfassen, die einen gemeinsamen Ursprung haben (monophyletische Gruppen). Über derartige Einordnungen gingen bereits früher die Meinungen der Systematiker weit auseinander, sodass die Systematik der Vögel unsicher und stark umstritten ist.</dbo:abstract>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/King_Penguins_at_Salisbury_Plain_(5719466981).jpg"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/List_of_birds?oldid=680857412"/>
+    <rdfs:label xml:lang="ru">Систематика птиц</rdfs:label>
+    <rdfs:label xml:lang="nl">Lijst van vogels</rdfs:label>
+    <rdfs:label xml:lang="zh">鸟类传统分类系统</rdfs:label>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lists_of_birds"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_bird_genera"/>
+    <rdfs:label xml:lang="de">Systematik der Vögel</rdfs:label>
+    <dbo:abstract xml:lang="nl">Dit is een alfabetische lijst van vogelsoorten op Nederlandse naam, die in deze encyclopedie zijn beschreven.Voor een taxonomische benadering, inclusief vogelgroepen, zie: Aves (taxonomie) of (voor een alternatieve indeling): DNA-onderzoek naar de taxonomie van de vogels.Zie voor een algemene introductie: Vogels.Zie ook: Lijst van vogels in de Lage Landen Lijst van vogels in Europa Lijst van vogels (wetenschappelijk)</dbo:abstract>
+    <rdfs:comment xml:lang="ru">Систематика птиц — раздел биологии, изучающий родственные отношения, а также межвидовые и межгрупповые связи.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Systematik_der_Vögel"/>
+    <rdfs:comment xml:lang="pt">Esta é uma lista de aves, organizada por ordem alfabética do nome comum.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Systematik der Vögel soll Ordnung in die Artenvielfalt der Vögel bringen. Dabei sollen systematische Reihenfolgen, Gruppierungen und Artenlisten die gegenwärtigen Kenntnisse von der natürlichen Entwicklung (Phylogenese) und der Verwandtschaft widerspiegeln. Gruppen sollen nur Arten umfassen, die einen gemeinsamen Ursprung haben (monophyletische Gruppen).</rdfs:comment>
+    <dbo:abstract xml:lang="ru">Систематика птиц — раздел биологии, изучающий родственные отношения, а также межвидовые и межгрупповые связи.</dbo:abstract>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76111</dbo:wikiPageID>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Lijst_van_vogels"/>
+    <dbo:abstract xml:lang="ar">ترتب هذه القائمة الرتب التابعة لصف الطيور، ويلي اسم كل رتبة من هذه الرتب أسماء الفصائل التي تدرج تحتها، ولتسهيل عملية البحث فقد وضعت أسماء الرتب والعائلات باللغة العربية واللغة الإنجليزية.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Anexo:Órdenes_y_familias_de_Aves"/>
+    <rdfs:label xml:lang="ja">Clements鳥類分類</rdfs:label>
+    <rdfs:comment xml:lang="nl">Dit is een alfabetische lijst van vogelsoorten op Nederlandse naam, die in deze encyclopedie zijn beschreven.Voor een taxonomische benadering, inclusief vogelgroepen, zie: Aves (taxonomie) of (voor een alternatieve indeling): DNA-onderzoek naar de taxonomie van de vogels.Zie voor een algemene introductie: Vogels.Zie ook: Lijst van vogels in de Lage Landen Lijst van vogels in Europa Lijst van vogels (wetenschappelijk)</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q468874"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fauna_of_Kaziranga_National_Park">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_bird_genera">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_orders_and_families_of_birds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird_classification">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird_Classification">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird_families">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_families_of_birds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_bird_families">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/List_of_birds">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_chordate_orders">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_birds_on_Wikipedia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+  </rdf:Description>
+</rdf:RDF>

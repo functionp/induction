@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:ns4="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q5381243">
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/أثر_صيد_الأسماك_على_البيئة"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">164039954</dbpedia-owl:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Environmental_impact_of_fishing"/>
+    <rdfs:label xml:lang="es">Impacto ambiental de la pesca</rdfs:label>
+    <owl:sameAs rdf:resource="http://io.dbpedia.org/resource/Cirkumajala_efekto_di_peskado"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">959</dbpedia-owl:wikiPageLength>
+    <rdfs:label xml:lang="en">Environmental impact of fishing</rdfs:label>
+    <rdfs:label xml:lang="ar">أثر صيد الأسماك على البيئة</rdfs:label>
+    <ns4:wasDerivedFrom rdf:resource="http://www.wikidata.org/wiki/Q5381243?oldid=164039954"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Impacto_ambiental_de_la_pesca"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5381243"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5146923</dbpedia-owl:wikiPageID>
+  </rdf:Description>
+</rdf:RDF>

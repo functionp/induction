@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Zintuigstelsel">
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Zintuigstelsel"/>
+    <dbpedia-owl:wikiPageRevisionLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Zintuigstelsel&amp;oldid=39863546"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1407046</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">26</dbpedia-owl:wikiPageOutDegree>
+    <dcterms:subject rdf:resource="http://nl.dbpedia.org/resource/Categorie:Zenuwstelsel"/>
+    <dbpedia-owl:wikiPageExtracted rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-11-01T23:48:55+00:00</dbpedia-owl:wikiPageExtracted>
+    <dcterms:subject rdf:resource="http://nl.dbpedia.org/resource/Categorie:Perceptie"/>
+    <dbpedia-owl:wikiPageHistoryLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Zintuigstelsel&amp;action=history"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39863546</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Een zintuigstelsel is een onderdeel van het zenuwstelsel dat verantwoordelijk is voor het verwerken van informatie uit de zintuigen. Een zintuigstelsel bestaat uit een receptor (een orgaan of zenuwcellen), de bijbehorende zenuwen en het deel van de hersenen dat dit zintuig aanstuurt. De bekendste zintuigstelsels zijn die van zien, horen, proeven, ruiken, voelen en balans.Het receptieve veld is het specifieke deel van de wereld waar een receptororgaan en receptorcellen op reageren.</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zintuigstelsel</rdfs:label>
+    <dbpedia-owl:wikiPageEditLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Zintuigstelsel&amp;action=edit"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://nl.wikipedia.org/wiki/Zintuigstelsel"/>
+    <dbpedia-owl:wikiPageModified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-12-20T17:55:44+00:00</dbpedia-owl:wikiPageModified>
+    <dbpedia-owl:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Een zintuigstelsel is een onderdeel van het zenuwstelsel dat verantwoordelijk is voor het verwerken van informatie uit de zintuigen. Een zintuigstelsel bestaat uit een receptor (een orgaan of zenuwcellen), de bijbehorende zenuwen en het deel van de hersenen dat dit zintuig aanstuurt. De bekendste zintuigstelsels zijn die van zien, horen, proeven, ruiken, voelen en balans.Het receptieve veld is het specifieke deel van de wereld waar een receptororgaan en receptorcellen op reageren. Bijvoorbeeld: het deel van de wereld dat een oog kan zien behoort tot het receptieve veld van dat orgaan.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2356</dbpedia-owl:wikiPageLength>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Zintuigsysteem">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Zintuigstelsel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.wikipedia.org/wiki/Zintuigstelsel">
+    <foaf:primaryTopic rdf:resource="http://nl.dbpedia.org/resource/Zintuigstelsel"/>
+  </rdf:Description>
+</rdf:RDF>

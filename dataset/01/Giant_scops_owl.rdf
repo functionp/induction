@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dbp="http://dbpedia.org/property/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giant_scops_owl">
+    <dbp:classis rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <rdfs:label xml:lang="pt">Mimizuku gurneyi</rdfs:label>
+    <rdfs:comment xml:lang="de">Der Rotohreule (Mimizuku gurneyi, Syn.: Otus gurneyi) ist eine recht große, relativ kontrastreich gefärbte  Eulenart aus der Familie der Eigentlichen Eulen (Strigidae). Die Gattung Mimizuku ist monotypisch mit der Rotohreule als einziger Art. Sie ist ein Endemit der Philippinen und dort auf die vier Inseln Mindanao, Dinagat, Siargao und Samar beschränkt, von Samar gibt es jedoch nur einen Nachweis.</rdfs:comment>
+    <dbp:name xml:lang="en">Giant scops owl</dbp:name>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12427352</dbo:wikiPageID>
+    <rdfs:comment xml:lang="fr">Otus gurneyiLe Petit-duc de Gurney (Otus gurneyi) est une espèce d'oiseaux de la famille des Strigidae.</rdfs:comment>
+    <dbo:conservationStatus>VU</dbo:conservationStatus>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/PseudoptynxGurneyiSmit.jpg?width=300"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Bird"/>
+    <rdfs:comment xml:lang="pt">Mimizuku gurneyi é uma espécie de ave estrigiforme pertencente à família Strigidae.</rdfs:comment>
+    <dbo:abstract xml:lang="pt">Mimizuku gurneyi é uma espécie de ave estrigiforme pertencente à família Strigidae.</dbo:abstract>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">677791785</dbo:wikiPageRevisionID>
+    <dbp:synonyms xml:lang="en">Mimizuku gurneyi</dbp:synonyms>
+    <rdfs:label xml:lang="es">Otus gurneyi</rdfs:label>
+    <dbo:conservationStatusSystem>IUCN3.1</dbo:conservationStatusSystem>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animals_described_in_1879"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_the_Philippines"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1273551"/>
+    <rdfs:label xml:lang="nl">Grote dwergooruil</rdfs:label>
+    <rdfs:comment xml:lang="es">El búho de Mindanao o lechuzón gigante (Otus gurneyi), es una especie de ave strigiforme de la familia Strigidae nativa de Filipinas. Está amenazado por la pérdida de hábitat.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">巨角鴞（Mimizuku gurneyi）是一種貓頭鷹，是小雕鴞屬下的唯一物種。巨角鴞是菲律賓的特有種。以大小及結構來看，牠們是介乎於角鴞屬及雕鴞屬之間。巨角鴞棲息於亞熱帶或熱帶低地的潮濕森林。牠們受到失去棲息地的威脅。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Rotohreule"/>
+    <rdfs:label xml:lang="en">Giant scops owl</rdfs:label>
+    <rdfs:label xml:lang="ru">Красноухая совка</rdfs:label>
+    <dbp:statusSystem xml:lang="en">IUCN3.1</dbp:statusSystem>
+    <dbo:binomialAuthority rdf:resource="http://dbpedia.org/resource/Arthur_Hay,_9th_Marquess_of_Tweeddale"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Mimizuku_gurneyi"/>
+    <rdfs:label xml:lang="it">Otus gurneyi</rdfs:label>
+    <rdfs:comment xml:lang="nl">De grote dwergooruil (Otus gurneyi) is een uil die alleen voorkomt in het zuiden van de Filipijnen.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il gufo reale di Mindanao (Otus gurneyi (Tweeddale, 1879)), detto anche assiolo gigante di Gurney, è un uccello rapace notturno della famiglia Strigidae, endemico delle Filippine.</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Otus"/>
+    <dbp:binomial xml:lang="en">Otus gurneyi</dbp:binomial>
+    <dbo:abstract xml:lang="en">The giant scops owl, lesser eagle-owl, or Mindanao eagle-owl (Otus gurneyi) is a species of owl in the Strigidae family. It is endemic to the Philippines. In size and structure, it is considered intermediate between a scops owl and an eagle-owl. Its natural habitat is subtropical or tropical moist lowland forests. It is threatened by habitat loss.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Otus_gurneyi"/>
+    <dbp:ordo rdf:resource="http://dbpedia.org/resource/Owl"/>
+    <dbp:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+    <dbo:abstract xml:lang="fr">Otus gurneyiLe Petit-duc de Gurney (Otus gurneyi) est une espèce d'oiseaux de la famille des Strigidae.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Der Rotohreule (Mimizuku gurneyi, Syn.: Otus gurneyi) ist eine recht große, relativ kontrastreich gefärbte  Eulenart aus der Familie der Eigentlichen Eulen (Strigidae). Die Gattung Mimizuku ist monotypisch mit der Rotohreule als einziger Art. Sie ist ein Endemit der Philippinen und dort auf die vier Inseln Mindanao, Dinagat, Siargao und Samar beschränkt, von Samar gibt es jedoch nur einen Nachweis. Die Art bewohnt den von Flügelfruchtgewächsen (Dipterocarpaceae) dominierten ursprünglichen tropischen Regenwald, Sekundärwald und auch Dipterocarpaceen-Wälder, denen selektiv Holz entnommen wurde. Über die Lebensweise der Rotohreule ist praktisch nichts bekannt. Sie wird von der IUCN aufgrund der schnell fortschreitenden Waldzerstörung als gefährdet ("vulnerable") eingestuft.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">巨角鴞（Mimizuku gurneyi）是一種貓頭鷹，是小雕鴞屬下的唯一物種。巨角鴞是菲律賓的特有種。以大小及結構來看，牠們是介乎於角鴞屬及雕鴞屬之間。巨角鴞棲息於亞熱帶或熱帶低地的潮濕森林。牠們受到失去棲息地的威脅。</dbo:abstract>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Giant_scops_owl"/>
+    <rdfs:comment xml:lang="ru">Красноухая совка или Совка Минданао (лат. Mimizuku gurneyi) — птица семейства совиных, встречающаяся исключительно на Филиппинах. Видовое название дано в честь английского орнитолога Джона Генри Гёрни (1819—1890).</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02w54_x"/>
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+    <dbp:species xml:lang="en">O. gurneyi</dbp:species>
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fauna_of_Dinagat_Islands"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/PseudoptynxGurneyiSmit.jpg"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q729"/>
+    <dbo:order rdf:resource="http://dbpedia.org/resource/Owl"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Grote_dwergooruil"/>
+    <foaf:name xml:lang="en">Giant scops owl</foaf:name>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:status xml:lang="en">VU</dbp:status>
+    <rdfs:label xml:lang="fr">Petit-duc de Gurney</rdfs:label>
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Otus_gurneyi"/>
+    <rdfs:label xml:lang="de">Rotohreule</rdfs:label>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fauna_of_Mindanao"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Otus_gurneyi"/>
+    <dbo:abstract xml:lang="ru">Красноухая совка или Совка Минданао (лат. Mimizuku gurneyi) — птица семейства совиных, встречающаяся исключительно на Филиппинах. Видовое название дано в честь английского орнитолога Джона Генри Гёрни (1819—1890).</dbo:abstract>
+    <dbo:kingdom rdf:resource="http://dbpedia.org/resource/Animal"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Giant_scops_owl?oldid=677791785"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney"/>
+    <dbo:synonym>Mimizuku gurneyi</dbo:synonym>
+    <dbp:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <dbp:regnum rdf:resource="http://dbpedia.org/resource/Animal"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1273551"/>
+    <dbo:abstract xml:lang="it">Il gufo reale di Mindanao (Otus gurneyi (Tweeddale, 1879)), detto anche assiolo gigante di Gurney, è un uccello rapace notturno della famiglia Strigidae, endemico delle Filippine.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De grote dwergooruil (Otus gurneyi) is een uil die alleen voorkomt in het zuiden van de Filipijnen.</dbo:abstract>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Endemic_fauna_of_the_Philippines"/>
+    <dbo:abstract xml:lang="es">El búho de Mindanao o lechuzón gigante (Otus gurneyi), es una especie de ave strigiforme de la familia Strigidae nativa de Filipinas. Está amenazado por la pérdida de hábitat.</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://orientalbirdimages.org/search.php?Bird_ID=648"/>
+    <rdfs:comment xml:lang="en">The giant scops owl, lesser eagle-owl, or Mindanao eagle-owl (Otus gurneyi) is a species of owl in the Strigidae family. It is endemic to the Philippines. In size and structure, it is considered intermediate between a scops owl and an eagle-owl. Its natural habitat is subtropical or tropical moist lowland forests. It is threatened by habitat loss.</rdfs:comment>
+    <rdfs:label xml:lang="zh">巨角鴞</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mindanao_eagle_owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mindanao_Eagle-owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mindanao_Eagle_Owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giant_Scops_Owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otus_gurneyi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buho_De_Mindanao">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Giant_scops_owl">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lesser_eagle_owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scops_Géant_De_Guerney">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mindanao_Eagle-Owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hibou_De_Tweeddale">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mimizuku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giant_Scops_owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petit-duc_De_Gurney">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lesser_Eagle-owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petit-duc_Géant">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autillo_De_Guerney">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mimizuku_gurneyi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Búho_De_Mindanao">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giant_Scops-owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lesser_Eagle_Owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giant_scops-owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scops_Geant_De_Guerney">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petit-duc_Geant">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+  </rdf:Description>
+</rdf:RDF>

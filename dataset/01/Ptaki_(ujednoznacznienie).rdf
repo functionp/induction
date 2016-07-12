@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns3="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-pl="http://pl.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Ptaki_(ujednoznacznienie)">
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(ujednoznacznienie)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Województwo_podlaskie"/>
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(zespół_muzyczny)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Gromada_(biologia)"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1168</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(powiat_kolneński)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Powiat_kolneński"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Kręgowce"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Powiat_łomżyński"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(film)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(województwo_mazowieckie)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(powiat_łomżyński)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Województwo_mazowieckie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Polska"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">329486</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Nowogród_(gmina)"/>
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(film)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Bruno_Schulz"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Tarjei_Vesaas"/>
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(województwo_mazowieckie)"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://pl.wikipedia.org/wiki/Ptaki_(ujednoznacznienie)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(zespół_muzyczny)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Siennica_(gmina)"/>
+    <rdfs:label xml:lang="pl">Ptaki (ujednoznacznienie)</rdfs:label>
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(powiat_łomżyński)"/>
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(opowiadanie)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Powiat_miński"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Alfred_Hitchcock"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">30</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(powieść)"/>
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://pl.dbpedia.org/resource/Ptaki"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(powiat_kolneński)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Ptak_(ujednoznacznienie)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(opowiadanie)"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40093566</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(powieść)"/>
+    <ns3:wasDerivedFrom rdf:resource="http://pl.wikipedia.org/wiki/Ptaki_(ujednoznacznienie)?oldid=40093566"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Wieś"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Turośl_(gmina)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Ptaki"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Pióro"/>
+    <prop-pl:wikiPageUsesTemplate rdf:resource="http://pl.dbpedia.org/resource/Szablon:Ujednoznacznienie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Daphne_du_Maurier"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Ptaki_(powiat_łomżyński)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(ujednoznacznienie)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Ptaki">
+    <dbpedia-owl:class rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(ujednoznacznienie)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(ujednoznacznienie)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Ptak_(ujednoznacznienie)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(ujednoznacznienie)"/>
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(ujednoznacznienie)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.wikipedia.org/wiki/Ptaki_(ujednoznacznienie)">
+    <foaf:primaryTopic rdf:resource="http://pl.dbpedia.org/resource/Ptaki_(ujednoznacznienie)"/>
+  </rdf:Description>
+</rdf:RDF>

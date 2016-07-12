@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dbp="http://dbpedia.org/property/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_crow">
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Corvus_splendens"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01f6km"/>
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Corvus_(genus)"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.housecrow.com/"/>
+    <dbp:rangeMap xml:lang="en">Corvus_splendens_map.jpg</dbp:rangeMap>
+    <rdfs:label xml:lang="ar">غراب المنزل الهندي</rdfs:label>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.corvids.de/cld/search.php"/>
+    <foaf:name xml:lang="en">House crow</foaf:name>
+    <rdfs:comment xml:lang="ar">غراب المنزل الهندي يسمى أيضا غراب دوري (الاسم العلمي: Corvus splendens) (بالإنجليزية: House Crow)، هو طائر ينتمي إلى غرابيات (فصيلة: Corvidae).</rdfs:comment>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Indiar_bele"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Africa"/>
+    <dbo:abstract xml:lang="ru">Блестя́щий во́рон (лат. Corvus splendens) — вид птиц из рода воронов.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q507383"/>
+    <rdfs:comment xml:lang="de">Die Glanzkrähe (Corvus splendens) ist eine Vogelart aus der Familie der Rabenvögel (Corvidae). Sie ist ein schlanker, mittelgroßer Vertreter der Raben und Krähen (Corvus) mit glänzendem, grau-schwarzem Gefieder und langem Schnabel. Ihr ursprüngliches Verbreitungsgebiet liegt auf dem Indischen Subkontinent und in Westindochina. Seit dem 19.</rdfs:comment>
+    <dbo:abstract xml:lang="en">The house crow (Corvus splendens), also known as the Indian, greynecked, Ceylon or Colombo crow, is a common bird of the crow family that is of Asian origin but now found in many parts of the world, where they arrived assisted by shipping. It is between the jackdaw and the carrion crow in size (40 cm (16 in) in length) but is slimmer than either. The forehead, crown, throat and upper breast are a richly glossed black, whilst the neck and breast are a lighter grey-brown in colour. The wings, tail and legs are black. There are regional variations in the thickness of the bill and the depth of colour in areas of the plumage.</dbo:abstract>
+    <dbp:binomial xml:lang="en">Corvus splendens</dbp:binomial>
+    <dbo:abstract xml:lang="nl">De huiskraai (Corvus splendens) is een vogel uit de familie kraaien (Corvidae). De huiskraai is een standvogel uit Azië en is in andere gebieden zoals Afrika en Australië ingevoerd.</dbo:abstract>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Kenya"/>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/House-Crow444.jpg?width=300"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q507383"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/Corvidae"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/House_crow?oldid=661424133"/>
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <dbo:binomialAuthority rdf:resource="http://dbpedia.org/resource/Louis_Jean_Pierre_Vieillot"/>
+    <dbp:regnum xml:lang="en">Animalia</dbp:regnum>
+    <dbo:abstract xml:lang="ja">イエガラス (家鴉、Corvus splendens)は、スズメ目カラス科の鳥類。</dbo:abstract>
+    <dbp:status xml:lang="en">LC</dbp:status>
+    <dbo:kingdom rdf:resource="http://dbpedia.org/resource/Animal"/>
+    <dbo:abstract xml:lang="de">Die Glanzkrähe (Corvus splendens) ist eine Vogelart aus der Familie der Rabenvögel (Corvidae). Sie ist ein schlanker, mittelgroßer Vertreter der Raben und Krähen (Corvus) mit glänzendem, grau-schwarzem Gefieder und langem Schnabel. Ihr ursprüngliches Verbreitungsgebiet liegt auf dem Indischen Subkontinent und in Westindochina. Seit dem 19. Jahrhundert wurde sie vom Menschen auf Schiffen nach Afrika, Arabien, Europa, Japan und Australien verschleppt, wo sie sich zeitweise oder dauerhaft etablieren konnte. Die Glanzkrähe ist seit mehreren Jahrtausenden mit dem Menschen vergesellschaftet und kommt heute ausschließlich in seiner Nähe vor. Sie ernährt sich von allen verfügbaren tierischen und pflanzlichen Nahrungsquellen in ihrer Umwelt und tritt selbst größeren Krähen gegenüber dominant und teilweise aggressiv auf.Die Brutzeit der Glanzkrähe variiert je nach Region. Ihr Nest baut sie aus Zweigen und oft auch Stacheldraht, Wäscheleinen und ähnlichen von Menschen gefertigten Objekten. Das Gelege besteht gewöhnlich aus vier bis fünf Eiern, aus denen nach 16 bis 17 Tagen die Jungen schlüpfen. Die Glanzkrähe kommt in fünf Unterarten vor und steht systematisch vermutlich der Dschungelkrähe (Corvus culminatus) nahe. In vielen Regionen, in denen sie eingeschleppt wurde, wird die Glanzkrähe als Schädling betrachtet und verfolgt. Auf diese Weise wurde sie in Australien ausgerottet, der globale Bestand gilt aufgrund der Häufigkeit der Art in Südasien aber als ungefährdet.</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.issg.org/database/welcome/"/>
+    <dbp:statusSystem xml:lang="en">IUCN3.1</dbp:statusSystem>
+    <rdfs:label xml:lang="de">Glanzkrähe</rdfs:label>
+    <dbo:abstract xml:lang="ar">غراب المنزل الهندي يسمى أيضا غراب دوري (الاسم العلمي: Corvus splendens) (بالإنجليزية: House Crow)، هو طائر ينتمي إلى غرابيات (فصيلة: Corvidae).</dbo:abstract>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Sri_Lanka"/>
+    <dbo:conservationStatusSystem>IUCN3.1</dbo:conservationStatusSystem>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Urban_animals"/>
+    <rdfs:comment xml:lang="nl">De huiskraai (Corvus splendens) is een vogel uit de familie kraaien (Corvidae). De huiskraai is een standvogel uit Azië en is in andere gebieden zoals Afrika en Australië ingevoerd.</rdfs:comment>
+    <dbo:wikiPageExternalLink rdf:resource="http://sabap2.adu.org.za/docs/sabap1/549.pdf"/>
+    <rdfs:comment xml:lang="fr">Corvus splendensLe Corbeau familier ou Corneille de l'Inde (Corvus splendens) est une espèce de passereau du genre Corvus et de la famille des corvidés.Ce corbeau est l'un des oiseaux indiens les plus répandus dans les villes et les villages. Sa dépendance vis-à-vis de l'homme dépasse celle du Moineau domestique (Passer domesticus).</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Corvus_(genus)"/>
+    <dbp:species xml:lang="en">C. splendens</dbp:species>
+    <dbp:name xml:lang="en">House crow</dbp:name>
+    <dbp:classis rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <rdfs:label xml:lang="en">House crow</rdfs:label>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">661424133</dbo:wikiPageRevisionID>
+    <rdfs:label xml:lang="zh">家鴉</rdfs:label>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/Corvidae"/>
+    <rdfs:label xml:lang="es">Corvus splendens</rdfs:label>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animals_described_in_1817"/>
+    <dbp:ordo rdf:resource="http://dbpedia.org/resource/Passerine"/>
+    <rdfs:comment xml:lang="en">The house crow (Corvus splendens), also known as the Indian, greynecked, Ceylon or Colombo crow, is a common bird of the crow family that is of Asian origin but now found in many parts of the world, where they arrived assisted by shipping. It is between the jackdaw and the carrion crow in size (40 cm (16 in) in length) but is slimmer than either. The forehead, crown, throat and upper breast are a richly glossed black, whilst the neck and breast are a lighter grey-brown in colour.</rdfs:comment>
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <rdfs:comment xml:lang="ja">イエガラス (家鴉、Corvus splendens)は、スズメ目カラス科の鳥類。</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Western_Australia"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.issg.org/database/species/ecology.asp?si=1199&amp;fr=1&amp;sts=&amp;lang=EN"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Corbeau_familier"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Bird"/>
+    <dbo:order rdf:resource="http://dbpedia.org/resource/Passerine"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.corvids.de/Downloads/Asien/Corvus%20splendens.doc"/>
+    <dbo:abstract xml:lang="fr">Corvus splendensLe Corbeau familier ou Corneille de l'Inde (Corvus splendens) est une espèce de passereau du genre Corvus et de la famille des corvidés.Ce corbeau est l'un des oiseaux indiens les plus répandus dans les villes et les villages. Sa dépendance vis-à-vis de l'homme dépasse celle du Moineau domestique (Passer domesticus).</dbo:abstract>
+    <rdfs:label xml:lang="ru">Блестящий ворон</rdfs:label>
+    <dbo:conservationStatus>LC</dbo:conservationStatus>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Asia"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Huiskraai"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Glanzkrähe"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/House_crow"/>
+    <rdfs:label xml:lang="ja">イエガラス</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbo:abstract xml:lang="es">El cuervo casero o cuervo indio (Corvus splendens) es una especie de ave paseriforme de la familia de los córvidos (Corvidae), ampliamente distribuido por el sur y sudeste de Asia. Existen también diversas poblaciones en el África oriental y en varios enclaves costeros del Mar Rojo.</dbo:abstract>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213073</dbo:wikiPageID>
+    <rdfs:label xml:lang="fr">Corbeau familier</rdfs:label>
+    <dbp:imageWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</dbp:imageWidth>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/イエガラス"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/House_crow"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Vrána_domácí"/>
+    <rdfs:comment xml:lang="es">El cuervo casero o cuervo indio (Corvus splendens) es una especie de ave paseriforme de la familia de los córvidos (Corvidae), ampliamente distribuido por el sur y sudeste de Asia. Existen también diversas poblaciones en el África oriental y en varios enclaves costeros del Mar Rojo.</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Pakistan"/>
+    <rdfs:comment xml:lang="ru">Блестя́щий во́рон (лат. Corvus splendens) — вид птиц из рода воронов.</rdfs:comment>
+    <dbp:binomialAuthority xml:lang="en">Vieillot, 1817</dbp:binomialAuthority>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/House-Crow444.jpg"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q729"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Thailand"/>
+    <dbp:genus xml:lang="en">Corvus</dbp:genus>
+    <dbp:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Bangladesh"/>
+    <rdfs:label xml:lang="nl">Huiskraai</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indian_House_Crow">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indian_House_crow">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Huiskraai">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corvus_splendens">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greynecked_Crow">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ceylon_Crow">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ceylon_crow">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_Crow">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indian_house_crow">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/House_crow">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/House_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colombo_Crow">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_crow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indian_crow">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_crow"/>
+  </rdf:Description>
+</rdf:RDF>

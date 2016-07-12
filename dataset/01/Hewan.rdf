@@ -1,0 +1,1849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop-id="http://id.dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sistem_pernapasan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Zoologi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hewan">
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/4/4d/AnimalandIndonesia.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Mollusca"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hati"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan_piaraan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sistem_otot"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kompetisi"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Lanceleolatus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Protozoa"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Siput"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Gerak"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Aves"/>
+    <dcterms:subject rdf:resource="http://id.dbpedia.org/resource/Kategori:Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Capung"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kesha"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Mammalia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Opisthokonta"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kucing"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Porifera"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Omnivora"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Serangga"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Lemak"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Poikiloterm"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Seksual"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Ikan_cupang"/>
+    <dbpprop-id:fossilRange xml:lang="id">Ediacaran - Sekarang</dbpprop-id:fossilRange>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Insang"/>
+    <foaf:name xml:lang="id">Hewan (Animalia)</foaf:name>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kakatua_maluku"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Arthropoda"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Lumba-lumba"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kerajaan_(biologi)"/>
+    <dbpprop-id:imageWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbpprop-id:imageWidth>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sistem_ekskresi"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Zigot"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hemichordata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Jerapah"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hormon"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Coelenterata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Holozoa"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Nemathelminthes"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kuskus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Zoologi"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Paru-paru"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Insekta"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Mamalia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Metazoa"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Simetri_Bilateral"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan_peliharaan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Otot"/>
+    <dbpprop-id:domain xml:lang="id">Eukariotik</dbpprop-id:domain>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Perilaku_hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Bintang_ular"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Embrio"/>
+    <rdfs:comment xml:lang="id">Hewan atau disebut juga dengan binatang adalah kelompok organisme yang diklasifikasikan dalam kerajaan Animalia atau metazoa, adalah salah satu dari berbagai makhluk hidup di bumi. Sebutan lainnya adalah fauna dan margasatwa (atau satwa saja). Hewan dalam pengertian sistematika modern mencakup hanya kelompok bersel banyak (multiselular) dan terorganisasi dalam fungsi-fungsi yang berbeda (jaringan), sehingga kelompok ini disebut juga histozoa.</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Saraf"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Ctenophora"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sel_(biologi)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Vertebrata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Asam_nukleat"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/1997"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Insektivora"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Cahaya"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Jalak_bali"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kaki_seribu"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kulit"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Biawak_komodo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sel_tumbuhan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Bahasa_Inggris"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Cacing"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Bahasa_Latin"/>
+    <rdfs:label xml:lang="id">Hewan</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Histozoa"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Systema_Naturae"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Herbivora"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Bumi"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sistematika"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Homoiterm"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Macan_tutul_jawa"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Berkas:Sel_hewan.png"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sistem_rangka"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Evolusi"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6797215</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kladistik"/>
+    <dbpprop-id:subdivision xml:lang="id">* Porifera
+* Cnidaria
+* Ctenophora
+* Platyhelminthes
+* Nematoda
+* Annelida
+* Mollusca
+* Arthropoda
+* Echinodermata
+* Chordata</dbpprop-id:subdivision>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Filozoa"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Osteichthyes"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Trakea"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sistem_endokrin"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/AnimalandIndonesia.jpg/200px-AnimalandIndonesia.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Heterotrof"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Nematoda"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Reproduksi"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kelas_(biologi)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Alga"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Aktivitas"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Klasifikasi_ilmiah"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sirkus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Paus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Annelida"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sistem_pencernaan"/>
+    <dbpprop-id:regnum xml:lang="id">Animalia</dbpprop-id:regnum>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Manusia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Protein"/>
+    <dbpedia-owl:abstract xml:lang="id">Hewan atau disebut juga dengan binatang adalah kelompok organisme yang diklasifikasikan dalam kerajaan Animalia atau metazoa, adalah salah satu dari berbagai makhluk hidup di bumi. Sebutan lainnya adalah fauna dan margasatwa (atau satwa saja). Hewan dalam pengertian sistematika modern mencakup hanya kelompok bersel banyak (multiselular) dan terorganisasi dalam fungsi-fungsi yang berbeda (jaringan), sehingga kelompok ini disebut juga histozoa. Semua binatang heterotrof, artinya tidak membuat energi sendiri, tetapi harus mengambil dari lingkungan sekitarnya.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Autotrofik"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Agnatha"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Fungi"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Eukariotik"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Invertebrata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Daftar_hewan_purbakala"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Makhluk_hidup"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Eukariota"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Karnivora"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Lingkungan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Multiseluler"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kategori:Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Nutrisi"/>
+    <dbpprop-id:imageCaption xml:lang="id">Dari kiri ke kanan mulai dari atas-kiri: spons, kelompok hewan lunak, kelompok hewan berongga, siput, kaki seribu, bintang ular, capung, bulu babi, ikan cupang, biawak komodo, kodok tegalan, jalak bali, macan tutul jawa, kakatua maluku, jerapah, badak jawa, tarsius, dan kuskus.</dbpprop-id:imageCaption>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kodok_tegalan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Bintang_laut"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Organisme"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Metamorfosis"/>
+    <dbpprop-id:image xml:lang="id">animalandIndonesia.jpg</dbpprop-id:image>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sel"/>
+    <ns7:wasDerivedFrom rdf:resource="http://id.wikipedia.org/wiki/Hewan?oldid=6797215"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Telinga"/>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sistem_pernapasan"/>
+    <dbpprop-id:regnumAuthority rdf:resource="http://id.dbpedia.org/resource/Systema_Naturae"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Air"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Tunicata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sistem_peredaran_darah"/>
+    <dbpprop-id:name xml:lang="id">Hewan</dbpprop-id:name>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Simetri_tubuh_hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hidung"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Chondrichthyes"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1110</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sistem_saraf"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.youtube.com/watch?v=wMyT7fKzZyw&amp;feature=player_embedded"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Ikan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Ediacaran"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Berkas:Daurhidupayam.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Buaya"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Avertebrata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Amphibia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Sistem_reproduksi"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Platyhelminthes"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Cnidaria"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Karbohidrat"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan_lunak"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Filum"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Protista"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://id.wikipedia.org/wiki/Hewan"/>
+    <dbpprop-id:color xml:lang="id">#D3D3A4</dbpprop-id:color>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Mata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Echinodermata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Makanan"/>
+    <dbpprop-id:subdivisionRanks rdf:resource="http://id.dbpedia.org/resource/Filum"/>
+    <dbpprop-id:regnumAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Fauna_Indonesia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Reptilia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Chordata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Heterotrofik"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Gen"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/YouTube"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Tarsius_tarsier"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Bulu_babi"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Jantung"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Badak_jawa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Taman_Margasatwa_dan_Budaya_Kinantan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Marcello_Malpighi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Prakambrium">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Enau">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kaki">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rhizaria">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Penyu_hijau">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kaki_(disambiguasi)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Biomassa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Spesies_invasif">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Asam_glutamat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cairan_tubuh">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Babi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Anemon_laut">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Amilopektin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Taksonomi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fitoplasma">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kebiri">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rajah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Citra">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Stylocellidae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ilmu_Komunikasi:_Suatu_Pengantar">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Actinobacteria">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lintah_dan_pacet">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Alexis_Carrel">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tupai_kekes">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Falkon">
+    <dbpprop-id:regnum rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:kingdom rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pertamanan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tanaman">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kadal_pohon_hijau">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mikrocip_hewan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ascomycota">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Burkhanisme">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Eutanasia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Elang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/François_Marie_Daudin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Spesies">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Alkaloid">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hewan-hewan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fragmentasi_(reproduksi)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Roh">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kepanikan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Materialisme">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Katak_puru">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Itik_melewar">
+    <dbpprop-id:regnum rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:kingdom rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tangan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Danau_Vostok">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kasyapa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Martin_Evans">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Organisme_aerobik">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Komunitas">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pupuk_organik">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Koloseum">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sistem_pencernaan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tungau">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Habitus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kedokteran">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Terpena">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tinja">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lengan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pangan_fungsional">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Suku_Toraja">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Peternakan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Peroksisom">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Zoogeografi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tekanan_turgor">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pengujian_DNA">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Spinosaurus">
+    <dbpprop-id:regnum rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:kingdom rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Precil_Jawa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Dada">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Australopithecine">
+    <dbpprop-id:regnum rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:kingdom rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tal">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hemoglobin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Albert_Hofmann">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ekspresi_wajah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sejarah_alam">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lei_(Hawaii)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Adrenomedulin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sel_(biologi)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Nefrin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Wahyu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Keledai">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ozon">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lemak_makanan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kentongan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Organ_(anatomi)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hewan_militer">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Parvovirus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Metazoa">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Biota_laut">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Biji">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Probosis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Benih">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Virus_papiloma_manusia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bakteri_pengurai">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fabel">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Trematoda">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pharming">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cacing_parasit">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Dewa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bioma">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sistem_integumen">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pakan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sistem_saraf">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Aquarium_Barcelona">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Biologi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Belalai">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bajing_kelapa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/RNA-Mikro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lemur">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sulaiman">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/The_Fairly_OddParents">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Polisakarida">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fauna">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Binatang_menyusui">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gunung_Tandikat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Manusia_serigala">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Konstipasi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Reintroduksi_spesies">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sapi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sanggama">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fransiskus_dari_Assisi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Klasifikasi_ilmiah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Makanan_hewan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Perburuan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Paramecium">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bulu_mata">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sisik">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tephritidae">
+    <dbpprop-id:regnum rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:kingdom rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tungau_debu_rumah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sarang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kerajaan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Serat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sirip">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Binturung">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Alat_bedah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rambut">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Larva">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Epidermis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Karotenoid">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Organisme_multiseluler">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Satwa">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tumbal">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Monster_Loch_Ness">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Herbivora">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bhutan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sejarah_anatomi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Steroid">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hibernasi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Poliketida">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Anatomi_tumbuhan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ace_Ventura:_Pet_Detective">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Avertebrata">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ekosistem">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tikus_ambang_bulan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpprop-id:regnum rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:kingdom rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kesehatan_masyarakat_veteriner">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fungi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Proboscidea">
+    <dbpprop-id:regnum rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:kingdom rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Nyamuk">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Zoological_Society_of_London">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Leukoaraiosis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Makanan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pulau_Handeuleum">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Patasola">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hutan_hujan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sumber_daya_alam">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Zona_abisal">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Nabath">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jules_Jean_Baptiste_Vincent_Bordet">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Luka_gigitan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pertanian">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sandung_lamur">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rabies">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Posisi_matahari">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Potensial_aksi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Synapsida">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Arabes">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sistem_endomembran">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ular_gadung">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pemuras">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/George_Edwards_(naturalis)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ilmu_tanah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gekisou_Sentai_Carranger">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Penangkaran_selektif">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pupuk_kandang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bisa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Laki-laki">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Agen_biologi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Margasatwa">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Histologi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Anjing_padang_rumput">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sitokrom_c_oksidase">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kiss_'N'_Tell">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Leptospirosis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Moncong">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kala">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gua_Chauvet">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bigfoot">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ereksi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Berahi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gumba">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Boga_bahari">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hutan_primer">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Anatomi_manusia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hormon_tumbuhan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tubuh">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Toksisitas_logam">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Isoprena">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cerpelai">
+    <dbpprop-id:regnum rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:kingdom rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sepatu_seluncur">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rhizopoda">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Omnivora">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kadal">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Moluska">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kebun_binatang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kelahiran">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Inang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Trunko">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kedokteran_hewan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Biogas">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tanaman_transgenik">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Canine_distemper">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hijauan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pangeran_Mlaar">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Peria">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kuman">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Aminopeptidase">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mesin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ribosomal_s6_kinase">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Air_liur">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Flora">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Thomas_Bartholin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pencernaan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Teknologi_pertanian">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jantan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tidur">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fibroblas">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Berhala_(Islam)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Limpa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jotang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pengawetan_makanan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ekspor">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hyracotherium">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rumah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Adenosina_trifosfat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Porifera">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Okapi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Podosit">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bioakustika">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Asam_asetat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Aliran_gen">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Masakan_Indonesia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bifidobacterium">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Nishi_Muku_Samurai">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rexona">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kekejaman_terhadap_hewan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kawat_berduri">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Zoonosis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fibrosis_paru">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Burung">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Somatotropin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Linda_McCartney">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Nitrilase">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mukjizat_Muhammad">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Serasah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Nama_jalan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fosil">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Surya_(dewa)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Wangari_Maathai">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Musang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Daratan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gemuk_(pelumas)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Taeniasis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kelas_(biologi)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Monera">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Boston_Terrier">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Giraffidae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Genom">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rekayasa_genetika">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Balon">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Arang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pulau_Macquarie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Thorax">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ansel_Adams">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Malam_(zat)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hubungan_sedarah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kumbang_koksi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fraksinasi_sel">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kompos">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Musang_luwak">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pranata_mangsa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Etologi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gurita">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ras_hewan_dan_tumbuhan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Aibo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Melanin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Albinisme">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Eukariota">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Asam_lemak_esensial">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Budaya">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mikrotom">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Nyamuk,_Siantan,_Kepulauan_Anambas">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Selman_A._Waksman">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Animalia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Organisme_bertubuh_lunak">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Trenggiling_biasa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tambak_ikan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gelodok">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Setan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kerajaan_Larantuka">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/12_Dewa_Olimpus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kobo_Chan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tatah_Hujung_Papilis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pembuahan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pemuliaan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Schizophrenia_gottlieb">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pelana">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ponginae">
+    <dbpprop-id:regnum rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:kingdom rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Penembakan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Teori">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Seiyū">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Vakuola">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Toksisitas">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pos">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hama">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sumber_daya">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mei_2007">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fosil_hidup">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lapisan_tubuh_hewan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pertanian_ekstensif">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Komponen_biotik">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Justus_Liebig">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Simetri_tubuh_hewan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Anak_(disambiguasi)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Terowongan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Terumbu_karang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cnidaria">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lem">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kehidupan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Islam_dan_hewan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Deuterostomia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Getah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Aflatoksin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Zoomastigophora">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lembuswana">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Montreal">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Domestikasi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ternak">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Nusantara_pada_periode_prasejarah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Telur">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kodok_tegalan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Racun">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bilateria">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Metamorfosis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kendaraan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Abortus_pada_sapi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Benang_sari">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Biologi_perkembangan_evolusioner">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Vampir_(disambiguasi)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Senjata_biologi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Skualena">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Vaksin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mulut">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fosforilasi_oksidatif">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Penguin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Heterotrof">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Boneka">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kepala">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Takin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Peredaman_gen">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bangkong_kolong">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Protista">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Organisme_pengganggu_tanaman">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Arachnida">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tanduk">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sputnik_II">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Agroindustri">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tumbuhan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Anatole_France">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mainan_tekan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Masakan_Piemonte">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Duri">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Buku_Urantia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mimikri">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Transglutaminase">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bajing_jepang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mintakat_riparian">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Makhluk">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hubungan_kekerabatan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bulus,_Bandung,_Tulungagung">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Biotipe">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Glukosa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.wikipedia.org/wiki/Hewan">
+    <foaf:primaryTopic rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Flatulensi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tata_nama_biologi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Zygomycota">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Embrio">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Oogonium">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rasionalisme">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Antraks">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Vitamin_E">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kadal_rumput">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Komunikasi_hewan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Daftar_karakter_Nube:_Guru_Ahli_Roh">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Dinding_sel">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Animal_Planet">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Zoofit">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Artropoda">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Teluk_Fundy">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Narnia_(dunia)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Limbah_minyak">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kebutuhan_primer">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Penyakit_kuning">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mukjizat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Parasit">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Brati">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Baning_Sulawesi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jenis_kelamin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hermafrodit">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jaringan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lemak_sterol">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kendaraan_tidak_bermotor">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Vegetarian">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pariwisata_di_Singapura">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kura-kura_brazil">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sel_nutfah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pemuliaan_hewan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Systema_Naturae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/RFID">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Animisme">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kebun_Binatang_Pematang_Siantar">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hiraks">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Belentung">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Animal_Farm">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bahan_pewarna">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sistem_kekebalan_turunan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ayam_hutan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kalong_(pahlawan_super)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Grzimek's_Animal_Life_Encyclopedia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kimia_Organik_Bahan_Alam">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pengembara_Udara">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Minyak_goreng">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Keraton_Kanoman">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Shorea">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kriptozoologi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Indosat_Galileo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Agribisnis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Deru,_Sumberejo,_Bojonegoro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Masakan_Valle_d'Aosta">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Batu_Secret_Zoo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Balap">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kesenian_Korea">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pancaroba">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Animal">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tsuchinoko">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kumbang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Alga_merah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Aspartat_protease">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Metilotrof">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cheetah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Eerste_Nederlandse_Systematisch_Ingerichte_Encyclopaedie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Asam_lipoat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Albuminuria">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ordo_(biologi)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fotosintesis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lukisan_Korea">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Minyak_atsiri">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Nasionalisme">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tawon">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Stroke">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Daging">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Daniel_Carleton_Gajdusek">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Daftar_hewan_purbakala">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mikroorganisme_indikator">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Trichinella_spiralis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lipid">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kafeina">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hewan_pekerja">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pertanian_intensif">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Wikispecies">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lingkungan_dan_bangunan_pertanian">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Air_asin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tenaga_eksogen">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gladys_Emerson">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ekor">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Reproduksi_hewan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Binatang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tiamina">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Riboflavin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/IUCN_Red_List">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Chordata">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gas_alam">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pengadilan_Scopes">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hutan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Taenia_(cacing_pita)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Budidaya">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Manusia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pigmen_hayati">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kerajaan_(biologi)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sistem_otot">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Diurnal">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jebakan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Protostomia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fanerozoikum">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Morfologi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Emu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pemangsa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/NADH_dehidrogenase">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Harimau">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lukisan_Lascaux">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Patogen">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kucing_emas">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Perkutut_australia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Codot">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cyanobacteria">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kabupaten_Agam">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Merpati_karolina">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Echinodermata">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Meiosis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Zodiak">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Epizoologi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Teknik_kesehatan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Vitamin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Heterodera_radicicola">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Korpus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jari">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mukjizat_Sulayman">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Etoumbi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/-otomi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Taiga">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sel_telur">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Banteng">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rusa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Karbohidrat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lontong_kupang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Stridulasi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Impor">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Festival_Nebuta_Aomori">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Air">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tetrapoda">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Hewan"/>
+  </rdf:Description>
+</rdf:RDF>

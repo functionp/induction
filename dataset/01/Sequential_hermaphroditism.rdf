@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dbp="http://dbpedia.org/property/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sequential_hermaphroditism">
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Dichogamie"/>
+    <rdfs:comment xml:lang="es">En el contexto de la sexualidad vegetal de las plantas con flores (angiospermas) la dicogamia describe la condición en la que existe una separación temporal en la maduración de los sexos dentro de la misma flor o de la misma planta.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1209454"/>
+    <rdfs:label xml:lang="pl">Dichogamia</rdfs:label>
+    <rdfs:label xml:lang="nl">Dichogamie</rdfs:label>
+    <rdfs:label xml:lang="es">Dicogamia</rdfs:label>
+    <rdfs:label xml:lang="fr">Hermaphrodisme successif</rdfs:label>
+    <dbo:wikiPageExternalLink rdf:resource="http://pages.britishlibrary.net/charles.darwin3/orchids/orchids_fm.htm"/>
+    <dbo:abstract xml:lang="pl">Dichogamia, dychogamia – wytwarzanie przez jednego osobnika gamet męskich i żeńskich w różnym czasie. Jest to jeden z mechanizmów mający na celu zapobieganie niekorzystnemu samozapłodnieniu. Wyróżnia się dwa rodzaje dichogamii: protandria, protoandria (gr. protos = pierwszy, andros = mężczyzna) – wcześniejsze dojrzewanie gamet męskich. U roślin kwiatowych polega to na wcześniejszym dojrzewaniu pręcików niż słupków i nosi nazwę przedprątności. protogynia, proterogynia (pisane też: protoginia, proteroginia; z gr. protos = pierwszy, gyne = kobieta) – wcześniejsze dojrzewanie gamet żeńskich. U roślin kwiatowych polega to na wcześniejszym dojrzewaniu słupków, przed pręcikami i nosi nazwę przedsłupności.Dichogamia może być całkowita, gdy różnice w terminie dojrzewania gamet męskich i żeńskich u jednego osobnika są tak duże, że praktycznie wykluczają możliwość samozapłodnienia, lub częściowa, gdy terminy te częściowo się pokrywają i przez pewien czas istnieje możliwość samozapłodnienia. Na przykład u wielu gatunków roślin przedprątnych pod koniec dojrzewania pręcików zaczynają już dojrzewać słupki.Protandria i protogynia występują u niektórych zwierząt hermafrodytycznych.</dbo:abstract>
+    <rdfs:comment xml:lang="pl">Dichogamia, dychogamia – wytwarzanie przez jednego osobnika gamet męskich i żeńskich w różnym czasie. Jest to jeden z mechanizmów mający na celu zapobieganie niekorzystnemu samozapłodnieniu. Wyróżnia się dwa rodzaje dichogamii: protandria, protoandria (gr. protos = pierwszy, andros = mężczyzna) – wcześniejsze dojrzewanie gamet męskich. U roślin kwiatowych polega to na wcześniejszym dojrzewaniu pręcików niż słupków i nosi nazwę przedprątności.</rdfs:comment>
+    <foaf:depiction rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Anemone_purple_anemonefish.jpg"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Reproduction"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+    <dbo:abstract xml:lang="en">Sequential hermaphroditism (called dichogamy in botany) is a type of hermaphroditism that occurs in many fish, gastropoda and plants. Sequential hermaphroditism occurs when the individual changes sex at some point in its life. They can change from a male to female (protandry), or from female to male (protogyny) or from female to hermaphrodite (protogynous hermaphroditism). Those that change gonadal sex can have both female and male germ cells in the gonads or can change from one complete gonadal type to the other during their last life stage. Individual flowers are also called sequentially hermaphrodite, although the plant as a whole may have functionally male and functionally female flowers open at the same time.</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nature.com/nature/journal/v373/n6514/abs/373512a0.html"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">683137264</dbo:wikiPageRevisionID>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pollination"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1656730</dbo:wikiPageID>
+    <dbo:abstract xml:lang="pt">Dicogamia (forma preferida em botânica) ou hermafroditismo sequencial (forma preferida em zoologia) é a designação dada às estratégias reprodutivas que incluem um tipo de hermafroditismo com separação temporal na produção de gâmetas masculinos e femininos num mesmo indivíduo. No contexto da sexualidade vegetal das plantas com flores (angiospermas) a dicogamia descreve a existência de uma separação temporal na maturação dos sexos dentro da mesma flor ou da mesma planta. Na sexualidade animal, a dicogamia descreve a produção, em fases diferentes da vida, de gâmetas masculinos e femininos por um mesmo espécime. Há duas formas de dicogamia: a protoginia, na qual a maturação dos órgãos sexuais femininos precede a dos masculinos, e a protandria na qual, pelo contrário, os órgão sexuais masculinos maturam antes dos femininos. Esta estratégia reprodutiva é muito comum em plantas, peixes e gastrópodes, podendo as espécies ter gónadas que contenham em simultâneo células germinais femininas e masculinas ou mudar completamente de tipo gonadal durante o seu último estádio de vida.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Dicogamia"/>
+    <dbo:abstract xml:lang="nl">Dichogamie bij een plant is het fenomeen waarbij de stempel en de meeldraden niet tegelijkertijd rijp zijn. Dit heeft als voordeel dat de plant minder aan zelfbevruchting doet.Er kan een onderscheid gemaakt worden tussen proterogynie en proterandrie: bij proterogynie is de stempel is eerder rijp dan de meeldraden, terwijl bij proterandrie de meeldraden eerder rijp zijn dan de stempel.</dbo:abstract>
+    <rdfs:comment xml:lang="fr">L'hermaphrodisme successif (ou séquentiel) est une forme d'hermaphrodisme correspondant à une acquisition des caractères sexuels mâles et femelles différée dans le temps. Il se retrouve aussi bien chez les animaux que chez les plantes, mais pour ces dernières on préférera le terme dichogamie. Contrairement à l’hermaphrodisme simultané, la production des gamètes mâles et femelles s’effectue à deux temps distincts.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Дихогамия (от др.-греч. δίχα — надвое, пополам и γάμος — брак) — в биологии феномен раздельного во времени проявления противоположных половых признаков у организмов-гермафродитов. Свойственна некоторым рыбам, брюхоногим, а также многим цветковым растениям.</rdfs:comment>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sequential_hermaphroditism"/>
+    <rdfs:comment xml:lang="de">Als Dichogamie bezeichnet man in der Fortpflanzungsbiologie der Zoologie und Botanik das Phänomen unterschiedlicher Reifezeitpunkte von weiblichen und männlichen Geschlechtsorganen bei zwittrigen Tieren oder Pflanzen. Dabei gibt es zwei verschiedene Formen mit tendenziell unterschiedlichen Zielen, die Proterogynie (weibliche Reife tritt früher ein) und die Proterandrie (männliche Reife tritt früher ein).</rdfs:comment>
+    <dbo:abstract xml:lang="ru">Дихогамия (от др.-греч. δίχα — надвое, пополам и γάμος — брак) — в биологии феномен раздельного во времени проявления противоположных половых признаков у организмов-гермафродитов. Свойственна некоторым рыбам, брюхоногим, а также многим цветковым растениям. У растений проявляется как неодновременное созревание в цветках пыльников и рылец.Различают: в зависимости от несовпадения периодов созревания: совершенную дихогамию, в которой периоды полностью не совпадаютнесовершенную дихогамию, в которой периоды созревания органов частично перекрываются. в зависимости от очерёдности созревания мужских и женских органов: протандрия — вначале созревают мужские, а затем женские органы (семейства сложноцветных, зонтичных и многих других) протогиния — вначале созревают женские, а затем мужские органы (семейства крестоцветных, розовых, лютиковых (анемоны) и некоторых других). Протогиния встречается реже, чем протандрия.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Dichogamie"/>
+    <rdfs:comment xml:lang="en">Sequential hermaphroditism (called dichogamy in botany) is a type of hermaphroditism that occurs in many fish, gastropoda and plants. Sequential hermaphroditism occurs when the individual changes sex at some point in its life. They can change from a male to female (protandry), or from female to male (protogyny) or from female to hermaphrodite (protogynous hermaphroditism).</rdfs:comment>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sequential_hermaphroditism?oldid=683137264"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Dichogamie"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://rspb.royalsocietypublishing.org/cgi/pmidlookup?view=long&amp;pmid=10722210"/>
+    <dbo:abstract xml:lang="de">Als Dichogamie bezeichnet man in der Fortpflanzungsbiologie der Zoologie und Botanik das Phänomen unterschiedlicher Reifezeitpunkte von weiblichen und männlichen Geschlechtsorganen bei zwittrigen Tieren oder Pflanzen. Dabei gibt es zwei verschiedene Formen mit tendenziell unterschiedlichen Zielen, die Proterogynie (weibliche Reife tritt früher ein) und die Proterandrie (männliche Reife tritt früher ein).</dbo:abstract>
+    <dbo:thumbnail rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Anemone_purple_anemonefish.jpg?width=300"/>
+    <dbo:abstract xml:lang="es">En el contexto de la sexualidad vegetal de las plantas con flores (angiospermas) la dicogamia describe la condición en la que existe una separación temporal en la maduración de los sexos dentro de la misma flor o de la misma planta. Hay dos formas de dicogamia: la protoginia, en la que la maduración del gineceo precede a la del androceo, y la protandria en la que, por el contrario, el androceo madura antes que el gineceo.Históricamente, la dicogamia ha sido considerada como un mecanismo para reducir la endogamia (por ejemplo, Darwin, 1862). Sin embargo, la proporción de especies dicógamas es similar tanto en plantas autógamas como alógamas.La duración del período de receptividad estigmática juega un papel central en la regulación del aislamiento entre sexos en las plantas dicógamas, y tal duración se halla influenciada por la temperatura y la humedad.  La protandria favorece la alogamia  y es la condición  más frecuente en especies con dicogamia intrafloral. La protoginia intrafloral está asociada con la autogamia, por lo que este proceso es un recurso evolutivo para asegurar la producción de frutos y semillas.</dbo:abstract>
+    <rdfs:comment xml:lang="nl">Dichogamie bij een plant is het fenomeen waarbij de stempel en de meeldraden niet tegelijkertijd rijp zijn. Dit heeft als voordeel dat de plant minder aan zelfbevruchting doet.Er kan een onderscheid gemaakt worden tussen proterogynie en proterandrie: bij proterogynie is de stempel is eerder rijp dan de meeldraden, terwijl bij proterandrie de meeldraden eerder rijp zijn dan de stempel.</rdfs:comment>
+    <rdfs:label xml:lang="ru">Дихогамия</rdfs:label>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Dicogamia"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1209454"/>
+    <rdfs:comment xml:lang="pt">Dicogamia (forma preferida em botânica) ou hermafroditismo sequencial (forma preferida em zoologia) é a designação dada às estratégias reprodutivas que incluem um tipo de hermafroditismo com separação temporal na produção de gâmetas masculinos e femininos num mesmo indivíduo. No contexto da sexualidade vegetal das plantas com flores (angiospermas) a dicogamia descreve a existência de uma separação temporal na maturação dos sexos dentro da mesma flor ou da mesma planta.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05l410"/>
+    <rdfs:label xml:lang="en">Sequential hermaphroditism</rdfs:label>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Hermaphrodisme_successif"/>
+    <rdfs:label xml:lang="de">Dichogamie</rdfs:label>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.amjbot.org/cgi/content/full/87/9/1246"/>
+    <dbo:abstract xml:lang="fr">L'hermaphrodisme successif (ou séquentiel) est une forme d'hermaphrodisme correspondant à une acquisition des caractères sexuels mâles et femelles différée dans le temps. Il se retrouve aussi bien chez les animaux que chez les plantes, mais pour ces dernières on préférera le terme dichogamie. Contrairement à l’hermaphrodisme simultané, la production des gamètes mâles et femelles s’effectue à deux temps distincts. Ce mode de reproduction peut être considéré comme un intermédiaire entre le gonochorisme et l'hermaphrodisme simultané, ces derniers étant les extrêmes d'un même continuum.On peut distinguer trois grandes tendances d’hermaphrodisme séquentiel : la protandrie (ou protérandrie) où l’individu est d’abord mâle puis devient femelle ; la protogynie (ou protérogynie) où l’individu est d’abord femelle puis devient mâle ; et l’hermaphrodisme alternant où l’individu va changer de sexe plus d’une fois au cours de sa vie.</dbo:abstract>
+    <rdfs:label xml:lang="pt">Dicogamia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sequential_Hermaphroditism">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Protogynous">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glossary_of_botanical_terms">
+    <dbp:content rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Protogynous_hermaphrodites">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dichogamous">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Protantrism">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Protoandrous_hermaphrodites">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_sexual_behaviour">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metagyny">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Protandrous">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dichogamy">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Proterogyny">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Sequential_hermaphroditism">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Proterandry">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sequential_hermaphrodite">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Protandrism">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Protandric">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Protogyny">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Protandrous_hermaphroditism">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Protandry">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sequential_hermaphrodites">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Protogynous_hermaphrodite">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Protandrous_hermaphrodite">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+  </rdf:Description>
+</rdf:RDF>

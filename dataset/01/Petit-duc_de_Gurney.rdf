@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-fr="http://fr.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney">
+    <prop-fr:commons xml:lang="fr">Category:Otus</prop-fr:commons>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:CatalogueofLife_espèce"/>
+    <rdfs:comment xml:lang="ca">Otus gurneyi és un ocell de la família dels estrígids (Strigidae) que habita la selva humida i altres zones boscoses de les illes Dinagat, Siargao i Mindanao, a les Filipines. S'ha considerat l'única espècie del gènere Mimizuku (Hachisuka, 1934).</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="pt">Mimizuku gurneyi é uma espécie de ave estrigiforme pertencente à família Strigidae.</dbpedia-owl:abstract>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Taxobox_début"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/PseudoptynxGurneyiSmit.jpg?width=300"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Genre_(biologie)"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:ADW"/>
+    <rdfs:label xml:lang="pt">Mimizuku gurneyi</rdfs:label>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Taxobox_synonymes"/>
+    <rdfs:comment xml:lang="fr">Le Petit-duc de Gurney (Otus gurneyi) est une espèce d'oiseaux de la famille des Strigidae.</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Monotypique"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Autres_projets"/>
+    <rdfs:label xml:lang="ca">Otus gurneyi</rdfs:label>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Otus_gurneyi"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Otus_gurneyi"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Philippines"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1879"/>
+    <rdfs:label xml:lang="ru">Красноухая совка</rdfs:label>
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Faune_endémique_des_Philippines"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Strigidae"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2212</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Protonyme"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Rotohreule"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Faune_endémique_des_Philippines"/>
+    <rdfs:comment xml:lang="de">Der Rotohreule (Mimizuku gurneyi, Syn.: Otus gurneyi) ist eine recht große, relativ kontrastreich gefärbte Eulenart aus der Familie der Eigentlichen Eulen (Strigidae). Die Gattung Mimizuku ist monotypisch mit der Rotohreule als einziger Art. Sie ist ein Endemit der Philippinen und dort auf die vier Inseln Mindanao, Dinagat, Siargao und Samar beschränkt, von Samar gibt es jedoch nur einen Nachweis.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Gurneys_dvärguv"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Espèce"/>
+    <dbpedia-owl:abstract xml:lang="eu">Otus gurneyi Otus generoko animalia da. Hegaztien barruko Strigidae familian sailkatua dago.</dbpedia-owl:abstract>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Tolweb"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Otus_gurneyi"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Arthur_Hay"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:TPDB"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Famille_(biologie)"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:NCBI"/>
+    <dbpedia-owl:abstract xml:lang="de">Der Rotohreule (Mimizuku gurneyi, Syn.: Otus gurneyi) ist eine recht große, relativ kontrastreich gefärbte Eulenart aus der Familie der Eigentlichen Eulen (Strigidae). Die Gattung Mimizuku ist monotypisch mit der Rotohreule als einziger Art. Sie ist ein Endemit der Philippinen und dort auf die vier Inseln Mindanao, Dinagat, Siargao und Samar beschränkt, von Samar gibt es jedoch nur einen Nachweis. Die Art bewohnt den von Flügelfruchtgewächsen (Dipterocarpaceae) dominierten ursprünglichen tropischen Regenwald, Sekundärwald und auch Dipterocarpaceen-Wälder, denen selektiv Holz entnommen wurde. Über die Lebensweise der Rotohreule ist praktisch nichts bekannt. Sie wird von der IUCN aufgrund der schnell fortschreitenden Waldzerstörung als gefährdet ("vulnerable") eingestuft.</dbpedia-owl:abstract>
+    <prop-fr:wikispecies xml:lang="fr">Otus</prop-fr:wikispecies>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Giant_scops_owl"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Otus_gurneyi"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Taxobox"/>
+    <owl:sameAs rdf:resource="http://az.dbpedia.org/resource/İri_bayquşcuq"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Otus"/>
+    <rdfs:label xml:lang="eu">Otus gurneyi</rdfs:label>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Otus_gurneyi"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Avibase2"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Oiseau"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5923474</dbpedia-owl:wikiPageID>
+    <rdfs:comment xml:lang="pt">Mimizuku gurneyi é uma espécie de ave estrigiforme pertencente à família Strigidae.</rdfs:comment>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">14</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Endémisme"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02w54_x"/>
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Strigidae"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Taxobox_taxon"/>
+    <rdfs:comment xml:lang="nl">De grote dwergooruil (Otus gurneyi) is een uil die alleen voorkomt in het zuiden van de Filipijnen.</rdfs:comment>
+    <rdfs:comment xml:lang="eu">Otus gurneyi Otus generoko animalia da. Hegaztien barruko Strigidae familian sailkatua dago.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="fr">Le Petit-duc de Gurney (Otus gurneyi) est une espèce d'oiseaux de la famille des Strigidae.</dbpedia-owl:abstract>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:ITIS"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/巨角鴞"/>
+    <ns7:wasDerivedFrom rdf:resource="http://fr.wikipedia.org/wiki/Petit-duc_de_Gurney?oldid=90946085"/>
+    <dbpedia-owl:abstract xml:lang="ca">Otus gurneyi és un ocell de la família dels estrígids (Strigidae) que habita la selva humida i altres zones boscoses de les illes Dinagat, Siargao i Mindanao, a les Filipines. S'ha considerat l'única espècie del gènere Mimizuku (Hachisuka, 1934).</dbpedia-owl:abstract>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Taxobox_fin"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:UICN"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90946085</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="fr">Petit-duc de Gurney</rdfs:label>
+    <rdfs:label xml:lang="de">Rotohreule</rdfs:label>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Taxobox_UICN"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Strigidae"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:COI"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Красноухая_совка"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Mimizuku_gurneyi"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/PseudoptynxGurneyiSmit.jpg"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://fr.wikipedia.org/wiki/Petit-duc_de_Gurney"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Portail"/>
+    <rdfs:label xml:lang="nl">Grote dwergooruil</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="nl">De grote dwergooruil (Otus gurneyi) is een uil die alleen voorkomt in het zuiden van de Filipijnen.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney"/>
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Références"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Grote_dwergooruil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Striginae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Petit-duc">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Pseudoptynx_gurneyi">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Strigidae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Mimizuku_gurneyi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.wikipedia.org/wiki/Petit-duc_de_Gurney">
+    <foaf:primaryTopic rdf:resource="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Mont_Hilong-Hilong">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Otus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Otus_gurneyi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://fr.dbpedia.org/resource/Petit-duc_de_Gurney"/>
+  </rdf:Description>
+</rdf:RDF>

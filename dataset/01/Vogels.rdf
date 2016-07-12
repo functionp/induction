@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-nl="http://nl.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Dromornithidae">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Vogels">
+    <prop-nl:afbeelding rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bird Diversity 2013.png</prop-nl:afbeelding>
+    <dbpedia-owl:picturesCommonsCategory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Category:Aves</dbpedia-owl:picturesCommonsCategory>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Zie_hoofdartikel"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">122</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:taxon rdf:resource="http://nl.dbpedia.org/resource/Klasse_(biologie)"/>
+    <prop-nl:stam rdf:resource="http://nl.dbpedia.org/resource/Chordadieren"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Navigatie_Aves"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Woordenboek"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <prop-nl:taxon rdf:resource="http://nl.dbpedia.org/resource/Klasse_(biologie)"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Taxobox"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vogels</rdfs:label>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Clearleft"/>
+    <dbpedia-owl:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vogels (Latijn: Aves; komt van avis, wat vogel betekent) zijn een klasse van de chordadieren (Chordata) met 10.507 wetenschappelijk beschreven nog levende soorten, in 2284 geslachten, 232 families en 40 orden, die allemaal twee zeer kenmerkende eigenschappen gemeen hebben: ze hebben vleugels en veren. Vogels hebben zeer uiteenlopende leefgebieden: van oceanen tot woestijnen en van tropische regenwouden tot het poolgebied. Ook in vorm en grootte zijn vogels zeer verschillend. De struisvogel is groot en kan niet vliegen; de kolibrie is klein en is een zeer behendige vlieger.</dbpedia-owl:abstract>
+    <prop-nl:portaal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vogels</prop-nl:portaal>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Zie_dp"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.soortenbank.nl/soorten.php?soortengroep=vogels"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bsc-eoc.org/avibase/avibase.jsp"/>
+    <prop-nl:species rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aves</prop-nl:species>
+    <dbpedia-owl:tribus rdf:resource="http://nl.dbpedia.org/resource/Chordadieren"/>
+    <dbpedia-owl:wikiPageEditLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Vogels&amp;action=edit"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Wrapper"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.watzingtdaar.nl"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.natuurgeluid.nl/clubsnds.htm"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1858</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.sovon.nl/default.asp?id=365"/>
+    <dbpedia-owl:wikiPageRevisionLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Vogels&amp;oldid=45405817"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">22202</dbpedia-owl:wikiPageLength>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vogels (Latijn: Aves; komt van avis, wat vogel betekent) zijn een klasse van de chordadieren (Chordata) met 10.507 wetenschappelijk beschreven nog levende soorten, in 2284 geslachten, 232 families en 40 orden, die allemaal twee zeer kenmerkende eigenschappen gemeen hebben: ze hebben vleugels en veren. Vogels hebben zeer uiteenlopende leefgebieden: van oceanen tot woestijnen en van tropische regenwouden tot het poolgebied. Ook in vorm en grootte zijn vogels zeer verschillend.</rdfs:comment>
+    <dbpedia-owl:wikiPageModified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-11-26T13:03:48+00:00</dbpedia-owl:wikiPageModified>
+    <prop-nl:rijk rdf:resource="http://nl.dbpedia.org/resource/Dierenrijk"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.avionary.info"/>
+    <dcterms:subject rdf:resource="http://nl.dbpedia.org/resource/Categorie:Vogel"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Appendix"/>
+    <dbpedia-owl:domain rdf:resource="http://nl.dbpedia.org/resource/Dierenrijk"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Navigatie_Vertebrata"/>
+    <dbpedia-owl:scientificName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aves</dbpedia-owl:scientificName>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <dbpedia-owl:wikiPageHistoryLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Vogels&amp;action=history"/>
+    <dbpedia-owl:wikiPageExtracted rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-11-26T13:06:10+00:00</dbpedia-owl:wikiPageExtracted>
+    <prop-nl:wNaam rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aves</prop-nl:wNaam>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45405817</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.waarneming.nl/"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://nl.wikipedia.org/wiki/Vogels"/>
+    <prop-nl:commons rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Category:Aves</prop-nl:commons>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Vogel">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Dromornis">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Masillaraptor">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Vogel_(dier)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Protoavis">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Ilbandornis">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Jeholornis">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Gerard_Ouweneel">
+    <dbpedia-owl:occupation rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Genyornis">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Valentijn_(heilige)">
+    <dbpedia-owl:features rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:attributen rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Sterns">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Vogels_(doorverwijspagina)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Messelasturidae">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Pachydyptes">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Vogelsoort">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Sophiornithidae">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Anthropornis">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Bullockornis">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Barawertornis">
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Odontopteryx">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Primapus">
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Vogels_(hoofdbetekenis)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Pelagornithidae">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Neogaeornis">
+    <dbpedia-owl:classis rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+    <prop-nl:klasse rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/El_Volador">
+    <prop-nl:thema rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Teugel_(vogel)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Aves">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Jardim_Zoológico_de_Lisboa">
+    <prop-nl:thema rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.wikipedia.org/wiki/Vogels">
+    <foaf:primaryTopic rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Dinosauriërs">
+    <dbpedia-owl:division rdf:resource="http://nl.dbpedia.org/resource/Vogels"/>
+  </rdf:Description>
+</rdf:RDF>

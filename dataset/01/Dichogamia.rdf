@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns3="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-pl="http://pl.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Dichogamia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Słupek"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Wydawnictwo_Naukowe_PWN"/>
+    <prop-pl:tytuł xml:lang="pl">Botanika. Podręcznik dla Techników Rolniczych</prop-pl:tytuł>
+    <prop-pl:nazwisko xml:lang="pl">Tołpa</prop-pl:nazwisko>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://naszekaktusy.republika.pl/okwiatachzapylaniuinasionach.html"/>
+    <dcterms:subject rdf:resource="http://pl.dbpedia.org/resource/Kategoria:Embriologia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Kategoria:Zapylanie"/>
+    <prop-pl:dataDostępu rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-02-14</prop-pl:dataDostępu>
+    <prop-pl:imię xml:lang="pl">Jan</prop-pl:imię>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">16</dbpedia-owl:wikiPageOutDegree>
+    <prop-pl:tytuł xml:lang="pl">O kwiatach, zapyleniu i nasionach</prop-pl:tytuł>
+    <prop-pl:tytuł xml:lang="pl">Słownik entomologiczny</prop-pl:tytuł>
+    <prop-pl:isbn rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">978</prop-pl:isbn>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1190825</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Obojnactwo"/>
+    <prop-pl:wydawca rdf:resource="http://pl.dbpedia.org/resource/Wydawnictwo_Naukowe_PWN"/>
+    <prop-pl:wikiPageUsesTemplate rdf:resource="http://pl.dbpedia.org/resource/Szablon:Cytuj_książkę"/>
+    <prop-pl:inni xml:lang="pl">Red. nauk. Czesław Błaszak</prop-pl:inni>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Samopylność"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2360</dbpedia-owl:wikiPageLength>
+    <prop-pl:wikiPageUsesTemplate rdf:resource="http://pl.dbpedia.org/resource/Szablon:Cytuj_stronę"/>
+    <prop-pl:data rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1987</prop-pl:data>
+    <prop-pl:strony rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">728</prop-pl:strony>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40504799</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Gameta"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Rośliny_nasienne"/>
+    <dcterms:subject rdf:resource="http://pl.dbpedia.org/resource/Kategoria:Zapylanie"/>
+    <prop-pl:miejsce xml:lang="pl">Warszawa</prop-pl:miejsce>
+    <prop-pl:data rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2009</prop-pl:data>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+    <rdfs:label xml:lang="pl">Dichogamia</rdfs:label>
+    <prop-pl:nazwisko xml:lang="pl">Radomski</prop-pl:nazwisko>
+    <prop-pl:isbn rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</prop-pl:isbn>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Przedsłupność"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Język_grecki"/>
+    <prop-pl:imię xml:lang="pl">Józef</prop-pl:imię>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Pręcik_(botanika)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Przedprątność"/>
+    <prop-pl:url rdf:resource="http://naszekaktusy.republika.pl/okwiatachzapylaniuinasionach.html"/>
+    <prop-pl:data rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1971</prop-pl:data>
+    <ns3:wasDerivedFrom rdf:resource="http://pl.wikipedia.org/wiki/Dichogamia?oldid=40504799"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Zapylenie_krzyżowe"/>
+    <prop-pl:wydawca xml:lang="pl">PWRiL</prop-pl:wydawca>
+    <prop-pl:tytuł xml:lang="pl">Zoologia : bezkręgowce. T. 1</prop-pl:tytuł>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Kategoria:Embriologia"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://pl.wikipedia.org/wiki/Dichogamia"/>
+    <prop-pl:imię xml:lang="pl">Stanisław</prop-pl:imię>
+    <prop-pl:nazwisko xml:lang="pl">Razowski</prop-pl:nazwisko>
+    <prop-pl:rozdział xml:lang="pl">Słownik terminów: Protandria i protogynia</prop-pl:rozdział>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Orzech_włoski">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Proteroginia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Cytryna_zwyczajna">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Murarka_ogrodowa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Proterogynia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Zigadenus_glaberrimus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Arachnitis_uniflora">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Białek_malutki">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Protoginia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Jaskier_ostry">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Przedsłupność">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Glorioza_wspaniała">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Jagodowiec">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Dychogamia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Corsia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Słonecznik_bulwiasty">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Protoandria">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.wikipedia.org/wiki/Dichogamia">
+    <foaf:primaryTopic rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Ostrożeń_warzywny">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Czworolist_pospolity">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Przedprątność">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Protogynia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Krynicznik_giętki">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Protandria">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Jaskier_rozłogowy">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Czyściec_leśny">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Mniszek_pospolity">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Łyczkowiec">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Pszczolinka_ruda">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Murena_olbrzymia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dichogamia"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_sexual_behaviour">
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=tmFJ1LhbVWcC&amp;printsec=frontcover"/>
+    <rdfs:comment xml:lang="ru">Половое поведение животных — термин, использующийся для обозначения некоторых поведенческих комплексов, обычно (но не всегда) связанных с осуществлением репродуктивной или копулятивной функции. Половое поведение у животных принимает многообразные формы, даже в пределах одного вида.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/動物の性行動"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animal_sexuality"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Monogamy_in_animals"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Promiscuity"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Reproduction_in_animals"/>
+    <rdfs:label xml:lang="fr">Sexualité animale</rdfs:label>
+    <dbo:wikiPageExternalLink rdf:resource="http://news.nationalgeographic.com/news/2004/07/0722_040722_gayanimal.html"/>
+    <rdfs:label xml:lang="ru">Половое поведение животных</rdfs:label>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1787105</dbo:wikiPageID>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Sexualidade_animal"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Animal_sexual_behaviour?oldid=682748185"/>
+    <rdfs:label xml:lang="pt">Sexualidade animal</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2431958"/>
+    <dbo:abstract xml:lang="ja">動物の性行動（どうぶつのせいこうどう）には同じ種のあいだでさえ様々な形態がある。研究者は一夫一婦あるいは多妻、種を越えた交尾、物体または場所による性的覚醒、強迫または強制によると思われる交尾、死んだ個体との交尾、同性愛的・異性愛的・両性愛的行動、状況に応じた性行動などを観察してきた。関連する研究は間性およびトランスジェンダーの動物のように肉体の性別および行動のジェンダーにおける多様性をしめしている。動物の性に関する研究（とくに霊長類の性研究）は急速に発達した分野である。以前は人間および一握りの種だけが生殖とは関係のない性行為をおこない、動物の性は本能的であり、視覚や嗅覚への「適当な」刺激に反応しているだけだと信じられていた。しかし、現在ではつぎのようなことがわかっている。単婚だと信じられていた多くの種が今や元来一夫多妻または日和見主義だと証明されている。広範囲の種が自慰をなし、自慰の際には道具となる物体をつかうことが明らかになっている。多くの種の動物が生殖を目的としないで、たがいに性的刺激を与えたり受けたりしている。そして、500の種では同性愛的行動も観察されている。</dbo:abstract>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Sexualité_animale"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Animal_sexual_behaviour"/>
+    <rdfs:comment xml:lang="ja">動物の性行動（どうぶつのせいこうどう）には同じ種のあいだでさえ様々な形態がある。研究者は一夫一婦あるいは多妻、種を越えた交尾、物体または場所による性的覚醒、強迫または強制によると思われる交尾、死んだ個体との交尾、同性愛的・異性愛的・両性愛的行動、状況に応じた性行動などを観察してきた。関連する研究は間性およびトランスジェンダーの動物のように肉体の性別および行動のジェンダーにおける多様性をしめしている。動物の性に関する研究（とくに霊長類の性研究）は急速に発達した分野である。以前は人間および一握りの種だけが生殖とは関係のない性行為をおこない、動物の性は本能的であり、視覚や嗅覚への「適当な」刺激に反応しているだけだと信じられていた。しかし、現在ではつぎのようなことがわかっている。単婚だと信じられていた多くの種が今や元来一夫多妻または日和見主義だと証明されている。広範囲の種が自慰をなし、自慰の際には道具となる物体をつかうことが明らかになっている。多くの種の動物が生殖を目的としないで、たがいに性的刺激を与えたり受けたりしている。そして、500の種では同性愛的行動も観察されている。</rdfs:comment>
+    <rdfs:label xml:lang="ja">動物の性行動</rdfs:label>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mating"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2431958"/>
+    <dbo:abstract xml:lang="ru">Половое поведение животных — термин, использующийся для обозначения некоторых поведенческих комплексов, обычно (но не всегда) связанных с осуществлением репродуктивной или копулятивной функции. Половое поведение у животных принимает многообразные формы, даже в пределах одного вида.</dbo:abstract>
+    <rdfs:comment xml:lang="fr">La sexualité animale est diverse et dépend des espèces. Certaines pratiques peuvent être rapprochées de pratiques humaines.</rdfs:comment>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/KaempfendeHirsche-2-cropped.jpg"/>
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=5CbRGV8AAIQC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Mating_of_gastropods"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pinknews.co.uk/news/articles/2005-450.html"/>
+    <dbo:abstract xml:lang="pt">A sexualidade animal assume várias formas diferentes, até mesmo no que diz respeito à mesma espécie. Entre os animais, os pesquisadores refletem sobre a monogamia, promiscuidade, cruzamento genético entre espécies, excitação sexual entre os animais a partir de objetos ou lugares, sexo através de coacção ou coerção, cópula entre animais mortos, homossexualidade no reino animal, comportamento heterossexual e bissexual, comportamento sexual situacional e uma gama variada de outras práticas.Quando a sexualidade animal dirige-se pelo ato reprodutivo, é frequentemente denominado de acasalamento ou cópula; para a maioria dos mamíferos não-humanos, o acasalamento e a cópula ocorre no ponto de cio (o período mais fértil do tempo do ciclo reprodutivo do sexo feminino), o que aumenta a probabilidade de sucesso de impregnação. No entanto, o estudo da sexualidade animal (especialmente a de primatas) é um campo de estudo em rápido desenvolvimento. Enquanto se acreditava que somente os seres humanos e um punhado de outras espécies realizavam atos sexuais enquanto que outros o faziam para reprodução, e que a sexualidade dos animais era apenas uma atividade instintiva e uma resposta simples para a estimulação (visão, cheiro), o entendimento atual é que muitas espécies que antes eram consideradas monogâmicas são promíscuas ou oportunistas na natureza. Uma ampla gama de espécies surgem tanto para se masturbar e usar objetos como ferramentas que os auxiliam a fazê-lo, em muitas espécies, animais tentam dar e obter estimulação sexual com outras, onde a reprodução não é o foco. Esse comportamento homossexual foi observado em 1 500 espécies, em que 500 delas foram documentadas.O comportamento sexual de animais tem sido um estudo de amplas controvérsias para muitos estudiosos. As fêmeas seleccionam os machos, avaliando a sua capacidade física, sendo eles capazes ou não de garantir proteção. As lutas entre machos da mesma espécie, são meios pelo qual as fêmeas escolhem o parceiro ou líder do grupo, para acasalar com o maior número de fêmeas, fazendo passar os seus genes em sua prole.== Referências ==</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=PUpYID8Rc3UC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/KaempfendeHirsche-2-cropped.jpg?width=300"/>
+    <dbo:abstract xml:lang="fr">La sexualité animale est diverse et dépend des espèces. Certaines pratiques peuvent être rapprochées de pratiques humaines.</dbo:abstract>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ethology"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">682748185</dbo:wikiPageRevisionID>
+    <rdfs:comment xml:lang="en">Animal sexual behaviour takes many different forms, even within the same species. Common mating or reproductively motivated systems include monogamy, polyandry, polygamy, and promiscuity. Other sexual behaviour may be reproductively motivated (e.g. sex apparently due to duress or coercion and situational sexual behaviour) or non-reproductively motivated (e.g.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05wwpj"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cuckold"/>
+    <dbo:abstract xml:lang="en">Animal sexual behaviour takes many different forms, even within the same species. Common mating or reproductively motivated systems include monogamy, polyandry, polygamy, and promiscuity. Other sexual behaviour may be reproductively motivated (e.g. sex apparently due to duress or coercion and situational sexual behaviour) or non-reproductively motivated (e.g. interspecific sexuality, sexual arousal from objects or places, sex with dead animals, homosexual sexual behaviour, bisexual sexual behaviour, and a range of other behaviours).When animal sexual behaviour is reproductively motivated, it is often termed mating or copulation; for most non-human mammals, mating and copulation occur at estrus (the most fertile period in the mammalian female's reproductive cycle), which increases the chances of successful impregnation.  Some animal sexual behaviour involves competition, sometimes fighting, between multiple males. Females often select males for mating only if they appear strong and able to protect themselves.  The male that wins a fight may also have the chance to mate with a larger number of females and will therefore pass on his genes to their offspring.Historically, it was believed that only humans and a small number of other species performed sexual acts other than for reproduction, and that animals' sexuality was instinctive and a simple "stimulus-response" behaviour. A range of species masturbate and may use objects as tools to help them do so.</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gayprocon.org/bin/procon/procon.cgi?database=5-A-Subs-4.db&amp;command=viewone&amp;op=t&amp;id=3&amp;rnd=452.5414171644969"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.world-science.net/othernews/061024_gay-animals.htm"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.sfgate.com/bayarea/article/SAN-FRANCISCO-Not-your-mama-s-birds-and-bees-2522984.php"/>
+    <rdfs:comment xml:lang="pt">A sexualidade animal assume várias formas diferentes, até mesmo no que diz respeito à mesma espécie.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Sequential_hermaphroditism"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pinknews.co.uk/news/articles/2005-410.html"/>
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=g977LsZHpcsC&amp;q=intromission%20OR%20copulation%20OR%20coitus%20OR%20ejaculation%20OR%20%22sexual%20behavior%22"/>
+    <rdfs:label xml:lang="en">Animal sexual behaviour</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animals_mating">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Copulatory_behavior">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_sexual_behavior">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sexual_pleasure_in_non-human_animals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Interspecies_mating">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Polygyny_in_animals">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sexual_motivation_in_non-human_animals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monogamy_in_animals">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sexual_behaviour_in_animals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homosexual_behavior_in_animals">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sexual_behavior_of_non-human_animals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bottlenose_dolphin">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sexual_behavior_of_animals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Origins_in_Humanity_in_Cross-breeding">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mating_animals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Non-human_animal_sexual_behaviour">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Breeding_in_the_wild">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mating_of_animals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Non-Human_Animal_Sexual_Behavior">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_sexuality">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sexuality_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mating_behavior_of_mammals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bonobo">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rape_flight">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_Sexual_Behaviour">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Primate_sexuality">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seahorse">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mating_system">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_sex">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Domestic_sheep_reproduction">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mating_mammals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Extra-pair_copulations">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Non-human_animal_sexual_behavior">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sexual_fetishism">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inter-species_sex">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sex_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tribadism">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spawn_(biology)">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Non-Human_Animal_Sexuality">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Animal_sexual_behaviour">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reproductive_sexual_behavior_in_animals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orgasm">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_Sexuality">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homosexual_necrophilia_in_animals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Traumatic_insemination">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inbreeding_avoidance">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Non-human_animal_sexuality">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Animal_sexual_behaviour"/>
+  </rdf:Description>
+</rdf:RDF>

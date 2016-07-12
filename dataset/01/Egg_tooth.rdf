@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Egg_tooth">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bird_breeding"/>
+    <rdfs:label xml:lang="nl">Eitand</rdfs:label>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Diamant_(anatomie)"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">682744551</dbo:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q669339"/>
+    <dbo:abstract xml:lang="fr">Le diamant (ou dent de délivrance, ruptor ovi) est une pièce cornée blanche que les petits des animaux ovipares (oiseaux, reptiles et monotrèmes) possèdent à l'extrémité du bec ou du museau lors de l'éclosion et utilisent pour casser la coquille. Ce diamant disparaît par érosion naturelle quelques jours après la naissance.Portail de l'anatomie Portail de l'anatomie Portail de l'ornithologie Portail de l'ornithologie Portail de l’herpétologie Portail de l’herpétologie</dbo:abstract>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Egg_tooth"/>
+    <rdfs:comment xml:lang="fr">Le diamant (ou dent de délivrance, ruptor ovi) est une pièce cornée blanche que les petits des animaux ovipares (oiseaux, reptiles et monotrèmes) possèdent à l'extrémité du bec ou du museau lors de l'éclosion et utilisent pour casser la coquille. Ce diamant disparaît par érosion naturelle quelques jours après la naissance.Portail de l'anatomie Portail de l'anatomie Portail de l'ornithologie Portail de l'ornithologie Portail de l’herpétologie Portail de l’herpétologie</rdfs:comment>
+    <rdfs:label xml:lang="en">Egg tooth</rdfs:label>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07p0h6"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2574635</dbo:wikiPageID>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ząb_jajowy"/>
+    <dbo:abstract xml:lang="de">Als Eizahn wird eine Struktur bezeichnet, die von jungen Tieren genutzt wird, um beim Schlüpfen von innen die Eischale aufzubrechen. Bei Echsen und Schlangen handelt es sich dabei um einen abgewandelten Zahn am Zwischenkieferbein. Geckos weisen häufig einen doppelten Eizahn auf.Bei Vögeln, Schildkröten, Krokodilen und Kloakentieren übernimmt dieselbe Funktion eine stark verhornte Erhebung auf dem Schnabel beziehungsweise der Schnauzenspitze. Diese wird auch als Eischwiele bezeichnet, um sie von den echten Eizähnen abzugrenzen.Eizähne oder Eischwielen werden meist kurze Zeit nach dem Schlüpfen abgeworfen oder zurückgebildet.Auch bei Insekten, speziell bei Libellen, werden Strukturen, mit denen sich diese aus den Eiern befreien, in Analogie zum Eizahn der Vögel als Eizahn bezeichnet. Bei ihnen handelt es sich allerdings um sägeartige Sagitalkämme auf dem Kopf der Larven.</dbo:abstract>
+    <rdfs:comment xml:lang="es">En algunos animales ovíparos, el diente de huevo es una protuberancia craneal pequeña y aguda utilizada por las crías para romper o rasgar la cáscara del huevo al final del periodo de incubación.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Diente_de_huevo"/>
+    <rdfs:comment xml:lang="nl">Een eitand is een tand die meestal alleen wordt gebruikt bij het openen van het ei door het juveniele dier. Het komt vooral voor bij reptielen; vooral schildpadden, slangen en sommige hagedissen kennen deze extra en meestal tijdelijke tand. Het hoeft niet per se een in de kaak gegroeide tand te zijn, bij schildpadden betreft het meer een verstevigde schub in plaats van een tand, maar de functie is hetzelfde.</rdfs:comment>
+    <rdfs:comment xml:lang="en">In some egg-laying animals, the egg tooth is a small, sharp, cranial protuberance used by offspring to break or tear through the egg's surface during hatching. It is present in most birds and reptiles, and similar structures exist in monotremes, Eleutherodactyl frogs, and spiders.Some lizards and snakes develop a true tooth that is shed after use; other reptiles and birds generally develop an analogous epidermal horn that is reabsorbed or falls off.</rdfs:comment>
+    <dbo:abstract xml:lang="pl">Ząb jajowy - wytwór rogowy występujący u młodych jajorodnych zwierząt, służący do przebicia się przez skorupkę jajka. Występuje u większości gatunków ptaków i gadów. Podobne struktury występują również u stekowców oraz żab z rodzaju Eleutherodactylus.U węży ząb jajowy znajduje się zwykle na czubku pyska i odpada w kilka godzin po wykluciu się młodego osobnika[potrzebne źródło]. U ptaków zanika kilka dni po wykluciu.== Przypisy ==</dbo:abstract>
+    <rdfs:label xml:lang="fr">Diamant (anatomie)</rdfs:label>
+    <dbo:abstract xml:lang="en">In some egg-laying animals, the egg tooth is a small, sharp, cranial protuberance used by offspring to break or tear through the egg's surface during hatching. It is present in most birds and reptiles, and similar structures exist in monotremes, Eleutherodactyl frogs, and spiders.Some lizards and snakes develop a true tooth that is shed after use; other reptiles and birds generally develop an analogous epidermal horn that is reabsorbed or falls off.</dbo:abstract>
+    <rdfs:comment xml:lang="de">Als Eizahn wird eine Struktur bezeichnet, die von jungen Tieren genutzt wird, um beim Schlüpfen von innen die Eischale aufzubrechen. Bei Echsen und Schlangen handelt es sich dabei um einen abgewandelten Zahn am Zwischenkieferbein. Geckos weisen häufig einen doppelten Eizahn auf.Bei Vögeln, Schildkröten, Krokodilen und Kloakentieren übernimmt dieselbe Funktion eine stark verhornte Erhebung auf dem Schnabel beziehungsweise der Schnauzenspitze.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Ząb jajowy - wytwór rogowy występujący u młodych jajorodnych zwierząt, służący do przebicia się przez skorupkę jajka. Występuje u większości gatunków ptaków i gadów. Podobne struktury występują również u stekowców oraz żab z rodzaju Eleutherodactylus.U węży ząb jajowy znajduje się zwykle na czubku pyska i odpada w kilka godzin po wykluciu się młodego osobnika[potrzebne źródło]. U ptaków zanika kilka dni po wykluciu.== Przypisy ==</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Types_of_teeth"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Eitand"/>
+    <dbo:abstract xml:lang="nl">Een eitand is een tand die meestal alleen wordt gebruikt bij het openen van het ei door het juveniele dier. Het komt vooral voor bij reptielen; vooral schildpadden, slangen en sommige hagedissen kennen deze extra en meestal tijdelijke tand. Het hoeft niet per se een in de kaak gegroeide tand te zijn, bij schildpadden betreft het meer een verstevigde schub in plaats van een tand, maar de functie is hetzelfde. Veel eierschalen zijn namelijk niet alleen hard zoals bij een kip, maar ook taai, waardoor kracht alleen (jonge dieren zijn uiteraard niet zo sterk) niet genoeg is; zonder deze tand komen veel jongen het ei niet eens uit. De meeste reptielen verliezen deze eitand vaak vlak na het uitkomen, sommige draadwormslangen en wormhagedissen behouden de tand, het is echter niet bekend of ze er nog een functie voor hebben, omdat van eerder genoemde families weinig bekend is vanwege het ondergrondse bestaan.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Eizahn"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animal_anatomy"/>
+    <dbo:abstract xml:lang="es">En algunos animales ovíparos, el diente de huevo es una protuberancia craneal pequeña y aguda utilizada por las crías para romper o rasgar la cáscara del huevo al final del periodo de incubación. Este diente está presente en la mayor parte de las aves y reptiles, y las arañas y los mamíferos monotremas como el ornitorrinco cuentan con estructuras similares.Algunos lagartos y serpientes desarrollan un diente verdadero que pierden tras su utilización; otros reptiles y aves generalmente desarrollan un pequeño cuerno epidérmico análogo que es reabsorbido o termina cayendo.</dbo:abstract>
+    <rdfs:label xml:lang="pl">Ząb jajowy</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Poicephalus_senegalus_-egg_tooth_-two_weeks-21July07.JPG?width=300"/>
+    <rdfs:label xml:lang="de">Eizahn</rdfs:label>
+    <dbo:abstract xml:lang="ru">Яйцево́й зуб — передний зуб на одной из предчелюстных костей, имеющийся у зародышей ящериц и змей.Яйцевой зуб служит для пробивания яйцевых оболочек и скорлупы при вылуплении. У гекконов он парный; у живородящих обычно редуцирован.Также термин яйцевой зуб (яйцевой бугорок) применяется для обозначения прочного заострённого рогового бугорка на переднем конце челюсти у зародышей некоторых пресмыкающихся (черепахи, крокодилы), а также птиц. Он временно развивается на верхней челюсти или на конце верхней части клюва — надклювья и также необходим для пробивания яичной скорлупы. После вылупления отпадает.</dbo:abstract>
+    <rdfs:comment xml:lang="ru">Яйцево́й зуб — передний зуб на одной из предчелюстных костей, имеющийся у зародышей ящериц и змей.Яйцевой зуб служит для пробивания яйцевых оболочек и скорлупы при вылуплении. У гекконов он парный; у живородящих обычно редуцирован.Также термин яйцевой зуб (яйцевой бугорок) применяется для обозначения прочного заострённого рогового бугорка на переднем конце челюсти у зародышей некоторых пресмыкающихся (черепахи, крокодилы), а также птиц.</rdfs:comment>
+    <rdfs:label xml:lang="es">Diente de huevo</rdfs:label>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q669339"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Poicephalus_senegalus_-egg_tooth_-two_weeks-21July07.JPG"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Egg_tooth"/>
+    <rdfs:label xml:lang="ru">Яйцевой зуб</rdfs:label>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Egg_tooth?oldid=682744551"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Egg_Tooth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Egg_tooth"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Egg-tooth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Egg_tooth"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Egg_teeth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Egg_tooth"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tooth_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Egg_tooth"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pipping">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Egg_tooth"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eggtooth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Egg_tooth"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Egg_tooth"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Egg_tooth">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Egg_tooth"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Epidermal_Tooth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Egg_tooth"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pipping_(animal_behavior)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Egg_tooth"/>
+  </rdf:Description>
+</rdf:RDF>

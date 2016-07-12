@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mating_of_gastropods">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Gastropods"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mating"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Mating_of_gastropods"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.scholarpedia.org/article/Gastropod_reproductive_behavior"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">676278379</dbo:wikiPageRevisionID>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Mating_of_gastropods?oldid=676278379"/>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Snails_mating.jpg?width=300"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q17098514"/>
+    <dbo:abstract xml:lang="en">The mating of gastropods is a vast and varied topic, because the taxonomic class Gastropoda is very large and diverse, a group comprising sea snails and sea slugs, freshwater snails and land snails and slugs. Gastropods are second only to the class Insecta in terms of total number of species. Some gastropods have separate sexes, others are hermaphroditic. Some hermaphroditic groups have simultaneous hermaphroditism, whereas some sequential hermaphroditism. In addition, numerous very different mating strategies are used within different taxa.This article currently focuses primarily on the mating habits of air-breathing terrestrial slugs. Land slugs can be thought of as land snails that over evolutionary time have either lost the shell completely, have a very reduced external shell, or have retained only internal remnants of a shell. Land slugs are a highly polyphyletic group, which means that many land slug families are not at all closely related to one another.The majority of land slugs are simultaneous hermaphrodites, meaning they possess both male and female reproductive organs that are functional at the same time. Some species regularly self-fertilise. Uniparental reproduction may also occur by apomixis, an asexual process.For the most part, however, land slugs do mate: they find partners, and engage in elaborate courtship rituals before actual sperm transfer takes place. It is common for slugs to mate in a simultaneous reciprocal manner, as occurs in the monophyletic groups Limacoidea and Philomycidae. Limacoidea comprises the family Limacidae (the keelback slugs) and the largest genus of slugs, Deroceras, which contains over 100 known species. Sperm transfer may be external (as in Deroceras) or internal (as in Ariolimax).</dbo:abstract>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42652520</dbo:wikiPageID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Mating_of_gastropods"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q17098514"/>
+    <rdfs:comment xml:lang="en">The mating of gastropods is a vast and varied topic, because the taxonomic class Gastropoda is very large and diverse, a group comprising sea snails and sea slugs, freshwater snails and land snails and slugs. Gastropods are second only to the class Insecta in terms of total number of species. Some gastropods have separate sexes, others are hermaphroditic. Some hermaphroditic groups have simultaneous hermaphroditism, whereas some sequential hermaphroditism.</rdfs:comment>
+    <rdfs:label xml:lang="en">Mating of gastropods</rdfs:label>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Snails_mating.jpg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Mating_of_gastropods">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Mating_of_gastropods"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gastropoda">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Mating_of_gastropods"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_sexual_behaviour">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Mating_of_gastropods"/>
+  </rdf:Description>
+</rdf:RDF>

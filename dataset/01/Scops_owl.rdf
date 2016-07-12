@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dbp="http://dbpedia.org/property/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scops_owl">
+    <dbo:kingdom rdf:resource="http://dbpedia.org/resource/Animal"/>
+    <rdfs:comment xml:lang="fr">Otus est un genre d'oiseaux de la famille des Strigidae. Il est constitué d'une cinquantaine d'espèces de petits-ducs.</rdfs:comment>
+    <dbo:abstract xml:lang="en">Scops owls are Strigidae (typical owls) mostly belonging to the genus Otus. Approximately 45 living species are known, but new ones are frequently recognized and unknown ones are still being discovered every few years or so, especially in Indonesia. For most of the 20th century, this genus included the American screech owls, which are now again separated in Megascops based on a range of behavioral, biogeographical, morphological and DNA sequence data. Otus is the largest genus of owls in terms of number of species.Scops owls in the modern sense are restricted to the Old World.  A single North American species, the flammulated owl, was provisionally placed in Otus and has now been moved to its own monotypic genus. See below for details.As usual for owls, female scops owls are usually larger than the males of their species, with owls of both sexes being compact in size and shape. All of the birds in this genus are small and agile. Scops owls are colored in various brownish hues, sometimes with a lighter underside and/or face, which helps to camouflage them against the bark of trees. Some are polymorphic, occurring in a greyish- and a reddish-brown morph.</dbo:abstract>
+    <dbp:subclassis rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <dbp:superordo rdf:resource="http://dbpedia.org/resource/Neoaves"/>
+    <dbp:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <rdfs:label xml:lang="it">Otus</rdfs:label>
+    <dbp:regnum rdf:resource="http://dbpedia.org/resource/Animal"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Otus"/>
+    <dbp:format rdf:resource="http://dbpedia.org/resource/Ogg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+    <rdfs:label xml:lang="pt">Otus</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+    <dbo:abstract xml:lang="es">Otus es un género de aves rapaces nocturnas de la familia Strigidae conocidas habitualmente como autillos o tecolotes.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Со́вки (лат. Otus) — род птиц семейства совиные.У всех совок неполный лицевой диск, довольно большие перьевые «ушки», голые или с жёсткими щетинками пальцы. Они имеют рыжеватый, буроватый или сероватый с пестринами окрас, который хорошо маскирует сплюшек на дереве.</dbo:abstract>
+    <dbp:classis rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <rdfs:label xml:lang="en">Scops owl</rdfs:label>
+    <rdfs:label xml:lang="es">Otus</rdfs:label>
+    <dbp:genusAuthority xml:lang="en">Pennant, 1769</dbp:genusAuthority>
+    <dbp:imageCaption xml:lang="en">Eurasian scops owls, Otus scops</dbp:imageCaption>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Otus_scops_ab_cropped.png?width=300"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">585682</dbo:wikiPageID>
+    <dbo:abstract xml:lang="de">Die Zwergohreulen (Otus) sind eine Gattung der Eigentlichen Eulen (Strigidae). Diese enthält etwa 50 Arten, die in der Paläarktis, der Afrotropis, der Orientalis, in der indo-malaiischen Faunenregion und mit einer Art auch in der nördlichsten Australis vorkommen. Die größte Artenvielfalt besteht in der indomalaiischen Region, wo sich sehr viele Inselarten herausgebildet haben. Im südlichen Mitteleuropa lebt nur die namengebende Zwergohreule (Otus scops). Sie ist unter den Eigentlichen Eulen der einzige obligate Langstreckenzieher.</dbo:abstract>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbp:diversityLink xml:lang="en">#Species</dbp:diversityLink>
+    <dbp:filename xml:lang="en">Otus sunia.ogg</dbp:filename>
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Neognathae"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q832329"/>
+    <dbo:abstract xml:lang="pt">Otus é um gênero de corujas.</dbo:abstract>
+    <dbp:genus xml:lang="en">Otus</dbp:genus>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+    <rdfs:comment xml:lang="pt">Otus é um gênero de corujas.</rdfs:comment>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Scops_owl"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Otus_(geslacht)"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">677717470</dbo:wikiPageRevisionID>
+    <rdfs:comment xml:lang="en">Scops owls are Strigidae (typical owls) mostly belonging to the genus Otus. Approximately 45 living species are known, but new ones are frequently recognized and unknown ones are still being discovered every few years or so, especially in Indonesia. For most of the 20th century, this genus included the American screech owls, which are now again separated in Megascops based on a range of behavioral, biogeographical, morphological and DNA sequence data.</rdfs:comment>
+    <dbo:synonym>Scopus Oken1817</dbo:synonym>
+    <rdfs:comment xml:lang="ru">Со́вки (лат. Otus) — род птиц семейства совиные.У всех совок неполный лицевой диск, довольно большие перьевые «ушки», голые или с жёсткими щетинками пальцы. Они имеют рыжеватый, буроватый или сероватый с пестринами окрас, который хорошо маскирует сплюшек на дереве.</rdfs:comment>
+    <dbo:soundRecording rdf:resource="http://dbpedia.org/resource/Scops_owl__1"/>
+    <dbo:abstract xml:lang="ar">بومة أذناء صغيرة أو الثبج المخطط تعتبر من أصغر الأنواع في الأردن حيث لا يتجاوز طولها العشرين سنتيمترا. يفرخ هذا النوع من البوم في الأردن على الرغم من أنه أقل شيوعا من الأنواع الأخرى إذ شوهد في مناطق كإربد وعجلون والكرك والجبيهة (قرب الجامعة الأردنية).</dbo:abstract>
+    <rdfs:comment xml:lang="ar">بومة أذناء صغيرة أو الثبج المخطط تعتبر من أصغر الأنواع في الأردن حيث لا يتجاوز طولها العشرين سنتيمترا. يفرخ هذا النوع من البوم في الأردن على الرغم من أنه أقل شيوعا من الأنواع الأخرى إذ شوهد في مناطق كإربد وعجلون والكرك والجبيهة (قرب الجامعة الأردنية).</rdfs:comment>
+    <dbo:synonym>(non Moehring, 1758,Brünnich, 1772:preoccupied)</dbo:synonym>
+    <dbo:synonym>Scops Savigny, 1809</dbo:synonym>
+    <dbp:infraclassis rdf:resource="http://dbpedia.org/resource/Neognathae"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Otus_scops_ab_cropped.png"/>
+    <rdfs:label xml:lang="ar">بومة أذناء صغيرة</rdfs:label>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Scops_owl?oldid=677717470"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <rdfs:label xml:lang="de">Zwergohreulen</rdfs:label>
+    <dbo:abstract xml:lang="it">Otus Pennant, 1769 è un genere di uccelli rapaci della famiglia degli Strigidi.</dbo:abstract>
+    <rdfs:comment xml:lang="pl">Otus – rodzaj ptaków z rodziny puszczykowatych (Strigidae).</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Otus"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q832329"/>
+    <dbp:diversity xml:lang="en">Around 45 species</dbp:diversity>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02sn8w"/>
+    <rdfs:comment xml:lang="it">Otus Pennant, 1769 è un genere di uccelli rapaci della famiglia degli Strigidi.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Bird"/>
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <dbo:abstract xml:lang="nl">Otus (Dwergooruilen) is een geslacht van vogels uit de familie van de uilen (Strigidae). De wetenschappelijke naam van het geslacht is voor het eerst geldig gepubliceerd in 1769 door Pennant.</dbo:abstract>
+    <dbp:ordo rdf:resource="http://dbpedia.org/resource/Owl"/>
+    <rdfs:comment xml:lang="es">Otus es un género de aves rapaces nocturnas de la familia Strigidae conocidas habitualmente como autillos o tecolotes.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Otus (Dwergooruilen) is een geslacht van vogels uit de familie van de uilen (Strigidae). De wetenschappelijke naam van het geslacht is voor het eerst geldig gepubliceerd in 1769 door Pennant.</rdfs:comment>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Otus"/>
+    <dbo:abstract xml:lang="fr">Otus est un genre d'oiseaux de la famille des Strigidae. Il est constitué d'une cinquantaine d'espèces de petits-ducs.</dbo:abstract>
+    <dbp:description xml:lang="en">Recorded in Parambikulam</dbp:description>
+    <dbo:order rdf:resource="http://dbpedia.org/resource/Neoaves"/>
+    <dbp:name xml:lang="en">Scops owls</dbp:name>
+    <dbp:synonyms xml:lang="en">Scopus Oken 1817</dbp:synonyms>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Otus"/>
+    <rdfs:label xml:lang="zh">角鸮属</rdfs:label>
+    <dbp:title xml:lang="en">Call of oriental scops owl</dbp:title>
+    <foaf:name xml:lang="en">Scops owls</foaf:name>
+    <rdfs:comment xml:lang="de">Die Zwergohreulen (Otus) sind eine Gattung der Eigentlichen Eulen (Strigidae). Diese enthält etwa 50 Arten, die in der Paläarktis, der Afrotropis, der Orientalis, in der indo-malaiischen Faunenregion und mit einer Art auch in der nördlichsten Australis vorkommen. Die größte Artenvielfalt besteht in der indomalaiischen Region, wo sich sehr viele Inselarten herausgebildet haben. Im südlichen Mitteleuropa lebt nur die namengebende Zwergohreule (Otus scops).</rdfs:comment>
+    <dbo:synonym>(nonBrisson, 1760:preoccupied)</dbo:synonym>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ώτος_(πτηνό)"/>
+    <dbp:pos xml:lang="en">left</dbp:pos>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Zwergohreulen"/>
+    <dbo:abstract xml:lang="pl">Otus – rodzaj ptaków z rodziny puszczykowatych (Strigidae).</dbo:abstract>
+    <dbo:order rdf:resource="http://dbpedia.org/resource/Owl"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Owls"/>
+    <rdfs:label xml:lang="ru">Совки (птицы)</rdfs:label>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Otus"/>
+    <rdfs:label xml:lang="pl">Otus</rdfs:label>
+    <dbp:synonyms xml:lang="en">Scops Savigny, 1809</dbp:synonyms>
+    <rdfs:label xml:lang="fr">Otus</rdfs:label>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Otus"/>
+    <rdfs:label xml:lang="nl">Otus (geslacht)</rdfs:label>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q729"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cue_owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/White-fronted_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pemba_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicobar_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Negros_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scops-owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anjouan_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giant_scops_owl">
+    <dbp:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pallid_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andaman_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sandy_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+    <dbp:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunda_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+    <dbp:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mindanao_scops_owl">
+    <dbp:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cueowls">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eurasian_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sokoke_scops_owl">
+    <dbp:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reddish_scops_owl">
+    <dbp:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Torotoroka_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mentawai_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palawan_scops_owl">
+    <dbp:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryūkyū_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madeiran_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Collared_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scops_owls">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moheli_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arabian_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enggano_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/São_Tomé_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indian_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seychelles_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scops_Owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otus_(Genus)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sulawesi_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Javan_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+    <dbp:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karthala_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flores_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+    <dbp:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scop_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sangihe_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Serendib_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moluccan_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simeulue_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oriental_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Socotra_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cueowl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otus">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cue-owls">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cue-owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sula_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mayotte_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scopsowl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Biak_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mindoro_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mantanani_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scops-owls">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siau_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rajah_scops_owl">
+    <dbp:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scopsowls">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippine_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aichi_Prefecture">
+    <dbp:bird rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otus_(genus)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Everett's_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luzon_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mountain_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+    <dbp:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wallace's_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/African_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rainforest_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Scops_owl">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otus_(bird)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cue_owls">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Whiskered_screech_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rinjani_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/São_Miguel_scops_owl">
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Scops_owl"/>
+  </rdf:Description>
+</rdf:RDF>

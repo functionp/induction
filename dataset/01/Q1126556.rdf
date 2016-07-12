@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:ns4="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q1126556">
+    <rdfs:label xml:lang="hu">Madárdal</rdfs:label>
+    <owl:sameAs rdf:resource="http://wa.dbpedia.org/resource/Xhuflaedje_d'_oujhea"/>
+    <rdfs:label xml:lang="nl">vogelzang</rdfs:label>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Вокализация_птиц"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Birdokanto"/>
+    <rdfs:label xml:lang="pt">Vocalização das aves</rdfs:label>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Vocalização_das_aves"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6843</dbpedia-owl:wikiPageLength>
+    <rdfs:label xml:lang="uk">Вокалізація птахів</rdfs:label>
+    <rdfs:label xml:lang="eo">Birdokanto</rdfs:label>
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Fuglesang"/>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q1126556"/>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Madárdal"/>
+    <rdfs:label xml:lang="fr">Vocalisation des oiseaux</rdfs:label>
+    <rdfs:label xml:lang="et">Linnulaul</rdfs:label>
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/Vocalización_das_aves"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Vocalización_de_las_aves"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Vocalisation_des_oiseaux"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/آوای_پرندگان"/>
+    <rdfs:label xml:lang="ar">صوت الطيور</rdfs:label>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">169802649</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="es">Vocalización de las aves</rdfs:label>
+    <rdfs:label xml:lang="en">bird vocalization</rdfs:label>
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/Fuglevokalisering"/>
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/Oglašanje_ptic"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Vocalització_dels_ocells"/>
+    <rdfs:label xml:lang="ru">Вокализация птиц</rdfs:label>
+    <rdfs:label xml:lang="sl">Oglašanje ptic</rdfs:label>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Fågelläte"/>
+    <ns4:wasDerivedFrom rdf:resource="http://www.wikidata.org/wiki/Q1126556?oldid=169802649"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Vogelzang_(ornithologie)"/>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/صوت_الطيور"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ptasi_śpiew"/>
+    <rdfs:label xml:lang="ca">Vocalització dels ocells</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bird_vocalization"/>
+    <owl:sameAs rdf:resource="http://is.dbpedia.org/resource/Fuglasöngur"/>
+    <rdfs:label xml:lang="de">Vogelgesang</rdfs:label>
+    <rdfs:label xml:lang="pl">Ptasi śpiew</rdfs:label>
+    <rdfs:label xml:lang="sv">Fågelläte</rdfs:label>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Vogelgesang"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1126556"/>
+    <rdfs:seeAlso rdf:resource="https://commons.wikimedia.org/wiki/Category:Sounds_of_birds"/>
+    <owl:sameAs rdf:resource="http://freebase.com//m/020bb7"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Вокалізація_птахів"/>
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Bird_sound"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1073607</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Linnulaul"/>
+  </rdf:Description>
+</rdf:RDF>

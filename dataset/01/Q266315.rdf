@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:ns4="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q266315">
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Danh_sách_chi_chim"/>
+    <rdfs:label xml:lang="ru">Список родов птиц</rdfs:label>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Anexo:Géneros_de_aves"/>
+    <rdfs:label xml:lang="uk">Список родів птахів</rdfs:label>
+    <rdfs:label xml:lang="hu">A madarak nemeinek listája</rdfs:label>
+    <rdfs:label xml:lang="en">List of bird genera</rdfs:label>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Список_родов_птиц"/>
+    <rdfs:label xml:lang="nl">lijst van vogelgeslachten</rdfs:label>
+    <ns4:wasDerivedFrom rdf:resource="http://www.wikidata.org/wiki/Q266315?oldid=199694239"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Список_родів_птахів"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">199694239</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="es">Anexo:Géneros de aves</rdfs:label>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q266315"/>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/A_madarak_nemeinek_listája"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1679</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Lijst_van_vogelgeslachten"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">258081</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q266315"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/List_of_bird_genera"/>
+  </rdf:Description>
+</rdf:RDF>

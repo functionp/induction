@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:ns4="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q669339">
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Eizahn"/>
+    <rdfs:label xml:lang="de">Eizahn</rdfs:label>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Јајни_зуб"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">630283</dbpedia-owl:wikiPageID>
+    <rdfs:label xml:lang="ru">Яйцевой зуб</rdfs:label>
+    <rdfs:label xml:lang="en">Egg tooth</rdfs:label>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Diente_de_huevo"/>
+    <owl:sameAs rdf:resource="http://freebase.com//m/07p0h6"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Ovodento"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Egg_tooth"/>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Munahammas"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Diamant_(anatomie)"/>
+    <rdfs:label xml:lang="uk">Яйцевий зуб</rdfs:label>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Äggtand"/>
+    <rdfs:label xml:lang="sv">Äggtand</rdfs:label>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Яйцевий_зуб"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Munahammas"/>
+    <rdfs:seeAlso rdf:resource="https://commons.wikimedia.org/wiki/Category:Egg_teeth"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Telolècit"/>
+    <rdfs:label xml:lang="ur">بیضائی دانت</rdfs:label>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q669339"/>
+    <rdfs:label xml:lang="ca">Telolècit</rdfs:label>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4248</dbpedia-owl:wikiPageLength>
+    <rdfs:label xml:lang="pl">Ząb jajowy</rdfs:label>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q669339"/>
+    <owl:sameAs rdf:resource="http://ur.dbpedia.org/resource/بیضائی_دانت"/>
+    <rdfs:label xml:lang="fr">Diamant</rdfs:label>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195986959</dbpedia-owl:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/دندان_تخم‌شکن"/>
+    <rdfs:label xml:lang="et">Munahammas</rdfs:label>
+    <rdfs:label xml:lang="nl">Eitand</rdfs:label>
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Eggtann"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Яйцевой_зуб"/>
+    <rdfs:label xml:lang="es">Diente de huevo</rdfs:label>
+    <rdfs:label xml:lang="sr">Јајни зуб</rdfs:label>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Eitand"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ząb_jajowy"/>
+    <ns4:wasDerivedFrom rdf:resource="http://www.wikidata.org/wiki/Q669339?oldid=195986959"/>
+    <rdfs:label xml:lang="eo">Ovodento</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

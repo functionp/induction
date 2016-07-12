@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_bird_genera">
+    <rdfs:comment xml:lang="en">List of bird genera concerns the chordata class of aves or birds, characterised by feathers, a beak with no teeth, the laying of hard-shelled eggs, a high metabolic rate</rdfs:comment>
+    <foaf:depiction rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Restless_flycatcher04.jpg"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q266315"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12114730</dbo:wikiPageID>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lists_of_animals"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/List_of_bird_genera"/>
+    <rdfs:comment xml:lang="nl">Deze Lijst van vogelgeslachten geeft een overzicht van alle 2197 vogelgeslachten in de wereld waarvan nog minimaal één soort bestaat.</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bird_genera"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/List_of_bird_genera?oldid=676025999"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Lijst_van_vogelgeslachten"/>
+    <rdfs:label xml:lang="nl">Lijst van vogelgeslachten</rdfs:label>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">676025999</dbo:wikiPageRevisionID>
+    <dbo:abstract xml:lang="nl">Deze Lijst van vogelgeslachten geeft een overzicht van alle 2197 vogelgeslachten in de wereld waarvan nog minimaal één soort bestaat.</dbo:abstract>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/List_of_bird_genera"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:label xml:lang="en">List of bird genera</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Restless_flycatcher04.jpg?width=300"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Anexo:Géneros_de_aves"/>
+    <dbo:abstract xml:lang="en">List of bird genera concerns the chordata class of aves or birds, characterised by feathers, a beak with no teeth, the laying of hard-shelled eggs, a high metabolic rate</dbo:abstract>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q266315"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_genera_of_birds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/List_of_bird_genera"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/List_of_bird_genera">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/List_of_bird_genera"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_birds">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_bird_genera"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns3="http://eu.dbpedia.org/property/"
+   xmlns:ns5="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://eu.wikipedia.org/wiki/Kordatu">
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Kordatu"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Kordatu">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Tax"/>
+    <dbpedia-owl:name xml:lang="eu">Kordatuak</dbpedia-owl:name>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Taxotaula_automatikoa"/>
+    <rdfs:comment xml:lang="eu">Kordatuen filumean (Chordata) ornodunak eta oso erlazionaturik dauden hainbat ornogabe sartzen dira. Guztiak batzeko erabiltzen diren ezaugarriak hauek dira: Euren bizitzako uneren batean notokorda bat garatzen dute. Faringean zakatzak dituzte. Endostilo bat dute. Isats gihartsu bat, ipurtzulotik atzerago.Kordatuen filumak hiru azpifilum ditu: Urochordata - Larba garaian notokorda bat eta nerbio korda bat dute, baina heldu bihurtzean galdu egiten dute.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://eu.dbpedia.org/resource/Kategoria:Animaliak"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eu.wikipedia.org/wiki/Kordatu"/>
+    <dbpedia-owl:abstract xml:lang="eu">Kordatuen filumean (Chordata) ornodunak eta oso erlazionaturik dauden hainbat ornogabe sartzen dira. Guztiak batzeko erabiltzen diren ezaugarriak hauek dira: Euren bizitzako uneren batean notokorda bat garatzen dute. Faringean zakatzak dituzte. Endostilo bat dute. Isats gihartsu bat, ipurtzulotik atzerago.Kordatuen filumak hiru azpifilum ditu: Urochordata - Larba garaian notokorda bat eta nerbio korda bat dute, baina heldu bihurtzean galdu egiten dute. Cephalochordata - Hauek bizitza osoan zehar dute notokorda bat, baina ez dute ornorik. Ornodunak - Notokorda hezurrez estalitako bizkar-hezur batez aldatu da.</dbpedia-owl:abstract>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Klado"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Peregrine_Falcon_12.jpg?width=300"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8859</dbpedia-owl:wikiPageID>
+    <rdfs:label xml:lang="eu">Kordatu</rdfs:label>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3953123</dbpedia-owl:wikiPageRevisionID>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Description"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Peregrine_Falcon_12.jpg"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Commonskat"/>
+    <ns5:wasDerivedFrom rdf:resource="http://eu.wikipedia.org/wiki/Kordatu?oldid=3953123"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Kategoria:Kordatuak">
+    <skos:subject rdf:resource="http://eu.dbpedia.org/resource/Kordatu"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org:81/data/Kordatu.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Kordatu"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Chordata">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Kordatu"/>
+  </rdf:Description>
+</rdf:RDF>

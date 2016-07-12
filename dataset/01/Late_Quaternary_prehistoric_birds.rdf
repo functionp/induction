@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Late_Quaternary_prehistoric_birds">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LateQuaternaryPrehistoricBirds"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Spätquartäre_Avifauna"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2011694</dbo:wikiPageID>
+    <dbo:abstract xml:lang="en">Prehistoric birds are various taxa of birds that have became extinct before recorded history, or more precisely, before they could be studied alive by ornithologists. They are known from subfossil remains and sometimes folk memory, as in the case of Haast's eagle from New Zealand.Birds (Aves) are generally believed to have evolved from feathered dinosaurs, and there is no real dividing line between birds and dinosaurs except of course that the former survived the Cretaceous–Paleogene extinction event and the latter did not. For the purposes of this article, a "bird" is considered to be any member of the clade Neornithes, that is the bird lineage as exists today. The other lineages of the Aves also became extinct at the end of the Cretaceous.Taxon extinctions taking place before the Late Quaternary happened in the absence of significant human interference. Rather, reasons for extinction are stochastic abiotic events such as bolide impacts, climate changes, mass volcanic eruptions etc. Alternatively, species may have gone extinct due to evolutionary displacement by successor or competitor taxa – it is notable for example that in the early Neogene, seabird biodiversity was much higher than today; this is probably due to competition by the radiation of marine mammals after that time. The relationships of these ancient birds are often hard to determine, as many are known only from very fragmentary remains and due to the complete fossilization precludes analysis of information from DNA, RNA or protein sequencing.For further discussion, see main article Fossil birds</dbo:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Chordate101466257"/>
+    <rdfs:label xml:lang="de">Spätquartäre Avifauna</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ExtinctBirds"/>
+    <dbo:abstract xml:lang="it">Di seguito è riportata una lista di uccelli estintisi nel tardo Quaternario: si tratta dunque esclusivamente di neorniti, in quanto tutte le altre linee evolutive di uccelli si estinsero durante il Cretaceo; inoltre, questi uccelli per la stragrande maggioranza si sono estinti per cause naturali (grandi cataclismi, competizione diretta con altri animali evolutisi in quel periodo), con interferenze umane scarse o nulle.</dbo:abstract>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Late_Quaternary_prehistoric_birds"/>
+    <rdfs:label xml:lang="en">Late Quaternary prehistoric birds</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Vertebrate101471682"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Late_Quaternary_prehistoric_birds"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Uccelli_estinti_del_tardo_Quaternario"/>
+    <rdfs:comment xml:lang="pt">Para uma lista de aves fósseis conhecidas somente por registro fóssil, veja Lista de Aves Fósseis. Para aves que se extinguiram desde o ano de 1500 d.C., veja Lista de Aves Extintas.Aves Subfósseis são táxons que se extinguiram antes de serem registradas pela ciência, ou mais precisamente antes de serem analisadas vivas por ornitologistas, ou naturalistas.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1511309"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://sora.unm.edu/node/170"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://sora.unm.edu/node/169"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0119ld9d"/>
+    <rdfs:comment xml:lang="it">Di seguito è riportata una lista di uccelli estintisi nel tardo Quaternario: si tratta dunque esclusivamente di neorniti, in quanto tutte le altre linee evolutive di uccelli si estinsero durante il Cretaceo; inoltre, questi uccelli per la stragrande maggioranza si sono estinti per cause naturali (grandi cataclismi, competizione diretta con altri animali evolutisi in quel periodo), con interferenze umane scarse o nulle.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Late_Quaternary_prehistoric_birds"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">683126958</dbo:wikiPageRevisionID>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Lista_de_aves_subfósseis"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1511309"/>
+    <dbo:abstract xml:lang="de">Die Erforschung der spätquartären Avifauna ist eine Teildisziplin der Paläornithologie, die sich mit Vogeltaxa beschäftigt, die zwischen dem Jungpleistozän und dem Jahre 1500 (Beginn der Besiedelung Amerikas und der Welt durch die Europäer) ausgestorben sind. Ein weiterer Aspekt des Forschungsfeldes ist der Zwerg- bzw. Riesenwuchs von Vögeln, der Verlust der Flugfähigkeit und die Abstammungslinie von prähistorischen zu rezenten Taxa.Führende Vertreter auf diesem Gebiet sind oder waren Trevor H. Worthy, Storrs Lovejoy Olson, Pierce Brodkorb, Jean-Christophe Balouet, David William Steadman, Anthony Cheke und Helen Frances James, deren Forschungsarbeit in den Höhlen und Sedimentschichten Australiens, der Maskarenen, Hawaiis, Neuseelands, der Karibik, St. Helenas, Ascensions, Madagaskars, der Mittelmeer-Inseln, der Kanarischen Inseln, Melanesiens und Polynesiens unschätzbare Daten über die erloschene Avifauna dieser Regionen zu Tage förderte. Einer der Pioniere der Paläornithologie war Richard Owen, der sich als erster mit der Untersuchung von Moa-Knochen beschäftigte.In der Zeit des späten Quartärs (ab 40.000 v. Chr. bis 1500 n. Chr.) sind unzählige Vogelarten ausgestorben, die man heute nur von Knochenfunden aus Pleistozänablagerungen oder vermischten Pleistozän/Holozänablagerungen kennt und deren Alter man nur sehr schwierig mit Hilfe der Radiokohlenstoffdatierung oder DNA-Analysen feststellen kann. Bei manchen Inselformen vom Atlantik, der Karibik, dem Mittelmeer, dem indoaustralischen und pazifischen Bereich geht man bei einigen Arten sogar davon aus, dass sie bis kurz vor dem 16. Jahrhundert überlebt haben könnten. Nach Überzeugung vieler Wissenschaftler ist vor allem der Mensch entweder direkt oder indirekt für das Aussterben vieler Vogelarten in dieser Zeit verantwortlich. Wissenschaftlich nachgewiesen ist dies bei der ersten Besiedelung der Pazifik-Inseln vor 3500 Jahren, wo die endemische Vogelwelt Schaden durch Krankheitserreger, Überjagung, Eiersammeln, Lebensraumzerstörung oder die eingeschleppte Pazifische Ratte (Rattus exulans) nahm. Auch für Australien nehmen einige Wissenschaftler dies an, was jedoch in der Fachwelt äußerst umstritten ist (vgl. Quartäre Aussterbewelle).Die folgende Übersicht listet Vogeltaxa auf, die zwischen 40.000 v. Chr. und 1500 n. Chr. ausgestorben sind:</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Para uma lista de aves fósseis conhecidas somente por registro fóssil, veja Lista de Aves Fósseis. Para aves que se extinguiram desde o ano de 1500 d.C., veja Lista de Aves Extintas.Aves Subfósseis são táxons que se extinguiram antes de serem registradas pela ciência, ou mais precisamente antes de serem analisadas vivas por ornitologistas, ou naturalistas. Elas são conhecidas por material subfóssil, e algumas por histórias contadas por antepassados de povos que conviveram com certas espécies, como no caso da Águia-de-haast da Nova Zelândia e o povo Maori.</dbo:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BirdsByClassification"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Taxonomic_lists_(species)"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Late_Quaternary_prehistoric_birds"/>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Giant_Haasts_eagle_attacking_New_Zealand_moa.jpg?width=300"/>
+    <rdfs:label xml:lang="pt">Lista de aves subfósseis</rdfs:label>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Anexo:Aves_prehistóricas_del_Cuaternario_tardío"/>
+    <rdfs:comment xml:lang="en">Prehistoric birds are various taxa of birds that have became extinct before recorded history, or more precisely, before they could be studied alive by ornithologists.</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lists_of_prehistoric_birds"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.newzealandeagle.com"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Late_Quaternary_prehistoric_birds?oldid=683126958"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Bird101503061"/>
+    <rdfs:comment xml:lang="de">Die Erforschung der spätquartären Avifauna ist eine Teildisziplin der Paläornithologie, die sich mit Vogeltaxa beschäftigt, die zwischen dem Jungpleistozän und dem Jahre 1500 (Beginn der Besiedelung Amerikas und der Welt durch die Europäer) ausgestorben sind. Ein weiterer Aspekt des Forschungsfeldes ist der Zwerg- bzw. Riesenwuchs von Vögeln, der Verlust der Flugfähigkeit und die Abstammungslinie von prähistorischen zu rezenten Taxa.Führende Vertreter auf diesem Gebiet sind oder waren Trevor H.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Animal100015388"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Giant_Haasts_eagle_attacking_New_Zealand_moa.jpg"/>
+    <rdfs:label xml:lang="it">Uccelli estinti del tardo Quaternario</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Late_Quaternary_prehistoric_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Passerine">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Late_Quaternary_prehistoric_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Later_Quaternary_Prehistoric_Birds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Late_Quaternary_prehistoric_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Later_Quarternary_Prehistoric_Birds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Late_Quaternary_prehistoric_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prehistoric_birds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Late_Quaternary_prehistoric_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Late_Quaternary_prehistoric_birds">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Late_Quaternary_prehistoric_birds"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Later_Quaternary_prehistoric_birds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Late_Quaternary_prehistoric_birds"/>
+  </rdf:Description>
+</rdf:RDF>

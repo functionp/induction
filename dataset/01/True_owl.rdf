@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dbp="http://dbpedia.org/property/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northern_saw-whet_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Père_David's_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cinnamon_screech_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Black-and-white_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hume's_hawk-owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Everett's_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Long-tufted_screech_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/True_owl">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owl101621127"/>
+    <rdfs:label xml:lang="it">Strigidae</rdfs:label>
+    <dbo:abstract xml:lang="pt">Strigidae é uma das duas famílias de aves que inclui diversas espécies de corujas, a outra sendo a Tytonidae. Alimentam-se geralmente de invertebrados e de pequenos vertebrados. Possuem hábitos noturnos, mas algumas espécies, como o caburé, vocalizam mesmo durante o dia.</dbo:abstract>
+    <rdfs:comment xml:lang="nl">Uilen (Strigidae) zijn met 191 soorten in 25 geslachten de grootste familie van nachtactieve vogels uit de orde der uilen (Strigiformes). De kerkuilen (Tytonidae) vormen de andere familie.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+    <rdfs:comment xml:lang="ar">البوم الحقيقي اسم فصيلة تتبع رتبة البوميات، ورتبة البوميات تضم فصيلتين فقط هما: فصيلة البوم الحقيقي هذه، وفصيلة بوم الحظائر. وتضم هذه الفصيلة الكبيرة أكثر من 189 نوعا من البوميات في 25 جنسا مختلفا، وللبوم الحقيقي توزيع عالمي وهو ينتشر في قارات العالم كلها باستثناء القارة القطبية الجنوبية.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/EukaryoticCell"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:abstract xml:lang="ar">البوم الحقيقي اسم فصيلة تتبع رتبة البوميات، ورتبة البوميات تضم فصيلتين فقط هما: فصيلة البوم الحقيقي هذه، وفصيلة بوم الحظائر. وتضم هذه الفصيلة الكبيرة أكثر من 189 نوعا من البوميات في 25 جنسا مختلفا، وللبوم الحقيقي توزيع عالمي وهو ينتشر في قارات العالم كلها باستثناء القارة القطبية الجنوبية.</dbo:abstract>
+    <dbp:imageCaption rdf:resource="http://dbpedia.org/resource/Eastern_screech_owl"/>
+    <rdfs:label xml:lang="pt">Strigidae</rdfs:label>
+    <rdfs:label xml:lang="en">True owl</rdfs:label>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Animal"/>
+    <rdfs:comment xml:lang="it">Gli Strigidi (Strigidae Vigors, 1825) sono una famiglia di uccelli rapaci dell'ordine Strigiformes, di abitudini prevalentemente notturne.</rdfs:comment>
+    <rdfs:label xml:lang="es">Strigidae</rdfs:label>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Bird"/>
+    <rdfs:comment xml:lang="en">The true owls or typical owls (family Strigidae) are one of the two generally accepted families of owls, the other being the barn owls (Tytonidae). The Sibley-Ahlquist taxonomy unites the Caprimulgiformes with the owl order; here, the typical owls are a subfamily Striginae. This is unsupported by more recent research (see Cypselomorphae for details), but the relationships of the owls in general are still unresolved. This large family comprises around 189 living species in 25 genera.</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Owls"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q729"/>
+    <dbp:subdivisionRanks rdf:resource="http://dbpedia.org/resource/Genus"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Chordate101466257"/>
+    <rdfs:comment xml:lang="fr">Les Strigidés (Strigidae) sont une famille de rapaces en grande partie nocturnes qui comprend les hiboux, les chouettes (sauf les effraies et les phodiles, qui appartiennent à la famille des Tytonidae) et les espèces apparentées : petits-ducs, grands-ducs, kétoupas, harfangs, chouettes-pêcheuses, ducs, chevêchettes, chevêches, nyctales et ninoxes. Elle est constituée de 27 genres et d'un peu plus de 220 espèces existantes (en 2015).</rdfs:comment>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/True_owl?oldid=677395929"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q26012"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q26012"/>
+    <dbo:abstract xml:lang="it">Gli Strigidi (Strigidae Vigors, 1825) sono una famiglia di uccelli rapaci dell'ordine Strigiformes, di abitudini prevalentemente notturne.</dbo:abstract>
+    <rdfs:comment xml:lang="ja">フクロウ科（フクロウか、Strigidae）は、動物界脊索動物門鳥綱フクロウ目に属する科。</rdfs:comment>
+    <dbo:abstract xml:lang="en">The true owls or typical owls (family Strigidae) are one of the two generally accepted families of owls, the other being the barn owls (Tytonidae). The Sibley-Ahlquist taxonomy unites the Caprimulgiformes with the owl order; here, the typical owls are a subfamily Striginae. This is unsupported by more recent research (see Cypselomorphae for details), but the relationships of the owls in general are still unresolved. This large family comprises around 189 living species in 25 genera. The typical owls have a cosmopolitan distribution and are found on every continent except Antarctica.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Les Strigidés (Strigidae) sont une famille de rapaces en grande partie nocturnes qui comprend les hiboux, les chouettes (sauf les effraies et les phodiles, qui appartiennent à la famille des Tytonidae) et les espèces apparentées : petits-ducs, grands-ducs, kétoupas, harfangs, chouettes-pêcheuses, ducs, chevêchettes, chevêches, nyctales et ninoxes. Elle est constituée de 27 genres et d'un peu plus de 220 espèces existantes (en 2015).</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Сови́ные (лат. Strigidae) — семейство хищных птиц отряда совообразных. К совиным относят такие роды как, например, ушастые совы, неясыти, сплюшки и филины.Большинство совиных охотятся исключительно ночью или в сумерках. От других хищных птиц отличаются отсутствием зоба, наличием длинных слепых кишок.У многих народов совы являются символом мудрости. Сова всегда изображалась вместе с древнегреческой богиней мудрости Афиной Палладой и римской Минервой.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Uilen (Strigidae) zijn met 191 soorten in 25 geslachten de grootste familie van nachtactieve vogels uit de orde der uilen (Strigiformes). De kerkuilen (Tytonidae) vormen de andere familie.</dbo:abstract>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Strigidae"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Uilen_(vogelfamilie)"/>
+    <rdfs:label xml:lang="ja">フクロウ科</rdfs:label>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/フクロウ科"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/올빼미과"/>
+    <rdfs:label xml:lang="nl">Uilen (vogelfamilie)</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <dbo:abstract xml:lang="es">Los estrígidos (Strigidae) son uno de los dos clados de rapaces nocturnas del grupo Strigiformes, el cual incluye los búhos, mochuelos, autillos, cárabos, caburés, tecolotes, etc. Son aves adaptadas a la noche, aunque no tanto como las lechuzas de la familia Tytonidae. Se alimentan generalmente de invertebrados y de pequeños vertebrados. Tienen hábitos nocturnos, pero algunas especies, como Glaucidium brasilianum, cazan también durante el día. El clado está compuesto por casi doscientas especies.</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.itis.usda.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=177854"/>
+    <rdfs:label xml:lang="ar">بوم حقيقي</rdfs:label>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Eigentliche_Eulen"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/True_owl"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <dbp:synonyms xml:lang="en">Striginae (sensu Sibley &amp; Ahlquist)</dbp:synonyms>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Eastern_Screetch-Owl.jpg"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Strigidae"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.xeno-canto.org/browse.php?query=strigidae"/>
+    <rdfs:comment xml:lang="pt">Strigidae é uma das duas famílias de aves que inclui diversas espécies de corujas, a outra sendo a Tytonidae. Alimentam-se geralmente de invertebrados e de pequenos vertebrados. Possuem hábitos noturnos, mas algumas espécies, como o caburé, vocalizam mesmo durante o dia.</rdfs:comment>
+    <rdfs:label xml:lang="pl">Puszczykowate</rdfs:label>
+    <dbp:authority xml:lang="en">Vigors, 1825</dbp:authority>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gzvg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Animal100015388"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Strigidae"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://ibc.lynxeds.com/family/typical-owls-strigidae"/>
+    <rdfs:comment xml:lang="ru">Сови́ные (лат. Strigidae) — семейство хищных птиц отряда совообразных. К совиным относят такие роды как, например, ушастые совы, неясыти, сплюшки и филины.Большинство совиных охотятся исключительно ночью или в сумерках. От других хищных птиц отличаются отсутствием зоба, наличием длинных слепых кишок.У многих народов совы являются символом мудрости. Сова всегда изображалась вместе с древнегреческой богиней мудрости Афиной Палладой и римской Минервой.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Puszczykowate"/>
+    <dbo:abstract xml:lang="ja">フクロウ科（フクロウか、Strigidae）は、動物界脊索動物門鳥綱フクロウ目に属する科。</dbo:abstract>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/True_owl"/>
+    <dbp:taxon xml:lang="en">Strigidae</dbp:taxon>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owls"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/BiologicalLivingObject"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Bird101503061"/>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Eastern_Screetch-Owl.jpg?width=300"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258"/>
+    <rdfs:comment xml:lang="de">Die Familie der Eigentlichen Eulen (Strigidae) ist die größere der beiden Familien der Eulen (Strigiformes). Die zweite, kleinere Familie ist die der Schleiereulen (Tytonidae). Bis auf die Antarktis haben Vertreter dieser Familie alle Kontinente besiedelt; sehr viele Arten sind Inselendemiten.Im Gegensatz zu den in Größe und Aussehen recht einheitlichen Schleiereulen sind die Vertreter der Eigentlichen Eulen sehr variabel.</rdfs:comment>
+    <rdfs:label xml:lang="de">Eigentliche Eulen</rdfs:label>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.owlpages.com/"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Strigidae"/>
+    <dbp:fossilRange xml:lang="en">Early Eocene to present</dbp:fossilRange>
+    <dbp:name xml:lang="en">True owl</dbp:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">677395929</dbo:wikiPageRevisionID>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <dbo:abstract xml:lang="de">Die Familie der Eigentlichen Eulen (Strigidae) ist die größere der beiden Familien der Eulen (Strigiformes). Die zweite, kleinere Familie ist die der Schleiereulen (Tytonidae). Bis auf die Antarktis haben Vertreter dieser Familie alle Kontinente besiedelt; sehr viele Arten sind Inselendemiten.Im Gegensatz zu den in Größe und Aussehen recht einheitlichen Schleiereulen sind die Vertreter der Eigentlichen Eulen sehr variabel. Die schwersten und größten Arten erreichen eine Länge von über 70 Zentimetern und ein Gewicht von annähernd 4 Kilogramm. Die kleinsten sind dagegen nur gut sperlingsgroß. Weibchen sind meist etwas schwerer, gelegentlich auch deutlich schwerer als Männchen. König und Weick unterscheiden 24 Gattungen mit 214 Arten, von denen 56 Arten in unterschiedlichen Gefährdungsstufen der IUCN gelistet sind. Unter ihnen sind 11 Arten stark gefährdet (endangered) und 4 vom Aussterben bedroht (critically endangered). In prähistorischer und historischer Zeit starben mindestens 8 Arten aus. Alle waren Inselendemiten.</dbo:abstract>
+    <rdfs:comment xml:lang="es">Los estrígidos (Strigidae) son uno de los dos clados de rapaces nocturnas del grupo Strigiformes, el cual incluye los búhos, mochuelos, autillos, cárabos, caburés, tecolotes, etc. Son aves adaptadas a la noche, aunque no tanto como las lechuzas de la familia Tytonidae. Se alimentan generalmente de invertebrados y de pequeños vertebrados. Tienen hábitos nocturnos, pero algunas especies, como Glaucidium brasilianum, cazan también durante el día.</rdfs:comment>
+    <dbp:subdivision xml:lang="en">some 25, see text</dbp:subdivision>
+    <rdfs:label xml:lang="fr">Strigidae</rdfs:label>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Strigidae"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Puštíkovití"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BirdOfPrey101604330"/>
+    <rdfs:label xml:lang="zh">鸱鸮科</rdfs:label>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63034</dbo:wikiPageID>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Strigidae"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Vertebrate101471682"/>
+    <rdfs:label xml:lang="ru">Совиные</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strix_(genus)">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunda_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crested_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arabian_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oriental_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Powerful_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mountain_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boreal_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fulvous_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Collared_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippine_eagle-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Verreaux's_eagle-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madagascar_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Speckled_boobook">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mindanao_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Black-banded_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simeulue_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oraristrix">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cebu_hawk-owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morepork">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mottled_wood_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guatemalan_pygmy_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spotted_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buff-fronted_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solomons_boobook">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/African_wood_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hantu_boobook">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Forest_owlet">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brown_fish_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koepcke's_screech_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eastern_screech_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rainforest_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luzon_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Western_screech_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Unspotted_saw-whet_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jamaican_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bermuda_saw-whet_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Long-whiskered_owlet">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Short-eared_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chocó_screech_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tanimbar_boobook">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shelley's_eagle-owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Collared_owlet">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palau_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pallid_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pearl-spotted_owlet">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tropical_screech_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Striped_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giant_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chestnut_owlet">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/African_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cloud-forest_screech_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palawan_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barking_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Typical_owl">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burrowing_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/White-throated_screech_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abyssinian_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Screech_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rufous_fishing_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ural_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flores_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anjouan_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/São_Miguel_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Himalayan_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ochre-bellied_boobook">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reddish_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Whiskered_screech_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rajah_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cape_pygmy_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akun_eagle-owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manus_boobook">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_grey_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mentawai_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mayotte_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asio">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romblon_hawk-owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enggano_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Papuan_boobook">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Brazilian_pygmy_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asphaltoglaux">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pacific_pygmy_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Southern_white-faced_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_horned_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fearful_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryūkyū_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamaulipas_pygmy_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yungas_screech_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strigidae">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rufescent_screech_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ornimegalonyx">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buffy_fish_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Javan_owlet">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Papuan_hawk-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cretan_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karthala_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spot-bellied_eagle-owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lesser_horned_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Serendib_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stilt-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/African_barred_owlet">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Usambara_eagle-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Subtropical_pygmy_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Southern_boobook">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red-chested_owlet">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rinjani_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_American_great_horned_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chocolate_boobook">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colombian_screech_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hume's_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moheli_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferruginous_pygmy_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bearded_screech_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Socotra_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elf_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chaco_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Torotoroka_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camiguin_hawk-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pernambuco_pygmy_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/White-fronted_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bare-shanked_screech_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Ireland_boobook">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Britain_boobook">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brown_wood_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omani_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mantanani_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tawny-browed_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stygian_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flammulated_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albertine_owlet">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siau_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Réunion_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mindoro_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicobar_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Long-eared_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ninox">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cape_eagle-owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spotted_wood_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Horned_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eurasian_eagle-owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sandy_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andean_pygmy_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sangihe_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pueo">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Foothill_screech_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marsh_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Javan_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barred_eagle-owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barred_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blakiston's_fish_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andaman_hawk-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wallace's_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sokoke_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Athene_(owl)">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eurasian_pygmy_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ciccaba">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indian_eagle-owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pacific_screech_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Black-capped_screech_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bare-legged_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rusty-barred_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sulawesi_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moluccan_boobook">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mascarene_owls">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Band-bellied_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Costa_Rican_pygmy_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rufous-banded_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Halmahera_boobook">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asian_barred_owlet">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aegolius">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sumba_boobook">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laughing_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greyish_eagle-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jungle_owlet">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maned_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strigid">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spotted_owlet">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chestnut-backed_owlet">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pulsatrix">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mindoro_hawk-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Peruvian_screech_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andaman_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indian_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northern_boobook">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Central_American_pygmy_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amazonian_pygmy_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spotted_eagle-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cloud-forest_pygmy_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yungas_pygmy_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christmas_boobook">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_Sumba_hawk-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Togian_boobook">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northern_spotted_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tawny_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Puerto_Rican_screech_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madeiran_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fish_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pel's_fishing_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pharaoh_eagle-owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mauritius_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cuban_pygmy_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Biak_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northern_white-faced_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Snowy_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luzon_hawk-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northern_hawk-owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fishing_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Typical_owls">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/White-browed_hawk-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Balsas_screech_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Howe_boobook">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dusky_eagle-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brown_hawk-owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippine_hawk-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rodrigues_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vermiculated_fishing_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Middle_American_screech_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Austral_pygmy_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moluccan_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tawny-bellied_screech_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/São_Tomé_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sjöstedt's_barred_owlet">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sulu_hawk-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norfolk_boobook">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Negros_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owl">
+    <dbp:subdivision rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/True_owl">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippine_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spectacled_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fraser's_eagle-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northern_pygmy_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sula_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rufous_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pemba_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Family_strigidae">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seychelles_scops_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eurasian_scops_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mindanao_hawk-owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tucuman_pygmy-owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tawny_fish_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colima_pygmy_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mottled_owl">
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rufous-legged_owl">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cinnabar_boobook">
+    <dbo:family rdf:resource="http://dbpedia.org/resource/True_owl"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/True_owl"/>
+  </rdf:Description>
+</rdf:RDF>

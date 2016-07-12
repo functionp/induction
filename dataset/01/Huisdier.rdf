@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-nl="http://nl.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Huisdier">
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Zusterproject"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">10600</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageHistoryLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Huisdier&amp;action=history"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Een huisdier is een gedomesticeerd dier dat in of om het huis woont en leeft en door de mens wordt gevoed en verzorgd.Te onderscheiden zijn: Landbouwhuisdieren, die gedomesticeerd werden om hun nut en de productie van goederen en diensten. Hiertoe behoren koeien, schapen, geiten, varkens, eenden, kippen, ganzen en eventueel paarden. Gezelschapsdieren, zoals honden, katten, duiven, (sier-)kippen, konijnen en cavia's.</rdfs:comment>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16600</dbpedia-owl:wikiPageID>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Appendix"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Largethumb"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Gesproken_Wikipedia_klein"/>
+    <dbpedia-owl:wikiPageModified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-09-26T14:34:02+00:00</dbpedia-owl:wikiPageModified>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Huisdier"/>
+    <prop-nl:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">260</prop-nl:width>
+    <dbpedia-owl:wikiPageEditLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Huisdier&amp;action=edit"/>
+    <dbpedia-owl:wikiPageExtracted rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-11-02T23:57:17+00:00</dbpedia-owl:wikiPageExtracted>
+    <prop-nl:wikibooks rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Huisdierengids</prop-nl:wikibooks>
+    <prop-nl:wiktionary rdf:datatype="http://www.w3.org/2001/XMLSchema#string">huisdier</prop-nl:wiktionary>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Huisdier</rdfs:label>
+    <prop-nl:align rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</prop-nl:align>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44971730</dbpedia-owl:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://nl.wikipedia.org/wiki/Huisdier"/>
+    <prop-nl:commons rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pets</prop-nl:commons>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Afbeelding_combi"/>
+    <prop-nl:afb rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M .JPG</prop-nl:afb>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">83</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageRevisionLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Huisdier&amp;oldid=44971730"/>
+    <dbpedia-owl:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Een huisdier is een gedomesticeerd dier dat in of om het huis woont en leeft en door de mens wordt gevoed en verzorgd.Te onderscheiden zijn: Landbouwhuisdieren, die gedomesticeerd werden om hun nut en de productie van goederen en diensten. Hiertoe behoren koeien, schapen, geiten, varkens, eenden, kippen, ganzen en eventueel paarden. Gezelschapsdieren, zoals honden, katten, duiven, (sier-)kippen, konijnen en cavia's. Oorspronkelijk werden huisdieren voornamelijk gehouden om hun nut, bijvoorbeeld als waakhond, of een kat tegen de muizen. Tegenwoordig worden dieren vaak uitsluitend als gezelschapsdier gehouden of om wedstrijdsport mee te bedrijven. Het eerste dier dat door de mens gedomesticeerd werd was de hond. De kat is al sinds het Oude Egypte bekend als huisdier.In Nederland werden in 2009 ongeveer 2,1 miljoen honden en 3,6 miljoen katten gehouden. In België had in 2006 48% van de gezinnen een huisdier. In Wallonië hebben gemiddeld meer gezinnen een huisdier dan in Brussel en in Vlaanderen.</dbpedia-owl:abstract>
+    <prop-nl:afb rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gretel with rabbit.jpg</prop-nl:afb>
+    <dcterms:subject rdf:resource="http://nl.dbpedia.org/resource/Categorie:Huisdier"/>
+    <prop-nl:caption rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Huisdieren kunnen ook nadelen hebben: honden kunnen bijten en katten brengen soms dode dieren mee naar huis.</prop-nl:caption>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Huisdieren">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Huisdier"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Gezelschapsdieren">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Huisdier"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.wikipedia.org/wiki/Huisdier">
+    <foaf:primaryTopic rdf:resource="http://nl.dbpedia.org/resource/Huisdier"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Gezelschapsdier">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Huisdier"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Exotisch_huisdier">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/Huisdier"/>
+  </rdf:Description>
+</rdf:RDF>

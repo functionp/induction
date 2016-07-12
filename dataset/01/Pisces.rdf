@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pisces">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Pisces"/>
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/PISCES"/>
+    <rdfs:label xml:lang="zh">双鱼</rdfs:label>
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/NOAAS_Pisces_(R_226)"/>
+    <rdfs:label xml:lang="de">Pisces</rdfs:label>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Pisces"/>
+    <rdfs:label xml:lang="ru">Рыбы (значения)</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q235953"/>
+    <rdfs:label xml:lang="en">Pisces</rdfs:label>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Pisces"/>
+    <rdfs:label xml:lang="nl">Pisces</rdfs:label>
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Pisces_(comics)"/>
+    <rdfs:label xml:lang="es">Piscis</rdfs:label>
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Pisces-class_deep_submergence_vehicle"/>
+    <rdfs:label xml:lang="ja">パイシーズ</rdfs:label>
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Pisces_(astrology)"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Piscis"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6800150</dbo:wikiPageID>
+    <rdfs:label xml:lang="fr">Pisces</rdfs:label>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Pisces"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Pisces?oldid=669528671"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Pisces"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Pisces"/>
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Pisces_(album)"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q235953"/>
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Pisces_(constellation)"/>
+    <rdfs:label xml:lang="pl">Pisces</rdfs:label>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/パイシーズ"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">669528671</dbo:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Pisces"/>
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Pisces_(Chinese_astronomy)"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Pisces"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piscese">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pisces"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pisces_(disambiguation)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pisces"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Pisces">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Pisces"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piscean">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pisces"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pisese">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pisces"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Picese">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pisces"/>
+  </rdf:Description>
+</rdf:RDF>

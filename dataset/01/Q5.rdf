@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns5="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q5">
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Homo_sapiens"/>
+    <owl:sameAs rdf:resource="http://hi.dbpedia.org/resource/मनुष्य"/>
+    <owl:sameAs rdf:resource="http://ms.dbpedia.org/resource/Manusia"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Homo_sapiens"/>
+    <owl:sameAs rdf:resource="http://ilo.dbpedia.org/resource/Tao_(sebbangan)"/>
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/İnsan"/>
+    <owl:sameAs rdf:resource="http://ps.dbpedia.org/resource/انسان"/>
+    <ns5:wasDerivedFrom rdf:resource="http://www.wikidata.org/wiki/Q5?oldid=207788881"/>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q5"/>
+    <owl:sameAs rdf:resource="http://ig.dbpedia.org/resource/Mádu"/>
+    <owl:sameAs rdf:resource="http://vec.dbpedia.org/resource/Homo_sapiens"/>
+    <rdfs:label xml:lang="es">ser humano</rdfs:label>
+    <owl:sameAs rdf:resource="http://ltg.dbpedia.org/resource/Cylvāks"/>
+    <owl:sameAs rdf:resource="http://hak.dbpedia.org/resource/Ngìn-lui"/>
+    <owl:sameAs rdf:resource="http://sa.dbpedia.org/resource/मनुष्यः"/>
+    <owl:sameAs rdf:resource="http://mg.dbpedia.org/resource/Olombelona"/>
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Loài_người"/>
+    <rdfs:label xml:lang="bn">মানুষ</rdfs:label>
+    <owl:sameAs rdf:resource="http://bh.dbpedia.org/resource/मनुष्य"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Człowiek_rozumny"/>
+    <rdfs:label xml:lang="pt">ser humano</rdfs:label>
+    <rdfs:label xml:lang="sr">човек</rdfs:label>
+    <owl:sameAs rdf:resource="http://freebase.com//m/0dgw9r"/>
+    <rdfs:label xml:lang="tr">insan</rdfs:label>
+    <owl:sameAs rdf:resource="http://diq.dbpedia.org/resource/Merdum"/>
+    <owl:sameAs rdf:resource="http://af.dbpedia.org/resource/Mens"/>
+    <owl:sameAs rdf:resource="http://ga.dbpedia.org/resource/Duine"/>
+    <owl:sameAs rdf:resource="http://tg.dbpedia.org/resource/Одам"/>
+    <owl:sameAs rdf:resource="http://sw.dbpedia.org/resource/Binadamu"/>
+    <rdfs:label xml:lang="hy">Մարդ բանական</rdfs:label>
+    <owl:sameAs rdf:resource="http://glk.dbpedia.org/resource/آدم"/>
+    <owl:sameAs rdf:resource="http://kw.dbpedia.org/resource/Tus"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Pioneer_plaque_humans.svg?width=300"/>
+    <rdfs:label xml:lang="hi">मनुष्य</rdfs:label>
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/Човек"/>
+    <dbpedia-owl:isPartOf rdf:resource="http://wikidata.dbpedia.org/resource/Q1156970"/>
+    <owl:sameAs rdf:resource="http://pa.dbpedia.org/resource/ਮਨੁੱਖ"/>
+    <rdfs:seeAlso rdf:resource="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=180092"/>
+    <owl:sameAs rdf:resource="http://xmf.dbpedia.org/resource/ადამიერი"/>
+    <owl:sameAs rdf:resource="http://lb.dbpedia.org/resource/Mënsch"/>
+    <rdfs:seeAlso rdf:resource="https://www.ncbi.nlm.nih.gov/taxonomy/9606"/>
+    <owl:sameAs rdf:resource="http://ta.dbpedia.org/resource/மனிதர்"/>
+    <owl:sameAs rdf:resource="http://qu.dbpedia.org/resource/Runa"/>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"/>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4038639-9/about/rdf"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Člověk_moudrý"/>
+    <rdfs:label xml:lang="bg">човек</rdfs:label>
+    <rdfs:label xml:lang="be">чалавек</rdfs:label>
+    <rdfs:label xml:lang="pl">człowiek</rdfs:label>
+    <owl:sameAs rdf:resource="http://mdf.dbpedia.org/resource/Ломанць"/>
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/Čovjek"/>
+    <rdfs:label xml:lang="de">Mensch</rdfs:label>
+    <owl:sameAs rdf:resource="http://mwl.dbpedia.org/resource/Homo_sapiens"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Homo"/>
+    <owl:sameAs rdf:resource="http://wa.dbpedia.org/resource/Djin_(biyolodjeye)"/>
+    <owl:sameAs rdf:resource="http://ceb.dbpedia.org/resource/Tawo"/>
+    <owl:sameAs rdf:resource="http://vls.dbpedia.org/resource/Mens"/>
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/Menneske"/>
+    <owl:sameAs rdf:resource="http://ha.dbpedia.org/resource/Yan-adam"/>
+    <rdfs:label xml:lang="cs">člověk</rdfs:label>
+    <owl:sameAs rdf:resource="http://koi.dbpedia.org/resource/Морт"/>
+    <rdfs:label xml:lang="ko">사람</rdfs:label>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Homo_sapiens"/>
+    <rdfs:label xml:lang="eo">homo</rdfs:label>
+    <owl:sameAs rdf:resource="http://cdo.dbpedia.org/resource/Nè̤ng"/>
+    <owl:sameAs rdf:resource="http://mn.dbpedia.org/resource/Хүн"/>
+    <owl:sameAs rdf:resource="http://az.dbpedia.org/resource/İnsan"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Човек"/>
+    <owl:sameAs rdf:resource="http://lt.dbpedia.org/resource/Žmogus"/>
+    <owl:sameAs rdf:resource="http://sq.dbpedia.org/resource/Njeriu"/>
+    <owl:sameAs rdf:resource="http://bxr.dbpedia.org/resource/Ухаанта_хүн"/>
+    <owl:sameAs rdf:resource="http://lv.dbpedia.org/resource/Cilvēks"/>
+    <rdfs:label xml:lang="et">Inimene</rdfs:label>
+    <rdfs:label xml:lang="eu">gizakia</rdfs:label>
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/Tawo"/>
+    <owl:sameAs rdf:resource="http://th.dbpedia.org/resource/มนุษย์"/>
+    <owl:sameAs rdf:resource="http://xh.dbpedia.org/resource/Abantu"/>
+    <owl:sameAs rdf:resource="http://lij.dbpedia.org/resource/Ëse_uman"/>
+    <rdfs:label xml:lang="sk">človek rozumný</rdfs:label>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Άνθρωπος"/>
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Človek_rozumný_(moderný_človek)"/>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Ember"/>
+    <rdfs:seeAlso rdf:resource="http://thes.bncf.firenze.sbn.it/termine.php?id=7104"/>
+    <rdfs:label xml:lang="cy">Bod dynol</rdfs:label>
+    <owl:sameAs rdf:resource="http://ks.dbpedia.org/resource/اِنسان"/>
+    <owl:sameAs rdf:resource="http://za.dbpedia.org/resource/Vunz"/>
+    <owl:sameAs rdf:resource="http://ht.dbpedia.org/resource/Homo_sapiens"/>
+    <rdfs:label xml:lang="ga">Duine</rdfs:label>
+    <owl:sameAs rdf:resource="http://su.dbpedia.org/resource/Manusa"/>
+    <owl:sameAs rdf:resource="http://kv.dbpedia.org/resource/Морт"/>
+    <owl:sameAs rdf:resource="http://lbe.dbpedia.org/resource/Инсан"/>
+    <owl:sameAs rdf:resource="http://gn.dbpedia.org/resource/Yvypóra"/>
+    <owl:sameAs rdf:resource="http://bs.dbpedia.org/resource/Čovjek"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q16521"/>
+    <owl:sameAs rdf:resource="http://ka.dbpedia.org/resource/ადამიანი"/>
+    <owl:sameAs rdf:resource="http://wuu.dbpedia.org/resource/人"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/إنسان"/>
+    <owl:sameAs rdf:resource="http://pam.dbpedia.org/resource/Tau"/>
+    <owl:sameAs rdf:resource="http://li.dbpedia.org/resource/Mins"/>
+    <owl:sameAs rdf:resource="http://nah.dbpedia.org/resource/Tlācatl"/>
+    <owl:sameAs rdf:resource="http://ksh.dbpedia.org/resource/Minsh"/>
+    <rdfs:label xml:lang="sv">människa</rdfs:label>
+    <owl:sameAs rdf:resource="http://kk.dbpedia.org/resource/Саналы_адам"/>
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/Človek"/>
+    <rdfs:label xml:lang="ar">إنسان</rdfs:label>
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Human"/>
+    <owl:sameAs rdf:resource="http://mt.dbpedia.org/resource/Bniedem"/>
+    <owl:sameAs rdf:resource="http://nov.dbpedia.org/resource/Homo_sapiens"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Human"/>
+    <owl:sameAs rdf:resource="http://te.dbpedia.org/resource/మానవుడు"/>
+    <rdfs:label xml:lang="en">human</rdfs:label>
+    <rdfs:label xml:lang="zh">人</rdfs:label>
+    <owl:sameAs rdf:resource="http://oc.dbpedia.org/resource/Homo_sapiens"/>
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Menneske"/>
+    <owl:sameAs rdf:resource="http://mr.dbpedia.org/resource/मानव"/>
+    <owl:sameAs rdf:resource="http://or.dbpedia.org/resource/ମଣିଷ"/>
+    <owl:sameAs rdf:resource="http://jv.dbpedia.org/resource/Menungsa"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55339</dbpedia-owl:wikiPageLength>
+    <rdfs:label xml:lang="el">άνθρωπος</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://www.omegawiki.org/DefinedMeaning:486757"/>
+    <rdfs:seeAlso rdf:resource="https://commons.wikimedia.org/wiki/Category:Homo_sapiens"/>
+    <owl:sameAs rdf:resource="http://se.dbpedia.org/resource/Olmmoš"/>
+    <rdfs:label xml:lang="fr">être humain</rdfs:label>
+    <owl:sameAs rdf:resource="http://rue.dbpedia.org/resource/Чоловік_розумный"/>
+    <owl:sameAs rdf:resource="http://nds.dbpedia.org/resource/Homo_sapiens"/>
+    <owl:sameAs rdf:resource="http://cv.dbpedia.org/resource/Тăнлă_çын"/>
+    <owl:sameAs rdf:resource="http://si.dbpedia.org/resource/මිනිසා"/>
+    <owl:sameAs rdf:resource="http://tl.dbpedia.org/resource/Tao"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Gizaki"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Човек"/>
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Menneske"/>
+    <owl:sameAs rdf:resource="http://fy.dbpedia.org/resource/Minske"/>
+    <owl:sameAs rdf:resource="http://hy.dbpedia.org/resource/Մարդ_բանական"/>
+    <rdfs:label xml:lang="nl">mens</rdfs:label>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Людина_розумна"/>
+    <owl:sameAs rdf:resource="http://bo.dbpedia.org/resource/འགྲོ་བ་མི།"/>
+    <rdfs:label xml:lang="ro">om</rdfs:label>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Ihminen"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">207788881</dbpedia-owl:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://iu.dbpedia.org/resource/ᐄᒃ"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Människa"/>
+    <owl:sameAs rdf:resource="http://tt.dbpedia.org/resource/Акыллы_кеше"/>
+    <owl:sameAs rdf:resource="http://os.dbpedia.org/resource/Адæймаг"/>
+    <rdfs:seeAlso rdf:resource="http://www.omegawiki.org/DefinedMeaning:2234"/>
+    <rdfs:label xml:lang="it">umano</rdfs:label>
+    <owl:sameAs rdf:resource="http://arc.dbpedia.org/resource/ܒܪ_ܐܢܫܐ"/>
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/Ser_humano"/>
+    <owl:sameAs rdf:resource="http://scn.dbpedia.org/resource/Umanu"/>
+    <owl:sameAs rdf:resource="http://commons.dbpedia.org/resource/Homo_sapiens"/>
+    <owl:sameAs rdf:resource="http://kn.dbpedia.org/resource/ಮಾನವ"/>
+    <rdfs:label xml:lang="az">İnsan</rdfs:label>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Mens"/>
+    <rdfs:seeAlso rdf:resource="https://commons.wikimedia.org/wiki/Homo_sapiens"/>
+    <owl:sameAs rdf:resource="http://ckb.dbpedia.org/resource/مرۆڤ"/>
+    <owl:sameAs rdf:resource="http://yi.dbpedia.org/resource/מענטש"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Taxon"/>
+    <owl:sameAs rdf:resource="http://ur.dbpedia.org/resource/انسان"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">133</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://ln.dbpedia.org/resource/Moto"/>
+    <owl:sameAs rdf:resource="http://gan.dbpedia.org/resource/人"/>
+    <owl:sameAs rdf:resource="http://bar.dbpedia.org/resource/Mensch"/>
+    <owl:sameAs rdf:resource="http://vep.dbpedia.org/resource/Ristit"/>
+    <owl:sameAs rdf:resource="http://is.dbpedia.org/resource/Maður"/>
+    <rdfs:seeAlso rdf:resource="http://eol.org/pages/327955"/>
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/אדם"/>
+    <owl:sameAs rdf:resource="http://jbo.dbpedia.org/resource/Remna"/>
+    <rdfs:label xml:lang="hu">ember</rdfs:label>
+    <owl:sameAs rdf:resource="http://mai.dbpedia.org/resource/लोग"/>
+    <owl:sameAs rdf:resource="http://kg.dbpedia.org/resource/Muntu"/>
+    <owl:sameAs rdf:resource="http://ne.dbpedia.org/resource/मानिस"/>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Manusia"/>
+    <owl:sameAs rdf:resource="http://fo.dbpedia.org/resource/Menniskja"/>
+    <rdfs:seeAlso rdf:resource="http://dewey.info/class/128/about"/>
+    <rdfs:label xml:lang="sl">človek</rdfs:label>
+    <rdfs:label xml:lang="ru">человек</rdfs:label>
+    <owl:sameAs rdf:resource="http://so.dbpedia.org/resource/Biniaadan"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/人"/>
+    <rdfs:label xml:lang="ca">humà</rdfs:label>
+    <owl:sameAs rdf:resource="http://hif.dbpedia.org/resource/Insaan"/>
+    <rdfs:seeAlso rdf:resource="http://fossilworks.org/bridge.pl?a=taxonInfo&amp;taxon_no=83088"/>
+    <owl:sameAs rdf:resource="http://av.dbpedia.org/resource/ГӀадан"/>
+    <owl:sameAs rdf:resource="http://ky.dbpedia.org/resource/Адам_(киши)"/>
+    <owl:sameAs rdf:resource="http://pms.dbpedia.org/resource/Òm"/>
+    <rdfs:label xml:lang="id">Manusia</rdfs:label>
+    <owl:sameAs rdf:resource="http://la.dbpedia.org/resource/Homo_sapiens"/>
+    <owl:sameAs rdf:resource="http://an.dbpedia.org/resource/Homo_sapiens"/>
+    <owl:sameAs rdf:resource="http://arz.dbpedia.org/resource/انسان"/>
+    <owl:sameAs rdf:resource="http://gu.dbpedia.org/resource/મનુષ્ય"/>
+    <owl:sameAs rdf:resource="http://frp.dbpedia.org/resource/Homan"/>
+    <owl:sameAs rdf:resource="http://szl.dbpedia.org/resource/Czowjek"/>
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Om"/>
+    <owl:sameAs rdf:resource="http://pnb.dbpedia.org/resource/انسان"/>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Inimene"/>
+    <owl:sameAs rdf:resource="http://my.dbpedia.org/resource/လူ"/>
+    <rdfs:seeAlso rdf:resource="http://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?s=y&amp;id=12100795"/>
+    <owl:sameAs rdf:resource="http://fur.dbpedia.org/resource/Omp"/>
+    <owl:sameAs rdf:resource="http://bn.dbpedia.org/resource/মানুষ"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Homo_sapiens"/>
+    <owl:sameAs rdf:resource="http://mhr.dbpedia.org/resource/Айдеме"/>
+    <owl:sameAs rdf:resource="http://ace.dbpedia.org/resource/Tokoh"/>
+    <rdfs:label xml:lang="ja">ヒト</rdfs:label>
+    <owl:sameAs rdf:resource="http://frr.dbpedia.org/resource/Minsk"/>
+    <owl:sameAs rdf:resource="http://uz.dbpedia.org/resource/Odam"/>
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Čovjek"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Человек_разумный"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/انسان"/>
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <owl:sameAs rdf:resource="http://cy.dbpedia.org/resource/Bod_dynol"/>
+    <owl:sameAs rdf:resource="http://sco.dbpedia.org/resource/Body"/>
+    <owl:sameAs rdf:resource="http://ext.dbpedia.org/resource/Homo_Sapiens"/>
+    <rdfs:label xml:lang="hr">čovjek</rdfs:label>
+    <owl:sameAs rdf:resource="http://ku.dbpedia.org/resource/Mirov"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Pioneer_plaque_humans.svg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/TopicalConcept"/>
+    <rdfs:label xml:lang="ur">انسان</rdfs:label>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Mensch"/>
+    <owl:sameAs rdf:resource="http://ay.dbpedia.org/resource/Jaqi"/>
+    <owl:sameAs rdf:resource="http://br.dbpedia.org/resource/Den"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/사람"/>
+    <owl:sameAs rdf:resource="http://am.dbpedia.org/resource/የሰው_ልጅ"/>
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Чалавек_разумны"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Humà"/>
+    <owl:sameAs rdf:resource="http://ml.dbpedia.org/resource/മനുഷ്യൻ"/>
+    <owl:sameAs rdf:resource="http://ast.dbpedia.org/resource/Homo_sapiens"/>
+    <owl:sameAs rdf:resource="http://yo.dbpedia.org/resource/Ọmọnìyàn"/>
+    <rdfs:label xml:lang="uk">людина розумна</rdfs:label>
+    <owl:sameAs rdf:resource="http://io.dbpedia.org/resource/Homo"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ヒト"/>
+    <owl:sameAs rdf:resource="http://ia.dbpedia.org/resource/Esser_human"/>
+    <owl:sameAs rdf:resource="http://sah.dbpedia.org/resource/Киhи"/>
+    <owl:sameAs rdf:resource="http://lez.dbpedia.org/resource/Кас"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q742609">
+    <dbpedia-owl:isPartOf rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q3830103">
+    <dbpedia-owl:namedAfter rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q1129653">
+    <dbpedia-owl:isPartOf rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q3746999">
+    <dbpedia-owl:namedAfter rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q3769299">
+    <dbpedia-owl:isPartOf rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q4620674">
+    <dbpedia-owl:isPartOf rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q3810956">
+    <dbpedia-owl:namedAfter rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q3972277">
+    <dbpedia-owl:isPartOf rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q3764777">
+    <dbpedia-owl:namedAfter rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q3760991">
+    <dbpedia-owl:namedAfter rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q13165453">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q3961328">
+    <dbpedia-owl:namedAfter rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q3725373">
+    <dbpedia-owl:namedAfter rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q3843446">
+    <dbpedia-owl:namedAfter rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q3837688">
+    <dbpedia-owl:namedAfter rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q2419844">
+    <dbpedia-owl:isPartOf rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q19271372">
+    <dbpedia-owl:constructionMaterial rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q492038">
+    <dbpedia-owl:isPartOf rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q15921058">
+    <dbpedia-owl:citizenship rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+  </rdf:Description>
+</rdf:RDF>

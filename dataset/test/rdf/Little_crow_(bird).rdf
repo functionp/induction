@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dbp="http://dbpedia.org/property/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_crow_(bird)">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Wrona_mała"/>
+    <dbp:rangeMap xml:lang="en">Corvus_bennetti_map.jpg</dbp:rangeMap>
+    <dbo:abstract xml:lang="es">El Cuervo chico (Corvus bennetti) es una especie australiana de cuervo, muy parecido al  cuervo australiano en el sentido de que tienen plumas blancas en el cuello y en la cabeza, pero difieren en que son más pequeños (De 42 a 48 cm) con un pico proporcionalmente más pequeño. Tiene también el iris blanco que distingue a las especies australianas de cuervo de todas las demás, con excepción de la  grajilla euroasiática. Al igual que el cuervo australiano grande, esta especie tiene una anillo azul alrededor de la pupila y algunas veces otro anillo azul alrededor del iris.</dbo:abstract>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q729"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">644193300</dbo:wikiPageRevisionID>
+    <dbo:abstract xml:lang="nl">De Bennetts kraai (Corvus bennetti) behoort tot de familie van de kraaiachtigen.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Corvus bennettiLe Corbeau du désert (Corvus bennetti) est une espèce australienne de passereau de la famille des Corvidae.</dbo:abstract>
+    <rdfs:comment xml:lang="es">El Cuervo chico (Corvus bennetti) es una especie australiana de cuervo, muy parecido al  cuervo australiano en el sentido de que tienen plumas blancas en el cuello y en la cabeza, pero difieren en que son más pequeños (De 42 a 48 cm) con un pico proporcionalmente más pequeño. Tiene también el iris blanco que distingue a las especies australianas de cuervo de todas las demás, con excepción de la  grajilla euroasiática.</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animals_described_in_1901"/>
+    <rdfs:comment xml:lang="fr">Corvus bennettiLe Corbeau du désert (Corvus bennetti) est une espèce australienne de passereau de la famille des Corvidae.</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Corvus_(genus)"/>
+    <dbp:genus xml:lang="en">Corvus</dbp:genus>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Little_crow_(bird)"/>
+    <rdfs:label xml:lang="en">Little crow (bird)</rdfs:label>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Corvus_bennetti"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1299703"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Little_crow_(bird)?oldid=644193300"/>
+    <dbp:species xml:lang="en">C. bennetti</dbp:species>
+    <dbo:conservationStatusSystem>IUCN3.1</dbo:conservationStatusSystem>
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <dbp:binomial xml:lang="en">Corvus bennetti</dbp:binomial>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://members.iinet.net.au/~foconnor/birds/photos/little_crow_1.jpg"/>
+    <rdfs:comment xml:lang="it">Il corvo australiano (Corvus bennetti North, 1901) è un uccello appartenente alla famiglia Corvidae, endemico dell'Australia.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <rdfs:label xml:lang="pt">Corvus bennetti</rdfs:label>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Little_crow_(Fifer).jpg?width=300"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Corvus_bennetti"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/Corvidae"/>
+    <dbo:abstract xml:lang="pl">Wrona mała (Corvus bennetti) – gatunek ptaka z rodziny krukowatych (Corvidae) zamieszkujący Australię. Z wyglądu bardzo przypominają wronę papuaską - mają białą podstawę szyi oraz przejaśnienia na głowie, co widać w trakcie stroszenia na silnym wietrze. Jest jednak nieco mniejsza - osiąga 42-48 cm długości. Ma też proporcjonalnie mniejszy dziób. Posiada podobnie białą tęczówkę, która odróżnia te dwa australijskie gatunki od pozostałych w rodzaju Corvus, poza paroma wyspowymi gatunkami na północy Australii i jednym żyjącym w Eurazji - kawką (Corvus monedula). Podobnie jak kruk australijski, wrona mała ma niebieską obwódkę wokół źrenic, a czasem również taką otoczkę po najbardziej zewnętrznej krawędzi białej tęczówki.</dbo:abstract>
+    <dbp:classis rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Corvus_bennetti"/>
+    <rdfs:comment xml:lang="nl">De Bennetts kraai (Corvus bennetti) behoort tot de familie van de kraaiachtigen.</rdfs:comment>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/Corvidae"/>
+    <dbp:name xml:lang="en">Little crow</dbp:name>
+    <rdfs:comment xml:lang="en">The little crow (Corvus bennetti) is an Australian species of crow, very similar to the Torresian crow in having white bases to the neck and head feathers (shown when ruffled in strong wind) but slightly smaller (38–45 cm in length) and with a slightly smaller bill. It has the same white iris that distinguish the Australian species from all other Corvus except a few island species to the north of Australia, and one from Eurasia, the jackdaw (Corvus monedula).</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+    <dbo:conservationStatus>LC</dbo:conservationStatus>
+    <rdfs:label xml:lang="fr">Corbeau du désert</rdfs:label>
+    <rdfs:label xml:lang="pl">Wrona mała</rdfs:label>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.dwpicture.com.au/search.asp?look_for=crow"/>
+    <dbp:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <rdfs:label xml:lang="ru">Беннетов ворон</rdfs:label>
+    <rdfs:comment xml:lang="pl">Wrona mała (Corvus bennetti) – gatunek ptaka z rodziny krukowatych (Corvidae) zamieszkujący Australię. Z wyglądu bardzo przypominają wronę papuaską - mają białą podstawę szyi oraz przejaśnienia na głowie, co widać w trakcie stroszenia na silnym wietrze. Jest jednak nieco mniejsza - osiąga 42-48 cm długości. Ma też proporcjonalnie mniejszy dziób.</rdfs:comment>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Little_crow_(Fifer).jpg"/>
+    <rdfs:comment xml:lang="ru">Беннетов ворон (лат. Corvus Bennetti) — австралийский вид воронов, по внешнему виду очень похож на Австралийского ворона (Corvus orru) тем, что обладает белыми перьями у основания шеи и головы (они видны только при сильном ветре, когда он ерошит оперение), однако размером он немного меньше (42-48 см в длину) и его клюв также пропорционально меньше.</rdfs:comment>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.viridans.com/birdpics/691amc2.jpg"/>
+    <rdfs:label xml:lang="es">Corvus bennetti</rdfs:label>
+    <dbp:regnum xml:lang="en">Animalia</dbp:regnum>
+    <rdfs:label xml:lang="it">Corvus bennetti</rdfs:label>
+    <dbo:binomialAuthority rdf:resource="http://dbpedia.org/resource/Alfred_John_North"/>
+    <rdfs:comment xml:lang="pt">O Corvus bennetti é uma ave da família Corvidae (corvos)</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Bird"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">211640</dbo:wikiPageID>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Corvus_bennetti"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <dbo:kingdom rdf:resource="http://dbpedia.org/resource/Animal"/>
+    <rdfs:label xml:lang="nl">Bennetts kraai</rdfs:label>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Corbeau_du_désert"/>
+    <dbo:abstract xml:lang="ru">Беннетов ворон (лат. Corvus Bennetti) — австралийский вид воронов, по внешнему виду очень похож на Австралийского ворона (Corvus orru) тем, что обладает белыми перьями у основания шеи и головы (они видны только при сильном ветре, когда он ерошит оперение), однако размером он немного меньше (42-48 см в длину) и его клюв также пропорционально меньше. У него такая же белая радужка глаза, которая отличает австралийские виды от всех других видов воронов, за исключением нескольких островных видов к северу от Австралии, и одного из Евразии (галки, Corvus monedula) (Corvus monedula). Также как и у австралийского, у беннетова ворона вокруг зрачка есть кольцо голубого цвета, а иногда и на внешнем краю белой радужки.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">小嘴鸦（学名：Corvus bennetti），是鸦科鸦属的一种，是游猎迁徙的候鸟，为澳大利亚的特有种。该物种的保护状况被评为无危。小嘴鸦的平均体重约为395.0克。栖息地包括亚热带或热带的（低地）干燥疏灌丛、牧草地、城市、耕地、干燥的稀树草原和亚热带或热带的（低地）干草原。</dbo:abstract>
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Corvus_(genus)"/>
+    <dbp:rangeMapWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:rangeMapWidth>
+    <foaf:name xml:lang="en">Little crow</foaf:name>
+    <rdfs:label xml:lang="zh">小嘴鸦</rdfs:label>
+    <dbo:abstract xml:lang="en">The little crow (Corvus bennetti) is an Australian species of crow, very similar to the Torresian crow in having white bases to the neck and head feathers (shown when ruffled in strong wind) but slightly smaller (38–45 cm in length) and with a slightly smaller bill. It has the same white iris that distinguish the Australian species from all other Corvus except a few island species to the north of Australia, and one from Eurasia, the jackdaw (Corvus monedula). Like the Australian raven, this species  has a blue ring around the pupil.</dbo:abstract>
+    <dbp:ordo rdf:resource="http://dbpedia.org/resource/Passerine"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Western_Australia"/>
+    <dbp:binomialAuthority xml:lang="en">North, 1901</dbp:binomialAuthority>
+    <dbp:statusSystem xml:lang="en">IUCN3.1</dbp:statusSystem>
+    <dbp:status xml:lang="en">LC</dbp:status>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01f0kk"/>
+    <dbo:abstract xml:lang="it">Il corvo australiano (Corvus bennetti North, 1901) è un uccello appartenente alla famiglia Corvidae, endemico dell'Australia.</dbo:abstract>
+    <dbo:order rdf:resource="http://dbpedia.org/resource/Passerine"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Little_crow_(bird)"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Bennetts_kraai"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1299703"/>
+    <rdfs:comment xml:lang="zh">小嘴鸦（学名：Corvus bennetti），是鸦科鸦属的一种，是游猎迁徙的候鸟，为澳大利亚的特有种。该物种的保护状况被评为无危。小嘴鸦的平均体重约为395.0克。栖息地包括亚热带或热带的（低地）干燥疏灌丛、牧草地、城市、耕地、干燥的稀树草原和亚热带或热带的（低地）干草原。</rdfs:comment>
+    <dbo:abstract xml:lang="pt">O Corvus bennetti é uma ave da família Corvidae (corvos)</dbo:abstract>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_South_Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corvus_bennetti">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Little_crow_(bird)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Little_crow_(bird)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Little_crow_(bird)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_Crow_(bird)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Little_crow_(bird)"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,2224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop-id="http://id.dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns7="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Carolus_Linnaeus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Simpanse"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Mamalia"/>
+    <rdfs:label xml:lang="id">Carolus Linnaeus</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Tatanama_binomial"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Bunga"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Taksonomi"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/10_Januari"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kategori:Botanis"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Belanda"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Botani"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Laplandia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Varietas"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Tumbuhan"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Universitas_Lund"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Dokter"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Genus"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/6/68/Carl_von_Linné.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Universitas_Uppsala"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Berkas:Linne_autograph.png"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Putik"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6651181</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Älmhult"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.linnaeus.uu.se/LTeng.html"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kategori:Ilmuwan_Swedia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kategori:Tokoh_Swedia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Ekologi"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Uppsala"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Swedia"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.linnean.org/html/history/linnaeus_biography.htm"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Ordo_(biologi)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/1778"/>
+    <dbpedia-owl:abstract xml:lang="id">Carolus Linnaeus atau Carl (von) Linné adalah seorang ilmuwan Swedia yang meletakkan dasar tatanama biologi. Ia dikenal sebagai "bapak taksonomi modern" dan juga merupakan salah satu bapak ekologi modern. Linnaeus ialah ahli botani yang paling dihormati pada masanya, dan ia juga terkenal dengan kemampuan bahasanya. Selain menjadi ahli botani, Linnaeus juga ahli dalam zoologi dan adalah seorang dokter.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://id.dbpedia.org/resource/Kategori:Ilmuwan_Swedia"/>
+    <rdfs:comment xml:lang="id">Carolus Linnaeus atau Carl (von) Linné adalah seorang ilmuwan Swedia yang meletakkan dasar tatanama biologi. Ia dikenal sebagai "bapak taksonomi modern" dan juga merupakan salah satu bapak ekologi modern. Linnaeus ialah ahli botani yang paling dihormati pada masanya, dan ia juga terkenal dengan kemampuan bahasanya. Selain menjadi ahli botani, Linnaeus juga ahli dalam zoologi dan adalah seorang dokter.</rdfs:comment>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Carl_von_Linné.jpg/200px-Carl_von_Linné.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Spesies"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kelas_(biologi)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Tatanama_biologi"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://id.wikipedia.org/wiki/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kategori:Meninggal_usia_71"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/1735"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Klasifikasi_ilmiah"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Benang_sari"/>
+    <ns7:wasDerivedFrom rdf:resource="http://id.wikipedia.org/wiki/Carolus_Linnaeus?oldid=6651181"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/DNA"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Kerajaan_(biologi)"/>
+    <dcterms:subject rdf:resource="http://id.dbpedia.org/resource/Kategori:Tokoh_Swedia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Bauhin"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Berkas:Carl_von_Linné.jpg"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5695</dbpedia-owl:wikiPageID>
+    <dcterms:subject rdf:resource="http://id.dbpedia.org/resource/Kategori:Botanis"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Zoologi"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ucmp.berkeley.edu/history/linnaeus.html"/>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Systema_Naturae"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Stroke"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Jan_Frederik_Gronovius"/>
+    <dcterms:subject rdf:resource="http://id.dbpedia.org/resource/Kategori:Meninggal_usia_71"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Homo_(genus)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lengkuas">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Garut_(tumbuhan)">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hering_Kalkun">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Familia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Aedes_aegypti">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Aldrovanda">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kupang_(moluska)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Paprika">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Zaitun">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Teki_ladang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Daun_poko_(spesies_Mentha)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pelatuk_paruh-gading">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bunga_kenop">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Belimbing_sayur">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Daftar_marga_anggota_Orchidaceae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Beruang_cokelat">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Namnam">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Peony">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Equidae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sawo_manila">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jambu_monyet">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Todak">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pelatuk_Jambul">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Klasifikasi_ilmiah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tiong-lampu_biasa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kacang_arab">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jambu_biji">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pepaya">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hymenoptera">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:ordoAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pakis_haji">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Horenso">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jarak_pagar">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Dewadaru">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Betet-kelapa_filipina">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bentet_kelabu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tin">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Chamomile">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Srikaya">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bunga_pukul_empat">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Alap-alap_amerika">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gandum">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kentang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pavo_(marga)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Walet_sapi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Burung_unta">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tembelekan">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kondor_Andes">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pegagan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Aprikot">
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/John_Latham">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Daftar_ahli_botani_berdasarkan_singkatan_penulis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Spinifex">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ikan_Houting">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kuda">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kacang_tanah">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Piroelektrisitas">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jagung">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mentha_aquatica">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Melinjo">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bison_Eropa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gelang_biasa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kakao">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Paku_tunjuk_langit">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Narsis">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Trinil_pantai">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Linneaeus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fungi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Undan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Putri_malu">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Nehemiah_Grew">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hibiscus_syriacus">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mussaenda">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:authority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/1707">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bunga_jepun">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:genus rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Belimbing">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lavender">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kirik-kirik_biru">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Asam_jawa">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Paus_Sirip">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Srigunting_jambul-rambut">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kemuning">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Akar_manis">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kirik-kirik_laut">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Brassica_rapa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Taro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ercis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Serindit_melayu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kembang_telang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sanca_bodo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Juwawut">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rosemary">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sophora">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Saga_rambat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Troides_helena">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Teosinte">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mangifera">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Asclepias">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kara_pedang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ketumbar">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Asam_keranji">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ketam_kenari">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cabai_merah_(burung)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sig-sag">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Dadap">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pacar_kuku">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Zebu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Celurut_rumah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Unta_baktria">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Michelia">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lobak">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Terung">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Paus_biru">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kersen">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Burung_pengicau">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Avena">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Taksonomi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ubi_jalar">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Carolus_linaeus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mengkudu">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Falkon">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Waru">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Badak_India">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Arabidopsis_thaliana">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kapri">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kepudang_kuduk-hitam">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Taksonomi_Linnaeus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pilularia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:genus rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Elang_tiram">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kowak-malam_abu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Merpati_penumpang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Semanggi">
+    <dbpedia-owl:genus rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Thyme">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kesumba_keling">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Nicotiana">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cendana">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pare_belut">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Systema_Naturae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Barakuda">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bromelia">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jali">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ikan_Rapfen">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bondol_tunggir-putih">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jeringau">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tusam">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rusa_Roe">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kelabat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kunyit">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Camellia_sinensis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Carolus_Linnaleus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Askariasis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Digitalis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Manggis">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Johann_Friedrich_Gmelin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tomat">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cempaka_wangi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kuntul_kecil">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bebek_merganser-jambul">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sawo_kecik">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jambu_mawar">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cangak_abu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jarak_(tumbuhan)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kuma-kuma">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kemiri">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ikan_Sargassum">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Dodonaea_viscosa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hydra_(genus)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pasak_bumi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kawista">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Seledri">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kurma_(pohon)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hiu_putih">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Babirusa">
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rosela">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Singa_barbary">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jengger_ayam">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Haring_atlantik">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kucica_kampung">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kamperfuli">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ketepeng_cina">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Beaver">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Burung-madu_pengantin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rubah_merah">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sejarah_alam">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kacang_lima">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Merak_biru">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Badak_Hitam">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pidada_merah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tamarin_singa_emas">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tikus_rumah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rambutan">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Felis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pidada">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ayam_kampung">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:author rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Marjoram">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cenderawasih_kuning-besar">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Buah_Roda">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bodhi_(pohon)">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Srigading">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ulva_lactuta">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kambing">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kedelai">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Perkici_pelangi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sesawi_hitam">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Macan_tutul">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rangkong_papan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rambusa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kapuk_randu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kembang_merak">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Linn.">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Adas_manis">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Daftar_kawah_di_Bulan,_L-N">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Camar-angguk_coklat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Paku_sarang_burung">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bawang_merah">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bondol_rawa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jintan_hitam">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Maja">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kupu-kupu_Raja">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Urang-aring">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Alismataceae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:typeGenusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lynx">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Akar_binasa">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mawar">
+    <dbpedia-owl:genus rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pipit_benggala">
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Carl_von_Linné">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gagak">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pancratium_(genus)">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bit_gula">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tumbuhan_berbunga">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kura-kura">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ranti">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/James_Edward_Smith">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Universitas_Uppsala">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ketapang">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Biru-laut_ekor-hitam">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Alap-alap_erasia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Selada">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ekor_merah-lembayung">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hering-hitam_erasia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gladiolus">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Marmot_tanah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kembang_sungsang">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mentimun">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sirih">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mandar_batu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Yak">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Magnolia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Babi_hutan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gembili">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Persik">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mustela_erminea">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Manusia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tumpangan_air">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kedondong">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Turi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Paus_sperma">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Merbuk">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Heemstede">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Layur">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mindi_kecil">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pinang">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Dodo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ayam">
+    <dbpprop-id:author rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Melon">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Calophyllum_inophyllum">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Alpaka">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bayam">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kutilang_jambul">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Brassica_napus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Orangutan_kalimantan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kemukus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Paus_pembunuh">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pistachio">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bajing_merah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Klembak">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tarragon">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Marchantia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ngengat_sutra">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tapak_dara">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Volvox">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bengkuang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Crinum">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Homo_(genus)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Randu_alas">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kepiting">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cerek_besar">
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bebek_mandarin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ginkgo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ceremai_belanda">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lada">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ceratophyllum">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ayam-hutan_merah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tebu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kemboja">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ikan_mas">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Burung_hantu_cokelat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Salam_koja">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Elang_botak">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ular_tedung_Mesir">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Delima">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Carl_von_Linn">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kerajaan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Anyelir">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gambas">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kayu_apu">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kerang_darah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jalak_suren">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/10_Januari">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Flamingo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ketul">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Layang-layang_asia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kalkun">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rhinoceros_(genus)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Paku_laut">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gelatik_jawa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bunga_matahari">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Alang-alang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Trinil_kaki-merah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Decu_belang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sesilia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Alfalfa">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Berenuk">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Vitis">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kacang_bogor">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Serangga">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Equus_(genus)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Krokot">
+    <dbpedia-owl:genus rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Daun_sendok">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kacang_panjang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jerapah">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Puma">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kasuari_gelambir-ganda">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jamblang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Styrax">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mangga">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ras_manusia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Vespa_orientalis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lumbricus_terrestris">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bondol_peking">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bakung">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Borassus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Robin_eropa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fucus">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Betet_biasa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Merak_hijau">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Dedalu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:genus rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kacang_gude">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mentok">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mencit">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Harimau_Tasmania">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Nuri-raja_ambon">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pekaka_emas">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Unta_Arab">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hering_raja">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Oregano">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Komak">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rangkong_badak">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sapi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Daftar_tokoh_Swedia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hortensia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Keong_sawah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ikan_nila">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jelai">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Daun_asam_kecil">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Burung">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Asparagus">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Garcinia">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Punai_gading">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bondol_haji">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Didelphis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Buncis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hering_Mesir">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ulat_bambu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Elang_buteo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Hewan">
+    <dbpprop-id:regnumAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gajahan_pengala">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Carl_Linnaeus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Taenia_(cacing_pita)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Calophyllum">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kembang_sepatu">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Linnean_Society_of_London">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Haver">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Itik_melewar">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kapibara">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kobra_India">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Wortel">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kepodang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Secang">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Elang_emas">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tuna">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cipoh_kacat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pepermin">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Flax">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kerak_jambul">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Beruang_cokelat_Eurasia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Antelop">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Palem_botol">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Engraulis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Terung_susu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bawang_putih">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Musang_rase">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/1_Mei">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sawo_duren">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Api-api">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Temu_kunci">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Wijen">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tarum">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Parkit_carolina">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kumbang_badak_jepang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Burung_hud-hud">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cinchona">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Herbras">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kehidupan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ganja">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Corylus_avellana">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/23_Mei">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jeruk">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Uwi">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Burung_kenari">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kumbang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:ordoAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Beringin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sorgum">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Domba">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ular_pucuk">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Carl_von_Linne">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Penyu_hijau">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sidat_listrik">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Philipp_Ludwig_Statius_Müller">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Moluska">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cenderawasih_raja">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bungur">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kucing">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jintan_putih">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Rusa_besar">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kantong_semar">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Vermes">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Nanas">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Duyung">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Melati_putih">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tata_nama_biologi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Delimukan_zamrud">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Buni_(pohon)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Fragaria">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pir">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sepah_kecil">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ginseng">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bebesaran">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Jambu_bol">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Mentha">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Puyuh_batu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Orang_utan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Pergam_hijau">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Johann_Christian_Fabricius">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ek">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Crocus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Llama">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Singa">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Biston_betularia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Dinosaurus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Primata">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cakalang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gebang">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Waru_laut">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ursus_(genus)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gajahan_erasia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Trinil_semak">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kecipir">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cangak_merah">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Coffea">
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Gletang">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kuntul_kerbau">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bendi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Älmhult">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Suplir">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Daftar_genus_anggota_Rubiaceae">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sirsak">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sturnus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Harimau_Benggala">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/L.">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kekep_babi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cekakak_belukar">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ular">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Derby_Philosophical_Society">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Koi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Serigala_abu-abu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Keledai">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Merpati_karolina">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Georg_Eberhard_Rumpf">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ceplukan">
+    <dbpedia-owl:binomial rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Abalon">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bawang_bombai">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Bivalvia">
+    <dbpprop-id:classisAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Unta">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kacang_tunggak">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ordo_(biologi)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Semanggi_gunung">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kicuit_putih">
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kerajaan_(biologi)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cermai">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kacang_hijau">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kuau_raja">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Junai_emas">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Burung-madu_sriganti">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Paradisaea">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Celsius">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Brassica_oleracea">
+    <dbpprop-id:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Carolus_linnaeus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Binatang_menyusui">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Beo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kerak_ungu">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Växjö">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Waluh">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:genusAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Cengkih">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Grammatophyllum_scriptum">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/George_Edwards_(naturalis)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Ular_derik">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Lalat">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpprop-id:ordoAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Sitrun">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:binomialAuthority rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Kuro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Amfibia">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Linnaeus">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Daftar_zoolog_berdasarkan_singkatan_penulis">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Trachurus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tikus">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.wikipedia.org/wiki/Carolus_Linnaeus">
+    <foaf:primaryTopic rdf:resource="http://id.dbpedia.org/resource/Carolus_Linnaeus"/>
+  </rdf:Description>
+</rdf:RDF>

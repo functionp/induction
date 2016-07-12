@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-nl="http://nl.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/1758">
+    <dbpedia-owl:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Het jaar 1758 is het 58e jaar in de 18e eeuw volgens de christelijke jaartelling.</dbpedia-owl:abstract>
+    <foaf:isPrimaryTopicOf rdf:resource="http://nl.wikipedia.org/wiki/1758"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42770632</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">54</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2900</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/1758"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1758</rdfs:label>
+    <dbpedia-owl:wikiPageModified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-17T00:26:01+00:00</dbpedia-owl:wikiPageModified>
+    <dbpedia-owl:wikiPageEditLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=1758&amp;action=edit"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2513</dbpedia-owl:wikiPageID>
+    <dcterms:subject rdf:resource="http://nl.dbpedia.org/resource/Categorie:1750-1759"/>
+    <dbpedia-owl:wikiPageExtracted rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-10-27T16:57:03+00:00</dbpedia-owl:wikiPageExtracted>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Zijbalk_jaar"/>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Commonscat"/>
+    <dbpedia-owl:wikiPageRevisionLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=1758&amp;oldid=42770632"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Het jaar 1758 is het 58e jaar in de 18e eeuw volgens de christelijke jaartelling.</rdfs:comment>
+    <dbpedia-owl:wikiPageHistoryLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=1758&amp;action=history"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.wikipedia.org/wiki/1758">
+    <foaf:primaryTopic rdf:resource="http://nl.dbpedia.org/resource/1758"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Karel_August_van_Saksen-Weimar-Eisenach_(1757-1828)">
+    <dbpedia-owl:period rdf:resource="http://nl.dbpedia.org/resource/1758"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Leopold_III_Frederik_Frans_van_Anhalt-Dessau">
+    <dbpedia-owl:period rdf:resource="http://nl.dbpedia.org/resource/1758"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/MDCCLVIII">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://nl.dbpedia.org/resource/1758"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Karel_Frederik_van_Hohenzollern-Sigmaringen_(1724-1785)">
+    <dbpedia-owl:period rdf:resource="http://nl.dbpedia.org/resource/1758"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Miguel_Lino_de_Ezpeleta">
+    <dbpedia-owl:relatedFunctions rdf:resource="http://nl.dbpedia.org/resource/1758"/>
+  </rdf:Description>
+</rdf:RDF>

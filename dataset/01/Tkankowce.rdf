@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns3="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-pl="http://pl.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Tkankowce">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Żebropławy"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://pl.wikipedia.org/wiki/Tkankowce"/>
+    <prop-pl:nazwisko xml:lang="pl">Jura</prop-pl:nazwisko>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">21</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Tkanka"/>
+    <prop-pl:nazwaŁacińska xml:lang="pl">Histozoa</prop-pl:nazwaŁacińska>
+    <ns3:wasDerivedFrom rdf:resource="http://pl.wikipedia.org/wiki/Tkankowce?oldid=39678810"/>
+    <prop-pl:opisGrafiki rdf:resource="http://pl.dbpedia.org/resource/Żeglarz_portugalski"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Gametogeneza"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Płaskowce"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Tkankowce_właściwe"/>
+    <prop-pl:imię xml:lang="pl">Czesław</prop-pl:imię>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Żeglarz_portugalski"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Dwuwarstwowce"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Zwierzęta_dwubocznie_symetryczne"/>
+    <prop-pl:tytuł xml:lang="pl">Bezkręgowce : podstawy morfologii funkcjonalnej, systematyki i filogenezy</prop-pl:tytuł>
+    <rdfs:label xml:lang="pl">Tkankowce</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <dcterms:subject rdf:resource="http://pl.dbpedia.org/resource/Kategoria:Zwierzęta"/>
+    <prop-pl:grafika xml:lang="pl">Blaue_Qualle.jpg</prop-pl:grafika>
+    <prop-pl:zoolog xml:lang="pl">Ulrich, 1954</prop-pl:zoolog>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2065</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Układ_nerwowy"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+    <foaf:name xml:lang="pl">Tkankowce</foaf:name>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Kategoria:Taksony_nieścisłe_i_przestarzałe"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q729"/>
+    <prop-pl:wydawca rdf:resource="http://pl.dbpedia.org/resource/Wydawnictwo_Naukowe_PWN"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Parzydełkowce"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Królestwo_(biologia)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Wydawnictwo_Naukowe_PWN"/>
+    <prop-pl:data rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</prop-pl:data>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Zwierzęta"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Eumetazoa"/>
+    <prop-pl:wikiPageUsesTemplate rdf:resource="http://pl.dbpedia.org/resource/Szablon:Cytuj_książkę"/>
+    <prop-pl:tytuł xml:lang="pl">Zoologia : bezkręgowce. T. 1</prop-pl:tytuł>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Trójwarstwowce"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170989</dbpedia-owl:wikiPageID>
+    <dcterms:subject rdf:resource="http://pl.dbpedia.org/resource/Kategoria:Taksony_nieścisłe_i_przestarzałe"/>
+    <prop-pl:inni xml:lang="pl">Red. nauk. Czesław Błaszak</prop-pl:inni>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Kategoria:Zwierzęta"/>
+    <prop-pl:podkrólestwo xml:lang="pl">tkankowce</prop-pl:podkrólestwo>
+    <prop-pl:miejsce xml:lang="pl">Warszawa</prop-pl:miejsce>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Beztkankowce"/>
+    <prop-pl:data rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2009</prop-pl:data>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+    <prop-pl:isbn rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">978</prop-pl:isbn>
+    <prop-pl:wikiPageUsesTemplate rdf:resource="http://pl.dbpedia.org/resource/Szablon:Zwierzę_infobox"/>
+    <prop-pl:nazwaZwyczajowa xml:lang="pl">Tkankowce</prop-pl:nazwaZwyczajowa>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39678810</dbpedia-owl:wikiPageRevisionID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Histozoa">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Nibytkankowce">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Blastula">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Bojowe_środki_biologiczne">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.wikipedia.org/wiki/Tkankowce">
+    <foaf:primaryTopic rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Prawo_rozwojowe_Baera">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Proterozoik">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Dwuwarstwowce">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Tkanka_zwierzęca">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Zwierzęta">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Jerzy_Dzik">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Spongocel">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Trójwarstwowce">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://pl.dbpedia.org/resource/Tkankowce"/>
+  </rdf:Description>
+</rdf:RDF>

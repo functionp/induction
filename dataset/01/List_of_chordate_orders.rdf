@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_chordate_orders">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_fish_families"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/척삭동물의_목_목록"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_reptiles"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6609424"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Taxonomic_lists_(orders)"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q6609424"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Biology-related_lists"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/List_of_chordate_orders?oldid=681181827"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">309910</dbo:wikiPageID>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/List_of_chordate_orders"/>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">681181827</dbo:wikiPageRevisionID>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_birds"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chordate_taxonomy"/>
+    <rdfs:comment xml:lang="en">List of chordate orders in Phylum Chordata, Kingdom Animalia</rdfs:comment>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Lepisosteus_oculatus.jpg?width=300"/>
+    <dbo:abstract xml:lang="en">List of chordate orders in Phylum Chordata, Kingdom Animalia</dbo:abstract>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Lepisosteus_oculatus.jpg"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lists_of_animals"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_amphibians"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_placental_mammals"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/List_of_chordate_orders"/>
+    <rdfs:label xml:lang="en">List of chordate orders</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chordate">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_chordate_orders"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/List_of_chordate_orders">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/List_of_chordate_orders"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_animal_classes">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_chordate_orders"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_biological_orders">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/List_of_chordate_orders"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetrapod">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_chordate_orders"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_amphibians">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_chordate_orders"/>
+  </rdf:Description>
+</rdf:RDF>

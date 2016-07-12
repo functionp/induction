@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-cs="http://cs.dbpedia.org/property/"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Homosexualita">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Promiskuita">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Saúdská_Arábie"/>
+    <prov:wasDerivedFrom rdf:resource="http://cs.wikipedia.org/wiki/Promiskuita?oldid=11227350"/>
+    <dbpedia-owl:wikiPageWikiLinkText xml:lang="cs">sexuální promiskuitě</dbpedia-owl:wikiPageWikiLinkText>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61180</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Evropa"/>
+    <dbpedia-owl:wikiPageWikiLinkText xml:lang="cs">sexuální nevázanost</dbpedia-owl:wikiPageWikiLinkText>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">21</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:abstract xml:lang="cs">Promiskuita (lat. promiscuus = smíšený), termín vyjadřující sexuální nestálost, nevázanost a časté střídání sexuálních partnerů.Je obtížné stanovit hranici toho, co je již považováno za promiskuitní jednání. Toto posouzení navíc závisí na normách příslušné společnosti. Někdy je za promiskuitní považován jakýkoli mimomanželský sexuální styk, jiné kultury považují za promiskuitní jednání, pokud má jedinec více sexuálních partnerů zároveň či pokud partnery často „střídá“. Normy v této oblasti obvykle vycházejí z náboženských představ. V Evropě lze s oslabením křesťanství pozorovat posun k liberálnějšímu pojetí sexuality, zatímco v zemích, kde je náboženství stále dominantní (např. muslimské země), jsou po této stránce normy výrazně přísnější. Argumenty proti častému střídání partnerů se v průběhu doby měnily, vedle náboženských a citových argumentů se v euroamerické kultuře 20. století více zdůrazňují argumenty o rychlejším šíření a častějším výskytu pohlavních nemocí. Naopak ideál „volného sexu“ nalezneme např. ve starověké Indii (materialismus čárváká) nebo v hnutí hippies.Zvláštní kapitolou promiskuity je prostituce, která se také vyskytuje prakticky ve všech dobách a společnostech. Někdy byla společností odsuzována, ale existovala i v respektované podobě, např. tzv. chrámová prostituce v Římě či Sumeru.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Náboženství"/>
+    <dbpedia-owl:wikiPageWikiLinkText xml:lang="cs">promiskuitně</dbpedia-owl:wikiPageWikiLinkText>
+    <dbpedia-owl:wikiPageWikiLinkText xml:lang="cs">promiskuitou</dbpedia-owl:wikiPageWikiLinkText>
+    <dbpedia-owl:wikiPageWikiLinkText xml:lang="cs">promiskuitního</dbpedia-owl:wikiPageWikiLinkText>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Latina"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Cizoložství"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Manželství"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Chrámová_prostituce"/>
+    <rdfs:comment xml:lang="cs">Promiskuita (lat. promiscuus = smíšený), termín vyjadřující sexuální nestálost, nevázanost a časté střídání sexuálních partnerů.Je obtížné stanovit hranici toho, co je již považováno za promiskuitní jednání. Toto posouzení navíc závisí na normách příslušné společnosti. Někdy je za promiskuitní považován jakýkoli mimomanželský sexuální styk, jiné kultury považují za promiskuitní jednání, pokud má jedinec více sexuálních partnerů zároveň či pokud partnery často „střídá“.</rdfs:comment>
+    <dbpedia-owl:wikiPageWikiLinkText xml:lang="cs">promiskuity</dbpedia-owl:wikiPageWikiLinkText>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Pohlavní_nemoci"/>
+    <prop-cs:wikiPageUsesTemplate rdf:resource="http://cs.dbpedia.org/resource/Šablona:Portály"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Kategorie:Sexuální_chování"/>
+    <dbpedia-owl:wikiPageWikiLinkText xml:lang="cs">časté střídání partnerů</dbpedia-owl:wikiPageWikiLinkText>
+    <prop-cs:wikiPageUsesTemplate rdf:resource="http://cs.dbpedia.org/resource/Šablona:Neověřeno"/>
+    <dbpedia-owl:wikiPageWikiLinkText xml:lang="cs">promiskuitní</dbpedia-owl:wikiPageWikiLinkText>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Prostituce"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Šarí´a"/>
+    <dbpedia-owl:wikiPageWikiLinkText xml:lang="cs">střídání partnerů</dbpedia-owl:wikiPageWikiLinkText>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11227350</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2353</dbpedia-owl:wikiPageLength>
+    <rdfs:label xml:lang="cs">Promiskuita</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLinkText xml:lang="cs">promiskuitním</dbpedia-owl:wikiPageWikiLinkText>
+    <foaf:isPrimaryTopicOf rdf:resource="http://cs.wikipedia.org/wiki/Promiskuita"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Islám"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Pohlavní_styk"/>
+    <dbpedia-owl:wikiPageWikiLinkText xml:lang="cs">Promiskuitní</dbpedia-owl:wikiPageWikiLinkText>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Hippies"/>
+    <dbpedia-owl:wikiPageWikiLinkText xml:lang="cs">promiskuitě</dbpedia-owl:wikiPageWikiLinkText>
+    <dbpedia-owl:wikiPageWikiLinkText xml:lang="cs">promiskuita</dbpedia-owl:wikiPageWikiLinkText>
+    <dcterms:subject rdf:resource="http://cs.dbpedia.org/resource/Kategorie:Sexuální_chování"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Sumer"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Řím"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Křesťanství"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Čárváká"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Věno"/>
+    <dbpedia-owl:wikiPageWikiLinkText xml:lang="cs">Promiskuita</dbpedia-owl:wikiPageWikiLinkText>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Poprava_ukamenováním"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Indie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Tuleň_vousatý">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Cizoložství">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Bohémové">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Anglická_literatura">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Karcinom_děložního_hrdla">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Rákosník_proužkovaný">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Panna">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/HIV">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Střídání">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Gangsta_rap">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Tabonovití">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Kupadelné_svátky">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Mokoš">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Bipolární_afektivní_porucha">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Vačice_vydří">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Claudius">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.wikipedia.org/wiki/Promiskuita">
+    <foaf:primaryTopic rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Candidóza">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Badb">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Pavián">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Rákosník_ostřicový">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Seznam_vedlejších_postav_seriálu_Simpsonovi">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Wallis_Simpson">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Lee_Tamahori">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Plískavice_saravacká">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Heinz_Kohut">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Don_Juan">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Gay_Sex_in_the_70s">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Křepelovití">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Modropláštník_nádherný">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Johann_Jakob_Bachofen">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Macha">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Dívka">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Bostonský_případ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Hugh_Hefner">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/AIDS">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Barney_Stinson">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Špatná_pověst_(Glee)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Disco">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Bent">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Alan_Watts">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Muži_mající_sex_s_muži">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Nuba_fighting">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Grant_Gustin">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Venuše_(planeta)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Maxim_Gorkij">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Skupinový_sex">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Josefina_Mutzenbacherová">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Děvka">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://cs.dbpedia.org/resource/Promiskuita"/>
+  </rdf:Description>
+</rdf:RDF>

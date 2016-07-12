@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-ja="http://ja.dbpedia.org/property/"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ワタリガラス">
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">64</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/鳥類"/>
+    <dbpedia-owl:family rdf:resource="http://ja.dbpedia.org/resource/カラス属"/>
+    <prop-ja:省略 xml:lang="ja">鳥綱</prop-ja:省略>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/北欧神話"/>
+    <prop-ja:目 xml:lang="ja">スズメ目 Passeriformes</prop-ja:目>
+    <owl:sameAs rdf:resource="http://is.dbpedia.org/resource/Hrafn"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/フローキ・ビリガルズソン"/>
+    <owl:sameAs rdf:resource="http://ceb.dbpedia.org/resource/Corvus_corax"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/エドガー・アラン・ポー"/>
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Krkavec_čierny"/>
+    <owl:sameAs rdf:resource="http://tt.dbpedia.org/resource/Козгын"/>
+    <owl:sameAs rdf:resource="http://kk.dbpedia.org/resource/Құзғын"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/インディアン"/>
+    <owl:sameAs rdf:resource="http://ka.dbpedia.org/resource/ყორანი"/>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Ronk"/>
+    <foaf:name xml:lang="ja">Common Raven</foaf:name>
+    <prop-ja:英名 xml:lang="ja">Common Raven</prop-ja:英名>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1980145</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/W:Corvida"/>
+    <dbpedia-owl:order rdf:resource="http://ja.dbpedia.org/resource/スズメ目"/>
+    <owl:sameAs rdf:resource="http://als.dbpedia.org/resource/Kolkrabe"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/鳥インフルエンザ"/>
+    <owl:sameAs rdf:resource="http://uz.dbpedia.org/resource/Quzgʻun"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/植民の書"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Bird-stub"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カールトン大学"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Corvus_corax_(NPS).jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ジンクス"/>
+    <owl:sameAs rdf:resource="http://commons.dbpedia.org/resource/Corvus_corax"/>
+    <dbpedia-owl:genus rdf:resource="http://ja.dbpedia.org/resource/カラス属"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/W:Passeriformes"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57895110</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ハシブトガラス"/>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Holló"/>
+    <owl:sameAs rdf:resource="http://ba.dbpedia.org/resource/Ҡоҙғон"/>
+    <owl:sameAs rdf:resource="http://fo.dbpedia.org/resource/Ravnur"/>
+    <owl:sameAs rdf:resource="http://br.dbpedia.org/resource/Marc'hvran"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <prop-ja:status xml:lang="ja">LC</prop-ja:status>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:カラス科"/>
+    <foaf:name xml:lang="ja">ワタリガラス</foaf:name>
+    <owl:sameAs rdf:resource="http://sah.dbpedia.org/resource/Суор"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カール・フォン・リンネ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1758年"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/アイスランド"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス属"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/NFL"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:PAGENAME"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス上科_(Sibley)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/トーテム"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Sibley"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ハリー・ポッターシリーズ"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/ワタリガラス"/>
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Bayağı_kuzgun"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Korako"/>
+    <owl:sameAs rdf:resource="http://la.dbpedia.org/resource/Corvus_corax"/>
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/Corvo_grande"/>
+    <prop-ja:属 xml:lang="ja">カラス属 Corvus</prop-ja:属>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スズメ目"/>
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/ワタリガラス?oldid=57895110"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q25357"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス科_(Sibley)"/>
+    <owl:sameAs rdf:resource="http://io.dbpedia.org/resource/Korniko"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/2006年"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Wikispecies"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Erroi"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス小目_(Sibley)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/レイヴン_(曖昧さ回避)"/>
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Quạ_thường"/>
+    <foaf:name xml:lang="ja">鳥綱</foaf:name>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/フギンとムニン"/>
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Corb"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/新北区"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Kolkrabe"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/旧北区"/>
+    <owl:sameAs rdf:resource="http://ce.dbpedia.org/resource/ХьаргӀ"/>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/غراب_أسحم"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Grand_Corbeau"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2460</dbpedia-owl:wikiPageLength>
+    <prop-ja:科 xml:lang="ja">カラス科 Corvidae</prop-ja:科>
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/Гавран"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/W:Corvidae"/>
+    <dbpedia-owl:abstract xml:lang="ja">ワタリガラス（渡鴉、学名 Corvus corax）は、スズメ目カラス科に分類される鳥。英名は「コモン・レイヴン (common raven)」あるいは「レイヴン、レーヴァン (raven)」。「ワタリガラス」という和名の由来は、日本では渡り鳥として北海道で見られることに由来する。オオガラス（大烏）とも呼ばれる。</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="ja">ワタリガラス（渡鴉、学名 Corvus corax）は、スズメ目カラス科に分類される鳥。英名は「コモン・レイヴン (common raven)」あるいは「レイヴン、レーヴァン (raven)」。「ワタリガラス」という和名の由来は、日本では渡り鳥として北海道で見られることに由来する。オオガラス（大烏）とも呼ばれる。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/渡鴉"/>
+    <owl:sameAs rdf:resource="http://cy.dbpedia.org/resource/Cigfran"/>
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/עורב_שחור"/>
+    <prop-ja:種 xml:lang="ja">ワタリガラス C. corax</prop-ja:種>
+    <owl:sameAs rdf:resource="http://pms.dbpedia.org/resource/Corvus_corax"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/도래까마귀"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Corvus_corax"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Common_raven"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Commons&amp;cat"/>
+    <owl:sameAs rdf:resource="http://oc.dbpedia.org/resource/Grand_còrb"/>
+    <owl:sameAs rdf:resource="http://lv.dbpedia.org/resource/Krauklis"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Korp"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/電子戦機"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス亜科_(Sibley)"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Corb"/>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Обични_гавран"/>
+    <rdfs:label xml:lang="ja">ワタリガラス</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/英語圏"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Corvus_corax_(NPS).jpg?width=300"/>
+    <owl:sameAs rdf:resource="http://ku.dbpedia.org/resource/Qirgurg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スズメ亜目_(Sibley)"/>
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/Corvus_corax"/>
+    <prop-ja:画像 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</prop-ja:画像>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Corvus_corax_(NPS).jpg"/>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:生物分類表"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Corvus_corax_map.jpg"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/غراب_معمولی"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/チャールズ2世_(イングランド王)"/>
+    <owl:sameAs rdf:resource="http://sco.dbpedia.org/resource/Corbie"/>
+    <prop-ja:和名 xml:lang="ja">ワタリガラス</prop-ja:和名>
+    <owl:sameAs rdf:resource="http://ga.dbpedia.org/resource/Fiach_dubh"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/W:Passeri"/>
+    <prop-ja:画像キャプション xml:lang="ja">ワタリガラス</prop-ja:画像キャプション>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ノア_(聖書)"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q25357"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Κοράκι"/>
+    <owl:sameAs rdf:resource="http://gd.dbpedia.org/resource/Fitheach"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ブータン"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/オタワ"/>
+    <owl:sameAs rdf:resource="http://lt.dbpedia.org/resource/Paprastasis_kranklys"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Corvus_corax"/>
+    <owl:sameAs rdf:resource="http://cv.dbpedia.org/resource/Çăхан"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/渡り鳥"/>
+    <prop-ja:学名 xml:lang="ja">Corvus corax</prop-ja:学名>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/突然変異"/>
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/Ramn"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Kruk_zwyczajny"/>
+    <prop-ja:学名 rdf:resource="http://ja.dbpedia.org/resource/カール・フォン・リンネ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ボルチモア・レイブンズ"/>
+    <dbpedia-owl:conservationStatus>LC</dbpedia-owl:conservationStatus>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Krkavec_velký"/>
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Obični_gavran"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/太平洋岸北西部"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ノアの方舟"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Крук"/>
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Крумкач"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Гарван_гробар"/>
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/Obični_gavran"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Korppi"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Corvus_corax"/>
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Common_raven"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Ворон"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ヨーマン・ウォーダーズ"/>
+    <dbpedia-owl:binomial rdf:resource="http://ja.dbpedia.org/resource/1758年"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ロンドン塔"/>
+    <owl:sameAs rdf:resource="http://an.dbpedia.org/resource/Corvus_corax"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/トリックスター"/>
+    <prop-ja:学名 rdf:resource="http://ja.dbpedia.org/resource/1758年"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス科"/>
+    <dc:description>ワタリガラス</dc:description>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Raaf_(vogel)"/>
+    <owl:sameAs rdf:resource="http://tg.dbpedia.org/resource/Зоғ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カラス族_(Sibley)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国鳥"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/大鴉"/>
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Ravn"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/旧約聖書"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/アラスカ州"/>
+    <dbpedia-owl:family rdf:resource="http://ja.dbpedia.org/resource/カラス科"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/北海道"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/イギリス"/>
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Ravn"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Corvus_corax_tingitanus_MHNT_232_HdB_Djebel_Messaad_Algerie.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スズメ目_(Sibley)"/>
+    <dbpedia-owl:binomial rdf:resource="http://ja.dbpedia.org/resource/カール・フォン・リンネ"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/オーディン"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ペンタチコロオヤシ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/フローキ・ビリガルズソン">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/神戸大学レイバンズ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/火星のアルベド地形の古典的な名称一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/メキシコの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/アラメダ野生生物保護公園">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/銀河機攻隊_マジェスティックプリンス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/EF-111_(航空機)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/国鳥">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/心臓">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ランディ島">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/レナード・スラットキン">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ヨセミテ渓谷">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/F-111_(航空機)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/モハーの断崖">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/スポーツのマスコットキャラクター一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ストライクウィッチーズの登場人物">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ロシアの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/青の祓魔師">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/クラーク郡_(ワシントン州)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/英雄伝説_軌跡シリーズの登場人物">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/マクロス_VF-X2">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ブレン・テン">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/オージンのワタリガラスの呪文歌">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/坂本一登">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/Raven">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ロンドン塔">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/汎存種">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ブータン">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/羅処和島">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/オウム目">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/S4_(水雷艇)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/イギリスの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ソフィア・コワレフスカヤ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/エトロフウミスズメ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ヴァルハラ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ホッローケー">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/チェンバロ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/フギンとムニン">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/イナズマイレブンGOの登場人物">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/レイヴン">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カラス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ニュルタム">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/マジンボーン">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/烏_(2007年の映画)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/神羅万象チョコ_第三章">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/中国の野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/オオガラス">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/メタルギアソリッド">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/マルティアリス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/オーラビク国立公園">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/動物の同性愛">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/ワタリガラス">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ユーコン準州">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+    <prop-ja:準州鳥 rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/シャーマンキングの登場人物">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ダールスランド地方">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+    <prop-ja:animal rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ノアの方舟">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/タウンゼンドジリス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/エースコンバット3_エレクトロスフィア">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/オーディン">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/スレイプニル">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/トリックスター">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/猛禽ちゃん">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/アモン_(悪魔)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/アラスカの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/ワタリガラス.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/チベットの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/アメリカン・フットボール・カンファレンス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カナダの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/シグー">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/インディアン">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/サカタインダストリィ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カナダガン">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ドリトル先生と秘密の湖">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/モンゴルの野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/北欧神話にみられるヴァルキュリヤの名前一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ビル・リード">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/レイヴンズ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/大鴉の言葉">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/RQ-11_レイヴン">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カラス属">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/魔法円_(美術)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/鳥類">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/鴉_(曖昧さ回避)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/北欧神話の固有名詞一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/インド亜大陸の野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/大鴉">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/イラク">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/オスターアイシュテット">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カラス科">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ボルチモア・レイブンズ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/トーテムポール">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/シロカツオドリ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ニスガ族">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/X-49_ナイトレーベン">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本の野鳥一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ワタリガラス"/>
+  </rdf:Description>
+</rdf:RDF>

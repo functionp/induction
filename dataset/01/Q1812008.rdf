@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:ns4="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q1812008">
+    <rdfs:label xml:lang="ru">Список вымерших ископаемых птиц</rdfs:label>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1743154</dbpedia-owl:wikiPageID>
+    <rdfs:label xml:lang="uk">Список викопних птахів</rdfs:label>
+    <rdfs:label xml:lang="es">Anexo:Aves fósiles</rdfs:label>
+    <rdfs:label xml:lang="en">List of fossil birds</rdfs:label>
+    <rdfs:label xml:lang="de">Liste ausgestorbener Vögel</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://commons.wikimedia.org/wiki/Category:Fossil_Aves"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Liste_ausgestorbener_Vögel"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Список_викопних_птахів"/>
+    <ns4:wasDerivedFrom rdf:resource="http://www.wikidata.org/wiki/Q1812008?oldid=169322250"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Lista_de_aves_fósseis"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Anexo:Aves_fósiles"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">169322250</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="it">Elenco di uccelli fossili</rdfs:label>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2309</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Uccelli_fossili"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/List_of_fossil_bird_genera"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1812008"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Список_вымерших_ископаемых_птиц"/>
+    <rdfs:label xml:lang="pt">Anexo:Lista de aves fósseis</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

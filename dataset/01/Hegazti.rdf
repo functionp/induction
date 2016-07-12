@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns3="http://eu.dbpedia.org/property/"
+   xmlns:ns5="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Hegazti">
+    <rdfs:label xml:lang="eu">Hegazti</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Superb_fairy_wren2_LiquidGhoul.jpg?width=300"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Wikispecies"/>
+    <dbpedia-owl:name xml:lang="eu">Hegaztiak</dbpedia-owl:name>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:NA_lotura"/>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Description"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Klado"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Hegaztien_ordenak"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Taxotaula_automatikoa"/>
+    <rdfs:comment xml:lang="eu">Hegaztiak (Aves) animalia hankabiko, odol beroko, ornodun eta obiparoak dira. Batzuk migratzaileak dira. Batzuetan, taldeka ibiltzen dira, hegazti-saldoetan. Hegazti txikiei txoriak deritze, eta hegaztiak aztertzen dituen zientziari Ornitologia esaten zaio.Ornodun homeotermoen (gorputzeko berotasuna aldatzen ez zaienen) klasea da hegaztiena, ornodun guztien artean —arrainak alde batera utzita— mota gehien dituena. 28 ordena eta 9.000 mota inguru ditu hegaztien klaseak.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="eu">Hegaztiak (Aves) animalia hankabiko, odol beroko, ornodun eta obiparoak dira. Batzuk migratzaileak dira. Batzuetan, taldeka ibiltzen dira, hegazti-saldoetan. Hegazti txikiei txoriak deritze, eta hegaztiak aztertzen dituen zientziari Ornitologia esaten zaio.Ornodun homeotermoen (gorputzeko berotasuna aldatzen ez zaienen) klasea da hegaztiena, ornodun guztien artean —arrainak alde batera utzita— mota gehien dituena. 28 ordena eta 9.000 mota inguru ditu hegaztien klaseak. Gaurko hegazti mota guztietatik txoriek 5.000 hartzen dituzte (55 familia), eta elkarren artean duten ezaugarri bakarra txorien oin bereziak dira (lauak eta mintzik gabeak). Hegaztiek gorputza lumaz estalia izatea dute ezaugarri nagusia. Erraz hegan egin ahal izateko hezurdura arina dute, hezur asko hutsak izaten dituzte, eta lepoan, bularraldean eta sabelean hutsuneak dituzte. Hutsune horiek biriken luzapenak dira, haizez beteak daude, eta hegaldian arnasa hartzeko erabiltzen dituzte; bularraldean, gainera, gihar indartsuak dituzte hegoak mugiarazteko. Hegazti talde batzuek hegan egiteko ahalmena galdua dute, eta lasterkari bilakatu dira (ostrukak) eta beste batzuk igerilari (pinguinoak). Hegaztiek, ugaztunen antzera, odol beroa dute eta zirkulazioa bikoitza. Oso ikusmen ona dute. Obiparoak dira, alegia, arrautzak erruten dituzte. Azpimarratzekoak dira hegaztien sexu dimorfismoa, txiten ardura eta migrazioak.2014ko azaroaren 14an jakin zenez, Europako landaguneetako hegaztien populazioak beherakada handia izan zuen  azken 30 urteetan, izan ere, 431 milioi txori gutxiago zeuden. XX. mendeko nekazaritza eta abeltzaintza ustiaketak eragin nabarmena izan zuen horreta; izan ere, lurren kudeaketa industrialak degradatu egin zuen bioaniztasuna.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52590</dbpedia-owl:wikiPageID>
+    <ns5:wasDerivedFrom rdf:resource="http://eu.wikipedia.org/wiki/Hegazti?oldid=4731895"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Atari"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4731895</dbpedia-owl:wikiPageRevisionID>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Superb_fairy_wren2_LiquidGhoul.jpg"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Birzuzendua"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Erreferentzia_zerrenda"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Commonskat"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Tax"/>
+    <dcterms:subject rdf:resource="http://eu.dbpedia.org/resource/Kategoria:Hegaztiak"/>
+    <ns3:wikiPageUsesTemplate rdf:resource="http://eu.dbpedia.org/resource/Txantiloi:Lur"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eu.wikipedia.org/wiki/Hegazti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Aves">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Hegazti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Txori">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Hegazti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Txoriak">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Hegazti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Hegaztia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Hegazti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Kategoria:Hegaztiak">
+    <skos:subject rdf:resource="http://eu.dbpedia.org/resource/Hegazti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org:81/data/Hegazti.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Hegazti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.wikipedia.org/wiki/Hegazti">
+    <foaf:primaryTopic rdf:resource="http://eu.dbpedia.org/resource/Hegazti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Txoria">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Hegazti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Hegaztiak">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Hegazti"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Avialae">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eu.dbpedia.org/resource/Hegazti"/>
+  </rdf:Description>
+</rdf:RDF>

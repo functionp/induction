@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns6="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Dombesto">
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Animal_de_estimação"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1496</dbpedia-owl:wikiPageLength>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Animal_de_compagnie"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Eŭropo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kato"/>
+    <owl:sameAs rdf:resource="http://ga.dbpedia.org/resource/Peata"/>
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Animal_de_companie"/>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Lemmikloom"/>
+    <owl:sameAs rdf:resource="http://ms.dbpedia.org/resource/Haiwan_peliharaan"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Lemmikkieläin"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/宠物"/>
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Kæledyr"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Huisdier"/>
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Kjæledyr"/>
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/חיית_מחמד"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Hundo"/>
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Pet"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Respondeco"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</dbpedia-owl:wikiPageOutDegree>
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Thú_cưng"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q39201"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Simio"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Pet"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ペット"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Aldomigo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dosiero:Hunde_gras.jpg"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kosto"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Krokodilo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Serpento"/>
+    <dcterms:subject rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Dombestoj"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+    <rdfs:label xml:lang="eo">Dombesto</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Muso"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5519240</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kategorio:Dombestoj"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Домашен_любимец"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kavio"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://eo.wikipedia.org/wiki/Dombesto"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Bestkuracisto"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Heimtier"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Aŭtovojo"/>
+    <owl:sameAs rdf:resource="http://io.dbpedia.org/resource/Dorloto"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Sällskapsdjur"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">122992</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Konpainia-animalia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Bestoj"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Skorpiono"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Animale_da_compagnia"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Bieno"/>
+    <owl:sameAs rdf:resource="http://bs.dbpedia.org/resource/Domaće_životinje"/>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/حيوان_منزلي"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Birdoj"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/애완동물"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Zwierzęta_domowe"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Pendventra_porko"/>
+    <owl:sameAs rdf:resource="http://la.dbpedia.org/resource/Animal_dilectum"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Maskoto"/>
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Domáce_zviera"/>
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/Kućni_ljubimac"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Тварини-компаньйони"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Domo"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Fiŝoj"/>
+    <owl:sameAs rdf:resource="http://cy.dbpedia.org/resource/Anifail_anwes"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Rato"/>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Hewan_timangan"/>
+    <owl:sameAs rdf:resource="http://th.dbpedia.org/resource/สัตว์เลี้ยง"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Animal_de_companyia"/>
+    <owl:sameAs rdf:resource="http://gd.dbpedia.org/resource/Peata"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ferio"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Furo"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/حیوان_خانگی"/>
+    <owl:sameAs rdf:resource="http://hi.dbpedia.org/resource/पालतू_पशु"/>
+    <owl:sameAs rdf:resource="http://is.dbpedia.org/resource/Gæludýr"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Hamstro"/>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Кућни_љубимац"/>
+    <owl:sameAs rdf:resource="http://an.dbpedia.org/resource/Animal_de_companyía"/>
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/Kjæledyr"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Ludilo"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Животные-компаньоны"/>
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Kućni_ljubimac"/>
+    <ns6:wasDerivedFrom rdf:resource="http://eo.wikipedia.org/wiki/Dombesto?oldid=5519240"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Araneo"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Animal_de_compañía"/>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q39201"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Kuniklo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Furo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kaptiveco">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Angolo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Tripaĵo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Bermudaj_subtropikaj_koniferaroj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Hejmbesto">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kapro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.wikipedia.org/wiki/Dombesto">
+    <foaf:primaryTopic rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Birdoringado">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Dorlotobesto">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Dorlotbesto">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Huberto">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Konserva_statuso">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Bredoregistro">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Tirbesto">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Lamo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Koko_(gorilo)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Besta_skulptarto">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Banujo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/János_Varga_(bestkuracisto)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/ER2_kaj_ER9">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Nutrotabuo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Kukabaraoj">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Statusa_simbolo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Listo_de_roluloj_de_%22Sejla_Mun%22">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Bieno">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Sankta_Vendelo">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Genejna">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Johnny_Depp">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://eo.dbpedia.org/resource/Dombesto"/>
+  </rdf:Description>
+</rdf:RDF>

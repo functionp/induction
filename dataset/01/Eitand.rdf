@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-nl="http://nl.dbpedia.org/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://nl.wikipedia.org/wiki/Eitand">
+    <foaf:primaryTopic rdf:resource="http://nl.dbpedia.org/resource/Eitand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Eitand">
+    <dcterms:subject rdf:resource="http://nl.dbpedia.org/resource/Categorie:Dierlijke_ontwikkeling"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1320</dbpedia-owl:wikiPageLength>
+    <foaf:isPrimaryTopicOf rdf:resource="http://nl.wikipedia.org/wiki/Eitand"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Eitand"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eitand</rdfs:label>
+    <dbpedia-owl:wikiPageEditLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Eitand&amp;action=edit"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44532626</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Een eitand is een tand die meestal alleen wordt gebruikt bij het openen van het ei door het juveniele dier. Het komt vooral voor bij reptielen; vooral schildpadden, slangen en sommige hagedissen kennen deze extra en meestal tijdelijke tand. Het hoeft niet per se een in de kaak gegroeide tand te zijn, bij schildpadden betreft het meer een verstevigde schub in plaats van een tand, maar de functie is hetzelfde.</rdfs:comment>
+    <dbpedia-owl:wikiPageExtracted rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-11-22T07:07:32+00:00</dbpedia-owl:wikiPageExtracted>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">9</dbpedia-owl:wikiPageOutDegree>
+    <prop-nl:wikiPageUsesTemplate rdf:resource="http://nl.dbpedia.org/resource/Sjabloon:Commonscat"/>
+    <dcterms:subject rdf:resource="http://nl.dbpedia.org/resource/Categorie:Anatomie_van_reptielen"/>
+    <dbpedia-owl:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Een eitand is een tand die meestal alleen wordt gebruikt bij het openen van het ei door het juveniele dier. Het komt vooral voor bij reptielen; vooral schildpadden, slangen en sommige hagedissen kennen deze extra en meestal tijdelijke tand. Het hoeft niet per se een in de kaak gegroeide tand te zijn, bij schildpadden betreft het meer een verstevigde schub in plaats van een tand, maar de functie is hetzelfde. Veel eierschalen zijn namelijk niet alleen hard zoals bij een kip, maar ook taai, waardoor kracht alleen (jonge dieren zijn uiteraard niet zo sterk) niet genoeg is; zonder deze tand komen veel jongen het ei niet eens uit. De meeste reptielen verliezen deze eitand vaak vlak na het uitkomen, sommige draadwormslangen en wormhagedissen behouden de tand, het is echter niet bekend of ze er nog een functie voor hebben, omdat van eerder genoemde families weinig bekend is vanwege het ondergrondse bestaan.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageRevisionLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Eitand&amp;oldid=44532626"/>
+    <dbpedia-owl:wikiPageModified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-07-14T09:52:58+00:00</dbpedia-owl:wikiPageModified>
+    <dbpedia-owl:wikiPageHistoryLink rdf:resource="http://nl.wikipedia.org/w/index.php?title=Eitand&amp;action=history"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111002</dbpedia-owl:wikiPageID>
+  </rdf:Description>
+</rdf:RDF>

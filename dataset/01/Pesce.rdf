@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop-it="http://it.dbpedia.org/property/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:provenance="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Pesce">
+    <dbpprop-it:cognome xml:lang="it">Parker</dbpprop-it:cognome>
+    <dbpprop-it:editore xml:lang="it">Mursia</dbpprop-it:editore>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Dmoz"/>
+    <dbpprop-it:qPreposizione xml:lang="it">sul</dbpprop-it:qPreposizione>
+    <dbpprop-it:nome xml:lang="it">Stuart</dbpprop-it:nome>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Peixe"/>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Galleria"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.acquariofiliaitalia.it"/>
+    <dbpprop-it:nome xml:lang="it">Steve</dbpprop-it:nome>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Ikan"/>
+    <dbpprop-it:nome xml:lang="it">Sergio</dbpprop-it:nome>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://fishbase.org/home.htm"/>
+    <dbpprop-it:nome xml:lang="it">Francesco</dbpprop-it:nome>
+    <dbpprop-it:nome xml:lang="it">Pesci</dbpprop-it:nome>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Fische"/>
+    <dbpprop-it:id xml:lang="it">ISBN 88-425-3188-X</dbpprop-it:id>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ψάρι"/>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Thesaurus_BNCF"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Pisces"/>
+    <dbpedia-owl:abstract xml:lang="it">Con il termine pesci, dal latino pisces, si intende un gruppo eterogeneo di organismi fondamentalmente acquatici, che nelle vecchie tassonomie assurgeva a classe sistematica dei vertebrati. I pesci, con oltre 32 000 specie coprono quasi il 50% del totale delle specie del subphylum vertebrata.La zoologia moderna non riconosce ai pesci valore di raggruppamento sistematico (categoria tassonomica), ma l'insieme di tratti esteriori evolutivamente convergenti o costanti, come l'idrodinamicità, la presenza di pinne, che permettono loro di muoversi nell'elemento fluido con particolare efficacia e la respirazione prevalentemente branchiale dell'ossigeno disciolto, dati dal comune ambiente vitale, la fanno, anche se in ambito non tassonomico, tuttora variamente utilizzare, ad esempio in itticoltura e ecologia.Il più antico pesce fossile è lo Haikouichthys vissuto durante il Cambriano 500 milioni di anni fa, imparentato con le lamprede.Il più grande pesce vivente è lo Squalo balena (Rhincodon typus) che può raggiungere i 20 metri di lunghezza e pesare fino a 34 tonnellate, i Paedocypris invece sono i pesci più piccoli viventi, infatti i maschi raggiungono i 10 mm e le femmine possono essere lunghe solo 7,9 mm.</dbpedia-owl:abstract>
+    <dbpprop-it:curatore xml:lang="it">Trainito, Egidio</dbpprop-it:curatore>
+    <dbpprop-it:anno rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</dbpprop-it:anno>
+    <dbpprop-it:coautori xml:lang="it">B. Collette; D. Facey</dbpprop-it:coautori>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ryby"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Rybovití_obratlovci"/>
+    <dbpprop-it:dominio rdf:resource="http://it.dbpedia.org/resource/Eukaryota"/>
+    <dbpprop-it:titolo xml:lang="it">Abissi</dbpprop-it:titolo>
+    <dbpedia-owl:kingdom rdf:resource="http://it.dbpedia.org/resource/Animalia"/>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Cita_libro"/>
+    <dbpedia-owl:phylum rdf:resource="http://it.dbpedia.org/resource/Chordata"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Fiŝoj"/>
+    <rdfs:comment xml:lang="it">Con il termine pesci, dal latino pisces, si intende un gruppo eterogeneo di organismi fondamentalmente acquatici, che nelle vecchie tassonomie assurgeva a classe sistematica dei vertebrati.</rdfs:comment>
+    <dbpprop-it:suddivisione rdf:resource="http://it.dbpedia.org/resource/Classe_(tassonomia)"/>
+    <dbpprop-it:editore xml:lang="it">Istituto Geografico De Agostini</dbpprop-it:editore>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1664966</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Fish"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Риби"/>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Chiarire"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Macropodus_opercularis_-_side_(aka).jpg"/>
+    <dbpprop-it:etichetta xml:lang="it">Pesce</dbpprop-it:etichetta>
+    <dbpprop-it:ramo rdf:resource="http://it.dbpedia.org/resource/Bilateria"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/물고기"/>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Portale"/>
+    <dbpprop-it:titolo xml:lang="it">Riconoscere i pesci d'acqua dolce d'Italia e d'Europa</dbpprop-it:titolo>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Vissen_(dieren)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/dbtax/Organism"/>
+    <dbpprop-it:titolo xml:lang="it">Pisces</dbpprop-it:titolo>
+    <dbpprop-it:nome xml:lang="it">Gene</dbpprop-it:nome>
+    <dbpprop-it:cid xml:lang="it">Helfman</dbpprop-it:cid>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q152"/>
+    <dbpprop-it:cognome xml:lang="it">Carter</dbpprop-it:cognome>
+    <dbpprop-it:città xml:lang="it">Milano</dbpprop-it:città>
+    <dbpprop-it:subphylum xml:lang="it">Vertebrata</dbpprop-it:subphylum>
+    <dbpprop-it:id xml:lang="it">ISBN 88-7413-088-0</dbpprop-it:id>
+    <rdf:type rdf:resource="http://dbpedia.org/dbtax/Food"/>
+    <dbpprop-it:immagine rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230</dbpprop-it:immagine>
+    <dbpprop-it:regno rdf:resource="http://it.dbpedia.org/resource/Animalia"/>
+    <dcterms:subject rdf:resource="http://it.dbpedia.org/resource/Categoria:Biologia_marina"/>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Vedi_anche"/>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Nota_disambigua"/>
+    <dbpprop-it:id xml:lang="it">ISBN 88-418-1055-6</dbpprop-it:id>
+    <dbpprop-it:sottoregno rdf:resource="http://it.dbpedia.org/resource/Eumetazoa"/>
+    <dbpprop-it:commons xml:lang="it">Category:Fishes</dbpprop-it:commons>
+    <rdf:type rdf:resource="http://dbpedia.org/dbtax/Fishery"/>
+    <dbpprop-it:titolo xml:lang="it">I Pesci. Storia naturale, comportamento, vita segreta</dbpprop-it:titolo>
+    <dbpprop-it:wikt xml:lang="it">pesce</dbpprop-it:wikt>
+    <dbpedia-owl:domain rdf:resource="http://it.dbpedia.org/resource/Eukaryota"/>
+    <dbpprop-it:superphylum rdf:resource="http://it.dbpedia.org/resource/Deuterostomia"/>
+    <dcterms:subject rdf:resource="http://it.dbpedia.org/resource/Categoria:Pesci"/>
+    <dbpprop-it:anno rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2002</dbpprop-it:anno>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.rivamar.it/pesce-e-salute/le-sostanze-nutritive"/>
+    <dbpprop-it:nome xml:lang="it">Claire</dbpprop-it:nome>
+    <dbpedia-owl:kingdom rdf:resource="http://it.dbpedia.org/resource/Eumetazoa"/>
+    <foaf:name xml:lang="it">Pesci</foaf:name>
+    <dbpprop-it:cognome xml:lang="it">Zerunian</dbpprop-it:cognome>
+    <dbpprop-it:nome xml:lang="it">Patrick</dbpprop-it:nome>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84502</dbpedia-owl:wikiPageLength>
+    <dbpprop-it:id xml:lang="it">ISBN 978-88-88585-90-1</dbpprop-it:id>
+    <dbpprop-it:autore xml:lang="it">Margulis, L., Schwartz, K.V.</dbpprop-it:autore>
+    <dbpprop-it:anno rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</dbpprop-it:anno>
+    <dbpprop-it:titolo xml:lang="it">Guida all'identificazione dei pesci marini d'Europa e del Mediterraneo</dbpprop-it:titolo>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <dbpprop-it:città xml:lang="it">Novara</dbpprop-it:città>
+    <dbpprop-it:wiktEtichetta xml:lang="it">pesce</dbpprop-it:wiktEtichetta>
+    <dbpprop-it:titolo xml:lang="it">Atlante dei pesci dei mari italiani</dbpprop-it:titolo>
+    <dbpprop-it:suddivisioneTesto xml:lang="it">Vedi testo</dbpprop-it:suddivisioneTesto>
+    <dbpprop-it:cognome xml:lang="it">Costa</dbpprop-it:cognome>
+    <dbpedia-owl:phylum rdf:resource="http://it.dbpedia.org/resource/Vertebrata"/>
+    <dbpprop-it:phylum rdf:resource="http://it.dbpedia.org/resource/Chordata"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Macropodus_opercularis_-_side_(aka).jpg?width=300"/>
+    <dbpprop-it:coautori xml:lang="it">Malcolm Greenhalgh</dbpprop-it:coautori>
+    <dbpprop-it:cognome xml:lang="it">Helfman</dbpprop-it:cognome>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Tassobox"/>
+    <dbpprop-it:titolo xml:lang="it">Condannati all'estinzione? Biodiversità, biologia, minacce e strategie di conservazione dei pesci d'acqua dolce indigeni in Italia</dbpprop-it:titolo>
+    <rdfs:label xml:lang="it">Pesce</rdfs:label>
+    <dbpprop-it:id xml:lang="it">ISBN 88-506-4778-6</dbpprop-it:id>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Arrain"/>
+    <dbpprop-it:editore xml:lang="it">Blackwell Publishing</dbpprop-it:editore>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/魚類"/>
+    <dbpprop-it:cognome xml:lang="it">Louisy</dbpprop-it:cognome>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:En"/>
+    <dbpprop-it:editore xml:lang="it">Il Sole 24 Ore Edagricole</dbpprop-it:editore>
+    <dbpprop-it:editore xml:lang="it">Il Castello</dbpprop-it:editore>
+    <dbpprop-it:editore xml:lang="it">Muzzio</dbpprop-it:editore>
+    <dbpprop-it:didascalia xml:lang="it">Macropodus opercularis</dbpprop-it:didascalia>
+    <dbpprop-it:lingua xml:lang="it">inglese</dbpprop-it:lingua>
+    <dbpprop-it:id xml:lang="it">ISBN 0-86542-256-7</dbpprop-it:id>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Interprogetto"/>
+    <provenance:wasDerivedFrom rdf:resource="http://it.wikipedia.org/wiki/Pesce?oldid=69291739"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://it.wikipedia.org/wiki/Pesce"/>
+    <rdf:type rdf:resource="http://dbpedia.org/dbtax/Subfield"/>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism"/>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:WoRMS"/>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:References"/>
+    <dbpprop-it:titolo xml:lang="it">The Diversity of Fishes</dbpprop-it:titolo>
+    <dbpprop-it:id xml:lang="it">ISBN 88-8039-472-X</dbpprop-it:id>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Tutto_attaccato"/>
+    <dbpprop-it:anno rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</dbpprop-it:anno>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Fiskar"/>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:Link_VdQ"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Poisson"/>
+    <dbpprop-it:pagine rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">528</dbpprop-it:pagine>
+    <dbpprop-it:anno rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</dbpprop-it:anno>
+    <dbpprop-it:altri xml:lang="it">tradotto da M. Relini</dbpprop-it:altri>
+    <dbpprop-it:editore xml:lang="it">L'ippocampo</dbpprop-it:editore>
+    <dbpprop-it:wikiPageUsesTemplate rdf:resource="http://it.dbpedia.org/resource/Template:TA"/>
+    <dbpprop-it:cognome xml:lang="it">Nouvian</dbpprop-it:cognome>
+    <dbpprop-it:summ rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11676</dbpprop-it:summ>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.wikipedia.org/wiki/Pesce">
+    <foaf:primaryTopic rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Ichthyopsida">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org:18080/data/Pesce.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Indie_occidentali_danesi">
+    <dbpprop-it:produzioni rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Khazaria">
+    <dbpprop-it:esportazioni rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Antonio_di_Padova">
+    <dbpprop-it:attributi rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Fundulus_waccamensis">
+    <dbpedia-owl:classis rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+    <dbpprop-it:superclasse rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Apparato_respiratorio_dei_pesci">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Thunnus">
+    <dbpprop-it:superclasse rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+    <dbpedia-owl:classis rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Pesci_(biologia)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Pesci">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Ittiopsidi">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Tiradito">
+    <dbpprop-it:ingredienti rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Papa_Clemente_I">
+    <dbpprop-it:attributi rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Pesce_(disambigua)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Pisces">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Ittici">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://it.dbpedia.org/resource/Pesce"/>
+  </rdf:Description>
+</rdf:RDF>

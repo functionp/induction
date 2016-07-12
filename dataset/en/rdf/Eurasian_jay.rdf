@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dbp="http://dbpedia.org/property/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eurasian_jay">
+    <rdfs:label xml:lang="pl">Sójka zwyczajna</rdfs:label>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Asia"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:label xml:lang="pt">Gaio-comum</rdfs:label>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Geai_des_chênes"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Sojka_obecná"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/어치"/>
+    <dbp:species xml:lang="en">G. glandarius</dbp:species>
+    <rdfs:comment xml:lang="pt">O gaio-comum (Garrulus glandarius) é uma ave da família Corvidae.</rdfs:comment>
+    <rdfs:label xml:lang="fr">Geai des chênes</rdfs:label>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bsc-eoc.org/avibase/avibase.jsp?pg=summary&amp;lang=EN&amp;id=CBBC09C1F95E8BAC&amp;ts=1171544468577"/>
+    <dbo:abstract xml:lang="pt">O gaio-comum (Garrulus glandarius) é uma ave da família Corvidae.</dbo:abstract>
+    <rdfs:comment xml:lang="de">Der Eichelhäher (Garrulus glandarius) ist ein Singvogel aus der Familie der Rabenvögel (Corvidae).Er ist über Europa, Teile Nordafrikas und des Nahen Ostens sowie in einem breiten Gürtel durch Asien und dort südwärts bis nach Indochina verbreitet. Er brütet in lichten, strukturreichen Wäldern aller Art, in Mitteleuropa aber bevorzugt in Misch- und Laubwäldern. Sein Nahrungsspektrum ist sehr vielfältig, wobei im Sommerhalbjahr tierische, im Winterhalbjahr pflanzliche Nahrung überwiegt.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Garrulus_glandarius"/>
+    <rdfs:comment xml:lang="es">El arrendajo (Garrulus glandarius) es una especie de ave paseriforme de la familia de los córvidos (Corvidae), ampliamente distribuido por el Viejo Mundo.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <dbp:statusSystem xml:lang="en">IUCN3.1</dbp:statusSystem>
+    <rdfs:label xml:lang="en">Eurasian jay</rdfs:label>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/カケス"/>
+    <dbo:genus rdf:resource="http://dbpedia.org/resource/Garrulus"/>
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213343</dbo:wikiPageID>
+    <dbo:conservationStatus>LC</dbo:conservationStatus>
+    <rdfs:label xml:lang="ja">カケス</rdfs:label>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01f7s5"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Azerbaijan"/>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Garrulus_glandarius_1_Luc_Viatour.jpg?width=300"/>
+    <dbp:subdivision rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</dbp:subdivision>
+    <dbp:ordo rdf:resource="http://dbpedia.org/resource/Passerine"/>
+    <dbp:status xml:lang="en">LC</dbp:status>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Garrulus_glandarius_1_Luc_Viatour.jpg"/>
+    <dbp:binomial xml:lang="en">Garrulus glandarius</dbp:binomial>
+    <dbo:kingdom rdf:resource="http://dbpedia.org/resource/Animal"/>
+    <rdfs:label xml:lang="de">Eichelhäher</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Eurasian_jay"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mikosanat.com/kus/alakarga/alakarga.html"/>
+    <dbp:rangeMap xml:lang="en">Garrulus glandarius distribution.jpg</dbp:rangeMap>
+    <dbo:abstract xml:lang="es">El arrendajo (Garrulus glandarius) es una especie de ave paseriforme de la familia de los córvidos (Corvidae), ampliamente distribuido por el Viejo Mundo.</dbo:abstract>
+    <dbp:classis rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <rdfs:comment xml:lang="en">The Eurasian jay (Garrulus glandarius) is a species of bird occurring over a vast region from Western Europe and north-west Africa to the Indian Subcontinent and further to the eastern seaboard of Asia and down into south-east Asia.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Κίσσα"/>
+    <dbp:subdivisionRanks rdf:resource="http://dbpedia.org/resource/Subspecies"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q25354"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Pakistan"/>
+    <dbp:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <rdfs:label xml:lang="nl">Vlaamse gaai</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+    <rdfs:label xml:lang="it">Garrulus glandarius</rdfs:label>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Garrulus"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.arkive.org/species/ARK/birds/Garrulus_glandarius/"/>
+    <dbo:conservationStatusSystem>IUCN3.1</dbo:conservationStatusSystem>
+    <dbo:abstract xml:lang="ar">القيق الأوراسيّ أو الزرياب الأوراسيّ أو أبو زُريق الأوراسي هوَ طائر قيق يَنتمي إلى فصيلة الغرابيات التابعة لرتبة العصفوريات، يَقطن كافة قارات العالم القديم، وهو يُعد أكثر أنواع فصيلة الغرابيات تلوناً وزهاءً. تفضل هذه الطيور العيش في الغابات، ويَكسو أجسامها ريش ذو لون بني مُزهَرّ، أما جناحاه فهما يَتلونان بالأبيض والأسود ويَمتد على حافتهما شريط ذو لون أزرق براق. وهي تعيش عبر منطقة واسعة تمتد من غرب أفريقيا إلى أقصى شرق آسيا، متضمّنة أجزاءً عدّة من الوطن العربي، وقد تطورت عبر هذه المساحة الشاسعة تحت أنواع مختلفة منها حظي كل منها بتصنيف علمي خاص به.تملك طيور القيق الأوراسي نداءً صوتياً فريداً ومميزاً تردده أحياناً، وهذا النداء المُميَّز قليل السماع نسبياً في العادة، لكن مع ذلك فإنها تمتلك أيضاً عدداً من النداءات الأخرى الأقل ندرة.</dbo:abstract>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">668799280</dbo:wikiPageRevisionID>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Eurasian_jay?oldid=668799280"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Bird"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Gaio-comum"/>
+    <dbp:genus xml:lang="en">Garrulus</dbp:genus>
+    <dbp:imageWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</dbp:imageWidth>
+    <dbo:abstract xml:lang="it">La ghiandaia (Garrulus glandarius Linnaeus, 1758) è un uccello appartenente alla famiglia Corvidae.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Der Eichelhäher (Garrulus glandarius) ist ein Singvogel aus der Familie der Rabenvögel (Corvidae).Er ist über Europa, Teile Nordafrikas und des Nahen Ostens sowie in einem breiten Gürtel durch Asien und dort südwärts bis nach Indochina verbreitet. Er brütet in lichten, strukturreichen Wäldern aller Art, in Mitteleuropa aber bevorzugt in Misch- und Laubwäldern. Sein Nahrungsspektrum ist sehr vielfältig, wobei im Sommerhalbjahr tierische, im Winterhalbjahr pflanzliche Nahrung überwiegt. Vor dem Winter werden  umfangreiche Vorräte aus Eicheln und anderen Nussfrüchten angelegt.Süd- und westeuropäische Eichelhäher sind meist Standvögel, mittel-, ost- und nordeuropäische Teilzieher, wobei nur einige nördliche Populationen ihre Brutgebiete im Winter komplett räumen. In manchen Jahren kommt es zu umfangreichen Evasionen nord- und osteuropäischer Populationen.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Eurasian jay (Garrulus glandarius) is a species of bird occurring over a vast region from Western Europe and north-west Africa to the Indian Subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across its vast range, several very distinct racial forms have evolved to look very different from each other, especially when forms at the extremes of its range are compared.The bird is called jay, without any epithets, by English speakers in Great Britain and Ireland. It is the original 'jay' after which all others are named.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Со́йка (также обыкновенная сойка; также кареза; лат. Garrulus glandarius) — птица рода соек семейства врановых отряда воробьинообразных.</dbo:abstract>
+    <rdfs:label xml:lang="ar">قيق أوراسي</rdfs:label>
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Chordate"/>
+    <rdfs:comment xml:lang="ja">カケス（橿鳥、懸巣、鵥、Garrulus glandarius）とは鳥綱スズメ目カラス科カケス属に分類される鳥である。</rdfs:comment>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.springerlink.com/content/r044365180886530/"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q729"/>
+    <dbp:regnum xml:lang="en">Animalia</dbp:regnum>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Southeast_Asia"/>
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bird"/>
+    <rdfs:label xml:lang="es">Garrulus glandarius</rdfs:label>
+    <rdfs:comment xml:lang="ru">Со́йка (также обыкновенная сойка; также кареза; лат. Garrulus glandarius) — птица рода соек семейства врановых отряда воробьинообразных.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Garrulus_glandarius"/>
+    <dbp:imageCaption xml:lang="en">A Eurasian jay in England</dbp:imageCaption>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Sójka_zwyczajna"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Europe"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://ibss.febras.ru/files/00005321.pdf"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Vlaamse_gaai"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Uzbekistan"/>
+    <rdfs:label xml:lang="zh">松鴉</rdfs:label>
+    <dbo:binomialAuthority rdf:resource="http://dbpedia.org/resource/Carl_Linnaeus"/>
+    <rdfs:comment xml:lang="nl">De Vlaamse gaai (Garrulus glandarius) Geluidsfragment roep (info / uitleg) en Geluidsfragment zang (info / uitleg), ook wel kortweg gaai genoemd, of schreeuwekster of meerkol, is een opvallend gekleurde kraaiachtige.</rdfs:comment>
+    <rdfs:label xml:lang="ru">Сойка</rdfs:label>
+    <dbo:binomialAuthority rdf:resource="http://dbpedia.org/resource/10th_edition_of_Systema_Naturae"/>
+    <rdfs:comment xml:lang="zh">松鴉（學名：Garrulus glandarius），是一種分佈極廣泛的鴉科動物，包括西歐大部分地區，至非洲的東北部，以至亞洲的東海岸以及東南亞等地均有分內。正因為分佈如此廣泛，因此不同地區的亞種往往出現極大的變異，特別是當它們的分佈地是相距極遠的時候，差異更大。在歐洲，松鴉也常被簡稱為Jay。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Garrulus glandariusLe Geai des chênes (Garrulus glandarius) est une espèce de passereaux de la famille des Corvidae.</rdfs:comment>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animals_described_in_1758"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Eichelhäher"/>
+    <dbo:family rdf:resource="http://dbpedia.org/resource/Corvidae"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Eurasian_jay"/>
+    <dbp:familia rdf:resource="http://dbpedia.org/resource/Corvidae"/>
+    <dbo:order rdf:resource="http://dbpedia.org/resource/Passerine"/>
+    <dbo:abstract xml:lang="ja">カケス（橿鳥、懸巣、鵥、Garrulus glandarius）とは鳥綱スズメ目カラス科カケス属に分類される鳥である。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Garrulus glandariusLe Geai des chênes (Garrulus glandarius) est une espèce de passereaux de la famille des Corvidae.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">松鴉（學名：Garrulus glandarius），是一種分佈極廣泛的鴉科動物，包括西歐大部分地區，至非洲的東北部，以至亞洲的東海岸以及東南亞等地均有分內。正因為分佈如此廣泛，因此不同地區的亞種往往出現極大的變異，特別是當它們的分佈地是相距極遠的時候，差異更大。在歐洲，松鴉也常被簡稱為Jay。</dbo:abstract>
+    <rdfs:comment xml:lang="ar">القيق الأوراسيّ أو الزرياب الأوراسيّ أو أبو زُريق الأوراسي هوَ طائر قيق يَنتمي إلى فصيلة الغرابيات التابعة لرتبة العصفوريات، يَقطن كافة قارات العالم القديم، وهو يُعد أكثر أنواع فصيلة الغرابيات تلوناً وزهاءً. تفضل هذه الطيور العيش في الغابات، ويَكسو أجسامها ريش ذو لون بني مُزهَرّ، أما جناحاه فهما يَتلونان بالأبيض والأسود ويَمتد على حافتهما شريط ذو لون أزرق براق.</rdfs:comment>
+    <rdfs:comment xml:lang="it">La ghiandaia (Garrulus glandarius Linnaeus, 1758) è un uccello appartenente alla famiglia Corvidae.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <dbo:abstract xml:lang="nl">De Vlaamse gaai (Garrulus glandarius) Geluidsfragment roep (info / uitleg) en Geluidsfragment zang (info / uitleg), ook wel kortweg gaai genoemd, of schreeuwekster of meerkol, is een opvallend gekleurde kraaiachtige.</dbo:abstract>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.rspb.org.uk/wildlife/birdguide/name/j/jay/index.aspx"/>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Birds_of_Africa"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Eskinoso"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q25354"/>
+    <dbo:wikiPageExternalLink rdf:resource="http://aulaenred.ibercaja.es/wp-content/uploads/406_JayGglandarius.pdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Garrulus_glandarius">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Eurasian_jay"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eurasian_Jay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Eurasian_jay"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_Jay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Eurasian_jay"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_jay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Eurasian_jay"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Eurasian_jay">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Eurasian_jay"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corvus_glandarius">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Eurasian_jay"/>
+  </rdf:Description>
+</rdf:RDF>
