@@ -45,7 +45,6 @@ class TestPPIS(unittest.TestCase):
         inference_system = PPInferenceSystem(self.dataset)
         p1 = inference_system.propagation(1, 2, bird_d, habitat, forest)
         p2 = inference_system.propagation(1, 2, bird_d, habitat, riverside)
-
         self.assertTrue(p1 < p2)
 
     def test_concept_set(self):

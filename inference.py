@@ -4,6 +4,7 @@
 #from rdflib.namespace import RDF, FOAF, OWL, RDFS
 #from rdflib.util import guess_format
 
+from math import sqrt
 from rdf import *
 
 def remove_overlap(l):
@@ -13,6 +14,14 @@ def print_graph(graph):
     for subj, pred, obj in graph:
         print u"({0}, {1}, {2})".format(subj, pred, obj)
 
+def length_generator(generator):
+    length = 0
+    for element in generator:
+        length += 1
+    #初期化必要かも
+    return length
+
+        
 class Path(object):
     def __init__(self, triples_list):
         self.triples_list = triples_list
@@ -65,10 +74,19 @@ class PPInferenceSystem(RDFInferenceSystem):
 
         return sum_propagation_value
 
-    def get_weight(self, path, a, f):
-        if len(path) == 1:
-            #number_of_members = self.dataset.triples((None, pred, obj))
+    def get_weight(self, path, a=1/sqrt(2), f=lambda x: sqrt(x)):
+        if len(path) == 0:
+            return 1
+        elif len(path) == 1:
+            subj, pred, obj = path[0]
+            number_of_members = length_generator(self.dataset.triples((None, pred, obj)))
             return float(a) / f(number_of_members)
+        else:
+            path_head = path[0:1]
+            path_middle = path[1:-1]
+            path_tail = path[-1:]
+            return self.get_weight(path_head,a,f) * self.get_weight(path_middle,a,f) * self.get_weight(path_tail,a,f)
+            
 
     def get_concept_path_set_s_0(self, subj, pred, obj, path_default=[], path_obj=None):
         concept_path_set = []
