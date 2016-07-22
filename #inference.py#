@@ -65,10 +65,11 @@ class PPInferenceSystem(RDFInferenceSystem):
 
         return sum_propagation_value
 
+    #書いてる途中
     def get_weight(self, path, a, f):
         if len(path) == 1:
             #number_of_members = self.dataset.triples((None, pred, obj))
-            return float(a) / f(number_of_members)
+        return float(a) / f(number_of_members)
 
     def get_concept_path_set_s_0(self, subj, pred, obj, path_default=[], path_obj=None):
         concept_path_set = []

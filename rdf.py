@@ -119,8 +119,9 @@ class AnimalRDFCollector(RDFCollector):
         return triples
 
 class GraphController(object):
-    def __init__(self):
-        self.graph = Graph()
+    def __init__(self, graph = None):
+        if graph == None: graph = Graph()
+        self.graph = graph
 
     def construct_graph(self, directory_path='dataset/01/'):
         """Load rdf files in the directry, and construct graph"""

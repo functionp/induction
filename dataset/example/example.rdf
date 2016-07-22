@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://semanticweb.org/id/"
+   xmlns:ns2="http://umbel.org/umbel/rc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://ontologi.es/WordNet/class/Mouse-1">
+    <rdf:type rdf:resource="http://purl.org/biodiversity/taxon/Mammal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/BirdA">
+    <ns2:Habitat rdf:resource="http://umbel.org/umbel/rc/Forest"/>
+    <rdf:type rdf:resource="http://purl.org/biodiversity/taxon/Bird"/>
+    <ns1:Property-3AEats rdf:resource="http://ontologi.es/WordNet/class/Mouse-1"/>
+    <ns1:Property-3AEats rdf:resource="http://umbel.org/umbel/rc/Worm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/BirdC">
+    <ns1:Property-3AEats rdf:resource="http://ontologi.es/WordNet/class/Perch-6"/>
+    <rdf:type rdf:resource="http://purl.org/biodiversity/taxon/Bird"/>
+    <ns1:Property-3AEats rdf:resource="http://ontologi.es/WordNet/class/Mouse-1"/>
+    <ns2:Habitat rdf:resource="http://ontologi.es/WordNet/class/Riverside"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/BirdB">
+    <ns2:Habitat rdf:resource="http://ontologi.es/WordNet/class/Riverside"/>
+    <rdf:type rdf:resource="http://purl.org/biodiversity/taxon/Bird"/>
+    <ns1:Property-3AEats rdf:resource="http://ontologi.es/WordNet/class/Minnow-1"/>
+    <ns1:Property-3AEats rdf:resource="http://umbel.org/umbel/rc/Worm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ontologi.es/WordNet/class/Minnow-1">
+    <rdf:type rdf:resource="http://purl.org/biodiversity/taxon/Fish"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/BirdD">
+    <ns1:Property-3AEats rdf:resource="http://ontologi.es/WordNet/class/Minnow-1"/>
+    <rdf:type rdf:resource="http://purl.org/biodiversity/taxon/Bird"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/Worm">
+    <rdf:type rdf:resource="http://purl.org/biodiversity/taxon/Insect"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ontologi.es/WordNet/class/Perch-6">
+    <rdf:type rdf:resource="http://purl.org/biodiversity/taxon/Fish"/>
+  </rdf:Description>
+</rdf:RDF>
