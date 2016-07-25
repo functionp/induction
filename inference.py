@@ -4,6 +4,7 @@
 #from rdflib.namespace import RDF, FOAF, OWL, RDFS
 #from rdflib.util import guess_format
 
+import operator
 from math import sqrt
 from rdf import *
 
@@ -50,29 +51,65 @@ class RDFInferenceSystem(object):
         self.dataset = dataset
 
 class PPInferenceSystem(RDFInferenceSystem):
-    def __init__(self, dataset):
+    def __init__(self, dataset, activate_function=None, depth=1, breadth=1):
+        if activate_function == None: activate_function = PPInferenceSystem.activate_augmax
+
+        self.activate_function = activate_function
+        self.depth = depth
+        self.breadth = breadth
         super(PPInferenceSystem, self).__init__(dataset)
 
     def train(self):
         pass
 
-    def reason(self, subj=None, pred=None, obj=None):
+    def get_possible_objects(self, pred):
+        return remove_overlap([obj for subj, _, obj in self.dataset.triples((None, pred, None))])
+    
+    def activate_o_p(self, subj_q=None):
+        pass
+
+    def activate_o(self, subj_q, pred_q):
+        possible_objects = self.get_possible_objects(pred_q)
+        value_pair_list = []
+
+        for possible_object in possible_objects:
+            propagation_value = self.propagation(self.depth, self.breadth, subj_q, pred_q, possible_object)
+            possible_triple = (subj_q, pred_q, possible_object)
+            value_pair_list.append((propagation_value, possible_triple))
+
+        return self.activate_function(value_pair_list) # activateでペアのうちのいくつか選択
+
+    def reason(self, subj_q, pred_q=None, obj_q=None):
         """
         return triples which are likely to hold in the dataset 
         """
-        triples = []
-        return triples
+        reasoned_triples = []
+
+        if subj_q != None and pred_q != None and obj_q ==  None:
+            reasoned_triples = self.activate_o(subj_q, pred_q)
+        elif pred_q != None and andpred_q == None and obj_q ==  None:
+            reasoned_triples = self.activate_o_p(subj_q)
+        elif pred_q == None and andpred_q != None and obj_q !=  None:
+            pass
+
+        return reasoned_triples
 
     def propagation(self, n, m, subj_q, pred_q, obj_q):
         if n == 0: return int((subj_q, pred_q, obj_q) in self.dataset)
 
-        sum_propagation_value = 0
+        sum_outbound_propagation_value = 0
         for _, pred_t, obj_t in self.dataset.triples((subj_q,  None, None)):
             concept_path_set = self.get_concept_path_set_s(m, subj_q, pred_t, obj_t)
             for concept, path in concept_path_set:
-                sum_propagation_value += self.propagation(n-1,m, concept, pred_q, obj_q) * self.get_weight(path)
+                sum_outbound_propagation_value += self.propagation(n-1,m, concept, pred_q, obj_q) * self.get_weight(path)
 
-        return sum_propagation_value
+        sum_inbound_propagation_value = 0
+        for subj_t, pred_t, _ in self.dataset.triples((None,  None, obj_q)):
+            concept_path_set = self.get_concept_path_set_o(m, subj_t, pred_t, obj_q)
+            for concept, path in concept_path_set: #refactoring
+                sum_inbound_propagation_value += self.propagation(n-1,m, concept, pred_q, obj_q) * self.get_weight(path)
+
+        return sum_outbound_propagation_value + sum_inbound_propagation_value
 
     def get_weight(self, path, a=1/sqrt(2), f=lambda x: sqrt(x)):
         if len(path) == 0:
@@ -110,7 +147,7 @@ class PPInferenceSystem(RDFInferenceSystem):
 
         return concept_path_set
 
-    def get_concept_path_set_s(self, m, subj, pred=None, obj=None):
+    def get_concept_path_set_s(self, m, subj=None, pred=None, obj=None):
         concept_path_set = []
 
         if m == 1:
@@ -118,10 +155,50 @@ class PPInferenceSystem(RDFInferenceSystem):
         else:
             concept_prime_set = self.get_concept_path_set_s(m-1, obj, None, None)
             for concept_prime, path_prime in concept_prime_set:
-                concept_path_set = self.get_concept_path_set_s_0(subj, pred, concept_prime, path_prime, obj)
+                concept_path_set += self.get_concept_path_set_s_0(subj, pred, concept_prime, path_prime, obj)
 
             # unify with the concept set with lower order
             lower_order_set = self.get_concept_path_set_s(m-1, subj, pred, obj)
+            concept_path_set = self.unify_concept_path_set(concept_path_set, lower_order_set)
+
+        return concept_path_set
+            
+
+    def get_concept_path_set_o_0(self, subj, pred, obj, path_default=[], path_subj=None):
+        concept_path_set = []
+
+        for subj_s, pred_s, concept in self.dataset.triples((subj, pred, None)):
+            # this condition is only for 1-order path
+            if len(path_default) == 0:
+                if (subj_s, pred_s, obj) not in self.dataset:
+                    continue
+            if concept == obj: continue
+
+            # when path is one-order, obj of path is always obj_s
+            if path_subj == None: path_subj = subj_s
+
+            path = [(path_subj, pred_s, obj)] + path_default + [(subj_s, pred_s, concept)]
+            concept_path = (concept, path)
+
+            # avoid overlapping
+            if concept_path in concept_path_set: continue
+
+            concept_path_set.append((concept, path))
+
+        return concept_path_set
+
+    def get_concept_path_set_o(self, m, subj=None, pred=None, obj=None):
+        concept_path_set = []
+
+        if m == 1:
+            concept_path_set = self.get_concept_path_set_o_0(subj, pred, obj)
+        else:
+            concept_prime_set = self.get_concept_path_set_o(m-1, None, None, subj)
+            for concept_prime, path_prime in concept_prime_set:
+                concept_path_set += self.get_concept_path_set_o_0(concept_prime, pred, obj, path_prime, subj) # ほんとに_0でおk？
+
+            # unify with the concept set with lower order
+            lower_order_set = self.get_concept_path_set_o(m-1, subj, pred, obj)
             concept_path_set = self.unify_concept_path_set(concept_path_set, lower_order_set)
 
         return concept_path_set
@@ -139,6 +216,11 @@ class PPInferenceSystem(RDFInferenceSystem):
 
     def print_dataset():
         print_graph(self.dataset)
+
+    @classmethod
+    def activate_augmax(cls, pairs, n=1):
+        return sorted(pairs, key=operator.itemgetter(0), reverse=True)[:n]
+    
 
     
 if __name__ == "__main__":

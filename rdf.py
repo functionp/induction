@@ -61,7 +61,7 @@ class RDFCollector(object):
         while True:
             reduced_object_uris = list(set(related_object_uris) - set(self.visited_uris))
             print "extracted:{0}, visited:{1}, remained:{2}".format(len(set(related_object_uris)), len(set(self.visited_uris)) , len(reduced_object_uris))
-            
+    
             if len(reduced_object_uris) == 0: break
             
             for object_uri in reduced_object_uris:

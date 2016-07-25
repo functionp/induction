@@ -1,0 +1,1599 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns="http://nlp.shef.ac.uk/abraxas/ontologies/animals.owl#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:daml="http://www.daml.org/2001/03/daml+oil#"
+    xmlns:p1="http://www.owl-ontologies.com/assert.owl#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xml:base="http://nlp.shef.ac.uk/abraxas/ontologies/animals.owl">
+  <owl:Ontology rdf:about="">
+    <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Christopher Brewster (C.Brewster@dcs.shef.ac.uk)</dc:creator>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >A simple ontology (more properly a taxonomy or folksonomy) of animals encountered in English children's books</rdfs:comment>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >April 2006</dc:date>
+    <owl:imports rdf:resource="http://purl.org/dc/elements/1.1/"/>
+  </owl:Ontology>
+  <owl:Class rdf:ID="Bee">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="Insect"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Blackbird">
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Owl"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Crow"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="Bird"/>
+    </rdfs:subClassOf>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Ostrich"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Woodpecker"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Nightingale"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Robin"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="#Woodpecker">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Robin"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Nightingale"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Blackbird"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Owl"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Bird"/>
+    </rdfs:subClassOf>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Ostrich"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Crow"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:ID="Fox">
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Antelope"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Hedgehog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Camel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Badger"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Otter"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Dog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Tiger"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Hippopotamus"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Cheetah"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Weasel"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="Mammals"/>
+    </rdfs:subClassOf>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Mole"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Rhinoceros"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Cat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Lion"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Monkey"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Giraffe"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Sloth"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Rabbit"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:ID="Lizard">
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Snake"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="Reptile"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#Rhinoceros">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Tiger"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Badger"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mole"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Giraffe"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Sloth"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cat"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Mammals"/>
+    </rdfs:subClassOf>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hippopotamus"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Otter"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Weasel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Antelope"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Camel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Monkey"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Lion"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hedgehog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:ID="Grasshopper">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Insect"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#Hippopotamus">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Tiger"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Weasel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Giraffe"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Monkey"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mole"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Badger"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Otter"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hedgehog"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Mammals"/>
+    </rdfs:subClassOf>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Antelope"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Camel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Lion"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Sloth"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="#Camel">
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Antelope"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Monkey"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hedgehog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Otter"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Giraffe"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Sloth"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Tiger"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Weasel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mole"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Mammals"/>
+    </rdfs:subClassOf>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Badger"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Lion"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="#Nightingale">
+    <owl:disjointWith rdf:resource="#Blackbird"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Crow"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Owl"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Woodpecker"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Ostrich"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Bird"/>
+    </rdfs:subClassOf>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Robin"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="#Bird">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mammals"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Unicorn"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Marsupial"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Amphibian"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Reptile"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Dragon"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="Animals"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#Animals">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="Organism"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#Mole">
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Giraffe"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Badger"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Antelope"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Lion"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hedgehog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Monkey"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Weasel"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Tiger"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Otter"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Sloth"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Mammals"/>
+    </rdfs:subClassOf>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dog"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="#Giraffe">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Otter"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hedgehog"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Badger"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Weasel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Monkey"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Antelope"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Lion"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Mammals"/>
+    </rdfs:subClassOf>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Tiger"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Sloth"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="#Mammals">
+    <owl:disjointWith rdf:resource="#Bird"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Marsupial"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dragon"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf rdf:resource="#Animals"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Reptile"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Unicorn"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Amphibian"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:ID="Frog">
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Toad"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Amphibian"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#Otter">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Monkey"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Weasel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Lion"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Sloth"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hedgehog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Antelope"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Badger"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Tiger"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Ostrich">
+    <owl:disjointWith rdf:resource="#Woodpecker"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Owl"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf rdf:resource="#Bird"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Robin"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Nightingale"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Crow"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Blackbird"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Kangaroo">
+    <owl:disjointWith>
+      <owl:Class rdf:ID="Koala"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Marsupial"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#Robin">
+    <owl:disjointWith rdf:resource="#Blackbird"/>
+    <owl:disjointWith rdf:resource="#Ostrich"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Crow"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Nightingale"/>
+    <owl:disjointWith rdf:resource="#Woodpecker"/>
+    <rdfs:subClassOf rdf:resource="#Bird"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Owl"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="#Badger">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Weasel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Monkey"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Sloth"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hedgehog"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Tiger"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Lion"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Antelope"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Tiger">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Sloth"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Monkey"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hedgehog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dog"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Lion"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Antelope"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Weasel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Camel"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Lion">
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Sloth"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hedgehog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Monkey"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Antelope"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dog"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Weasel"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith rdf:resource="#Otter"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Weasel">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Antelope"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Monkey"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Lion"/>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Sloth"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cat"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hedgehog"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="#Monkey">
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Antelope"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hedgehog"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Lion"/>
+    <owl:disjointWith rdf:resource="#Weasel"/>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cat"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Sloth"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="#Cat">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Antelope"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Weasel"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Monkey"/>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Lion"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hedgehog"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Sloth"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Camel"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Snake">
+    <owl:disjointWith rdf:resource="#Lizard"/>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Reptile"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="Leopard">
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Dog">
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Antelope"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Monkey"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Cat"/>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith rdf:resource="#Weasel"/>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Sloth"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hedgehog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith rdf:resource="#Lion"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Ant">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Insect"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#Koala">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Marsupial"/>
+    </rdfs:subClassOf>
+    <owl:disjointWith rdf:resource="#Kangaroo"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Sloth">
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Antelope"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith rdf:resource="#Dog"/>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hedgehog"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Monkey"/>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Lion"/>
+    <owl:disjointWith rdf:resource="#Cat"/>
+    <owl:disjointWith rdf:resource="#Weasel"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Reptile">
+    <rdfs:subClassOf rdf:resource="#Animals"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Amphibian"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Marsupial"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dragon"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Bird"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Unicorn"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="#Crow">
+    <owl:disjointWith rdf:resource="#Nightingale"/>
+    <owl:disjointWith rdf:resource="#Woodpecker"/>
+    <rdfs:subClassOf rdf:resource="#Bird"/>
+    <owl:disjointWith rdf:resource="#Ostrich"/>
+    <owl:disjointWith rdf:resource="#Robin"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Owl"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Blackbird"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Antelope">
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <owl:disjointWith rdf:resource="#Sloth"/>
+    <owl:disjointWith rdf:resource="#Cat"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Lion"/>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Dog"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hedgehog"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Weasel"/>
+    <owl:disjointWith rdf:resource="#Monkey"/>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith rdf:resource="#Fox"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Hedgehog">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Lion"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith rdf:resource="#Cat"/>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith rdf:resource="#Weasel"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Sloth"/>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith rdf:resource="#Monkey"/>
+    <owl:disjointWith rdf:resource="#Dog"/>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith rdf:resource="#Antelope"/>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cheetah"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="#Cheetah">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <owl:disjointWith rdf:resource="#Hedgehog"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Mouse"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Antelope"/>
+    <owl:disjointWith rdf:resource="#Lion"/>
+    <owl:disjointWith rdf:resource="#Weasel"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith rdf:resource="#Dog"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith rdf:resource="#Monkey"/>
+    <owl:disjointWith rdf:resource="#Sloth"/>
+    <owl:disjointWith rdf:resource="#Cat"/>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Mouse">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith rdf:resource="#Antelope"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Monkey"/>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith rdf:resource="#Weasel"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith rdf:resource="#Cheetah"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Bear"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith rdf:resource="#Hedgehog"/>
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith rdf:resource="#Cat"/>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith rdf:resource="#Sloth"/>
+    <owl:disjointWith rdf:resource="#Lion"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Dog"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Bear">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Hedgehog"/>
+    <owl:disjointWith rdf:resource="#Antelope"/>
+    <owl:disjointWith rdf:resource="#Cat"/>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith rdf:resource="#Cheetah"/>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith rdf:resource="#Weasel"/>
+    <owl:disjointWith rdf:resource="#Monkey"/>
+    <owl:disjointWith rdf:resource="#Mouse"/>
+    <owl:disjointWith rdf:resource="#Dog"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith rdf:resource="#Sloth"/>
+    <owl:disjointWith rdf:resource="#Lion"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Cow"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Cow">
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith rdf:resource="#Bear"/>
+    <owl:disjointWith rdf:resource="#Antelope"/>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Lion"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Cat"/>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith rdf:resource="#Monkey"/>
+    <owl:disjointWith rdf:resource="#Hedgehog"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Squirrel"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Cheetah"/>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith rdf:resource="#Mouse"/>
+    <owl:disjointWith rdf:resource="#Weasel"/>
+    <owl:disjointWith rdf:resource="#Dog"/>
+    <owl:disjointWith rdf:resource="#Sloth"/>
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="#Squirrel">
+    <owl:disjointWith rdf:resource="#Antelope"/>
+    <owl:disjointWith rdf:resource="#Cow"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith rdf:resource="#Dog"/>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith rdf:resource="#Lion"/>
+    <owl:disjointWith rdf:resource="#Hedgehog"/>
+    <owl:disjointWith rdf:resource="#Cat"/>
+    <owl:disjointWith rdf:resource="#Sloth"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith rdf:resource="#Weasel"/>
+    <owl:disjointWith rdf:resource="#Bear"/>
+    <owl:disjointWith rdf:resource="#Mouse"/>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith rdf:resource="#Cheetah"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rat"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <owl:disjointWith rdf:resource="#Monkey"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Owl">
+    <owl:disjointWith rdf:resource="#Blackbird"/>
+    <owl:disjointWith rdf:resource="#Crow"/>
+    <owl:disjointWith rdf:resource="#Robin"/>
+    <owl:disjointWith rdf:resource="#Nightingale"/>
+    <owl:disjointWith rdf:resource="#Ostrich"/>
+    <rdfs:subClassOf rdf:resource="#Bird"/>
+    <owl:disjointWith rdf:resource="#Woodpecker"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Unicorn">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Marsupial"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Reptile"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dragon"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Amphibian"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf rdf:resource="#Animals"/>
+    <owl:disjointWith rdf:resource="#Bird"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Rat">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Rabbit"/>
+    </owl:disjointWith>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith rdf:resource="#Weasel"/>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith rdf:resource="#Antelope"/>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith rdf:resource="#Hedgehog"/>
+    <owl:disjointWith rdf:resource="#Cheetah"/>
+    <owl:disjointWith rdf:resource="#Squirrel"/>
+    <owl:disjointWith rdf:resource="#Sloth"/>
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith rdf:resource="#Dog"/>
+    <owl:disjointWith rdf:resource="#Bear"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith rdf:resource="#Monkey"/>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <owl:disjointWith rdf:resource="#Mouse"/>
+    <owl:disjointWith rdf:resource="#Cat"/>
+    <owl:disjointWith rdf:resource="#Lion"/>
+    <owl:disjointWith rdf:resource="#Cow"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Rabbit">
+    <owl:disjointWith rdf:resource="#Monkey"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith rdf:resource="#Hedgehog"/>
+    <owl:disjointWith rdf:resource="#Squirrel"/>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith rdf:resource="#Sloth"/>
+    <owl:disjointWith rdf:resource="#Mouse"/>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith rdf:resource="#Lion"/>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith rdf:resource="#Weasel"/>
+    <owl:disjointWith rdf:resource="#Dog"/>
+    <owl:disjointWith rdf:resource="#Fox"/>
+    <owl:disjointWith rdf:resource="#Antelope"/>
+    <owl:disjointWith rdf:resource="#Bear"/>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <owl:disjointWith rdf:resource="#Cat"/>
+    <owl:disjointWith rdf:resource="#Cow"/>
+    <owl:disjointWith rdf:resource="#Rat"/>
+    <owl:disjointWith rdf:resource="#Cheetah"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Hare"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="#Toad">
+    <owl:disjointWith rdf:resource="#Frog"/>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#Amphibian"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#Hare">
+    <owl:disjointWith rdf:resource="#Sloth"/>
+    <owl:disjointWith rdf:resource="#Squirrel"/>
+    <owl:disjointWith rdf:resource="#Cat"/>
+    <owl:disjointWith rdf:resource="#Lion"/>
+    <owl:disjointWith rdf:resource="#Hippopotamus"/>
+    <owl:disjointWith rdf:resource="#Mouse"/>
+    <owl:disjointWith rdf:resource="#Rhinoceros"/>
+    <owl:disjointWith rdf:resource="#Tiger"/>
+    <owl:disjointWith rdf:resource="#Otter"/>
+    <owl:disjointWith rdf:resource="#Cow"/>
+    <owl:disjointWith rdf:resource="#Hedgehog"/>
+    <owl:disjointWith rdf:resource="#Cheetah"/>
+    <owl:disjointWith rdf:resource="#Dog"/>
+    <owl:disjointWith rdf:resource="#Badger"/>
+    <owl:disjointWith rdf:resource="#Weasel"/>
+    <owl:disjointWith rdf:resource="#Rabbit"/>
+    <owl:disjointWith rdf:resource="#Bear"/>
+    <rdfs:subClassOf rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Rat"/>
+    <owl:disjointWith rdf:resource="#Antelope"/>
+    <owl:disjointWith rdf:resource="#Giraffe"/>
+    <owl:disjointWith rdf:resource="#Monkey"/>
+    <owl:disjointWith rdf:resource="#Mole"/>
+    <owl:disjointWith rdf:resource="#Camel"/>
+    <owl:disjointWith rdf:resource="#Fox"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Marsupial">
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Dragon"/>
+    </owl:disjointWith>
+    <owl:disjointWith rdf:resource="#Unicorn"/>
+    <rdfs:subClassOf rdf:resource="#Animals"/>
+    <owl:disjointWith rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Reptile"/>
+    <owl:disjointWith rdf:resource="#Bird"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Amphibian"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="#Dragon">
+    <owl:disjointWith rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Bird"/>
+    <rdfs:subClassOf rdf:resource="#Animals"/>
+    <owl:disjointWith rdf:resource="#Marsupial"/>
+    <owl:disjointWith rdf:resource="#Unicorn"/>
+    <owl:disjointWith rdf:resource="#Reptile"/>
+    <owl:disjointWith>
+      <owl:Class rdf:about="#Amphibian"/>
+    </owl:disjointWith>
+  </owl:Class>
+  <owl:Class rdf:about="#Insect">
+    <rdfs:subClassOf rdf:resource="#Animals"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Spider">
+    <rdfs:subClassOf rdf:resource="#Animals"/>
+  </owl:Class>
+  <owl:Class rdf:about="#Amphibian">
+    <owl:disjointWith rdf:resource="#Mammals"/>
+    <owl:disjointWith rdf:resource="#Reptile"/>
+    <owl:disjointWith rdf:resource="#Marsupial"/>
+    <owl:disjointWith rdf:resource="#Bird"/>
+    <owl:disjointWith rdf:resource="#Unicorn"/>
+    <owl:disjointWith rdf:resource="#Dragon"/>
+    <rdfs:subClassOf rdf:resource="#Animals"/>
+  </owl:Class>
+</rdf:RDF>
+
+<!-- Created with Protege (with OWL Plugin 2.2, Build 311)  http://protege.stanford.edu -->
