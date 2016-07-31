@@ -70,7 +70,7 @@ class TestPPIS(unittest.TestCase):
         
         test1 = concept_path_set1[0][0] == worm
         test2 = concept_path_set2[0][0] == mammal
-        test3 = concept_path_set3[0][0] == insect and concept_path_set3[1][0] == fish
+        test3 = (concept_path_set3[0][0] == insect and concept_path_set3[1][0] == fish) or (concept_path_set3[1][0] == insect and concept_path_set3[0][0] == fish)
         
         self.assertTrue(test1 and test2 and test3)
 
@@ -85,13 +85,13 @@ class TestPPIS(unittest.TestCase):
 
     def test_reasoning1(self):
         inference_system = PPInferenceSystem(self.dataset, PPInferenceSystem.activate_augmax, 1, 1)
-        reasoned_triples = inference_system.reason(bird_d, habitat)[0][1]
+        reasoned_triples = inference_system.reason(bird_d, habitat)[0]
 
         self.assertTrue(reasoned_triples == (bird_d, habitat, riverside))
 
     def test_reasoning2(self):
         inference_system = PPInferenceSystem(self.dataset, PPInferenceSystem.activate_augmax, 2, 1)
-        reasoned_triples = inference_system.reason(bird_d, habitat)[0][1]
+        reasoned_triples = inference_system.reason(bird_d, habitat)[0]
 
         self.assertTrue(reasoned_triples == (bird_d, habitat, riverside))
 

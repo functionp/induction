@@ -7,6 +7,8 @@ import random
 import cPickle
 import os
 
+dbo_class = URIRef("http://dbpedia.org/ontology/class")
+
 def remove_overlap(l):
     return list(set(l))
 
@@ -144,6 +146,14 @@ class GraphController(object):
 
         rdf_file = open(file_path, 'w')
         rdf_file.write(output)
+
+    @classmethod
+    def triples_to_graph(cls, triples):
+        graph = Graph()
+        for triple in triples:
+            graph.add(triple)
+
+        return graph
 
 if __name__ == "__main__":
     rc = AnimalRDFCollector()

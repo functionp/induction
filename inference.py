@@ -11,7 +11,17 @@ from rdf import *
 def remove_overlap(l):
     return list(set(l))
 
-def print_graph(graph):
+def print_graph(graph, sort_key=None):
+
+    if sort_key != None:
+        node_list = []
+        for node in graph:
+            node_list.append((str(node[sort_key]), node))
+
+        node_list.sort(key=lambda x: x)
+        
+        graph = [node[1] for node in node_list]
+
     for subj, pred, obj in graph:
         print u"({0}, {1}, {2})".format(subj, pred, obj)
 
@@ -116,7 +126,7 @@ class PPInferenceSystem(RDFInferenceSystem):
             return 1
         elif len(path) == 1:
             subj, pred, obj = path[0]
-            number_of_members = length_generator(self.dataset.triples((None, pred, obj)))
+            number_of_members = length_generator(self.dataset.triples((None, pred, obj))) or 1
             return float(a) / f(number_of_members)
         else:
             path_head = path[0:1]
@@ -219,7 +229,16 @@ class PPInferenceSystem(RDFInferenceSystem):
 
     @classmethod
     def activate_augmax(cls, pairs, n=1):
-        return sorted(pairs, key=operator.itemgetter(0), reverse=True)[:n]
+        sorted_pairs = sorted(pairs, key=operator.itemgetter(0), reverse=True)[:n]
+        return [pair[1] for pair in sorted_pairs]
+
+    @classmethod
+    def activate_threshold(cls, pairs, scale=0.5):
+        sorted_pairs = sorted(pairs, key=operator.itemgetter(0), reverse=True)
+        max_value = sorted_pairs[0][0]
+        threshold = max_value * scale
+        
+        return [pair[1] for pair in sorted_pairs if pair[0] > threshold]
     
 
     
