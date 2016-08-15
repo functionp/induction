@@ -62,7 +62,7 @@ class RDFInferenceSystem(object):
 
 class PPInferenceSystem(RDFInferenceSystem):
     def __init__(self, dataset, activate_function=None, depth=1, breadth=1):
-        if activate_function == None: activate_function = PPInferenceSystem.activate_augmax
+        if activate_function == None: activate_function = PPInferenceSystem.activate_argmax
 
         self.activate_function = activate_function
         self.depth = depth
@@ -106,34 +106,36 @@ class PPInferenceSystem(RDFInferenceSystem):
 
     def propagation(self, n, m, subj_q, pred_q, obj_q):
         if n == 0: return int((subj_q, pred_q, obj_q) in self.dataset)
-
+    
         sum_outbound_propagation_value = 0
         for _, pred_t, obj_t in self.dataset.triples((subj_q,  None, None)):
             concept_path_set = self.get_concept_path_set_s(m, subj_q, pred_t, obj_t)
+            
             for concept, path in concept_path_set:
                 sum_outbound_propagation_value += self.propagation(n-1,m, concept, pred_q, obj_q) * self.get_weight(path)
 
         sum_inbound_propagation_value = 0
-        for subj_t, pred_t, _ in self.dataset.triples((None,  None, obj_q)):
-            concept_path_set = self.get_concept_path_set_o(m, subj_t, pred_t, obj_q)
+        for subj_t, pred_t, _ in self.dataset.triples((None,  None, subj_q)):
+            concept_path_set = self.get_concept_path_set_o(m, subj_t, pred_t, subj_q)
+
             for concept, path in concept_path_set: #refactoring
                 sum_inbound_propagation_value += self.propagation(n-1,m, concept, pred_q, obj_q) * self.get_weight(path)
-
+        
         return sum_outbound_propagation_value + sum_inbound_propagation_value
 
-    def get_weight(self, path, a=1/sqrt(2), f=lambda x: sqrt(x)):
+    def get_weight(self, path, a=1, f=lambda x: x):
         if len(path) == 0:
             return 1
         elif len(path) == 1:
             subj, pred, obj = path[0]
-            number_of_members = length_generator(self.dataset.triples((None, pred, obj))) or 1
+            number_of_members = length_generator(self.dataset.triples((None, pred, obj))) or 0.5
             return float(a) / f(number_of_members)
         else:
             path_head = path[0:1]
             path_middle = path[1:-1]
             path_tail = path[-1:]
             return self.get_weight(path_head,a,f) * self.get_weight(path_middle,a,f) * self.get_weight(path_tail,a,f)
-            
+
 
     def get_concept_path_set_s_0(self, subj, pred, obj, path_default=[], path_obj=None):
         concept_path_set = []
@@ -228,18 +230,18 @@ class PPInferenceSystem(RDFInferenceSystem):
         print_graph(self.dataset)
 
     @classmethod
-    def activate_augmax(cls, pairs, n=1):
+    def activate_argmax(cls, pairs, n=1):
         sorted_pairs = sorted(pairs, key=operator.itemgetter(0), reverse=True)[:n]
         return [pair[1] for pair in sorted_pairs]
 
     @classmethod
-    def activate_threshold(cls, pairs, scale=0.5):
+    def activate_threshold(cls, pairs, scale=0.9):
         sorted_pairs = sorted(pairs, key=operator.itemgetter(0), reverse=True)
         max_value = sorted_pairs[0][0]
         threshold = max_value * scale
-        
-        return [pair[1] for pair in sorted_pairs if pair[0] > threshold]
-    
+
+        return [pair[1] for pair in sorted_pairs if pair[0] >= threshold]
+
 
     
 if __name__ == "__main__":

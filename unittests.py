@@ -31,7 +31,6 @@ class TestPPIS(unittest.TestCase):
         inference_system = PPInferenceSystem(self.dataset)
         p1 = inference_system.propagation(1, 1, bird_d, habitat, forest)
         p2 = inference_system.propagation(1, 1, bird_d, habitat, riverside)
-
         self.assertTrue(p1 < p2)
 
     def test_prpagation_2_1(self):
@@ -84,13 +83,13 @@ class TestPPIS(unittest.TestCase):
         self.assertTrue(test1 and test2)
 
     def test_reasoning1(self):
-        inference_system = PPInferenceSystem(self.dataset, PPInferenceSystem.activate_augmax, 1, 1)
+        inference_system = PPInferenceSystem(self.dataset, PPInferenceSystem.activate_argmax, 1, 1)
         reasoned_triples = inference_system.reason(bird_d, habitat)[0]
 
         self.assertTrue(reasoned_triples == (bird_d, habitat, riverside))
 
     def test_reasoning2(self):
-        inference_system = PPInferenceSystem(self.dataset, PPInferenceSystem.activate_augmax, 2, 1)
+        inference_system = PPInferenceSystem(self.dataset, PPInferenceSystem.activate_argmax, 2, 1)
         reasoned_triples = inference_system.reason(bird_d, habitat)[0]
 
         self.assertTrue(reasoned_triples == (bird_d, habitat, riverside))

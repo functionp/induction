@@ -57,7 +57,7 @@ class Experiment(object):
         
         precision = num_correct / float(num_reasoned)
         recall = num_correct / float(num_removed)
-        f_value = 2 * precision * recall / float(precision + recall)
+        f_value = 2 * precision * recall / float(precision + recall) if precision + recall > 0 else 0
 
         print "\nPrecision: {0}, Recall: {1}".format(precision, recall)
         print "F Value: {0}".format(f_value)
@@ -76,7 +76,7 @@ class Experiment(object):
         f_value_list = []
 
         for i in range(n_experiment):
-            inference_system = PPInferenceSystem(None, PPInferenceSystem.activate_argmax, n,m)    
+            inference_system = PPInferenceSystem(None, PPInferenceSystem.activate_threshold, n,m)    
             experiment = Experiment(rdf_directory, dbo_class, inference_system, 0.15)
 
             reasoned_graph, removed_properties, correct_graph, elapsed_time = experiment.infer_properties()
@@ -87,8 +87,8 @@ class Experiment(object):
             
             f_value = 2 * precision * recall / float(precision + recall) if precision + recall > 0 else 0
 
-            recall_list.append(precision)
-            precision_list.append(recall)
+            recall_list.append(recall)
+            precision_list.append(precision)
             f_value_list.append(f_value)
             elapsed_time_list.append(elapsed_time)
 
@@ -98,15 +98,15 @@ class Experiment(object):
         elapsed_time_average = get_average(elapsed_time_list)
 
         print "{0} experiments are done." .format(n_experiment)
-        print "Average Precision: {0}" .format(precision_average)
         print "Average Recall: {0}" .format(recall_average)
+        print "Average Precision: {0}" .format(precision_average)
         print "Average F Value: {0}" .format(f_value_average)
         print "Average Time: {0} s" .format(elapsed_time_average)
 
 if __name__ == "__main__":
-    #inference_system = PPInferenceSystem(None, PPInferenceSystem.activate_augmax, 1, 1)    
+    #inference_system = PPInferenceSystem(None, PPInferenceSystem.activate_threshold, 1, 1)    
     #rdf_directory = 'dataset/foodchain_simplified/rdf/'
-    #experiment = Experiment(rdf_directory, dbo_class, inference_system, 0.1)
+    #experiment = Experiment(rdf_directory, dbo_class, inference_system, 0.2)
     #experiment.execute_experiment()
 
-    Experiment.execute_multiple_experiment(20,1,1)
+    Experiment.execute_multiple_experiment(10,1,1)
