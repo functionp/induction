@@ -135,7 +135,8 @@ class GraphController(object):
             try:
                 self.graph.parse(file_path)
             except:
-                print "Error:" + file_path
+                pass
+                #print "Error:" + file_path
 
     def get_graph_from_url(self, rdf_url, loading_format=None):
         if loading_format == None: loading_format = guess_format(rdf_url)

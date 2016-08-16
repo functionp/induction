@@ -29,7 +29,7 @@ def length_generator(generator):
     length = 0
     for element in generator:
         length += 1
-    #初期化必要かも
+
     return length
 
         
@@ -87,7 +87,8 @@ class PPInferenceSystem(RDFInferenceSystem):
             possible_triple = (subj_q, pred_q, possible_object)
             value_pair_list.append((propagation_value, possible_triple))
 
-        return self.activate_function(value_pair_list) # activateでペアのうちのいくつか選択
+        # activate function chooses some triples in the list
+        return self.activate_function(value_pair_list) 
 
     def reason(self, subj_q, pred_q=None, obj_q=None):
         """
@@ -230,18 +231,25 @@ class PPInferenceSystem(RDFInferenceSystem):
         print_graph(self.dataset)
 
     @classmethod
-    def activate_argmax(cls, pairs, n=1):
-        sorted_pairs = sorted(pairs, key=operator.itemgetter(0), reverse=True)[:n]
-        return [pair[1] for pair in sorted_pairs]
+    def activate_argmax(cls, n=1):
+
+        def activate_function(pairs):
+            sorted_pairs = sorted(pairs, key=operator.itemgetter(0), reverse=True)[:n]
+            return [pair[1] for pair in sorted_pairs]
+
+        return activate_function
 
     @classmethod
-    def activate_threshold(cls, pairs, scale=0.9):
-        sorted_pairs = sorted(pairs, key=operator.itemgetter(0), reverse=True)
-        max_value = sorted_pairs[0][0]
-        threshold = max_value * scale
+    def activate_threshold(cls, scale=0.9):
 
-        return [pair[1] for pair in sorted_pairs if pair[0] >= threshold]
+        def activate_function(pairs):
+            sorted_pairs = sorted(pairs, key=operator.itemgetter(0), reverse=True)
+            max_value = sorted_pairs[0][0]
+            threshold = max_value * scale
 
+            return [pair[1] for pair in sorted_pairs if pair[0] >= threshold]
+
+        return activate_function
 
     
 if __name__ == "__main__":

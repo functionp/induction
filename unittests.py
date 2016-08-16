@@ -83,14 +83,14 @@ class TestPPIS(unittest.TestCase):
         self.assertTrue(test1 and test2)
 
     def test_reasoning1(self):
-        inference_system = PPInferenceSystem(self.dataset, PPInferenceSystem.activate_argmax, 1, 1)
+        inference_system = PPInferenceSystem(self.dataset, PPInferenceSystem.activate_argmax(1), 1, 1)
         reasoned_triples = inference_system.reason(bird_d, habitat)[0]
 
         self.assertTrue(reasoned_triples == (bird_d, habitat, riverside))
 
     def test_reasoning2(self):
-        inference_system = PPInferenceSystem(self.dataset, PPInferenceSystem.activate_argmax, 2, 1)
-        reasoned_triples = inference_system.reason(bird_d, habitat)[0]
+        inference_system = PPInferenceSystem(self.dataset, PPInferenceSystem.activate_argmax(1), 2, 1)
+        reasoned_triples = inference_system.reason(bird_d, habitat)[0]1
 
         self.assertTrue(reasoned_triples == (bird_d, habitat, riverside))
 

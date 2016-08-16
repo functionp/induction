@@ -5,6 +5,7 @@ from inference import *
 import random
 import copy
 import time
+import sys
 
 def get_average(l):
     return sum(l) / float(len(l))
@@ -67,8 +68,8 @@ class Experiment(object):
         self.report_result(reasoned_graph, removed_properties, correct_graph)
 
     @classmethod
-    def execute_multiple_experiment(cls, n_experiment=10, n=1, m=1):
-        rdf_directory = 'dataset/foodchain_simplified/rdf/'
+    def execute_multiple_experiment(cls, rdf_directory, activate_function, n_experiment=10, n=1, m=1):
+        removal_rate = 0.15
 
         recall_list = []
         precision_list = []
@@ -76,8 +77,11 @@ class Experiment(object):
         f_value_list = []
 
         for i in range(n_experiment):
-            inference_system = PPInferenceSystem(None, PPInferenceSystem.activate_threshold, n,m)    
-            experiment = Experiment(rdf_directory, dbo_class, inference_system, 0.15)
+            print "============================"
+            print "{0} th experimet".format(i+1)
+            
+            inference_system = PPInferenceSystem(None, activate_function, n,m)    
+            experiment = Experiment(rdf_directory, dbo_class, inference_system, removal_rate)
 
             reasoned_graph, removed_properties, correct_graph, elapsed_time = experiment.infer_properties()
             if len(reasoned_graph) == 0: continue
@@ -92,11 +96,14 @@ class Experiment(object):
             f_value_list.append(f_value)
             elapsed_time_list.append(elapsed_time)
 
+            print "Experiment finished in {0} sec.".format(round(elapsed_time,3))
+
         precision_average = get_average(precision_list)
         recall_average = get_average(recall_list)
         f_value_average = get_average(f_value_list)
         elapsed_time_average = get_average(elapsed_time_list)
 
+        print "============================"
         print "{0} experiments are done." .format(n_experiment)
         print "Average Recall: {0}" .format(recall_average)
         print "Average Precision: {0}" .format(precision_average)
@@ -104,9 +111,37 @@ class Experiment(object):
         print "Average Time: {0} s" .format(elapsed_time_average)
 
 if __name__ == "__main__":
-    #inference_system = PPInferenceSystem(None, PPInferenceSystem.activate_threshold, 1, 1)    
-    #rdf_directory = 'dataset/foodchain_simplified/rdf/'
-    #experiment = Experiment(rdf_directory, dbo_class, inference_system, 0.2)
-    #experiment.execute_experiment()
+    rdf_directory = 'dataset/foodchain_simplified/rdf/'
+    
+    '''
+    # this is a code for executing one single experiment
+    inference_system = PPInferenceSystem(None, PPInferenceSystem.activate_threshold(0.6), 1, 1)    
+    experiment = Experiment(rdf_directory, dbo_class, inference_system, 0.15)
+    experiment.execute_experiment()
+    '''
 
-    Experiment.execute_multiple_experiment(10,1,1)
+    args = sys.argv
+
+    param_dict = {'m': 1, 'n': 1, 'num_experiments':20, 'activation_function': PPInferenceSystem.activate_threshold(0.6)}
+
+    if len(args) >= 2: param_dict['num_experiments'] = int(args[1])
+    if len(args) >= 3: param_dict['m'] = int(args[2])
+    if len(args) >= 4: param_dict['n'] = int(args[3])
+    if len(args) >= 5:
+        if args[4] == 'threshold':
+            param_dict['activation_type'] = PPInferenceSystem.activate_threshold
+            param_dict['activation_function'] = param_dict['activation_type'](0.6)
+            type_conversion = float
+        else:
+            param_dict['activation_type'] = PPInferenceSystem.activate_argmax
+            param_dict['activation_function'] = param_dict['activation_type'](2)
+            type_conversion = int
+    if len(args) >= 6:
+        param_dict['activation_function'] = param_dict['activation_type'](type_conversion(args[5]))
+
+
+    Experiment.execute_multiple_experiment(rdf_directory,
+                                           param_dict['activation_function'],
+                                           param_dict['num_experiments'],
+                                           param_dict['n'],
+                                           param_dict['m'])
