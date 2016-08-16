@@ -52,6 +52,6 @@ The parameters can be omitted. If they are omitted, the default value is applied
     
 ## Author
 Hiroki Shimada (University of Edinburgh)  
-Mail: functionp@gmail.com
-Github: functionp
+Mail: functionp@gmail.com  
+Github: functionp  
 The URL of this README: https://github.com/functionp/induction
