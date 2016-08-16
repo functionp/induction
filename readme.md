@@ -23,7 +23,7 @@ Python  2.7.10
 #### Command
 You can execute multiple experiments by following command.
 It will report the average result of all the experiments after finishing them.  
-    python experiment.py <num_of_experiments> <m> <n> <activation_function> <parameter_for_activate>
+`python experiment.py <num_of_experiments> <m> <n> <activation_function> <parameter_for_activate>`
   
 #### Parameters
 * num_of_experiments : The number of experiments to be executed. The default is 20.
@@ -36,9 +36,9 @@ As for other parameters, they are fixed as follows: a = 1, f(x) = x.
   
 #### Examples
 The parameters can be omitted. If they are omitted, the default value is applied.  
-    python experiment.py 10 1 1  
-    python experiment.py 20 1 1 argmax 3  
-    python experiment.py 20 1 1 threshold 0.6  
+`python experiment.py 10 1 1``  
+`python experiment.py 20 1 1 argmax 3`
+`python experiment.py 20 1 1 threshold 0.6`
   
 ## Author
 Hiroki Shimada (University of Edinburgh)  
